@@ -1,4 +1,4 @@
- cacheUrl: https://myesn.github.io/feeds/cache.json
+cacheUrl: https://myesn.github.io/feeds/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
