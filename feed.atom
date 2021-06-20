@@ -2,10 +2,284 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T09:53:07.451Z</updated>
+    <updated>2021-06-20T01:08:57.699Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[有了 RestTemplate 你还在手撕写 HttpClient？]]></title>
+        <id>https://toutiao.io/k/zsvnw8f</id>
+        <link href="https://toutiao.io/k/zsvnw8f"/>
+        <updated>2021-06-20T01:08:57.669Z</updated>
+        <summary type="html"><![CDATA[在微服务大行其道的今天，HTTP调用是程序员无法避免的常规操作。\x0aRestTemplate 是Spring提供的一个，用于发起HTTP调用的客户端。相比于传统的HttpComponents，RestTemplate使用起来更简单，更方便。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据与广告（二十四）：效果广告后定向时代如何逆流而上]]></title>
+        <id>https://toutiao.io/k/sb5lwiy</id>
+        <link href="https://toutiao.io/k/sb5lwiy"/>
+        <updated>2021-06-20T01:08:57.550Z</updated>
+        <summary type="html"><![CDATA[在效果广告的发展历程中，当前已经处于后定向时代，或者说是弱定向时代，我们是应该顺应潮流还是应该逆流而上？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 月薪两万程序员应该知道的编程模型]]></title>
+        <id>https://toutiao.io/k/3kwp297</id>
+        <link href="https://toutiao.io/k/3kwp297"/>
+        <updated>2021-06-20T01:08:57.476Z</updated>
+        <summary type="html"><![CDATA[这篇文章有标题党的嫌疑，看完这篇文章并不会让你月薪两万。如果想月薪两万甚至更多，并不是靠一篇文章，一本书，一个项目来实现的。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElasticSearch 双数据中心建设在新网银行的实践]]></title>
+        <id>https://toutiao.io/k/yne9bm6</id>
+        <link href="https://toutiao.io/k/yne9bm6"/>
+        <updated>2021-06-20T01:08:57.388Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 并发：乐观锁]]></title>
+        <id>https://toutiao.io/k/ia59ago</id>
+        <link href="https://toutiao.io/k/ia59ago"/>
+        <updated>2021-06-20T01:08:57.308Z</updated>
+        <summary type="html"><![CDATA[个人博客：javalover.cc简介 悲观锁和乐观锁都属于比较抽象的概念；我们可以用拟人的手法来想象一下：]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携程平台化常态化数据治理之路]]></title>
+        <id>https://toutiao.io/k/t5mzsjg</id>
+        <link href="https://toutiao.io/k/t5mzsjg"/>
+        <updated>2021-06-20T01:08:57.187Z</updated>
+        <summary type="html"><![CDATA[现阶段针对数据的成本、质量、流通三个维度进行了重点治理。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析 Nebula Graph 子图设计及实践]]></title>
+        <id>https://toutiao.io/k/m0blzub</id>
+        <link href="https://toutiao.io/k/m0blzub"/>
+        <updated>2021-06-20T01:08:57.126Z</updated>
+        <summary type="html"><![CDATA[本文会通过 2.0 中新增的子图算法模块继续讲解 Query Engine 背后的故事，以便你更好地理解 Nebula。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彻底搞懂事件驱动模型：Reactor]]></title>
+        <id>https://toutiao.io/k/flosayk</id>
+        <link href="https://toutiao.io/k/flosayk"/>
+        <updated>2021-06-20T01:08:57.022Z</updated>
+        <summary type="html"><![CDATA[敢叫“反应堆”，听着很吓人的。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] React 状态管理的前世，今生和未来]]></title>
+        <id>https://toutiao.io/k/ttvrzlk</id>
+        <link href="https://toutiao.io/k/ttvrzlk"/>
+        <updated>2021-06-20T01:08:56.966Z</updated>
+        <summary type="html"><![CDATA[讲述 React 中状态管理发展的历史，同时给出了一个选择状态管理库的指南。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSBridge 原理解析：以 WebviewJavascriptBridge 实现方式为例]]></title>
+        <id>https://toutiao.io/k/pz12wl0</id>
+        <link href="https://toutiao.io/k/pz12wl0"/>
+        <updated>2021-06-20T01:08:56.893Z</updated>
+        <summary type="html"><![CDATA[JSBridge 是一种 webview 侧和 native 侧进行通信的手段，webview 可以通过 jsb 调用 native 的能力，native 也可以通过 jsb 在 webview 上执行一些逻辑]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 的消息机制 ThreadLocal 工作原理全面掌握，够深入]]></title>
+        <id>https://toutiao.io/k/jk7v7v6</id>
+        <link href="https://toutiao.io/k/jk7v7v6"/>
+        <updated>2021-06-20T01:08:56.691Z</updated>
+        <summary type="html"><![CDATA[ThreadLocal原理学习，面试必备知识点]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些抑郁与焦虑的症状，容易被人们忽视？]]></title>
+        <id>https://daily.zhihu.com/story/9737202</id>
+        <link href="https://daily.zhihu.com/story/9737202"/>
+        <updated>2021-06-19T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Dr.M，加拿大安大略省临床心理学家/滑铁卢大学临床教授
+阅读原文
+
+这方面的信息网上很多。关于分辨抑郁和焦虑的症状，有以下两点需要注意：
+
+很多抑郁症状和焦虑症状存在重叠。比如测量抑郁症状常用的量表 Beck Depression Inventory-II（BDI-II）和测量焦虑症状常用的量表 Beck Anxiety Inventory（BAI）就存在显著的重合[1]。打个比方，抑郁的时候可能没有办法集中注意力，但是焦虑的时候也可能没有办法集中注意力。或者，不论抑郁还是焦虑，都可能出现睡眠的问题。甚至，抑郁和焦虑都会出现焦躁不安的情况。
+在抑郁症状和焦虑症状之外，还有一个显著的因素我们需要考虑，那就是压力。抑郁和焦虑是更加长期和稳定的（也可以说是来自于人自身的问题，比如存在问题的认知和行为模式），而压力是来自于相对短暂的外界环境。当一个人面对压力时，体验到一系列负面症状是正常的。有大量研究证明，压力、焦虑、和抑郁，这三个因素是显著不同的[2]。所以当我们观察到抑郁和焦虑症状时，也应该注意是否有压力症状、是否有将抑郁、焦虑、压力三者弄混淆。
+
+那我们应该怎样去自测抑郁、焦虑、压力的症状，怎样将三者分清楚？
+很简单，我们去做一个量表就可以获得相关的信息。以下的这份量表Depression Anxiety Stress Scales（简称 DASS），可以翻译为抑郁 - 焦虑 - 压力量表，是发表在公共领域的，也就是说是完全免费的。但是也有人把这份量表翻译后作为商品出售[3]。DASS 有两个版本，全版是 42 条题目，短版是 21 条题目，这里我翻译了全版，供大家免费使用。
+* 注：我个人翻译能力有限，也没有机会去收集数据证明我的翻译质量，希望可以帮助到大家。新西兰有研究团队翻译过 DASS[4]。
+** 注意：这里的量表只供大家参考，起到的是“筛选”的作用，不等同于“诊…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何改掉胆小怕事，胡思乱想的性格？]]></title>
+        <id>https://daily.zhihu.com/story/9737247</id>
+        <link href="https://daily.zhihu.com/story/9737247"/>
+        <updated>2021-06-19T23:06:52.000Z</updated>
+        <summary type="html"><![CDATA[熊七夕，公众号：熊七夕。分享心智成长方法论。
+阅读原文
+
+
+胆小，懦弱，遇事容易胡思乱想，害怕冲突，不敢争论、争取和斗争，这些特性困扰了我 20 来年……如今也没能完全突破，但有很大改善和变好。
+我将我与之“交战”多年的拉扯、摸索、思考、改进、核实，花费将近 10 小时，整理写成了这篇 6300 来字的完整答案。
+既分析了造成“胆小怕事”原因，也提供了解决方法、思路，毫无保留地分享给你，希望对有同样困扰的你，有所帮助。
+字有点点多，但文中都有小标题，读起来很轻松。那就请你慢慢看呐～
+首先讲个我自己的小故事。
+我出身在湖北农村的一个小湾子里，有多小呢？整个湾子只有我家和 3 个同龄小伙伴家，而他们 3 人中 2 人是堂姐弟，而这 2 人的爷爷与另一女孩的爷爷是兄弟，这就等于他们三是一家！所以，整个湾子其实只有两家子人。
+这么小湾子，可以玩的小伙伴可想而知，就这几人。
+然而小时候我们一起玩耍时，若发生争吵、打架等冲突事件，他们三的爸妈总是会护着 ta，会说是我不对，ta 家孩子没错。我好羡慕无理由相信（袒护）自己家孩子的父母！
+反之这时候，我爸妈永远是只会把我拎回家（喊回家）骂一顿，“你不惹人家，人家怎么会偏偏惹你？”“你只会给我们惹事情！”
+甚至打一顿。从不会好声好气关心我有没有受伤，问我具体发生了什么事，公正评判是谁的错。
+一次都没有，我爸妈从没站在我这一边过。
+这时候我真怀疑自己是从垃圾堆里捡回来的！（父母哥哥姐姐小时候经常这么开我玩笑来着，其实真的吓到了几岁的我）
+没有父母撑腰的孩子，有多可怜呢。然而当初年纪小，也没有表达能力跟父母争论什么，也怕被打被骂得更凶，只得默默地少跟邻居小伙伴玩，到小学高年级时就几乎不会跟他们来往了。
+父母小时候对你多是责怪、批判，不曾站你身后给你当靠山，鼓励你说话、争取和斗争。导致，从小到大直至现在，你一直缺乏与人吵架争论的底气，总会觉得会被…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何正确选择适合自己的发色？]]></title>
+        <id>https://daily.zhihu.com/story/9737261</id>
+        <link href="https://daily.zhihu.com/story/9737261"/>
+        <updated>2021-06-19T23:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Yumi，从未脱离美/公众号日系志、韩系志、成熟女生时尚手册
+阅读原文
+
+在开始之前，先来说一下找到适合自己的颜色有多重要呢？
+首先穿对颜色可以让皮肤有透明感，也就是咱们说的通透的好气色，不暗沉。当然也包括染发和妆容的颜色选择~▼
+
+其次呢，就是会显得健康、有活力。最明显的就是眼神的神采，穿错衣服的话，眼睛会无神、疲惫感。▼
+
+第三，会有让脸部线条干净利落的效果，还可以显脸小。如果穿了不适合的颜色，很容易显露法令纹、皱纹、斑点等。▼
+
+第四，可以让你整个人有质感、不俗气。就像普通的灰色，我是绝对不会碰的，穿上瞬间变病态。▼
+
+第五，因为有了前面四条的优点，我们会被周围的人称赞，也会越来越有自信。▼
+
+最后一条就是可以省钱，因为我们再也不用买不适合自己的了，买的都是对的，就不会浪费钱啦！
+
+冷暖自知
+
+咱们黄种人的皮肤，虽然看起来都是黄色的，但是黄色也有不同的偏色，既冷暖色调。▼
+
+分辨冷暖色调在选择同一颜色的东西时，就知道该如何选择了。比如红色口红，也有暖红和冷红。找到适合自己的，才能有好气色。▼
+
+上一次，咱们是从冷暖色调的区分开始的，用的也是很简单的方式，找不同颜色的纸板，把手放上面直接观察。▼
+
+这真的是我认为最直观、最简单的方法了，比那些看手臂内侧血管要直接、可靠的多。
+当然这一次又有了新的方法，是以测试的形式，会更具体可信一些。首先拿着镜子观察自己的脸部。▼
+
+下面的问题回答 yes 或 no。
+1，被晒伤时皮肤会变红？
+2，适合粉紫色？
+3，喜欢黑发？
+4，喜欢时髦或个性的衣服？
+5，喜欢轻盈透明的可爱服装？
+Yes 有 0-2 个的，属于黄（暖色调），3 个以上的属于蓝（冷色调）。
+暖色调适合以偏暖的带橘黄的颜色为主；冷色调适合以偏冷的带蓝色的颜色为主。▼
+
+春夏秋冬自测
+
+虽然人的肤色冷暖已经测试完毕，但每一种颜色中都会有更多的细微差别，呈现出不一样的色调。…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一壶 100℃ 的开水从多高倒进嘴里不会觉得烫？]]></title>
+        <id>https://daily.zhihu.com/story/9737262</id>
+        <link href="https://daily.zhihu.com/story/9737262"/>
+        <updated>2021-06-19T23:06:40.000Z</updated>
+        <summary type="html"><![CDATA[子鱼也，脑洞/智能机器人/文学爱好者/程序猴子/
+阅读原文
+
+做了实验，先说结论：现实的答案是 1 米高度就能小口喝不烫嘴，1.5 米就能大口大口喝完全不觉得烫，2 米就有点凉了（补充说明：水流要做到尽可能的小。这点很关键）
+这个问题是从实际得来的，如果上升到理论高度的时候假设水球直径 10cm，不会散开，这还如何落地如何产业化呢？关键是，我要怎么喝呢？（一个直径 10 厘米的水球以几十米每秒的速度砸你脸上让你喝？人家题主只是想喝口温水而已，，）
+题主只假设水始终凝成一股，其他的没限制，在现实中不增加其他手段的话这个假设与实际差别很大，而水流散开成水珠又是散热的关键。如果这个假设只是为了方便分析的话，我们可以先忽略假设，看看实际效果怎么样
+实验：
+实验过程图：
+1m 的：
+
+1.5m 的：
+
+实验环境：北京室温 19°C
+
+实验分析：
+没有温度计，测不了具体温度，仅凭口感：
+1m 落下的水还有点小烫，虽然能喝不烫嘴，但对胃不好。1.5m 落下的水喝起来完全没有烫的感觉，非常舒服（就是我们需要多喝的温水。。）。还试了个 2m 的，感觉水有点凉了（应该和体温差不多），站在椅子上往下倒，太高不好拍照
+影响最后水温的两个关键因素：高度和水流粗细，在高度达到自己身高之后，可通过尽量减小水流粗细降低水温
+（补充：实验说明了一两米的高度就能让水温大大下降（几十度）至至少接近能喝，但也只是粗略估计了多高能达到不烫嘴的程度，误差还是比较大的。具体水温下降多少跟水流粗细、空气温度、湿度、风速还有一些随机因素的影响，而且不烫嘴也是一个比较主观的概念。想要喝水的话可以让水流细一点、在更高的地方倒、室温低一点、风速大一点......这些都是能降低最后水温的办法）
+（当时的实验用铁盆接水吸收了一点热量、每次倒水前没有把水重新烧开，这些会对最后水温有一点影响，但影响不大，水温会大大下降至至少接近能喝这个结论是不变的）
+设计快速开水冷却器：
+分析完做完实验当然要考虑如何落地产业化了，设计快速开水冷却器如下图所示：
+
+漏斗挂在墙上，越细越好，高度 1.4m，抬起手刚好能把开水倒进去，想喝凉水就重复个两三次，因为空气在水表面快速流过可以吸走热量，能让水温降到空气温度以下
+以后每天都能喝刚烧好的温水了✌️
+ 
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看《甄嬛传》时有哪些细节你一开始没看懂，后来恍然大悟？]]></title>
+        <id>https://daily.zhihu.com/story/9737227</id>
+        <link href="https://daily.zhihu.com/story/9737227"/>
+        <updated>2021-06-19T23:06:30.000Z</updated>
+        <summary type="html"><![CDATA[李清焰，有一个公众号「李清焰」
+阅读原文
+
+当年看《甄嬛传》，人们关注最多的或许是妃嫔们为争夺皇帝宠信的勾心斗角，甄嬛的变化历程，与广为流传的表情包。
+贱人就是矫情！
+臣妾做不到啊……
+这些年的情爱与时光究竟是错付了。
+时隔十年再看，我却发现了无处不在的权力叙事，女性的悲剧命运，甄嬛的挣扎、出逃与无奈，还有人与人之间复杂微妙的关系。
+十年前，我以为《甄嬛传》会是精良后宫剧的开端，十年后看，却成了宫斗剧的落日余晖。
+
+权力无处不在
+《甄嬛传》剧名前缀“后宫”，剧情也围绕后宫，但若将它简单视为勾心斗角的后宫剧，就大大误解了它。
+剥开宫斗外壳，你会发现《甄嬛传》的每个角落，都彰显着不可侵犯的权力大网。
+故事的开始，雍正刚刚继位，镜头从红墙黄瓦的巍峨宫殿，转到大臣们井然有序地从云龙浮雕的两侧上朝，守卫遍布，森严庄重。
+后宫一套完整严密的权力体系也逐渐铺开，最低一层是官女子，往上是答应、常在、贵人、嫔、妃、贵妃、皇贵妃、皇后，共九层。
+
+后宫女人们的地位与家族兴衰密切相关。安陵容父亲安比槐是松阳县县令，一个芝麻小官，安陵容刚进宫只被封为位分低的答应。
+甄嬛是大理寺少卿之女，被封常在，沈眉庄父亲是正三品，地位最高，她进宫已是贵人。
+原理上，这种等级不可逾越，位分低的小主见面需要向位分高者行礼，不同位分的礼数都不同。然而所有的等级虚名，都仰仗着权力中心即皇帝的心意。
+后宫女人的晋升之路也和皇帝的宠信密不可分。拥有皇帝宠信，意味着获得众人的尊重，晋升的途径，和未来的富贵荣华。
+
+帝王在其中扮演的角色尤为关键，学者李巍曾将《甄嬛传》里的纷争比喻为国际关系，“皇帝扮演了离岸平衡手的角色，不专宠一家，保持后宫的权力制衡状态，以维持后宫的稳定。”
+后宫之外，《甄嬛传》与《宫锁心玉》《美人心计》等后宫剧不同的是，不仅描写后宫女人的地位与生存法则，也有前朝紧张的君臣关系。
+年羹尧和隆科多是为雍正继位立…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 杭州某大厂：MySQL 连环问]]></title>
         <id>https://toutiao.io/k/xjnx4kp</id>
@@ -2887,112 +3161,6 @@ Thank you: @LooperXX.]]></summary>
 林老师的电话比于老师晚来大约半个多月，通过电话和我建立联系后，他直接就从北京飞来深圳，带来《少年…]]></summary>
         <author>
             <name>颜开大叔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何看待 Epic 2021 大特卖免费送出《NBA 2K21》，5 月 27 日还将有神秘游戏？]]></title>
-        <id>http://www.zhihu.com/question/460549824/answer/1897442322</id>
-        <link href="http://www.zhihu.com/question/460549824/answer/1897442322?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-05-21T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[既有策略下，正确的一步棋。我判断会有明显作用，但要持续做才能量变到质变。(对，多送点，再多送点！)
-第一个问题，EGS 还在送，有用吗？
-和其他答案不太一样的是，我认为指出 Epic 和 EGS 各种问题意义不大。Epic 在做 EGS 之前，摆在面前的是：
-
-有一个行业巨头 Valve，占了 PC 绝大部分市场份额，而且这个事情还有网络效应 (社区) 和生态 (创意工坊) 很强的不可转移资产 (用户库里的游戏)，不是那么容易能撬得动
-Epic 的牌是堡垒之夜和虚幻引擎，和钱 (钱还不一定有 Valve 多)
-
-换了是你你会怎么做？
-Epic 的出招是：
-
-EGS 是堡垒之夜启动器，且持续投资堡垒生态 (和 CS 1.6 之于 Steam 的意义一样)
-靠 UE 开发者生态来降低分成比例
-砸钱送游戏和限时独占
-还不错的联网社交性游戏能收购多少是多少，也独占
-投资社交功能
-
-是比较明确的双边策略，吸引发行商，吸引用户，来做网络效应。
-当然 Epic 在执行上是有问题的，最近 Epic 和苹果的官司上也有内部文件披露，很多 EGS 的功能实现大幅落后于原来规划进度，甚至还包括购物车这种非常基础的功能。但从策略规划的角度来看，我暂时没想到其他更好且道德的招数。
-彩蛋：2019 年在美国现场参加一次 EGS 的发布会，EGS 负责人 Sergey Galyonkin 在 Q&A 环节被 cue 说你们这些功能做很慢啊，他还嘴硬这些功能内部评估过优先级不重要。
-前面有答主提到付费转化的问题，我认为倒还好，现在 EGS 核心要解决的还是 1) 新进、2) 活跃和用户时长，付费更像是在活跃和时长提升后的一个自然结果。
-在 2019 年开始送游戏开始，拉新的效果是很值得称道的，拉新成本平均只有 2.37 刀，远比广告投放便宜，但新进的量随着时间推移不断降低，但这里能看到一个特例是蝙蝠侠阿卡姆系列，在拉新效果越来越小的时候有一波 10% 的领取用户是新用户。这里 EGS 得到第一个启发：增送付费 3A 大作，仍然能拉一波新进。
-
-但只是送，拉了新进其实无法完全解决问题，玩家：
-
-领了就算了
-领了，玩过就算了
-
-这是送单机大作的毛病，玩家顶多玩过还是该 Steam Steam，该主机主机。所以需要有粘性强，可以反复游玩，来增加用户在平台上的时长，联机属性的竞技游戏最合适，这是 EGS 的第二个启发。并且通过送游戏来增加玩家游戏库的资产价值，这样流失率会降低。
-堡垒之夜是个很好的例子，在 EGS 通过送游戏获取的玩家之中，从堡垒之夜这种大 DAU，社交，有持续付费的游戏，玩家的转化和 ARPPU 最高。只要玩家开始付费了，在平台上的沉没成本就会越来越高，粘性也会更强。
-
-第二个问题，为什么送 NBA2K？
-因为没谈到 FIFA21 啊！(划掉)
-Epic 知道要搞起联网、有一定社交的游戏。但 EGS 在这方面仍然是堡垒之夜独力支撑，收购回来的火箭联盟贡献微乎其微，糖豆人还没开始贡献。而 Steam 有一堆能打的，CS: GO、PUBG、DOTA2、Apex 英雄、RUST、命运 2……而堡垒之夜也遇到了生命周期问题。
-体育类游戏对于 2K 和 Epic 来说是个很好的结合——
-对于发行商/研发商来说，NBA2K 和 FIFA 在内的游戏已经把核心商业模式转化为内购，活跃用户数量才最关键，而不是销量。IFA 是 UT，NBA2K 是 MyTeam，这两个游戏已经不依靠买断来挣钱，所以在主机上是线性降价，到第 10 个月的时候干脆上 PS Plus 和 XGP。这次说是 EGS 送，但也可以理解成 EGS 比 PS Plus 和 XGP 早了一个季度送出去。所以能从 Epic 那边拿一份钱，2K 不吃亏。
-
-对于 Epic 来说，就像我上面提到的，联机和时长最重要，在 EGS 上没有能打的 MMO，堡垒之夜以外也没有能打竞技游戏 (Spellbreak 之类的全部不行)，体育是个比较稳的选择。拿不到 FIFA，那就搞个 NBA2K。
-
-来源：知乎 www.zhihu.com
-颜镇钟
-点击下载
-227 个回答，查看全部。
-epic上有哪些值得一玩的独占游戏？
-epic疯狂送游戏是为了什么？]]></summary>
-        <author>
-            <name>颜镇钟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG)]]></title>
-        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
-        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
-        <updated>2021-05-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演员到底有多吃天赋？]]></title>
-        <id>http://www.zhihu.com/question/443350396/answer/1865118481</id>
-        <link href="http://www.zhihu.com/question/443350396/answer/1865118481?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-05-21T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[演戏一定是要有天分的，而且演戏的天分要占到 99%，1% 的是血汗。 99% 的血汗那个叫匠人，不叫艺术家，比如说我举个例子你就明白了，说我们雕刻这个就叫匠人，因为我传承给你，你可以雕出跟我一样的东西，只要你千锤百炼就 ok 了。可是演技这个东西是我个人的理解，我个人的生活阅历以及我对生活的认知，然后总结出来的我的表演方式，你学不来，你也不用学，因为你看到了之后，你演出来的是你对社会的认知，你对生活的感悟和你的表达方式，每个人都是特别的不可替代的，如果你觉得你自己是特别的，那么演戏就不是能学得来的东西。
-
-来源：知乎 www.zhihu.com
-秦海璐
-点击下载
-237 个回答，查看全部。
-演技是一件需要天赋的事吗？
-现在的演员，有天赋的有哪些？]]></summary>
-        <author>
-            <name>秦海璐</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 159 期）：游戏开发者的年薪]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html"/>
-        <updated>2021-05-21T00:17:00.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-重庆市很多山地，地形复杂，产生了特有的奇观：被高架道路团团围住的楼盘。（via）
-本周话题：游戏开发者的年薪
-最近，推特上面有很多欧美的游戏开发者，晒自己的薪水，使用 #GameDevPaidMe 这个标签就能看到，从中可以了解国外程序员的收入。
-下面是一个美国开发者的发言。
-
-他有超过十年的开发经验，年薪是20多万美元。这还是在西雅图，如果在湾区，工资可能还会再高一些。这跟我听说的差不多，美国高级程序员的年薪，一般都会超过20万美元（约130万人民币）。
-我没想到的是，欧洲程序员的年薪，比美国少非常多。
-
-上面这个英国开发者，作为高级程序员，年薪居然才4万英镑（约36万人民币）。他入行时，更是少到1.5万英镑（约14万人民币）。欧洲其他国家的情况也差不多，年薪也就几万欧元，如果是东欧国家（比如波兰），薪水就更低了。
-这就是令我吃惊的地方， 西欧国家的人均 GDP 远高于中国，但是程序员的收入居然与中国差不多，甚至还低于中国。
-我敢说，国内高级游戏开发者的年薪，肯定不止4万英镑（36万人民币）。我举一个例子，去年有一条新闻，腾讯起诉了两名90后前员工，他们都是游戏开发，离职后违反了竞业条款，加入了竞争对手。为了计算违约金，法院的判决书详细列出了薪资水平。
-吉某某于2019年3月4日提出辞职，工作至2019年4月1日。2018年4月至2019年3月期间，吉某某每月固定工资32,240元，腾讯公司于2018年11月以"税前发放"名义支付吉某某344.38元，2019年2月支付吉某某其他奖金113.08元。腾讯公司另发放2018年年终奖20…]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
