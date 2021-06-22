@@ -2,10 +2,405 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T01:11:45.915Z</updated>
+    <updated>2021-06-22T01:03:09.264Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 一文通关苦涩难懂的 Java 泛型]]></title>
+        <id>https://toutiao.io/k/xhidp2b</id>
+        <link href="https://toutiao.io/k/xhidp2b"/>
+        <updated>2021-06-22T01:03:09.242Z</updated>
+        <summary type="html"><![CDATA[泛型是通用设计上必不可少的元素，所以真正理解与正确使用泛型，是一门必修课，本文将解开大家对泛型的疑惑，并通过大量实践，让你get到泛型正确的使用姿势，下面开始进入正题吧！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十亿级流量下，我与 Redis 时延小突刺的战斗史]]></title>
+        <id>https://toutiao.io/k/53zqdvc</id>
+        <link href="https://toutiao.io/k/53zqdvc"/>
+        <updated>2021-06-22T01:03:09.041Z</updated>
+        <summary type="html"><![CDATA[本文记录了一次线上服务，慢接口报警的解决流程，包括遇到线上问题的应急方案、分析问题的思路，主要集中在Redis响应比较慢时的分析和解决方案，通过对问题解决过程的总结，希望可以给大家一些参考。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弱口令问题引发安全的思考]]></title>
+        <id>https://toutiao.io/k/5e72t8f</id>
+        <link href="https://toutiao.io/k/5e72t8f"/>
+        <updated>2021-06-22T01:03:08.909Z</updated>
+        <summary type="html"><![CDATA[账号安全和弱口令]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好习惯！Pandas 8 个常用的 option 设置]]></title>
+        <id>https://toutiao.io/k/nd1ollu</id>
+        <link href="https://toutiao.io/k/nd1ollu"/>
+        <updated>2021-06-22T01:03:08.818Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期做的稳定性建设总结]]></title>
+        <id>https://toutiao.io/k/ic0wg6u</id>
+        <link href="https://toutiao.io/k/ic0wg6u"/>
+        <updated>2021-06-22T01:03:08.749Z</updated>
+        <summary type="html"><![CDATA[近期业界频繁出现较大的稳定性事故，引发社会舆情。湖北十堰也发生了安全的大事故。海因里希法则告诉我们：一件重大事故的背后总是有29件轻微事故+300件潜在隐患。我们要把这些事件当做镜子做好自身的稳定性建设。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文理解 MySQL 的锁机制与死锁排查]]></title>
+        <id>https://toutiao.io/k/gnbgq3w</id>
+        <link href="https://toutiao.io/k/gnbgq3w"/>
+        <updated>2021-06-22T01:03:08.676Z</updated>
+        <summary type="html"><![CDATA[理解MySQL的锁机制与死锁排查，接下来就可以看事务隔离了~]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Golang 中是锁或 Channel 还是 Atomic]]></title>
+        <id>https://toutiao.io/k/4ycv1d9</id>
+        <link href="https://toutiao.io/k/4ycv1d9"/>
+        <updated>2021-06-22T01:03:08.587Z</updated>
+        <summary type="html"><![CDATA[并发环境下如不对多个goroutine（线程）访问或修改的共享资源元素的进行控制，让进入临界区的对象互斥。就可能会出现数据异常情况；]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] 如何优化您的日常决策]]></title>
+        <id>https://toutiao.io/k/88ebc7h</id>
+        <link href="https://toutiao.io/k/88ebc7h"/>
+        <updated>2021-06-22T01:03:06.924Z</updated>
+        <summary type="html"><![CDATA[悠然宜想亭，旨在营造温润、宽厚、互助的现代化社区；您可以在这里探讨技术、寻求创意、分享美食、聊聊工作、发布科普等等，甚至是为喜欢的作品打 Call、推广，只要遵纪守法、恪守道德，此隅云间，便是您悠然交流、适宜分享之所。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当父母提出不合理的要求时，该如何有效地拒绝？]]></title>
+        <id>https://daily.zhihu.com/story/9737292</id>
+        <link href="https://daily.zhihu.com/story/9737292"/>
+        <updated>2021-06-21T23:08:46.000Z</updated>
+        <summary type="html"><![CDATA[简单心理Uni，学心理咨询，到简单心理Uni
+阅读原文
+
+在情感勒索的关系中，我们以（牺牲）自己的需要为代价，去关注别人的需要。通过对别人的让步，我们为自己制造了一个短暂的安全假象，使我们得以栖身其中聊以自慰。我们避免了冲突和对立，但同时我们也失去了一个建立健康关系的机会。
+——《情感勒索》作者苏珊·福沃德博士
+
+什么是情感勒索？
+日常生活中，我们有时难以直接向别人提出要求，也会耍一些操纵的小把戏，比如说：“哎呀，要是有人把窗子打开就好了。”而不是说：“能请你把窗子打开吗？”这些小把戏只要没给双方带来不适，其实也无伤大雅。
+而从日常的操纵转变为极其有害的行为，有一条清晰的界限。即：“以我们的意愿、健康和快乐为代价，不断地利用操纵的手段来迫使我们妥协，满足他们的要求，操纵就变成了情感勒索。”
+因为情感勒索者深知我们有多珍视我们与他们之间的关系，了解我们的弱点，甚至熟谙我们心底的秘密。一旦他们自己的需求未被满足，就会利用掌握的隐私来威胁我们，以让我们妥协和让步。
+所以你会观察到，情感勒索有 6 大典型症状：
+要求 ：勒索者根据自己的需求向勒索者提出要求。
+抗拒 ：被勒索者认为要求不合理，感觉不舒服和抗拒。
+压力 ：勒索者对被勒索者施加压力。让被勒索者感到恐惧、内疚或者认为按照勒索者说的做，是自己的义务。
+威胁 ：在遭到被勒索者拒绝后，勒索者威胁对方。如：分手。
+屈服 ：为了缓解自己内心的焦灼（可能是恐惧、内疚和义务感带来的压力），被勒索者压抑自己的需求，屈服于勒索者。
+重复 ：需求、施压、屈服的关系模式奠定下来，并一而再再而三地上演。不过，很多现实生活中的情感勒索，要比保罗对待弗雷迪的伎俩来的更加隐晦，不易察觉。这是因为“情感勒索者会释放出厚厚的迷雾（FOG），来掩盖他们的行为，因而几乎不可能看出他们是如何摆布我们的”。FOG 就是情感勒索者的勒索工具。
+
+情感勒索者的工具：F…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[充满爱的家庭能给孩子带来什么？这些能否通过后天获得？]]></title>
+        <id>https://daily.zhihu.com/story/9737302</id>
+        <link href="https://daily.zhihu.com/story/9737302"/>
+        <updated>2021-06-21T23:08:40.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，风恬浪静 吹倒南墙
+阅读原文
+
+「一个父亲能为孩子做的事情有很多，其中至关重要的，是爱孩子的母亲。」
+前段时间听了 Michael Meaney（麦吉尔大学 Professor of Psychiatry）的讲座，这句话令我印象深刻，也深以为然。
+讲讲婚姻质量和育儿的关系吧~刚好最近父亲节，所以侧重父亲的角度。先上发展心理学干货，再讲我天天发狗粮的爹妈。
+这个问题有两部分，我答前半段——充满爱的家庭能给孩子带来什么。
+至于能否通过后天获得...这个问题有点泛，说实话能写一本书。证明「孩子能不能靠自己治愈原生家庭」的长期纵向研究，其实不多。据我观察，我爸靠自己的努力治愈了原生家庭，但因为没有足够的文献支撑，所以我不敢妄言。
+充满爱的家庭能给孩子带来什么？
+一句话概括答案：婚姻的不和谐，严重影响育儿质量，育儿质量进而影响孩子多种能力的发展，语言，认知，情绪，社交，心理健康，数不胜数。
+探讨婚姻和谐和育儿质量的心理学理论有很多，篇幅所限，我只讲两个：interparental conflict spillover cascade（婚内冲突的溢出效应）和father vulnerability hypothesis（父亲脆弱假说）。
+（不清楚中文翻译准不准确，敬请同行指正）
+婚内冲突的溢出效应是指，有些父母会将婚姻里的不幸和冲突转嫁到孩子身上（当然不是所有），有时明知故犯，有时不由自主。通俗地说，就是「拿孩子撒气」。[1]
+比如，「我和你爸没离婚，都是为了你。」「要是没你，我早把你妈甩了，过得比现在好多了。」
+比如，「我打不过你爸，就打你。」「我骂不过你妈，就骂你。」
+父亲脆弱理论是指，不和谐的婚姻，对父亲育儿质量的影响，比对母亲的影响更大。[2]
+（注意：这个假说有争议，有一些数据支持，也有些实验未能重复。[3]）
+父亲为什么「脆弱」？
+原因有很多：
+1. 社会对于「母…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待职场中的「向上管理」？]]></title>
+        <id>https://daily.zhihu.com/story/9737306</id>
+        <link href="https://daily.zhihu.com/story/9737306"/>
+        <updated>2021-06-21T23:08:34.000Z</updated>
+        <summary type="html"><![CDATA[空白白白白，不接商业广告不做付费咨询，勿扰。公众号：空白女侠
+阅读原文
+
+我身边的人对我的一致评价是：最会做向上管理的人。 
+我步入职场 8 年，目前是一家私募基金的投资副总监，很多人感叹于我的职业晋升如此之快，在 30 岁的年纪就已经进入管理层。但其实早在我 26 岁的时候，我就作为商业分析部门负责人，开始管理一个数据团队了。那有小伙伴可能会问，是不是我工作以及学习能力特别突出，所以即便跨越领域，还能担任管理者？
+其实不然，我个人觉得自己是曾国藩那种喜欢”打呆仗“的人，学习能力还行，工作能力过得去，再加上了点运气就到现在这样的状态。
+不过值得我骄傲的 是，我与我的每一任领导，都能相处得很好，直到现在都和他们每个人都保持着联系，他们也都愿意在我遇到瓶颈或者困境的关键时刻帮我破局。而且在职场中我从来不主动提加薪升职，基本都是我的领导帮我争取。确切的说不是我不主动，而是我会引导领导，帮我达到目标，只是我不会开这个口。我自认为我最厉害的职场竞争力之一就是向上管理能力。
+大家可以观察那些从一线员工一步一步走上高管位置的人，绝对深谙向上管理之道。原因是你做任何事，任何重要的项目无一例外都需要上头老板的支持，越是级别高的人，越是懂得这个道理。
+此次我把我这 8 年向上管理的心得，分享给大家。文章有点长，需要大家好好体会，或许这篇文章会助你开启一段全新的职场旅程。
+对每一位职场人士而言，领导都是对其职业生涯发展影响最大的人。遇到一名好的领导可能会极大的助力职业发展；如果遇到一名不好的领导，可能会对职业发展产生极大的阻塞。在现实中，我们常常会发现职场上“混的好”、”走上高层“的人并不一定都是能力超群的人。但他们一定通晓与领导的相处之道，懂得如何影响自己的领导，为自己创造最好的条件。这种影响自己领导的过程，我们称之为向上管理。
+有些不懂向上管理的小伙伴，看到这里往往会有点愤愤不平。大家会觉得…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高温油炸过后的尸体还能检测出 DNA 是什么原理?]]></title>
+        <id>https://daily.zhihu.com/story/9737316</id>
+        <link href="https://daily.zhihu.com/story/9737316"/>
+        <updated>2021-06-21T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[死者代言人，为死者代言，替逝者发声。
+阅读原文
+
+刚在看法医秦明，中间有提到师傅问如何检验这是鸡爪还是人手？秦明回答是查 DNA。
+但是高温油炸 DNA 不会断裂吗?
+通常来讲没啥问题的~~~~
+一方面 DNA 比想象中耐操的多，另一方面 DNA 的检验手段也和很多人想象的并不一样。
+看到有回答表示：
+DNA 在高温下只会解旋，温度降低还会复性。
+我想说，那得看这个“高温”有多高。
+要是按照对人体来讲一般意义上的高温，比如 90℃，这个温度下 DNA 确实主要是解旋变性，之后一定条件下降温就还能重新旋起来。。。。这也是 PCR 技术中重要的两个步骤。
+然而，题目问的都已经是“油炸”了。
+通常，食用油的温度可以达到 250~300℃左右，不同类型的油温度有差异，但是差不了很多，再高就要起火了。。。
+一般油炸的时候，就算不达到 300℃，那显然也要高过 100℃的。。
+那么我们就算顶格：在 300℃下油炸尸体，DNA 会怎么样？法医还能不能检验？
+
+DNA 比想象中耐操
+我们先需要一点关于 DNA 的基础知识来更好的理解这个问题，基础知识很重要：
+通常而言，提到 DNA 首先想到的都是“双螺旋结构”，这当然没错，但是这个结构仅仅是 DNA 三级分子结构中的第二级而已。
+DNA 的一级结构是脱氧核苷酸的排列顺序，因为组成脱氧核苷酸的戊糖和磷酸是一样的，区别只是在于上面所连接的碱基，也就是高中生物就会讲到的 A（腺嘌呤）、G（鸟嘌呤）、C（胞嘧啶）和 T（胸腺嘧啶）四种碱基，所以可以用碱基的顺序代表核苷酸的顺序。
+所以，DNA 的一级结构可以理解为 AGCT 四种碱基的排列组合顺序。这种顺序表现出来是一个“线性”的，类似“TCTATCTGTCTGTCTGTCTATCTATCTATCTA”这种一个大链子。
+DNA 的二级结构就是大名鼎鼎的“双螺旋结构”。也就是有互补关系的两条上面那种…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男生夏天该如何搭配？]]></title>
+        <id>https://daily.zhihu.com/story/9737325</id>
+        <link href="https://daily.zhihu.com/story/9737325"/>
+        <updated>2021-06-21T23:08:22.000Z</updated>
+        <summary type="html"><![CDATA[七月
+阅读原文
+
+男生们不要看抖音男生和穿搭博主穿的花花绿绿，样式繁杂就跟风去追逐，也不要看人人都买余文乐同款和北面就去买，甚至不惜高价买 fake。
+他们在镜头前面肯定是会比较夸张的，但是现实中一定是会有点怪异的。
+盲目追逐真的没有必要哦，利用好自己的穿搭功力，是可以不易撞衫又干净清爽的样子。
+N0.1.T 恤挑选法则
+男生的夏季 T 恤大多都为白、黑、灰三色，这几种衣服一般来说不会出错，但是男生（或者男生的女朋友们）会发现——同色的 T 恤，为什么穿上的区别这么大!?
+
+这并不完全是颜值的差异，一般来说，只要男生干干净净，就不会存在着很大的颜值 bug。
+同样颜色的 T 恤之间，区分我们穿上他们能否好看的重要原因就是质地、剪裁、宽松度，和 T 恤前面的 logo，甚至我们容易忽视的领口形状!
+一、T 恤颜色的选择□什么是颜色
+色彩三要素:色相,明度,纯度。
+我用自己的话来通俗概括一下:
+- 色相就是我们看到的颜色,如红色,蓝色。
+颜色对穿搭的影响
+|- 明度表示颜色所具有的亮度和暗度被称为明度。
+你很喜欢一种颜色就会成为你穿搭很重要的参考颜色
+明度越高就越亮,最高到白色,反之最低是黑色。
+—不同的颜色可以彰显不同的性格特点——比如黑色显得人很沉稳,干练,红色黄色等明亮的颜色会显得人很开朗,活泼。
+- 纯度就是饱和度,泡和度越高纯度就越高,!!!黑白灰不算颜色。
+我知道你可能会听不懂，慢慢看，别着急
+（ps：但是你喜欢的颜色不一定适合你,硬要穿不适合你的就会显丑。所以找到适合自己的颜色很重 ）
+□颜色搭配法
+找到适合自己的颜色我们人的肤色分为冷皮和暖暖皮穿黄色 / 橘色显白
+单色搭配公式=一种有彩色 + 一种无彩色单色搭配公式=0 有彩色 + 无彩色（黑白灰)优缺点:不容易出错,但是不能穿的出彩。
+冷皮穿蓝色 / 绿色 / 紫色 / 粉色显白
+比较容易穿出彩穿出彩的穿搭—…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9737285</id>
+        <link href="https://daily.zhihu.com/story/9737285"/>
+        <updated>2021-06-21T23:08:14.000Z</updated>
+        <summary type="html"><![CDATA[如果你真的忘不了一个人怎么办？
+
+林某鹿
+阅读原文
+
+如果你真的忘不了一个人，一定要坚持去找他（她），相信我，总有一天，你会被拉黑的
+阅读原文
+
+什么东西是你一直想吃但真正吃到后又觉得很难吃？
+
+不不，闲人
+阅读原文
+
+我做的菜。
+阅读原文
+
+女生当海王什么感觉？
+
+匿名用户
+阅读原文
+
+喜欢的小哥哥说我是海王，我还以为他在夸我水性好，马上给他发了几张潜水拍的照片，心里美滋滋的。
+直到……我看到"海王"的释义。
+阅读原文
+
+官网买ipad有什么需要注意的吗？
+
+凌天银河，11
+阅读原文
+
+emmmmm。。注意刻字的地方不要乱写吧。有人在刻字的地方写了“不要刻字”，于是苹果就刻上了：不要刻字
+阅读原文
+
+一个男性可以可爱到什么程度？
+
+一意咕行
+阅读原文
+
+ 社团上台表演，我给我男朋友化妆。
+ 在我给他用睫毛夹的时候，我看他神情一脸痛苦，就问他怎么了，是不是夹到眼皮了。然后他说不是，他是感觉生命被剥离了。
+ 我还纳闷什么叫生命被剥离了，然后一会他就问我掉完了没有，给我整得还挺懵。
+ 我问他啥掉完了没有，他这么说：
+ “你不是要把我睫毛夹掉再给我画一个假的嘛。”
+ 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈这个事我可以笑一年哈哈哈哈哈哈哈。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
+        <id>https://css-tricks.com/?p=342887</id>
+        <link href="https://web.dev/new-responsive/"/>
+        <updated>2021-06-21T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
+The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手游市场饱和了吗？以后游戏的增量在哪里？]]></title>
+        <id>http://www.zhihu.com/question/465199201/answer/1947786674</id>
+        <link href="http://www.zhihu.com/question/465199201/answer/1947786674?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-06-21T15:30:09.000Z</updated>
+        <summary type="html"><![CDATA[这个问题非常好，题主老哥有点东西。
+-
+市场有没有饱和？简单的答案是没有——但这个答案是个抖机灵的说法，因为很难说存在一个完全饱和的市场。我们还是拿App Annie的数据做一个比较简单的benchmark。
+首先是收入状态。
+过去12个月YoY对比，可以看到的情况，参照下方的颜色标识，从收入来看，全球范围基本都在增长，但是中国市场的增长率反而是有下降的。
+
+而下载量的情况来看，中国区的下载量下降是更多的。
+
+本身，AppAnnie的数据从数值上来说可信度有限，但是从变化和大盘看总体趋势是没有太大问题的。
+虽然说AppAnnie在中国区没有安卓的数据，但近几年从经验来看，AppAnnie上苹果量与实际上的中国区域安卓量基本存在正相关关系。安卓区的下载或者收入，并不会让这个数字变动太多。
+而移动市场的红利其实也在过去几年被释放得比较明显。从下图可见，未来几年的新用户增加不会太多。而纯移动用户转换到游戏付费用户的比例还会更低。
+
+从这里，我们可以稍微复读两点。
+
+数据显示，中国游戏市场增长有限。如果相信AppAnnie的数据，那么在过去12个月里，同比增长较少；相信伽马的数据，那增长也就在5%左右——对于一个自诩新兴的行业而言，5%的年增长都不算很高。
+网民，即新增用户群的增长在未来看来，也是相对有限的。将增长希望寄托于国内用户的新增，是相对不现实的。
+
+当然，我们也可以拿新增人口说事儿。毕竟现在小孩子都是digital native。那么我们可以看一下国内的出生人口情况。
+
+那么，以有独立付费能力作为起始点，即18岁成年；玩家转化率设定为80%（绝对乐观的比值）的情况下，在未来十多年时间里，每年会有大约12-15m的新玩家增加到市场上——看起来数字不错，但考虑到目前中国广义的移动玩家有6-7亿，那么每年新用户增长只有2.5%甚至更少，这并不是个非常乐观的状态。
+付费的提升有可能吗？在单款游戏上是有可能的。但每个人的付费总预算是有限的，在原神上花的多，在其他游戏上花的相对就会减少。自然有土豪，但行业不能指望土豪。因此ARPU我认为有增长，但是增长速度不会太乐观。
+-
+仅从中国市场的情况来看，基本上我们现在就可以给出一个结论，中国本土游戏市场的增长几乎到顶，未来来看增长潜力已经不多。但如果我们对中国游戏行业有足够多的观察，很容易看到很多相反的现象：游戏投资火热，新项目层出不穷，从业人员工资水涨船高，等等。
+这个现象有两个原因，第一个原因，我将其称为因为高质量游戏产品带来的消费力的释放。
+简而言之，单个高变现效率产品，如《原神》等，增加了更广泛玩家的付费上限：游戏本身在移动游戏同侪中较高的质量，让他们能够以比竞争对手更便宜的价格获取更多的玩家；“二次元群体”（这个词的说法可以再做商榷）本身社群的同温层效应，则造成了更高的充值激励。此外，移动支付的愈发成熟，抽卡模式的高单价和低出货率，客观上的赌博性质也让游戏的付费获得了较高的提升。
+第二个原因则是因为一级市场的反应后置和投资者的kpi压力。游戏投资的火热背后，是大量行业投资的低迷。游戏行业因为存在符合原因一里的多款明星产品，所以以风险投资的性质来看，愿意往这个行业冒险。
+-
+VR是增长点吗？很难说。因为VR设备每年全球增量还是极其有限。VR的软件相对而言体验普通，且消费模式还是传统的Premium收费。这样的模式可以养活不少开发商，但能够变现的想象力不多。
+而对我来说，Metaverse是骗子概念。
+-
+唱衰半天，我觉得游戏行业并非没有增长点。
+增长点在哪？以我的个人判断，出海仍然是非常重要的增长点。还是以上面几个图来看，无论是新兴市场的东南亚，拉美，中东，还是传统来看已经饱和的欧美市场，其实都还是有很高的增长率。
+
+上图是我年初拉的AppAnnie数据，基本上中国大陆以外的收入/下载增长都有可观的市场。而国内厂商真正在海外占据上风的品类只有SLG。其他品类偶有成功的作品，但没有完全占据优势的品类。
+具体而言，欧洲和拉美是非常值得注意的市场，放几页ppt（我自己做的），都是公开数据。
+
+
+
+-
+当然，出海好不好做又是另外一个故事了。这个回答里恕不覆盖这部分。
+
+来源：知乎 www.zhihu.com
+知乎用户（登录查看详情）
+点击下载
+8 个回答，查看全部。
+为什么国内游戏行业觉得给适合他们的市场，适合他们的政策，甚至适合他们的玩家之后，他们就能做出一流游戏？
+手游的市场到底有多大啊？]]></summary>
+        <author>
+            <name>知乎用户（登录查看详情）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
+        <id>https://css-tricks.com/?p=342448</id>
+        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
+        <updated>2021-06-21T14:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
+The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
+        <updated>2021-06-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【深入理解魂系列】为什么计算伤害时要考虑防御力？]]></title>
+        <id>http://zhuanlan.zhihu.com/p/381732813</id>
+        <link href="http://zhuanlan.zhihu.com/p/381732813?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-06-21T03:00:10.000Z</updated>
+        <summary type="html"><![CDATA[伤害是很多游戏中绕不过去的一环，毕竟只有对敌人造成伤害，才能最终击杀敌人，赢得胜利。那伤害是如何计算的呢？伤害和攻击力是一回事吗？一般来讲，攻击力是指玩家所具有的一个属性或者一次攻击所具有的属性，而伤害则是这次攻击实际所能造成的血量削减，这两者之间，还差了一个防御力。
+没错，防御力，这就是关键。假设我们的攻击力是100，敌人的防御力是20，伤害公式是普通的减法，那么伤害就是100-20=80。正是防御力让攻击力和伤害有所区别，这就是本文的核心：防御力到底是用来干什么的，为什么需要有防御力？
+防御力以及类似的概念广泛存在于不同的游戏中，但是往往有不同的称呼：防御力，减伤率，抗性……为了统一，以及为了避免与某个具体游戏中的相关概念混淆，接下来我会用一个很别扭的词来表达广义的防御力概念，"抵抗能力"。这只是随便给的一个词而已，别扭是因为不别扭的词都被各种游戏用过了，不用太纠结。
+接下来，就让我们一同探索抵抗能力的本质吧。
+
+穿上你的护甲
+抵抗能力的出现是合乎逻辑的
+在很多ARPG游戏中，主角是可以拥有护甲的，效果是让主角更耐揍。那么，"更耐揍"这一点应该如何体现出来呢？也许可以是增加血量上限，但是由此一来，恢复生命值的药剂应该如何处理，是否应该增加恢复量？当主角卸下护甲之后，生命值又应该如何处理呢？
+这些问题属实不好处理，所以我们干脆把攻击力和伤害分开，在两者中间插入一个抵抗能力，来体现护甲的作用。
+这样看来，抵抗能力的出现是合情合理的，这是体现护甲作用的符合直觉的方式。
+但是这不一定是抵抗能力在现代游戏中的意义
+这是抵抗能力的起源，但不一定是它现在的意义。
+如今的游戏中，伤害公式多种多样，如果只是为了体现护甲的作用，真的有必要搞出这么多不同的东西吗？可见，抵抗能力在现代的游戏中，还有更多的作用。
+别着急，我们接着往下说。
+
+抵抗能力的本质
+本质是约束攻击力成长的收益
+抵抗能力的…]]></summary>
+        <author>
+            <name>Darkbblue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一文带你了解 .Net 互斥锁]]></title>
         <id>https://toutiao.io/k/gtpub6o</id>
@@ -416,6 +811,26 @@ Mn zg1y
 阅读原文]]></summary>
         <author>
             <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethers.js 非权威开发指南（下）]]></title>
+        <id>https://toutiao.io/k/jqofcc1</id>
+        <link href="https://toutiao.io/k/jqofcc1"/>
+        <updated>2021-06-20T06:04:35.000Z</updated>
+        <summary type="html"><![CDATA[源自一线的 Ethers.js 代码示例和经验总结]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[os.Chmod 时到底用 777 还是 0777]]></title>
+        <id>https://toutiao.io/k/uvnskcx</id>
+        <link href="https://toutiao.io/k/uvnskcx"/>
+        <updated>2021-06-20T05:30:19.000Z</updated>
+        <summary type="html"><![CDATA[问题是这样的：我在代码里面调用了 os.Chmod("test.txt", 777)，希望把该文件的读写及执行权限对所有用户开放。执行完代码，顺手 ls 看了下。如下： $ ls -l test.txt -r----x--x  1 cyhone  1085706827  0 Jun 20 13:27 test.txt 结果出乎意料，不仅文件权限没有按预期的变成 rwxrwxrw]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -1710,6 +2125,16 @@ Reshaping Mars on Steam
         <summary type="html"><![CDATA[In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nic Chan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文带你深入理解 Serializable 隔离最新技术 SSI]]></title>
+        <id>https://toutiao.io/k/akx3jo7</id>
+        <link href="https://toutiao.io/k/akx3jo7"/>
+        <updated>2021-06-16T05:52:01.000Z</updated>
+        <summary type="html"><![CDATA[一个新的算法横空出世，它就是Serializable Snapshot isolation，简称SSI，它的优点就是能够牺牲很小的性能达到Serializable隔离的效果，这个算法是2008才出现的，不过已经被运用在PostgreSQL的版本9.1和FoundationDB中了]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -3386,139 +3811,6 @@ ChinaSys十年见证了中国计算机系统方向学术水平的提升，也实
 如果以第七感的…]]></summary>
         <author>
             <name>千翻儿娃</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动画《圣斗士星矢》中有哪些冷知识？]]></title>
-        <id>http://www.zhihu.com/question/408112814/answer/1901195238</id>
-        <link href="http://www.zhihu.com/question/408112814/answer/1901195238?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-05-23T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[《圣斗士星矢》与日本娱乐界的因缘！
-
-
-①酒井法子与《圣斗士星矢》
-车田是个标准的偶像宅，尤其对酒井法子。对多数人来说，被逮捕的酒井法子，其印象更为强烈。
-
-
-但在酒井法子火热的时候，『法子用语』可以说是备受瞩目。而车田在漫画的台词中，也加入了此流行语。
-
-
-
-『法子用语=のりピー語』
-说白了就是不好好说话，给词语加上一些独创的后缀或前缀，跟JK用语一个道理。也可以理解为在装可爱。
-
-
-比如以下词语变化：
-『走起，行动』
-正常语：行くぞ（一库作）
-のりピー語：行くピー（一库P）
-
-
-『明亮，开朗』
-正常语：明るい（啊卡路一）
-のりピー語：あかピー（啊卡P）
-
-
-『高兴，开心』
-正常语：うれしい（无勒西一）
-のりピー語：うれピー（无勒P）
-
-
-『开动了，获得』
-正常语：いただきます（一嗒哒ki嘛斯）
-のりピー語：いただきマンモス（一嗒哒ki猛犸象）
-※可能是猛犸象体积庞大，也就代表了形容词的程度，非常之非常。
-
-
-在日语的五十音图里，每行都有许多のりピー语变化语，风靡一时。即使是现在的JK用语也是如此。
-
-
-而在《圣斗士星矢》里，のりピー語到底体现在哪里呢？
-
-
-有两位角色代表了车田的心声。巨蟹座黄金圣斗士迪斯马斯克，天平座黄金圣斗士童虎。
-
-迪斯马斯克对星矢说的台词意思是，因之前的战斗变得破破烂烂的生圣衣，居然不让穆进行修复，你这超级可怜的家伙。
-
-
-所以可怜这个形容词的程度加成，迪斯马斯克则用了のりピー語的猛犸象。他觉得星矢是无比的可怜虫。
-
-
-不过现实是，嚣张之人必栽跟头。可怜虫的万年流星拳，也能打飞你。
-
-
-而童虎出场的のりピー語，则显得更地道。这也是冥王十二宫篇的场景。
-
-
-
-やっピー（吖P）=こんにちは（空你其哇）
-
-
-童虎的台词，显得很自然。外表虽小老头，但内在仍然十八岁，跟得上潮流。
-
-
-另一个镜头里，则直接把のりピー的杂志给直接描绘了出来。这是辰巳来告诉瞬，不要靠近圣域的镜头。
-
-
-
-杂志散乱在地上，书的右上角写着童虎出场时的台词やっピー。杂志下方则用罗马读音标注着のりピー = NORI-P。
-
-
-其实在JOJO里，也有类似的描写。可见酒井法子的影响力，那真不是盖的。
-
-
-
-②SMAP与《圣斗士星矢》
-还有一个与SMAP有关的。虽算不上什么冷知识，但也有那么些细思极恐的感觉。
-
-
-《圣斗士星矢》在1991年被舞台化。登场的则是日本国民偶像SMAP，当时还是六人。
-
-
-中居正広演绎星矢，稲垣吾郎演绎一辉，森且行演绎冰河，草彅剛演绎紫龙，香取慎吾演绎瞬，最后木村拓哉则出演波塞冬。
-
-
-
-而关于这一群大叔们的流言蜚语也不断。其他成员与木村拓哉不合等八卦，也不在少数。
-
-
-而当年《圣斗士星矢》的舞台剧，是否也映射了这一点呢？也只因木村演绎波塞冬对抗其他人这一点，太应景了。
-
-
-不过，SMAP最终还是解散。没有能够像五小强一样，热血到底。
-
-
-拜了个拜拜！
-
-来源：知乎 www.zhihu.com
-千翻儿娃
-点击下载
-14 个回答，查看全部。
-《圣斗士星矢》动画和漫画中，五小强巅峰时期相互PK，那么谁能笑到最后？
-天杀的，圣斗士星矢系列有生之年还能出动漫嘛  ?]]></summary>
-        <author>
-            <name>千翻儿娃</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
