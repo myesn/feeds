@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342930",
+          "author": "Chris Coyier",
+          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
+          "publishedOn": "2021-06-22T21:20:20.000Z",
+          "wordCount": 687,
+          "title": "inherit, initial, unset, revert"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342634",
+          "author": "Geoff Rich",
+          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
+          "publishedOn": "2021-06-22T14:37:50.000Z",
+          "wordCount": 3090,
+          "title": "Using Custom Elements in Svelte"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342925",
+          "author": "Chris Coyier",
+          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
+          "publishedOn": "2021-06-22T14:33:41.000Z",
+          "wordCount": 1497,
+          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
+        },
+        {
           "id": "https://css-tricks.com/?p=342887",
           "author": "Chris Coyier",
           "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -190,6 +217,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
+          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "publishedOn": "2021-06-22T09:00:00.000Z",
+          "wordCount": 2886,
+          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
@@ -567,20 +608,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
-          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2932,
-          "title": "CSS Container Queries: Use-Cases And Migration Strategies",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -632,6 +659,105 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/kkvemjf",
+          "author": null,
+          "description": "这篇文章我想和你聊一聊 Redis 的最佳实践。你的项目或许已经使用 Redis 很长时间了，但在使用过程中",
+          "link": "https://toutiao.io/k/kkvemjf",
+          "publishedOn": "2021-06-23T00:58:12.815Z",
+          "wordCount": 631,
+          "title": "Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis（附实践清单）"
+        },
+        {
+          "id": "https://toutiao.io/k/rnk9wn6",
+          "author": null,
+          "description": "没有摘要",
+          "link": "https://toutiao.io/k/rnk9wn6",
+          "publishedOn": "2021-06-23T00:58:12.683Z",
+          "wordCount": 89,
+          "title": "云原生部署之 Helm 最佳实践（上）"
+        },
+        {
+          "id": "https://toutiao.io/k/z9fx1fc",
+          "author": null,
+          "description": "​Spring官方推荐使用WebClient替代RestTemplate完成HTTP调用。因为WebClient是基于Reactor实现的，所以既可以支持阻塞调用也可以支持非阻塞调用，在高并发的场景下资源利用率更高。",
+          "link": "https://toutiao.io/k/z9fx1fc",
+          "publishedOn": "2021-06-23T00:58:12.620Z",
+          "wordCount": 277,
+          "title": "有了 WebClient 还在用 RestTemplate？"
+        },
+        {
+          "id": "https://toutiao.io/k/mobj8bo",
+          "author": null,
+          "description": "在Windows WSL 上下载和编译鸿蒙系统。",
+          "link": "https://toutiao.io/k/mobj8bo",
+          "publishedOn": "2021-06-23T00:58:12.546Z",
+          "wordCount": 337,
+          "title": "鸿蒙系统研究第一步：从源码构建系统镜像"
+        },
+        {
+          "id": "https://toutiao.io/k/md02mcl",
+          "author": null,
+          "description": "频繁模式挖掘是怎么做的？",
+          "link": "https://toutiao.io/k/md02mcl",
+          "publishedOn": "2021-06-23T00:58:12.460Z",
+          "wordCount": 167,
+          "title": "FP-Growth 算法原理、Spark 实现和应用介绍"
+        },
+        {
+          "id": "https://toutiao.io/k/74x2gyc",
+          "author": null,
+          "description": "前言ZooKeeper作为dubbo的注册中心，可谓是重中之重，线上ZK的任何风吹草动都会牵动心弦。最近笔者",
+          "link": "https://toutiao.io/k/74x2gyc",
+          "publishedOn": "2021-06-23T00:58:12.353Z",
+          "wordCount": 467,
+          "title": "ZooKeeper 集群拒绝服务"
+        },
+        {
+          "id": "https://toutiao.io/k/hdv64nz",
+          "author": null,
+          "description": "Flutter 使用 const widget，优化效果明显吗？代价是什么？",
+          "link": "https://toutiao.io/k/hdv64nz",
+          "publishedOn": "2021-06-23T00:58:12.285Z",
+          "wordCount": 408,
+          "title": "Flutter 的 Widget，刻意加上 const，真的值得吗？"
+        },
+        {
+          "id": "https://toutiao.io/k/dr4u4yt",
+          "author": null,
+          "description": "天下武功，无坚不摧，唯快不破",
+          "link": "https://toutiao.io/k/dr4u4yt",
+          "publishedOn": "2021-06-23T00:58:12.161Z",
+          "wordCount": 157,
+          "title": "Redis：我是如何与客户端进行通信的"
+        },
+        {
+          "id": "https://toutiao.io/k/96b5kbd",
+          "author": null,
+          "description": "可视化是有好处的，能帮我们什么？\\x0a\\x0a一图胜千言\\x0a\\x0a掌握系统业务\\x0a\\x0a明确系统边界\\x0a\\x0a小步改造系统",
+          "link": "https://toutiao.io/k/96b5kbd",
+          "publishedOn": "2021-06-23T00:58:12.038Z",
+          "wordCount": 45,
+          "title": "[推荐] 领域驱动设计、可视化与遗留系统的微服务改造"
+        },
+        {
+          "id": "https://toutiao.io/k/yyrg9dw",
+          "author": null,
+          "description": "在代码的编写中有一个很重要的环节，经常会被忽视，那就是 Code Review ,据说在 Facebook、",
+          "link": "https://toutiao.io/k/yyrg9dw",
+          "publishedOn": "2021-06-23T00:58:11.983Z",
+          "wordCount": 109,
+          "title": "你有做 Code Review 吗？"
+        },
+        {
+          "id": "https://toutiao.io/k/nnpqk6o",
+          "author": null,
+          "description": "dsymutil程序调试符号帮助工具简介操作归档的DWARF调试符号文件场景一打包有开启bitcode, 上传时没有勾选上传符号文件。结果iTunes后台处理完安装包后, 不会有下载dSYM文件...",
+          "link": "https://toutiao.io/k/nnpqk6o",
+          "publishedOn": "2021-06-23T00:58:08.430Z",
+          "wordCount": 145,
+          "title": "dsymutil 程序调试符号帮助工具"
+        },
         {
           "id": "https://toutiao.io/k/xhidp2b",
           "author": null,
@@ -1126,6 +1252,24 @@
       "siteUrl": "http://www.zhihu.com",
       "articles": [
         {
+          "id": "http://www.zhihu.com/question/465547566/answer/1954604848",
+          "author": "壹心理",
+          "description": "一个有爱的家庭，就像一片丰富的土壤，能给一个人的成长提供持续且足够的滋养与力量。\n如果没有一个有爱的家庭，就需要成年的自己，主动获得爱的滋养，为其注入营养。\n\n\n根据美国儿童研究组织Child Trends的说法，一方面，父母对孩子的温暖与爱会带来更高的自尊、更好的学习成绩、更好的亲子沟通以及更少的心理和行为问题。另一方面，没有慈爱父母的孩子往往自尊心较低，感觉更加疏远、敌意、好斗和反社会。\n\n下面我们来看一看相关研究。\n研究一：爱有助于孩子发展出稳定的情绪\n2010 年，杜克大学医学院的研究人员发现，拥有非常深情和细心的母亲的婴儿长大后会变得更快乐、更有弹性、焦虑更少。[1]\n该研究涉及大约 500 人，他们从婴儿时期一直到 30 多岁。\n当婴儿八个月大时，心理学家观察了他们的母亲在他们进行了几次发育测试时与他们的互动。\n心理学家从“消极”到“饱满的爱”等五个程度对母亲的感情和关注程度进行了评估。近 10% 的母亲表现出低度的感情，85% 的母亲表现出正常的感情，约 6% 的母亲表现出高度的感情。\n30 年后，这些人接受了情绪健康的采访。\n母亲表现出“饱满的爱”或“爱抚”感情的成年人比其他人更不容易感到压力和焦虑。他们也不太可能报告敌意、令人痛苦的社交互动和心身症状。\n\n研究二：爱有助于孩子的大脑发育\n大脑发育最重要的阶段是生命的开始，从子宫开始，然后是生命的第一年。到三岁时，儿童的大脑已达到其成人大小的近 90%。在此期间，这种快速的大脑生长和回路估计以每秒 700-1000 个突触连接的惊人速度发生。[2][3]\n婴儿与照顾者的经历对于这种早期脑回路的布线和修剪至关重要，并且良好的互动能够帮助婴儿在大脑中建立数以百万计的新突触连接。\n父母与孩子反复的互动和交流，会有助于提升孩子的记忆、建立关系的能力，同时能促进其逻辑发展。[4]\n\n\n研究三：爱有助于孩子建立良好的依恋…",
+          "link": "http://www.zhihu.com/question/465547566/answer/1954604848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-06-22T23:00:10.000Z",
+          "wordCount": 189,
+          "title": "充满爱的家庭能给孩子带来什么？这些能否通过后天获得？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/374369010/answer/1954527067",
+          "author": "DBinary",
+          "description": "第一次看到live2D估计是群里看到的,第一次看的感觉就是这个动画看起来很奇怪,有点粗糙,搞不懂这种动画怎么都能火,不过看了一段时间以后,简直是越看越顺眼,在今年1月份的时候,萌生了自己也来做一个live2D的想法,没错,你没看错,这里指的是制作live2D,不是制作live2D模型\n这里的制作live2D指的是,实现live2D的基础动画功能,完整实现其骨骼,动作追踪,网格建立,物理模拟到图元光栅化操作.\n其实说困难吧,也不太困难,说不困难吧,算算也将近花了5个月时间来做.\n这么一听瞬间高大上了是不是.\n为了方便调试,我预先绘制了一个调试用的人设,这部分用sai就可以了\n1.打个线稿\n\n2.调整一下,上个涩\n\n3.最麻烦的一步,将每一个图层,导出为独立的png图片\n\n准备工作完成,启动Visual Studio\n\n现在,我们可以开始来愉快的做live2D了\n为此,我们先请出我们可爱的大学本科期间的一本基础教材<<计算机图形学>>来开始我们Live2D的基础原理说明\n\n我们先来复习一下图形学的基础\n首先,我们先对图元做个定义\n\nlive2D的所有图形由图元分割\n每个图元,由三个不共线的顶点构成,为一个三角形\n每个顶点包含x,y坐标,每个由一个float32存储\n每个顶点包含u,v纹理坐标,每个坐标范围为0-1.0f,超出范围的坐标视为无效映射坐标,每个由一个float32存储.\n每个顶点包含一个法向量,表示该顶点所处图元的法向量,法向量由一个x,y,z组成,每个由一个float32存储\n\n上面是图形学渲染中一个非常常用的结构,因为在渲染的过程中,live2D的模型不需要额外的投影变换矩阵进行顶点隐射(或者说使用了仿射变换),也不需要额外的ZBuffer来维护每个顶点的深度(因为我直接使用图层的方式对每个live2D图像进行管理,因此我直接使用画家算法对图层进行先后绘制即可)…",
+          "link": "http://www.zhihu.com/question/374369010/answer/1954527067?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-06-22T11:30:10.000Z",
+          "wordCount": 330,
+          "title": "想问一下制作live 2D困难吗？"
+        },
+        {
           "id": "http://www.zhihu.com/question/465199201/answer/1947786674",
           "author": "知乎用户（登录查看详情）",
           "description": "这个问题非常好，题主老哥有点东西。\n-\n市场有没有饱和？简单的答案是没有——但这个答案是个抖机灵的说法，因为很难说存在一个完全饱和的市场。我们还是拿App Annie的数据做一个比较简单的benchmark。\n首先是收入状态。\n过去12个月YoY对比，可以看到的情况，参照下方的颜色标识，从收入来看，全球范围基本都在增长，但是中国市场的增长率反而是有下降的。\n\n而下载量的情况来看，中国区的下载量下降是更多的。\n\n本身，AppAnnie的数据从数值上来说可信度有限，但是从变化和大盘看总体趋势是没有太大问题的。\n虽然说AppAnnie在中国区没有安卓的数据，但近几年从经验来看，AppAnnie上苹果量与实际上的中国区域安卓量基本存在正相关关系。安卓区的下载或者收入，并不会让这个数字变动太多。\n而移动市场的红利其实也在过去几年被释放得比较明显。从下图可见，未来几年的新用户增加不会太多。而纯移动用户转换到游戏付费用户的比例还会更低。\n\n从这里，我们可以稍微复读两点。\n\n数据显示，中国游戏市场增长有限。如果相信AppAnnie的数据，那么在过去12个月里，同比增长较少；相信伽马的数据，那增长也就在5%左右——对于一个自诩新兴的行业而言，5%的年增长都不算很高。\n网民，即新增用户群的增长在未来看来，也是相对有限的。将增长希望寄托于国内用户的新增，是相对不现实的。\n\n当然，我们也可以拿新增人口说事儿。毕竟现在小孩子都是digital native。那么我们可以看一下国内的出生人口情况。\n\n那么，以有独立付费能力作为起始点，即18岁成年；玩家转化率设定为80%（绝对乐观的比值）的情况下，在未来十多年时间里，每年会有大约12-15m的新玩家增加到市场上——看起来数字不错，但考虑到目前中国广义的移动玩家有6-7亿，那么每年新用户增长只有2.5%甚至更少，这并不是个非常乐观的状态。\n付费的提升有可能吗？在单款游戏上是有可能的。但每个人的付费总预算是有限的，在原神上花的多，在其他游戏上花的相对就会减少。自然有土豪，但行业不能指望土豪。因此ARPU我认为有增长，但是增长速度不会太乐观。\n-\n仅从中国市场的情况来看，基本上我们现在就可以给出一个结论，中国本土游戏市场的增长几乎到顶，未来来看增长潜力已经不多。但如果我们对中国游戏行业有足够多的观察，很容易看到很多相反的现象：游戏投资火热，新项目层出不穷，从业人员工资水涨船高，等等。\n这个现象有两个原因，第一个原因，我将其称为因为高质量游戏产品带来的消费力的释放。\n简而言之，单个高变现效率产品，如《原神》等，增加了更广泛玩家的付费上限：游戏本身在移动游戏同侪中较高的质量，让他们能够以比竞争对手更便宜的价格获取更多的玩家；“二次元群体”（这个词的说法可以再做商榷）本身社群的同温层效应，则造成了更高的充值激励。此外，移动支付的愈发成熟，抽卡模式的高单价和低出货率，客观上的赌博性质也让游戏的付费获得了较高的提升。\n第二个原因则是因为一级市场的反应后置和投资者的kpi压力。游戏投资的火热背后，是大量行业投资的低迷。游戏行业因为存在符合原因一里的多款明星产品，所以以风险投资的性质来看，愿意往这个行业冒险。\n-\nVR是增长点吗？很难说。因为VR设备每年全球增量还是极其有限。VR的软件相对而言体验普通，且消费模式还是传统的Premium收费。这样的模式可以养活不少开发商，但能够变现的想象力不多。\n而对我来说，Metaverse是骗子概念。\n-\n唱衰半天，我觉得游戏行业并非没有增长点。\n增长点在哪？以我的个人判断，出海仍然是非常重要的增长点。还是以上面几个图来看，无论是新兴市场的东南亚，拉美，中东，还是传统来看已经饱和的欧美市场，其实都还是有很高的增长率。\n\n上图是我年初拉的AppAnnie数据，基本上中国大陆以外的收入/下载增长都有可观的市场。而国内厂商真正在海外占据上风的品类只有SLG。其他品类偶有成功的作品，但没有完全占据优势的品类。\n具体而言，欧洲和拉美是非常值得注意的市场，放几页ppt（我自己做的），都是公开数据。\n\n\n\n-\n当然，出海好不好做又是另外一个故事了。这个回答里恕不覆盖这部分。\n\n来源：知乎 www.zhihu.com\n知乎用户（登录查看详情）\n点击下载\n8 个回答，查看全部。\n为什么国内游戏行业觉得给适合他们的市场，适合他们的政策，甚至适合他们的玩家之后，他们就能做出一流游戏？\n手游的市场到底有多大啊？",
@@ -1475,33 +1619,6 @@
           "publishedOn": "2021-05-24T13:15:08.000Z",
           "wordCount": 41,
           "title": "ChinaSys十周年感想"
-        },
-        {
-          "id": "http://www.zhihu.com/question/353682503/answer/1897659881",
-          "author": "雁鸿Aimee",
-          "description": "肯定是这套华妃的头饰啦，用易拉罐还原华妃头饰，不来看看吗？\n\n雁鸿Aimee\n点击下载\n259 个回答，查看全部。\n甄嬛传里你最不喜欢的头饰或服饰是哪个？\n甄嬛传里的发饰服饰有什么讲究？",
-          "link": "http://www.zhihu.com/question/353682503/answer/1897659881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-05-24T09:30:24.000Z",
-          "wordCount": 16,
-          "title": "《甄嬛传》中有哪件服装或头饰是最戳你的？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/34475323/answer/1899370884",
-          "author": "Dr.M",
-          "description": "很棒的问题，我这里系统地来回答一下。我会讲到以下几个要点：\n\n边缘性人格障碍患者的“害怕被抛弃”（fear of abandonment）到底是怎样的？\n边缘性人格障碍患者如果遇到了他所认为的被抛弃，会有怎样的反应？\n边缘性人格障碍患者为什么会体验到“害怕被抛弃”？\n\n*我很喜欢问题中使用了“患者所认为的被抛弃”这样的措辞，因为在边缘性人格障碍中，被抛弃可能是“真实的被抛弃”（actual abandonment），也可能是“感受到被抛弃”（perceived abandonment）。后者并不等同于“真实的被抛弃”，经常是边缘性人格障碍患者的认知偏见。\n\n首先，“害怕被抛弃”是边缘性人格障碍的诊断标准之一，也是边缘性人格障碍的特征之一。\n不夸张的说，“害怕被抛弃”可以说是边缘性人格障碍和其他精神疾病最不同的地方之一。\n关于边缘性人格障碍的诊断标准，先参考下图[1]：\n\n第一条叫做：“疯狂地努力避免被别人抛弃“（frantic efforts to avoid abandonment）。其实讲到这里，这个问题就算回答完成了：当边缘性人格障碍患者遇到被抛弃的情况时，会采取”疯狂的行为”去避免自己被抛弃，重点在于“疯狂”和“避免”。\n\n第一，边缘性人格障碍患者害怕被抛弃到底是怎样的？\n可以参考下图[2]：\n\n被确诊的边缘性人格障碍患者会这样描述：\n\n我觉得每个人都要离我而去。\n我知道我最终会是一个人。\n没有人再会喜欢我。\n当我需要你时，你不会在我身边。\n这只是时间上的问题，你终究会离开我。\n你有太多的朋友了，我对于你来说根本不重要。\n\n怎样的场景会触发边缘性人格障碍患者的“害怕被抛弃”呢？\n可以参考下图，来自同一篇文章[2]：\n\n常见的触发场景包括：\n\n真实的或者感觉到被对方拒绝，可能是亲密关系、朋友、或者家人。\n入院后被医院安排出院。\n治疗师要休假。\n在工作场所，得到负面的反…",
-          "link": "http://www.zhihu.com/question/34475323/answer/1899370884?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-05-24T05:30:08.000Z",
-          "wordCount": 212,
-          "title": "边缘型人格障碍患者如果遇到了他所认为的抛弃，会导致怎样的后果？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/19770753/answer/1862524459",
-          "author": "千翻儿娃",
-          "description": "总的来说，就是希腊神话体系！\n\n\n1988年8月10日发行，周刊少年JUMP特别篇集《圣斗士星矢 COSMO SPECIAL》里，介绍了《圣斗士星矢》的神话时代背景。\n\n\n\n『大圣战史』『超神话』等关键词，都是出自于这本刊物。\n\n\n前言\n《圣斗士星矢》里无论出现了多少神灵，始终都是以希腊神话为主轴在描绘。从宇宙的诞生之际到正篇之间，还发生了许多的事件。\n\n\n而这一切的明了，都是古拉德财团为了迎接必将到来的圣战，对世界各地的神话，遗迹进行调查后的结果。\n\n\n\n世界各地相传的神话，都是缘由超神话所发展出的分支。要辨明超神话，就要追溯到从远古时代就一直持续的圣战，大圣战史。\n\n\n万变不离其宗，圣斗士的神话体系，至始至终都是希腊神话为主。主线登场神灵，均是希腊神话人物。\n\n\n现实中世界各地相传神话，苏美尔文明，华夏文明，古埃及文明，古印度文明等，都有极大的相似度。\n\n\n按现实的传说来看，与其说是分支，不如说是神话传说的各种不同版本更为合适。\n\n\n但是分支的设定，则可以更自然的穿插其他神话内容进入。对于《圣斗士星矢》来说，这也许是最好的设定。\n\n\n\n正统篇故事之前，到底经历了什么？\n\n\n宇宙＆地球创世的时代\n\n\n由大爆炸所释放出的众神意志，与宇宙的碎片相撞，进而形成了天空闪耀的星星，形成了我们熟知的宇宙。\n\n\n而造就宇宙诞生的大爆炸，是因为时空之神克罗洛斯（即宙斯之父）有一定的关联。具体有何因果联系，不得而知。\n\n\n\n\n\n在被寄宿了神之意识星球中，其中的一个，也就是我们的地球上，最先形成了大地，其次形成了天空，海洋，以及诞生了生命。\n\n\n所诞生的生命，均以神之意志在进化，最终进化成人类，人间界正式诞生。\n\n\n由大爆炸向宇宙空间释放出的众神意志，到底从何而来，不得而知。\n\n\n众神时代\n\n\n在地球上，诞生的人类越来越多。此时，体内的众神意识，开始慢慢觉醒的人类出现了。\n\n\n如果以第七感的…",
-          "link": "http://www.zhihu.com/question/19770753/answer/1862524459?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-05-23T15:30:07.000Z",
-          "wordCount": 142,
-          "title": "《圣斗士星矢》中的众神体系是怎么样的？"
         }
       ]
     },
@@ -1510,6 +1627,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9737346",
+          "author": null,
+          "description": "壹心理，专业而有趣的心理服务平台，为大众心理健康提供解决方案。\n阅读原文\n\n没被夸大，只是被用错了。\n原生家庭的影响，就像一个人，一直觉得自己不舒服，很难受，却不知道是哪里痛，哪里有伤口，哪里曾经被人狠狠地打了几下，捅了几刀。\n我们本能的会去探究为什么会痛、会难过，问题究竟出在了哪里？\n有些人探索原生家庭的影响没用、甚至更颓废，是因为他们的探索是为了推责、开批判大会、找到人生问题的罪魁祸首。\n他们需要给自己一个理由：因为我原生家庭的 XX 问题，导致了我现在生活的不如意。\n进而，他们可以不为当下的生活与人生负责，不去努力和改变。\n毕竟对有些人来说，承担人生的责任与压力、努力改变，比忍受创伤和痛苦更可怕。 \n\n但如果探索原生家庭的影响不是为了逃避，而是直面过去的痛苦和创伤，进而理顺一团乱麻的、从未处理的各种情绪和故事，我们就能更好地面对未来的生活。\n那么，探索原生家庭的影响，具体都可以给我们带来怎样的改变呢？\n1.放下“不爱父母”自责和内疚\n在我们从小接受的教育下，孝顺和爱父母像是一个准则和道理，我们必须要做到。可对于很多人来说，这真的很难。\n我曾经有一个来访者小 J，她和父母的关系都一般，小时候父母常常争吵，重男轻女，也常常打骂身为女儿的她。\n现在她自己做点生意，经济状况是家里几个姐妹里最好的。\n父亲望子成龙却养出了一个没什么出息的儿子，还要求这个女儿能够对弟弟负起责任，带他做生意上路，以后可以自谋出路衣食无忧。\n来访者小 J 说，自己一和父亲说话就觉得父亲的情绪让她难以忍受。\n父亲就像个婴儿，他提的要求无论是什么总是要求别人必须去满足他：\n“我就算做一百件事，如果有一件事，没有做好，没有满足他的要求，他就会对我生很大的气，否定我、斥责我。”\n她和父亲不在一个城市，她不想给父亲打电话。因为一打电话，她就会觉得很难受。\n可是不打电话，父亲会责怪她不孝顺，家里亲戚也会对她有看法…",
+          "link": "https://daily.zhihu.com/story/9737346",
+          "publishedOn": "2021-06-22T23:07:17.000Z",
+          "wordCount": null,
+          "title": "这些年来，原生家庭的影响是否被过度夸大了？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737355",
+          "author": null,
+          "description": "邹钰莹，成都室内设计师Wechat：qiuku0512\n阅读原文\n\n有许多人都准备买房或者已经买了房子，对自己未来的家有一个大致的轮廓。第一次装修的朋友对装修更是一窍不通，装修需要注意的地方有很多，需要耐心的跟进装修进度。装修质量也直接关乎到今后的生活质量，所以我们在装修的过程中需要把好质量关，做好前期准备工作。那么装修前应该做好哪些准备工作?\n一．了解装修方式\n装修方式分为全包、半包、清包和套餐四种。\n1.全包是包工包料装修，所有材料采购和施工全部由施工方负责。是很省时省力的一种装修方式，但也是装修利润最大的一种装修方式。\n优缺点：全包相比于半包更贵一点。对于忙碌的上班族来说，是个省心的方法。设计、施工、选材都由一家公司负责，装修效果会更统一。不用管设计，也不用选购材料，但是有很多弊端。收费不合理，收费多，以次充好，偷工减料等。大多数上班族对装修材料价格、种类不了解，就算报多也不知道。所以，全包合同很重要，一定要看清楚。\n2.半包介于全包和清包之间，只负责施工和辅料，业主提供主料。\n优缺点：装修材料自己购买不用担心材料质量问题，但是要花时间跑材料市场，个人精力投入很多。主材提供不及时，有可能会延期施工时间。对装修材料不了解，也容易被建材商欺骗。\n3.清包是包工不包料装修，装修用的材料自己负责。\n优缺点：业主掌握主动权，施工环节自己把握。这种方式需要对装修材料和施工方面很熟悉，也需要了解材料市场行情。相当于整个装修必须亲力亲为。\n4.套餐装修就是套餐价格乘以建筑面积，得出最好装修费用。（含主材）\n优缺点：最大的亮点就是便宜，但很容易被套住，施工时有许多东西都不在套餐内，业主要拿钱贴上，隐形消费很多。\n二．协调好邻里关系\n开工之前通知邻居，楼上楼下，也好有个准备。因为装修的周期长，噪声大，对邻居的影响非常大。看有什么特殊情况，对工期进行调整，避开节假日和休息时间。\n三．了解材料市场，看装饰材料\n冒着小雨看材料\n逛建材市场时候尤其重要，记录装修知识，产品的价格或是厂商的联系方式，家里的设计，装修期间的花费等等，都要认真记录下来用作参考。最好是能记录下自己每一天的装修进度，花费情况，这样可以控制预算。要多考察新装修的邻居、朋友家的情况、了解材料市场，把握市场价格动态。\n四．了解装修公司、施工队、工作室\n1.装修公司\n装修工程比较系统化，业主省心，每个环节都有专业的人来负责，不会出现出现问题找不到人。装修公司接单量大，设计师对每个单子花的心思有没的工作室多。\n2.施工队\n施工队很多，一抓一大把。便宜当然是没得说，但设计根本发看。虽然主打施工为主、设计为辅。没有规范的施工要求，后期出现问题找不到人。\n3.工作室\n工作室是设计为主，施工为辅，或者不施工。有很多比较优秀的设计师个人开设的工作室，大都有着丰富的经验，注重美观度，风格大胆独特，对装修效果也很重视。每个项目都会负责到底，避免软装环节出现差错。对于追求生活品质的人来说，选择工作室是个不错的选择。\n五．与设计师出沟通\n1.给出详细的资料；家庭成员及年龄，职业，是否有老人，是否喂养宠物；\n2.功能需求及日常生活习惯；比如是否经常做饭、喜欢听音乐、沐浴、看书等等。多向设计师描述生活需求和状态，而不是告知设计师我想怎么做。把自己的需求、想法及与设计师的沟通结果用笔记本记录，便于后面回顾和总结以求在选择方案时做出平衡。\n3.确定一个大的方向。想要装出什么样的感觉，营造什么样的氛围。（例如严肃、庄重、亲切、大方、豪华、平实或妩媚、欢快、活泼等效果）。找一些自己喜欢的参考图，很多时候业主描述与设计师的理解并不会很默契的在同一个面上，所以图片是很直观的方式。 选择你喜欢的一个色彩，并不是说大面积应用这个色彩，设计师从色彩角度分析业主隐藏的一些需求。有利于之后的硬装和软装上面的设计，更贴合业主的喜好。\n4.对整体预算要有谱，预算的高低在一定程度上影响设计师能实现多少。一个好的设计方案是业主和设计师相互沟通配合完成的。业主与设计师，不仅是甲方和乙方的关系，更是合作关系。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737355",
+          "publishedOn": "2021-06-22T23:07:12.000Z",
+          "wordCount": null,
+          "title": "装修前应该做好哪些准备工作？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737364",
+          "author": null,
+          "description": "早知鸟，公众号：早知鸟飞行日记 写故事的地方\n阅读原文\n\n经过我在社会上多年的观察，我发现一个有趣的现象：在那些成功的精英人士当中，并不缺乏内向者，甚至内向的成功人士要比外向的成功人士数量更多，也就是说，性格不是成功的关键因素。\n比如商界名人当中，有马化腾、俞敏洪、张一鸣、马斯克；学术名人当中，过去有陈景润、和现在的北大数学天才韦东奕。\n这些名人的内向是众所周知的，也就是世人所认为的不善言辞，喜欢独处。但一点都不妨碍他们取得巨大的成就，不限于任何领域。大家可以通过查阅他们的百科或传记、演讲视频去了解一下，这里就不做赘述。\n在我看来，内向者的优势是完爆外向者的，核心在于你会不会利用好你的内向优势。你不需要去刻意改变自己内向的性格，因为人的性格是与生俱来的，刻意的改变往往会弄巧成拙，明智的做法是找到自己性格中的优势，然后扬长避短。上面列举的名人，无一不是学会了「扬长避短」。\n那么，内向者的优势是什么？\n一、有极强的延迟满足能力，可以专注做好暂时看不到反馈的事\n延迟满足是一项很强的技能，这一点内向者要比外向者表现得好。因为外向者的动力来自外界，比如外向者心情差的时候，会和朋友聚会、聊天、运动、打游戏，这些行为都属于即时回馈，付出就能得到回馈。比如叫一帮朋友去 K 歌，在 K 歌的过程中就能得到多巴胺的补充。所以，外向者更倾向于做那些能即时回馈的事情。\n内向者心情差的时候，通常会向内部寻找力量，比如独自在家看电视、阅读、整理房间、冥想等。这些行为得到的反馈并不明显，甚至在外向者看来就是一份苦差（比如整理房间），或者类似于修行，但在内向者看来，就是一种很好的放松方式。\n由于长时间的固定行为模式，内向者养成了更优秀的延迟满足能力，他们可以轻松地做那些「看起来乏味无趣的事情」，并坚持较长的时间。而这些基本都不能引起外向者的兴趣。\n比如学习这件事，我们都知道著名的学习金字塔理论，学习难度跟…",
+          "link": "https://daily.zhihu.com/story/9737364",
+          "publishedOn": "2021-06-22T23:07:06.000Z",
+          "wordCount": null,
+          "title": "在这个外向者更吃香的社会里，内向者拿什么做优势？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737370",
+          "author": null,
+          "description": "配方师Gigi，配方师/药学硕士\n阅读原文\n\n我屡次告诉大家，防晒或者粉底液其实很好洗，用 22 元的旁氏氨基酸洗面奶差不多就全部洗掉了。但仍然有妹子不放心啊，今天我搬出来实验室的几台仪器，用数据和图片说话，让大家眼见为实。\n左边的 HIROX 已经给大家介绍过，右边两个是德国 CK 公司推出的高科技皮肤测试仪器，能够准确量化测试皮肤的各种参数，如油脂、水份、黑色素、血红素、弹性强弱等，及时发现皮肤存在的各种问题。这三台仪器，加起来也价值小 100 万人民币了。\n\n一，多合一洁面产品能够洗掉底妆产品吗？-- 能！能！能！\n现在很多洁面产品都宣称具备卸妆功能，可以有效卸除防晒产品，以及粉底液，BB 霜，隔离霜等底妆，无需二次清洁。很多知友都想知道，这些产品，价格很便宜，超市开架货，真的能把底妆卸除干净吗？\n一般来讲，粉底液里面含有大量的粉体，比隔离霜，妆前乳，BB 霜，气垫 BB 等产品难洗。也是大家最担心卸不干净有残留的。我们拿蜜丝佛陀的粉底液当样板，这款粉底液热度比较高，价格不贵。并且算是持妆相对久的，也比较难卸妆。我们用碧柔的卸妆洁面乳来洗，给大家展示一下结果。\n 皮肤看起来平整，其实充满了纹理沟壑。颜色深的地方是毛孔。涂抹粉底液之前粉底液涂抹后，填充在皮肤的沟壑纹理。虽然局部放大有点恐怖，但皮肤肉眼看起来光泽匀净用碧柔卸妆乳洗完后，沟壑里的粉底液都被洗掉了。\n我还用相宜本草的芯净自然净妆洁面两用乳做了同样测试，结果也是一样。\n\n看到了吧？用卸妆洁面多合一的洗面奶，完全可以把粉底液洗干净。\n二 ， 卸妆洁面二合一产品把安耐晒小金瓶也能洗干净\n仍然有妹子问防晒霜能不能洗干净，理由是防晒霜用量大。于是再次挑战最高难度，我们找来了 2018 版的安耐晒小金瓶，号称防水耐汗，在脸上固若金汤。实验结果如下：\n涂抹安耐晒之前之前，皮肤的沟壑纹理涂抹安耐晒后，皮肤有轻微泛白和油光用碧…",
+          "link": "https://daily.zhihu.com/story/9737370",
+          "publishedOn": "2021-06-22T23:07:03.000Z",
+          "wordCount": null,
+          "title": "洗面奶和卸妆油，如果只用一个，能把脸洗干净吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737328",
+          "author": null,
+          "description": "如果我在大专期间获得了诺贝尔奖，能被保送研究生吗？\n\n大理想家，咨询请使用值乎，接收商业合作。其他请发邮件。\n阅读原文\n\n两个农夫聊天。\n“你说你要是当上皇帝了，你要干嘛？”\n“嘿嘿，那我得用金锄头锄地！”\n阅读原文\n\n香奈儿推出 AirPods 保护套，售价约 17300 元，有什么亮点？你愿意买吗？\n\nBohnaBohna\n阅读原文\n\n为了保护一个售价 1599 的 airpods pro，买一个 17300 元的香奈儿保护套。\n我提议，给这个 17300 的香奈儿保护套再做一个保护套，一定能大卖。\n阅读原文\n\n男生看到女朋友对自己撒娇是什么感觉？\n\n楚楚楚楚，喜欢吃肉还要减肥一路变胖\n阅读原文\n\n买，吃，好，行。\n阅读原文\n\n如何激怒一位俄语学习者？\n\n一松，学生\n阅读原文\n\n激怒？哈哈哈哈哈太天真了吧！\n\n\n您觉得我学了俄语还有脾气吗？\n\n\n\n阅读原文\n\n爸爸对我的网名头像发起了进攻，家长中意的到底是什么样的？\n\n杨雨欣，一条快乐的咸鱼\n阅读原文\n\n用敌人的逻辑打败敌人：）\n\n以胡扯对胡扯，以迷信对迷信！\n让对方无言以对\n\n今天看到一个更秀的朋友！放出来给大家观摩一下，大家快拿出小本本记重点！\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737328",
+          "publishedOn": "2021-06-22T23:06:56.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9737292",
           "author": null,
