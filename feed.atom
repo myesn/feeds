@@ -2,10 +2,299 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T01:12:03.077Z</updated>
+    <updated>2021-06-26T01:03:28.277Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Elasticsearch 架构选型指南：不止是搜索引擎，还有......]]></title>
+        <id>https://toutiao.io/k/j0yifcz</id>
+        <link href="https://toutiao.io/k/j0yifcz"/>
+        <updated>2021-06-26T01:03:28.237Z</updated>
+        <summary type="html"><![CDATA[Elasticsearch 架构选型指南\x26gt;\x26gt;]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 中后台领域低代码搭建设计与实践]]></title>
+        <id>https://toutiao.io/k/9mznc2m</id>
+        <link href="https://toutiao.io/k/9mznc2m"/>
+        <updated>2021-06-26T01:03:28.180Z</updated>
+        <summary type="html"><![CDATA[本文由杜诗晨在哈啰技术沙龙-大前端的探索与实践中分享，其讲解了低代码的概念和中后台领域的痛点，并展开描述了如何解决这些痛点的相关实践及未来规划。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过研究微信文章的相关推荐逻辑，尝试生成指南]]></title>
+        <id>https://toutiao.io/k/d5msguz</id>
+        <link href="https://toutiao.io/k/d5msguz"/>
+        <updated>2021-06-26T01:03:28.049Z</updated>
+        <summary type="html"><![CDATA[很多时候也许什么都没探索出来……]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 之最全面总结 Native 与 H5 的交互方式和 WebView 简单使用]]></title>
+        <id>https://toutiao.io/k/2748dn8</id>
+        <link href="https://toutiao.io/k/2748dn8"/>
+        <updated>2021-06-26T01:03:27.992Z</updated>
+        <summary type="html"><![CDATA[Native与H5交互详解-高手进阶]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 客户端网络预连接优化机制探究]]></title>
+        <id>https://toutiao.io/k/qjat7mv</id>
+        <link href="https://toutiao.io/k/qjat7mv"/>
+        <updated>2021-06-26T01:03:27.919Z</updated>
+        <summary type="html"><![CDATA[本文探索了TCP的连接复用机制，通过这个机制来提高Android客户端网络请求速度的原理与细节，同时分析解答了使用中的一些问题。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] Presto 在 Pinterest 的实践]]></title>
+        <id>https://toutiao.io/k/vpk0i80</id>
+        <link href="https://toutiao.io/k/vpk0i80"/>
+        <updated>2021-06-26T01:03:27.648Z</updated>
+        <summary type="html"><![CDATA[Presto at Pinterest]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝光了，清华计算机系最牛的课]]></title>
+        <id>https://toutiao.io/k/71s8fte</id>
+        <link href="https://toutiao.io/k/71s8fte"/>
+        <updated>2021-06-26T01:03:27.576Z</updated>
+        <summary type="html"><![CDATA[石头在清华上过最牛的课 —— 邓老师的《数据结构》，高山仰止，如沐春风。实力圈粉无数！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并发编程：Double-Checked Locking Pattern]]></title>
+        <id>https://toutiao.io/k/a3x8y4h</id>
+        <link href="https://toutiao.io/k/a3x8y4h"/>
+        <updated>2021-06-26T01:03:27.474Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucene 文档号收集器 DocIdSet]]></title>
+        <id>https://toutiao.io/k/qgzxv35</id>
+        <link href="https://toutiao.io/k/qgzxv35"/>
+        <updated>2021-06-26T01:03:26.906Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[localhost 就一定是 localhost 么？]]></title>
+        <id>https://toutiao.io/k/4w956kj</id>
+        <link href="https://toutiao.io/k/4w956kj"/>
+        <updated>2021-06-26T01:03:24.822Z</updated>
+        <summary type="html"><![CDATA[mohuishou 的 技术博客, 关注云原生, Go, K8s, Docker, 微服务等技术]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAQ：使用 Kotlin 进行 Android 开发]]></title>
+        <id>https://toutiao.io/k/9r2rg7u</id>
+        <link href="https://toutiao.io/k/9r2rg7u"/>
+        <updated>2021-06-26T01:03:24.664Z</updated>
+        <summary type="html"><![CDATA[自从 2017 年我们宣布支持 Kotlin 以来，收到了很多关于使用 Kotlin 进行 Android 开发的问题: 大家想知道现在是否适合学习 Kotlin，是否要在应用开发中引入 Kotlin，学习 Kotlin 的最佳课程或教程是什么，Google …]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特种兵能一脚踹死一个人吗？]]></title>
+        <id>https://daily.zhihu.com/story/9737474</id>
+        <link href="https://daily.zhihu.com/story/9737474"/>
+        <updated>2021-06-25T23:07:39.000Z</updated>
+        <summary type="html"><![CDATA[菲利普医生，野生外科医生/美短饲养者
+阅读原文
+
+谢邀，
+其实不需要特种兵，也不必用脚踹，没受过训练的普通人如果不注意也可能把人打死。
+而这种有可能致死的打击有个医学的学术专用词汇——心脏震荡（Cardiac Concussion）
+先来看一个病例：
+患者，男，39 岁，工人，2012 年 3 月 25 日，在砖厂搬运砖时因琐事与同班工人刘某发生口角，被同事劝开后刘某突然冲向王某猛击胸部两拳使其倒地，随即出现面色苍白，呼吸急促，手足抽搐，口吐白沫，约 20min 后在送往医院途中死亡。死后第 2 日对王某尸体进行了全面检验。体表见胸骨体中部及其左侧在 11.5cm×7.5cm 范围内有两处大小相近不规则皮肤出血。解剖见其下方对应处第 3、4 肋骨横行线状骨折，双肺表面散在性出血，心脏胸肋面和膈面以及心尖部心外膜均见散在大小不等出血点，最大 0.2cm×0.1cm，最小似针尖大。病理学诊断：（1）心外膜散在点片状出血；（2）双肺淤血、水肿，散在灶状出血。余未见明显异常。
+从法医的病理学解剖方面来看，软组织挫伤、肋骨骨折、包括心包膜的点状出血都算不上很严重的损伤。但病人最终死于心脏骤停。
+最后的法医诊断为心脏震荡引起的心脏骤停。
+心脏震荡有以下几个特点：
+1.心前区或前胸被打击过，伤后很快出现心前区疼痛、心律不齐甚至心脏骤停。
+2.被打击后很快晕厥、丧失意识，并在不超过 2 分钟内死亡。
+3.解剖发现心肌无损伤、仅见心外膜下少量点状出血。
+4.排除其他可导致心脏骤停的心脏基础疾病。
+那么我们回头看看《战狼 2》中，主角冷锋猛踹拆迁恶霸的那个镜头可见，恰好就是踹在前胸。
+
+虽然恶霸死前也口吐鲜血，应该有消化道或呼吸道的损伤（当然了也可能是为了艺术表现的需要），但显然这一脚引发的心脏震荡才更有可能是致死的主因。因为严重的呼吸道和消化道损伤不太可能短时间丧命。
+可能有些人也遭遇过心前…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中华文明对人类有哪些主要贡献？]]></title>
+        <id>https://daily.zhihu.com/story/9737458</id>
+        <link href="https://daily.zhihu.com/story/9737458"/>
+        <updated>2021-06-25T23:07:36.000Z</updated>
+        <summary type="html"><![CDATA[ag獭，好奇而无用的獭獭
+阅读原文
+
+历史上，中华文明曾有过许多领先世界的成就，定性分析其影响并不容易，不如定量列举先祖创造的重大成就和发明，看看如果没有这些成就，当下生活将会变得如何不同。
+
+*.全文约 3 万字，简略形式见图表。
+*.入选标准是具有区域性影响，或有足够独创性，处于领先水平的成就，为避免争议，仅选取古代，也就是鸦片战争之前的文明成就。
+*.中国古代很多发明是基于经验的，从 0 到 1 或者到 5 的发明，近现代西方则基于理论和应用需求，从 1 发展到了 100。同一个发明，在不同社会下起到的作用是不同的，但是不能就因此否定发明本身的重要性。人类史上许多看似简单的发明都是走了很多弯路才出现的，从 0 到 1，还真不那么简单。
+*.美国人罗伯特·坦普尔写过一本 The Genius of China: 3,000 Years of Science, Discovery, and Invention，中译名为《中国：发明与发现的国度》，总结了中国古代 100 项领先世界的发明发现。这本书内容有点老，部分事例有些牵强附会。下面列出的，都是比较之后确定的中国文明成就，一些成就属于中外分别独自产生，或者有争议，都会在介绍中注明。
+政经军事科层制政府
+明清时代传教士白晋绘制的中国官员
+随着国家规模的扩大，为了管理日益增长的人口，许多国家出现了专业的文士阶层，也就是官僚的前身。战国时期，君主为了扩大权力，更有效地掌控国家资源，任用法家变法，逐渐建立中央集权的政府。秦汉时期，中国的科层制集权政府走向成熟，现代官僚制的几大特点，如专业分工、层级体制、依法行政、非人性化、量才用人、长期任用，在当时的中国就已基本实现。
+可以说，在近代民族国家出现以前，中国的官僚制度远远领先同时代的任何国家，某种程度上，已经颇具现代国家官僚制度的格局。启蒙时代，随着儒家典籍的传来，西方知识界流行起…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美剧《权力的游戏》和小说《冰与火之歌》的剧情发展有哪些明显不同？]]></title>
+        <id>https://daily.zhihu.com/story/9737404</id>
+        <link href="https://daily.zhihu.com/story/9737404"/>
+        <updated>2021-06-25T23:07:31.000Z</updated>
+        <summary type="html"><![CDATA[李铁夫，干货不在回答里，在个人文章里。
+阅读原文
+
+冰火世界是一个庞大的世界，冰火的剧情线也是复杂交错的。 剧集相比于原著，已经进行了大幅度的精简，可是即使在精简的情况下，其人物关系、家族矛盾、历史恩怨仍旧让一些人理不出头绪。在这里，我就尽我所能说一说血色婚礼之后的北境线吧。
+首先带大家回忆一下这个时间点的情况。
+五件标志性事件
+第一.泰温之死。兰尼斯特家族在君临城外战胜了史坦尼斯，可是他们没笑多久，就发生了小恶魔弑父逃亡的事件。 泰温死后，瑟曦就作为摄政太后，开始了一系列作死行为。
+第二.血色婚礼。罗柏在孪河城遭受了人生中最后一次背叛，他和他手下的几千名北境士兵被杀害。卢斯·波顿因为参与了血婚，被兰尼斯特奖励成为新的北境守护。
+第三.铁民肆虐。在罗柏南下作战期间，铁民袭击了北境，占领了包括临冬城在内地多座城堡。此时铁民仍未离去，卢斯·波顿回到北境的第一件大事，就是要肃清铁民。
+第四.席恩受虐。席恩在临冬城穷途末路以后，被卢斯·波顿的私生子拉姆斯俘虏并虐待，这时候还作为臭佬被关在恐怖堡。
+第五.长城战役。长城外，曼斯雷德已经大军压境，守夜人给南方的五个国王都发送了信鸦，可是还没有收到任何回应。
+这几个重要事件剧集和原著是一致的，但是细节上有着些许的不同。尤其是这五件大事在剧集中被分为三、四两季，给人一种时隔很久的感觉。 但事实上，五件大事几乎是发生在同一时间段。 下面就说说具体的不同之处：
+最重要的一点！铁群岛的巴隆·葛雷乔伊这时已经死亡。在罗柏从奔流城前往孪河城参加血色婚礼的路上，就已经和身边的人谈及了巴隆的死亡。 而剧集里巴隆大王第六季才死，事实上第三季就应该死了。
+而巴隆大王死后，铁群岛立刻就举行了选王会，巴隆的二弟攸伦战胜了巴隆的女儿阿莎（剧集里叫 Yara）和巴隆的三弟维克塔利昂，成了新的铁群岛之王。 他一上位，第一件举措就是将铁民的主力部队撤离北境，转而去劫掠河…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一粒谷子不算谷堆，再加一点也不算，以此类推加到一万粒也不算，该如何解决这样的谷堆悖论？]]></title>
+        <id>https://daily.zhihu.com/story/9737467</id>
+        <link href="https://daily.zhihu.com/story/9737467"/>
+        <updated>2021-06-25T23:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Changkai Zhang，Theoretical Physicist
+阅读原文
+
+其实这是一个很好的问题，它背后所蕴含的逻辑和哲学远没有它表面看上去那么简单。诚然，你可以认为这是一个定义问题，因为你完全可以说这个”悖论“出现的原因是”谷堆“这个概念定义不清。但是，这样的说法其实有些过于简单了。
+我不知道有多少人小时候看到超市里的散装大米会有种想要把玩的冲动。不过如果你注意观察这些散装大米，你会发现它们的表面往往有很多不同的形状：
+散装大米的表面往往可以有各种不同的形状。图片源自网络，侵删。
+所以一个自然的定义“谷堆”的办法就是根据它的表面是否能形成特殊形状。这也是最符合我们常识的一种定义。所以你再想想看，是从第几粒米开始，这些散装大米的表面就开始出现这些形状了？是不是就没那么好解释了？
+当然，谷堆和大米在这里并不是一个非常好说明的例子。所以让我们换几个类似的问题，比如：
+
+一个水分子不算湖泊，若  个水分子不算湖泊，加一个也不能算。所以，究竟多少水才能形成湖泊呢？
+一个像素不算图片，若  个像素不算图片，加一个大概也无济于事。所以，从第几个像素起，我们可以将之称为图片了呢？
+
+我们来看湖泊的问题。沿用我们刚才分析谷堆的方式。湖泊表面是会形成浪的，而几个水分子或哪怕是几滴水（已经有
+
+这么多的水分子了）都是无法形成浪的。所以，我们的问题就变成了：从第几个水分子开始，这些水可以形成浪呢？
+可能令很多人意外的是，对这个问题我们至今都没有一个非常完善的理论解释，而对类似的问题的研究依然是物理学前沿的热点之一。物理学中我们叫它尺度问题或复杂度问题，核心就在于，很多系统在能标降低或尺度增加 (复杂度增加) 后，会有新的自由度出现。湖泊上的浪就是一个例子。湖泊里的每一个水分子都有自己的运动自由度。这些自由度通过互相的耦合，在有足够多的水分子的情况下，在大尺度上产生新的长波 (long-wavelength) 自由度。物理学中这样的例子很多。另一个例子是：如果你只有几个原子，那么它们大概是不能传递声音的，但是如果你有
+
+个原子，那么声波大概就可以在它们之间传播了。所以，声波也是在大尺度上一些介质产生的长波自由度。
+这种在不同的能标和尺度下存在不同的主导自由度 (dominant degrees of freedom) 的现象是现代物理学的研究重点之一。这种现象的重要特点是，当能标充分降低或尺度充分增加后，高能标和小尺度的细节会被屏蔽，只留下低能标大尺度的等效自由度。目前理论上能够使用的分析工具仅有基于路径积分的重整化群方法 (计算上倒是还有那么些)，该方法可以将高能标自由度给积分掉，只余下低能标的自由度。
+说回到这个悖论问题。这个悖论本质上表明了分析学的局限性。当我们研究的系统尺度发生明显变化时，有可能出现的大尺度结构是无法被分析学方法所捕获的。而如何通过理论或计算方法去连接相邻尺度下的主导自由度也是目前理论物理学家的工作重点之一。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价 6 月 11 日公测的《鬼泣-巅峰之战》手游？]]></title>
+        <id>http://www.zhihu.com/question/464092167/answer/1960966612</id>
+        <link href="http://www.zhihu.com/question/464092167/answer/1960966612?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-06-25T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[感谢 @知乎游戏  的邀请
+前言：大家好，我是《鬼泣-巅峰之战》（后续简称鬼泣手游）的制作人肥猫。项目自立项制作到现在已经过了3年时光，团队也从最初的100人扩展到现在的300多人，着实感慨颇多。近期也是终于开放了全平台公测，能够顺利将这部作品呈现给大家，我们内心是欣喜的。在此首先感谢各位对游戏始终如一的支持和喜爱，也感谢团队中所有人的辛苦付出，通过知乎这个平台，我也想和诸位聊一聊我对这款游戏的心里话。
+ 作为鬼泣手游的制作人，如何评价自己的游戏。我当然很想给他打100分，因为我了解这开发3年以来，游戏之中所包含的辛苦与努力。从无到有，优化调整，追进度改bug，就像呵护自己的孩子一般，从一次又一次的测试中见证它的成长。同时我也知道，它并不完美，但是我们希望通过自己的努力，让它变得更好，成为手机平台动作游戏中的佼佼者。最重要的，不负期待，不负鬼泣之名。
+
+ 能成功获得少年时最爱游戏的ip授权，还是和CAPCOM这种动作游戏领衔的公司合作，真的能让人感到热血澎湃。同时我也问了自己一个问题，“把鬼泣做成手游，应该做成什么样子？”还记得第一次测试之时，那一版的鬼泣手游还不能飞起来。我们靠着一腔热血做出来的游戏，就动作游戏而言它是合格的，但是唯独不是鬼泣，不能空中连段算什么鬼泣？于是我们进行了推翻重做，才有了现在的“皇牌空战”。
+鬼泣手游还不够完美，作为一个游戏行业从业者而言，它需要打磨的点还有很多。公测以来，我们收到了许多玩家的留言反馈。有的沉着冷静，有的言辞激烈，即便是做好了面对这一切的心理准备，依旧感受到我们需要做的还很多。无论是什么样的留言，都是来自鬼泣手游和这个作品系列的热情，目的都是为了让游戏变得更好。所以在此想说一句“请轻喷”，当然建议我们都会评估，还请给我们一些时间，去解决那些让大家感受不佳的问题。
+
+
+《鬼泣-巅峰之战》的诞生，我们到底做了哪些努力，借此机会也想和大家分享一下。
+鬼泣系列是一款主机游戏，要把这款大作搬到手机平台上，势必要根据实际情况进行取舍，还要面对许多突破式的挑战。
+
+ 对比同类型，鬼泣手游中一个角色的内容是非常的丰富，而且就技能而言，只要玩家获得了一类武器的某一个，那么武器所对应的所有技能就都可以去学习了，也可以通过各种武器的自由组合去实现更为华丽的操作，创造属于自己的连招，这一点是非常酷的。
+说实在话，单单就说还原《鬼泣》的战斗手感其实都是一个巨大的挑战，更不用说JC机制、踩怪弹反等特色战斗。市面上大部分手机动作游戏是没有跳跃的，而有极少数有跳跃的也没有《鬼泣》那样的踩怪JC机制。可以说在对标《鬼泣》原作操作的制作标准下，实际开发起来非常困难，涉及到很多的模块，我们需要不断的去优化调整。
+鬼泣手游并非是直接移植，我们在CAPCOM花了20年构筑的鬼泣大世界中进行填补，让手游的故事能够填补鬼泣世界观的空缺，也为粉丝们解答了许多设定上的未解之谜，比如“鬼泣3后维吉尔和但丁又发生了怎样的故事？”让我们的游戏真正成为鬼泣系列的新作。
+还有一点要说的是玩家体验方面，手游的推出让许多并不了解鬼泣系列的玩家到来，而游戏本身属于硬核向，所以在平衡新老用户的体验上做了很多功课。平衡新老用户主要是在保持机制的前提下做好数值的平衡，让老玩家能够玩的尽兴，同时新玩家也能体会到游戏的快乐。
+比如说我们注意到很多新用户在战斗时并不会按节奏和按键顺序来按，而是快速狂点一个按键，还有就是一直狂按输出，直到怪物抬手要攻击时又狂按闪避。我们按硬核动作游戏方式做的操作设计，反倒成了新的手游玩家体验不好的地方。所以我们在公测版本中修改了指令输入机制，还按照玩家的操作习惯把一些以前需要玩家自己学的技能放到初始技能里。这样新玩家在狂按一个键的时候也能按出实用的技能，在快要被揍的时候基本能及时闪开。
+未来，我们将陆续开放更多玩家之间有交互的玩法，更高画质的PC版也会上线。目前主线剧情、角色较少、游戏玩法较少、关卡难度偏低、新武器推出较慢等问题，我们一直都会关注，请相信我们会给各位一个满意的答案。
+
+ 最后，再次感谢各位对于《鬼泣-巅峰之战》手游的支持，希望大家都能拥有一段热血沸腾的猎魔旅程。恶魔猎人，永不止步！
+
+来源：知乎 www.zhihu.com
+肥猫
+点击下载
+85 个回答，查看全部。
+如果出一款鬼泣手游，你对它有什么期待？
+怪物猎人和鬼泣这种游戏在哪个软件下载？]]></summary>
+        <author>
+            <name>肥猫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云原生 CICD：Tekton Pipeline 实战]]></title>
         <id>https://toutiao.io/k/t2l8973</id>
@@ -2928,6 +3217,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[译] Data Mesh 的原则和逻辑架构]]></title>
+        <id>https://toutiao.io/k/fp0fgog</id>
+        <link href="https://toutiao.io/k/fp0fgog"/>
+        <updated>2021-06-17T07:54:48.000Z</updated>
+        <summary type="html"><![CDATA[本文通过列举Data Mesh的基本原则和这些原则驱动的高级逻辑架构，总结出了Data Mesh方法]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何看待《画江湖之不良人》第四季第10集？]]></title>
         <id>http://www.zhihu.com/question/464286335/answer/1944713574</id>
         <link href="http://www.zhihu.com/question/464286335/answer/1944713574?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -4668,83 +4967,6 @@ A：我们游戏内会考虑推出2种模式，困难模式和平静模式。
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价《画江湖之不良人》第四季第六集(上)和第六集(下)的《落花洞》？]]></title>
-        <id>http://www.zhihu.com/question/460592898/answer/1908616029</id>
-        <link href="http://www.zhihu.com/question/460592898/answer/1908616029?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-05-27T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[播，又来，我是舒。
-稀碎，稀碎，稀碎稀碎。
-刚刚上网看了一下片子，第6集拆分成6、7两集后，观感简直稀碎。那么多制作人员辛苦那么久，最终被不可抗力了，真的心里是很难受的。呈现出了问题，不论因为什么，导演全责。在这里也跟所有制作人员说一声对不起。既然必须拆分无计可施，就只能认了。本集是这十二集中，唯一一集没有讲述完整事件的，用来承上启下的集数，选择拆分这集也是因为这集内容相对其他集数完整度不是那么高，拆分开损失比较小，如果拆分后面的集数我真得去哭了。
-
-
-今天心情不好。。。。放点儿图吧，继续反馈音效去了，下回再聊。
-
-
-
-
-
-
-
-
-来源：知乎 www.zhihu.com
-橙子多
-点击下载
-63 个回答，查看全部。
-如何评价《画江湖之不良人》第四季第 1 - 2集？
-画江湖之不良人第四季到底哪里播放？]]></summary>
-        <author>
-            <name>橙子多</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价腾讯的 QuicksilverX 游戏引擎？]]></title>
-        <id>http://www.zhihu.com/question/24370165/answer/1907625072</id>
-        <link href="http://www.zhihu.com/question/24370165/answer/1907625072?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-05-26T15:30:08.000Z</updated>
-        <summary type="html"><![CDATA[原本文章转载在这里：
-专访腾讯北极光技术总监：自研引擎11年，我们只想创造「震撼」
-自己评价自己团队的工作有点怪怪的，所以说不上评价，就是在这个强相关的问题下，贴下最近的一个访谈，里面覆盖了最新的进展（到2021年5月），以及背后的一些思路。
-[ 下面是游戏葡萄原创专稿，以撒采访，经游戏葡萄允许转载]
-
-前几天的发布会上，腾讯在新增的技术探索环节，放出了《天涯明月刀》（下称天刀）的技术Demo演示。在这个短短56秒的视频被上传到B站后，许多弹幕的反应都相当一致——这是真的吗？不是画大饼？ 
-天涯明月刀引擎技术升级
-这种疑问不难理解，毕竟视频中展现出的视觉效果，在国内产品中几乎是不存在的。这种实体扫描的高精度已经很考验性能了，再加上基于光追的动态全局光照——注意，是动态——每一秒要渲染的计算量，放到电影制作中几乎都能耗费一整天时间。换句话说，这简直是要让引擎吃草挤血。
-想把这种画面大规模适配到游戏中，和做一段CG要花的力气可是天差地别。其背后的投入之巨大、过程之艰难，可能比拍摄顶级大片还不遑多让。
-如今，腾讯显然已经把技术研究放到了游戏业务的第一位。在种种选择下，天刀是怎么做的，又经历过什么？最近，葡萄君和腾讯游戏北极光工作室群客户端技术总监安柏霖聊了聊。在采访中，他解释了Demo中的核心难点，以及天刀项目组技术迭代的历程、技术选型与思路的改变。
-以下是经过整理的采访内容（与群访内容有所整合）：
-
-
-
-
-水面上的影视化「招式」，与支撑它们的「内功」
-葡萄君：这次的技术Demo用到了哪些技术？你们想通过它展示什么？ 
-安柏霖：这次的Demo，是为云上之城这张地图准备的。天刀基于我们自研的游戏引擎QuickSilverX开发，在这次技术更新之后，游戏品质进一步影视化。 
-我们可以把这个视频想象成一座冰山——分为水面以上和水面以下。水面以上有三种技术，从画面中就能看出来：基于光线追…]]></summary>
-        <author>
-            <name>安柏霖</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
 </feed>
