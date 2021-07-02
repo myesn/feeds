@@ -2,10 +2,568 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T01:09:32.818Z</updated>
+    <updated>2021-07-02T01:07:20.830Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[云原生部署之 Helm 最佳实践（下）]]></title>
+        <id>https://toutiao.io/k/o3mf5oo</id>
+        <link href="https://toutiao.io/k/o3mf5oo"/>
+        <updated>2021-07-02T01:07:20.800Z</updated>
+        <summary type="html"><![CDATA[这是《云原生部署之Helm最佳实践》的下部分。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把 Redis 当作队列来用，真的合适吗？]]></title>
+        <id>https://toutiao.io/k/3r6oq79</id>
+        <link href="https://toutiao.io/k/3r6oq79"/>
+        <updated>2021-07-02T01:07:20.724Z</updated>
+        <summary type="html"><![CDATA[Redis到底能不能当队列来用？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了解开互联网大厂秋招内幕，我把他们全面了一遍]]></title>
+        <id>https://toutiao.io/k/gnyklq3</id>
+        <link href="https://toutiao.io/k/gnyklq3"/>
+        <updated>2021-07-02T01:07:20.646Z</updated>
+        <summary type="html"><![CDATA[近期在和一些即将开始秋招的读者聊天的过程中，发现好多读者对于秋招还是不够了解，对各个公司的秋招招聘流程也不清楚。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓实现二次吸顶效果]]></title>
+        <id>https://toutiao.io/k/9fympf4</id>
+        <link href="https://toutiao.io/k/9fympf4"/>
+        <updated>2021-07-02T01:07:20.558Z</updated>
+        <summary type="html"><![CDATA[用最少的代码写出一个媲美京东二次吸顶的效果。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 类加载器：坑爹是我的特色]]></title>
+        <id>https://toutiao.io/k/gnxxx4b</id>
+        <link href="https://toutiao.io/k/gnxxx4b"/>
+        <updated>2021-07-02T01:07:20.468Z</updated>
+        <summary type="html"><![CDATA[面向小白的Java类加载器]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 原生线程池源码解析及使用建议]]></title>
+        <id>https://toutiao.io/k/gq4b7nx</id>
+        <link href="https://toutiao.io/k/gq4b7nx"/>
+        <updated>2021-07-02T01:07:20.391Z</updated>
+        <summary type="html"><![CDATA[线程池需要根据应用场景确认技术框架和调优方式。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] 改善 DaVinci Resolve 性能的 5 个秘诀]]></title>
+        <id>https://toutiao.io/k/6loeglu</id>
+        <link href="https://toutiao.io/k/6loeglu"/>
+        <updated>2021-07-02T01:07:20.308Z</updated>
+        <summary type="html"><![CDATA[​DaVinci Resolve 非常出色，这些特性将助你在即便没有一台顶配 Mac Pro 的情况下也能实现创意]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐 7 个牛哄哄 Spring Cloud 实战项目]]></title>
+        <id>https://toutiao.io/k/016vv4f</id>
+        <link href="https://toutiao.io/k/016vv4f"/>
+        <updated>2021-07-02T01:07:20.247Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动前端日常实习一二三面面经（Offer 还愿）]]></title>
+        <id>https://toutiao.io/k/lu4qgp2</id>
+        <link href="https://toutiao.io/k/lu4qgp2"/>
+        <updated>2021-07-02T01:07:18.073Z</updated>
+        <summary type="html"><![CDATA[时间线  
+
+  5.19投递简历 
+ 
+
+  5.20hr约一面 
+ 
+
+  5.24一面 
+ 
+
+  5.25中午一面通过，hr约二面时间。本来约的是6月1号，但面试官临时请假，改到了3号]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程师的成长]]></title>
+        <id>https://toutiao.io/k/dvque43</id>
+        <link href="https://toutiao.io/k/dvque43"/>
+        <updated>2021-07-02T01:07:16.470Z</updated>
+        <summary type="html"><![CDATA[我们都需要成长，工程师也不例外。以下是我感觉对工程师的成长比较有帮助的点，供参考。 要点 积累信用货币（先把手头的事情做好，再聊你想做什么） 提升影响力（注重输出；做能够影响更多部门/使用方的事，并把它做好） 把工作当成内部创业（多研究手头/部门的事情，寻找问题/机会，把其他部门当作潜在合作伙伴） 清楚自己的强项（将自己的强项和正确的事情结合起来，才能发挥最大的作用） 环境 与优秀的人共事（...]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 165 期）：全端 App 的时代]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html"/>
+        <updated>2021-07-02T00:19:51.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+重庆涪陵的一个水上乐园，制作了巨型棒冰，分发给游客。（via）
+本周话题：全端 App 的时代
+上周，微软发布了 Windows 11。最出人意料的是，它可以运行安卓 App！
+
+仔细想想也不意外，苹果去年推出 M1 芯片，所有的 iPhone App 现在都能在 Mac 电脑上运行。
+
+微软一定是看在眼里，急在心里，绝不能让 Windows 输给 Mac。所以，这次匆匆忙忙就支持了安卓。
+他甚至来不及做自家的安卓应用商店，用户必须先安装亚马逊应用商店（下图），才能用上这个功能。微软就是急到这种程度，宁愿白白用自己的最新系统为别人引流。
+
+我问大家一个问题：手机 App 可以运行在桌面电脑，对于软件开发有什么影响呢？
+显然，直接影响就是一条， 以后还有必要开发桌面版软件吗？ 除了少数桌面专用软件，其他软件只要让手机 App 适配一下电脑，就不用发布专门的 Windows 版或 Mac 版了。
+举例来说，Windows 运行微信，现在必须安装单独的 Windows 版，以后直接安装手机版可能就行了。对于用户来说，体验完全一致，不会有功能缺失；对于腾讯来说，可以少养一个团队，也不用操心跨平台移植的复杂性了。
+
+以前，所谓的跨平台软件，指的是一套代码可以到处运行，但是必须每个平台单独编译一次，Java、 Go、Electron 都是这样。现在倒好了，连编译都省掉了，同一个程序不用修改，直接跑在手机、平板、桌面电脑上面，简直是软件开发者的终极梦想和福音。
+所以，Windows 的这个新功能，使得手机 App 的市场一下子扩大到了桌面电脑，这尤…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
+        <id>https://css-tricks.com/?p=342994</id>
+        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
+        <updated>2021-07-02T00:02:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
+The setup is that you can use WooCommerce to sell things on a WordPress …
+The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不具有公共性的艺术还算艺术吗？]]></title>
+        <id>https://daily.zhihu.com/story/9737657</id>
+        <link href="https://daily.zhihu.com/story/9737657"/>
+        <updated>2021-07-01T23:07:05.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，爱因斯坦的斯坦。。。
+阅读原文
+
+这个问题其实是包含了好多问题。。。一个是艺术是不是需要强烈的个人风格，一个是可不可以不考虑公共性，一个是个人的艺术是不是产生于灵感的。
+艺术并不那么个人
+先说一下前者，现在有一个广为人们所接受的想法，就是艺术是一个很个人的东西，甚至是私人的东西。这大约和学院派式微，印象派的崛起和个人风格越来越受重视有关。但如果你放眼艺术史，会发现其实艺术在绝大部分时候，都是一个非常公共性的东西。
+比如古代西方，不用说，我们现在所谓的艺术家在那个时候都是工匠，雕塑和绘画上连名字都是没有的。这个情况大概一直延续到文艺复兴。更不用提古代艺术家的创作更是完全公共的作品，教堂的壁画，雕塑，古希腊的神像，都是服务于公共空间的。文艺复兴之后，服务于金主，公共性少了点，个人性大约是多了点，但也是有限得很。大概马上有人会说了，卡拉瓦乔，伦勃朗，都是很个人的艺术家，没错，但问题是他们可都是创造出新风格的人物啊，看看同时期其他艺术家，都是比较同质化的。我们学艺术史，都是节点式学习，就学那个跳变的一个点，导致我们脑子里的艺术史都是这一个个的闪光点，其实历史上 99.99%的艺术，都是在同质化的基础上有那么一点点个人的东西，我们眼睛里只看到了那 0.01%。相当于只有骨架，没有肉。直到印象派，艺术的主旋律，还是同质化的，不那么个人的。
+中国比较特殊一点，宋代以后，文人画开始流行，绘画变得个人起来了。文人画画，号称都是笔墨游戏，但这个个人只是创作心态上而言的，谈到笔墨技法，又是同质化。当然也有不少风格独特的艺术家，但还是那句话，那是 0.01%。。。至少在中国书画这个领域，你可能学这个学那个，你有你自己的路子，但那也是老路，不强调个人独创的风格。
+可以说在古代，公共性不说有多强吧，至少个人风格并不被鼓励。
+直到现代，忽然之间，艺术风格才得到了重视。每个人都在探索个人的风格，没有个人风格，大概就属于无聊的画匠了。到了当代，又没有人重视风格了，因为当代艺术范围之广，突出形式的艺术家越来越少了，可能还有草间弥生，杰夫昆斯之类具有鲜明形式特点的艺术家，但这只是无数当代艺术中的一小类罢了。
+当代艺术的公共性
+如果说形式和风格已经不是重点了，那么对于当代那什么是重点？你可以回忆一下，观看当代艺术展览，你看的是什么？你是不是在那疯狂猜，疯狂脑洞他到底是什么意思？
+所以啊当代艺术理念是最重要的，他的最终目的，是让你思考，并且思考个爽。为什么思考当代艺术会爽到？不是他风格多么独特，也不是他有多么好看，而是他表达背后理念的方式和过程，有能挠到你痒处的地方，有能戳到你小心心的地方。最终，这是一个理念的游戏。
+在以前，注重形式的艺术，只需要关注形式，人人都长了眼睛，好看的东西，大家都能看出来。但现在呢，理念就不是那么普适的东西了，每个观众的生活经历，知识，文化背景差别都巨大，对牛弹琴是常有的事情。公共性就体现在这里了，艺术品想要谈的东西，必须得考虑观众的接受问题。谈一个超级冷门的问题，没人知道，等于对着空气使力，所以得谈一个公共问题，批不批判先不说吧，也有走温暖路线的，不是说必须得批判。但讨论的问题如果太个人，别人得不到，等于不考虑观众了，也就是说有没有人看无所谓。我是严重怀疑这一点，哪怕梵高，这么自嗨的艺术，也是渴望观众的。或者说你仍然走纯形式路线？那这就过时了，老师大概是不会希望这样的，形式化的艺术路都被前人走尽了。
+艺术灵感
+最后一个问题就是所谓“灵感”不是持续的东西。灵感当然是有的，也是一瞬的，但把灵感变成艺术品，是一个需要极大耐心的，持续性思考的过程。
+如果看下面这个康定斯基画画的视频，你是不是觉得这是灵感喷薄而出的产物？好像也是没什么理由的？
+但其实不是的，这是康定斯基“唯手熟尔”的结果。他绘画一整套理论，慢慢形成《点线面》这本书，详细到你照着操作就能画出满满地都是康定斯基味的画来。这是长时间持续思考的结果，里面当然也汇聚了康定斯基无数个灵感的瞬间。但最终呈现出来的，就是视频这个样子，几乎不需要多加思考。
+包括梵高也是一样的，别看他画的好像很潇洒，其实都是他画废很多张之后出来的东西了。比如向日葵，据他的日记说，画了很多都不满意，反复雕琢，才出来他认为好的几张向日葵。
+当代艺术的很多“idea”，也是一样的。瞬间的灵感只是一个种子，要让这颗种子长大开花，成为最后的艺术品，需要细心的培育。同时因为当代艺术是一个理念的游戏，你就得对理念进行深入的思考，这是支撑起作品的内核，否则就只剩下一个形式的空壳，而形式对于当代艺术等于什么都没有。
+也有一些当代艺术作品是没经过仔细思考，就“看起来很当代”的那种，作者可能也没仔细想过。但这些一般都不是好的作品，或许偶尔瞎猫碰少死耗子出来一些好的，那也是随机事件罢了。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么小孩、 动物和水是电影界三大最难拍摄的元素?]]></title>
+        <id>https://daily.zhihu.com/story/9737645</id>
+        <link href="https://daily.zhihu.com/story/9737645"/>
+        <updated>2021-07-01T23:07:01.000Z</updated>
+        <summary type="html"><![CDATA[sydneyhugh，会跳高的父亲，理性的白痴
+阅读原文
+
+电影拍摄时的难度是可预见性。
+为什么是可预见性，另外组成可预见性有那些不可预见的因素影响。
+因为商业电影拍摄无论数字还是胶片大约在是一个 35mm 到 70mm 的胶片或感光元器件上记录下来拍摄的现场信息，拍摄完经历一系列处理最后与观众见面的是大屏幕。放大很多，所有的缺陷都会放大。
+另外电影是剪接的艺术，每次拍摄一段，然后进行拼接和剪接完成最后的整部电影，那么它们在成片前不同机位，机器不同时间拍摄的内容需要精密的控制技术参数便于无缝的再组合。不然一个正反打观众就觉得不一个环境，那就车祸出戏了（这就举个最最简单的小例子）。
+所以电影要求拍摄时的范围尽量变小，做减法，小到影响拍摄的可能性降至最低。所以拍摄范围也相对减小。
+电影演员除了表演外，最大的要求是自己的位置感，就是你被拍摄时，你与对应环境与人以及摄影机的位置关系。不然导演就要忙乎，让你在你的位置表演。这样看，孩子和动物对于这种所谓的位置感是很陌生的，有很多专业演员都做的不一定好（说个笑话，电影学院培养的演员一般位置感好，戏剧学院培养的演员则台词好，但动作过大，过于夸张，微表情差）。那么当然导演，摄影，灯光一大堆人就一通忙乎，重拍率就大大提高。
+我自己经历过多次拍摄动物，比如 speedo 的全球投放广告索普与海狮还是胶片时代，120 秒，我勒个去拍了一个月。海狮一会太配合，一会不配合，萌萌哒，气得你笑出来。国内拍七匹狼广告，狼是美国搞过来从小狼崽养起来的，拍完了都说再也不给自己惹这种麻烦了。因为要狼们按一个阵形跑，那简直就是用肉啊。吃多了不干活，吃少了乱动，四个机位最后拍摄周期太长直接上 6 机位了都。
+小孩。小孩的问题是过度表演。影像要求的自然，孩子一上场听到导演说开始，就如同打了鸡血一样的满脸诗朗诵的表情。结果呢？让表演回归自然等于上了一个月表演培训课。
+水。水的问题是各种反光，衍射，当连贯影像出来后一致性差。主要是不同条的一致性差。另外棚拍时候自然模拟的参数和感觉需要大量实验参数积累和模拟。难度在接触面的感觉。比如自然情况下下去 4-5 点的黄金拍摄期阳光，海与船体，岸边，以及船上人与物品的自然光反射模拟情况复杂。很多时候模拟可以完成，但自然特点不够理想。比如拍《甲午海战》，不同水质对于不同材质和重量的反应不同，结果呢？其实很车祸。
+国外有一些专门的小公司做动力试验，参数完整，拍摄时会外包购买。但不便宜。比如拍《太平洋战争》的制片，特指和摄指，其实出生都是原本部队的技术人员，退役军官。
+这一堆加在一起比如老虎，船，海，小孩，棚内，外景，前期参数与后期参数匹配，影像对位资料都加一起。是不是要吐血？
+当然没有什么不是一闭眼就能过的。关键还要看要求和标准了。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从概率学上看，输一把睡觉vs赢一把睡觉，哪个胜率更高一些？]]></title>
+        <id>https://daily.zhihu.com/story/9737644</id>
+        <link href="https://daily.zhihu.com/story/9737644"/>
+        <updated>2021-07-01T23:06:51.000Z</updated>
+        <summary type="html"><![CDATA[王小龙，陕师大数统院讲师
+阅读原文
+
+一个好好的数学问题为啥没人正经答题呢？
+先说结论：两种策略的赢率是一样的，但是赢率的波动性大小不同。
+假设你叫小明，玩一把游戏的获胜概率是
+
+，输的概率是
+
+，各局游戏相互独立，有两种游戏策略：输了就睡觉和赢了就睡觉。这就带来几个问题：
+
+什么时候能睡觉？
+胜率如何？
+如何稳赢？
+
+为了分析这些问题，定义随机变量
+
+和
+
+分别为采取"输了就睡觉"和"赢了就睡觉"策略玩游戏的总局数，那么由独立性条件可以得到概率：
+
+
+即前
+
+局连赢(输)，第
+
+局游戏第一次输(赢)的概率，这个分布称为几何分布。注意这两个分布具有对称性(把
+
+和
+
+对调，问题只是换了一种陈述）。
+问题 1：什么时候能睡觉？
+计算游戏局数的期望：
+
+类似地，由对称性：
+
+因此
+
+等价于
+
+，也就是说，如果小明的胜率
+
+，"输一把睡觉"能够更快地睡上觉。如果小明很菜，
+
+，采用输一把睡觉的平均游戏局数为
+
+也就是基本上玩一局就能睡觉啦。反之，如果小明错误的采用"赢一把睡觉"的策略，那么他平均需要玩
+
+，因此对于菜鸡来说，赢一把就睡策略的潜台词是我要通宵。
+问题 2：胜率如何？
+如果采取"输了就睡觉"策略反复玩游戏
+
+天，每天一共玩
+
+局，其中赢
+
+局，输
+
+局，那么总共赢了
+
+局，输了
+
+局，赢率为：
+
+其中我们用到了大数定律，大量样本的平均值趋向于期望
+
+如果采取"赢了就睡觉"策略反复玩游戏
+
+天，每天一共玩
+
+局，赢
+
+局，那么总共赢了
+
+局，赢率为：
+
+因此如果每天采取同样的策略玩游戏，长此以往，两种策略的赢率是一样的，都是
+
+。这类似于如果所有人都采用一直生娃，直到生出男(女)娃停止的生育策略，那么男女比率还是 1:1。
+问题 3：如何稳赢？
+现在小明有了三种游戏策略：a.只玩一把就睡觉，b.输一把就睡觉，c.赢一把就睡觉，上面我们推导出这三种策略的胜率都是
+
+。但是在现实生活中，这三种策略的实际胜率具有随机性，其波动大小并不一样。这就好比你有三种股票可以选择投资，它们的平均回报率可能都是 5%，但其波动性不同：第一种股票稳赚 5%，第二种股票可能赚 1%-%9，第三种股票可能赚 15%，也可能亏 5%，只是平均而言赚 5%。小明的人生只有一次，因此当他选择投资方式时，应该选择波动性较小或者风险较低的投资方式，甚至为较小的风险、牺牲一定回报率也是值得的。这也是为什么国债虽然利率低，但总是很抢手，因为风险极低。
+我们可以用胜率的标准差来衡量其波动性，假设小明是高玩(
+
+)，下图种展示了小明采取三种策略的胜率的均值和标准差，可以看到随着游戏天数增加，三种策略的平均胜率很快趋向于 0.9，但"输一把就睡"的 error bar 更窄，说明胜得更稳。
+
+相反，下图表明如果小明是菜鸡(
+
+)，采取赢一把就睡的策略，不仅能够爽玩，赢率也更稳定。如果小明的目标是提高胜率，那么采取输一把就睡策略，胜率的波动性更大，更有可能高到 0.15 以上，但也有较大可能低到 0.05 以下，如果小明兼有赌狗属性，也许会不理智地选择这种高风险策略。对于理性人来说，当平均收益(胜率)相同时，总是应该选择低风险的策略。
+
+总结：
+两种策略的赢率是一样的，对于高玩(
+
+)采取赢了就睡觉策略能更快睡上觉，但赢率波动性较大，反之对于菜鸡(
+
+)，采用赢了就睡觉策略更难睡上觉。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防晒口罩和普通口罩的区别在哪？是智商税吗？]]></title>
+        <id>https://daily.zhihu.com/story/9737635</id>
+        <link href="https://daily.zhihu.com/story/9737635"/>
+        <updated>2021-07-01T23:06:43.000Z</updated>
+        <summary type="html"><![CDATA[姚蔚铭，纺织品化学工程师（神秘职业） 纺织品问题请付费咨询
+阅读原文
+
+先说结论：防晒口罩就是智商税，并且还要额外收点生命税
+如果你想弄明白防晒口罩，那你一定要找我，因为只有我（姚蔚铭 纺织品化学工程师）才能给你讲明白。
+凡是大肆假科普真带货的文章，都会只和你提防晒口罩的防晒效果（UPF 值）,如果你知道防晒口罩是如何生产制造出防晒效果的，那你可能再也不愿意用了。
+插一句，防晒伞也是智商税“遮阳伞有必要买很贵的吗？”但防晒衣不是智商税“防晒衣是不是智商税？”，它们的防晒出发点并不一样。
+
+1.盲目追求 UPF 数值 毫无意义！
+正常的防晒功能根本不需要去实现，普通的几毛钱的一次性口罩就有足够的防晒效果了。如果没有，那他们的脸是如何晒成这样的？
+
+许多商家都在标榜自己的产品高 UPF 值，但根本不给你解释清楚什么是 UPF 值。
+
+其实这串八股文换成人话讲就是
+50 UPF=只有50 分之 1的紫外线可以通过
+30 UPF=只有30 分之 1的紫外线可以通过
+..........以此类推
+假科普真带货的文章，只会一味告诉你购买 高 UPF 值 的防晒口罩，其实高 UPF 值毫无意义。
+哪怕 UPF 只有可怜的 15（普通口罩水平），也能阻挡 93.3%的紫外线。
+因为我真的有设备直接测试（普通医用口罩）
+看似防晒口罩 UPF 50 和 30 差距很大，其实 UPF 50 换算过来就是紫外线穿透 2.0%，UPF 30 等于紫外线穿透 3.3%。
+差距根本不大，良心的讲，盲目追求 UPF 数值毫无意义。
+UPF 值详细分析参考这篇防晒衣是不是智商税？
+2.高防晒值的口罩是如何制作的？
+前面讲了，普通的口罩足以提供良好的防晒效果（日常出勤完全完全完全足够），但是“通过防晒产品的认证”要求是很严格的。
+要达到 UVA 透射率小于 5%，UPF 值大于 40
+因为中国防晒产品的标准基…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周芷若在荒岛上为什么不杀赵敏？]]></title>
+        <id>https://daily.zhihu.com/story/9737666</id>
+        <link href="https://daily.zhihu.com/story/9737666"/>
+        <updated>2021-07-01T23:06:37.000Z</updated>
+        <summary type="html"><![CDATA[宜柔，有的人之所以宝贵，是因为他们像风，永不停歇，谁也留不住。
+阅读原文
+
+这种说法不对。周芷若不仅打算杀了赵敏，而且实施了杀人行为。你想想，把一个中了十香软筋散之毒且处于昏迷状态的人扔进海里，这种行为本身就包含了致人死亡的高度盖然性。只不过赵敏运气太好了没有死，这不叫不杀赵敏，而是“欲达目的而不能”，周芷若构成故意杀人罪（未遂）。
+祝绪丹版周芷若
+至于为何不嫁祸谢逊，那是因为：第一，周芷若当时并不知道金毛狮王偶尔会发狂；第二，周芷若给所有人都下了十香软筋散，狮王本人也中了毒；第三，周芷若本人还出于嫉妒和嫁祸于人的目的，把蛛儿的脸划伤了，从这点来看，赵敏嫌疑最大，因为曾经赵敏在万安寺也是预备毁周芷若容的。而谢逊如果发了疯，何至于毁了蛛儿容貌，这点在逻辑上难以自洽。
+高圆圆版周芷若
+所以我想，你想问的是“为何周芷若没有手刃赵敏或者把她捂死、掐死，而是要让她被海水淹死”。这是因为周芷若什么都想要：一来她要报杀师之仇，赵敏对灭绝师太的死确实是有很大的责任；二来她想要婚姻，杀了正妻蛛儿后一定要有个嫁祸的对象；三来她想要张无忌的爱情，那么赵敏一定要带着满身污点去死。
+张敏版赵敏，搭档是黎姿，黎姿目前是唯一个既演过周芷若又演过赵敏的演员，但这个版本的周芷若其实是周芷若 + 朱九真。
+四来倚天屠龙的秘密只有她知道，而赵敏持有倚天剑，又是朝廷的人，自然应该嫁祸赵敏；五来当时岛上只有他们 5 个人，谢逊和张无忌情同父子，正房蛛儿又病入膏肓，那么最适合嫁祸的那当然是赵敏了，而且赵敏本人太聪明了，只要赵敏没死，那么她一定会输。概言之，在周芷若的计划里，赵敏必须是背锅侠，也必死无疑，还要死得其法。
+陈钰琪版赵敏
+那么为何不能把赵敏掐死、闷死，或者砍死呢？那是因为若趁赵敏昏迷掐死或者闷死她，然后扔进海里喂鱼，貌似是安全了。可如果一旦海浪把赵敏尸体带回来，张无忌很容易就会发现赵敏在落水之前就死了，因为如果是淹死的，肺里面不可能没有水，肺里没水就说明赵敏一定是被弄死了再扔海里的。
+贾静雯版赵敏
+砍死赵敏后再扔水里也同理。问题关键在于周芷若要让张无忌恨赵敏，那她就要“制造”出一个无比阴毒的赵敏，让众人觉得是赵敏意图下毒夺刀杀人。如果赵敏尸体被海浪冲回来，她倒是可以推说赵敏是因为遇到波斯船队被砍杀而死。但只要找到波斯人对峙，谎言就会被戳穿，同时因为她想要张无忌的爱情，她需要维持一种楚楚动人、无依无靠的人设，所以她不能冒这个险。
+黎姿版赵敏
+所以，对于当时啥都想要的周芷若来说，最万无一失的万全之策就是直接让吃了十香软筋散的赵敏沉入大海。那时候，由于死人不会说话，即使赵敏的尸体被海浪冲上了岸，所有人也都只会觉得赵敏是“自作孽不可活”，那时候周芷若想要的婚姻、爱情、掌门人、教主夫人，还有武功艳压群雄、找到完美替死鬼、为师父报仇等目标都可以实现了。
+佘诗曼版周芷若
+当然后来周芷若千算万算也没想到：孤岛上忙活了一通下来，蛛儿没死、赵敏被救起，谢逊也知道了孤岛事件的真相，自己机关算尽、寻死觅活、一哭二闹三上吊谋来的姻缘，就这么成了笑话。也可以说是人算不如天算，苍天有眼了。
+叶童版赵敏和周海媚版周芷若
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9737670</id>
+        <link href="https://daily.zhihu.com/story/9737670"/>
+        <updated>2021-07-01T23:06:29.000Z</updated>
+        <summary type="html"><![CDATA[为什么有些人认为“不要跟律师谈恋爱”？
+
+刘泽枫，谈笑怼鸿儒，往来干白丁。懂王刘大律师v：zefeng03
+阅读原文
+
+因为谈恋爱没有法律效力，一般都是建议跟律师结婚
+阅读原文
+
+南方人在北方生活，有哪些搞笑的事？
+
+知乎用户，泥萌能不能自己独立完成作业？
+阅读原文
+
+讲个笑话吧。黑龙江这里，入冬之后，人们说气温的时候是不加“零下”俩字的，默认就是零下。有一年冬天，一个广东老板，第一次来哈尔滨玩，晚上下飞机直接坐车到酒店，没觉得冷。第二天早上问大厅前台，今天气温多少呀。前台说，22度。老板穿个短袖就出去了……
+阅读原文
+
+你爸妈刚用支付宝时闹出过什么笑话吗？
+
+知乎用户，家庭煮夫
+阅读原文
+
+我来说一个，我妈刚学会蚂蚁森林的时候，每天早上定时给我扔大便，定时，定点，每天，我一开始以为这是她俏皮的跟我打招呼的方式，直到春节回老家提起，她说，难道扔大便不是在给我的树施肥吗？她一直以为我的树是她扔大便施肥长大的！
+阅读原文
+
+如何用一张图证明你看过《权力的游戏》？
+
+知乎用户
+阅读原文
+
+
+
+
+阅读原文
+
+被男生强吻是一种什么样的体验？
+
+铁拳森林，出口贸易行业里最沙雕的男人
+阅读原文
+
+我以为我这么帅她不会报警
+
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS for Web Vitals]]></title>
+        <id>https://css-tricks.com/?p=343637</id>
+        <link href="https://web.dev/css-web-vitals/"/>
+        <updated>2021-07-01T18:54:45.000Z</updated>
+        <summary type="html"><![CDATA[The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …
+The post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Platform on Digital Ocean]]></title>
+        <id>https://css-tricks.com/?p=342591</id>
+        <link href="https://css-tricks.com/app-platform-on-digital-ocean/"/>
+        <updated>2021-07-01T18:54:12.000Z</updated>
+        <summary type="html"><![CDATA[This is new stuff from DO.
+App Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …
+The post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价《明日方舟》新六星卡涅利安？]]></title>
+        <id>http://www.zhihu.com/question/461539120/answer/1920212609</id>
+        <link href="http://www.zhihu.com/question/461539120/answer/1920212609?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-01T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[粗略地做了个卡涅利安的评测视频。她的定位是环法，常态高防，不开技能可以用作嘲讽吸引伤害，开技能时也有极高的DPS，清场秒人两不误。而且谁能拒绝埃及风小姐姐呢（
+
+第二个评测视频出来了，6人H7-4卡姐伤害测试，有兴趣可以移步观看
+
+来源：知乎 www.zhihu.com
+Yuro
+点击下载
+67 个回答，查看全部。
+明日方舟新人求指点？
+明日方舟保底抽到个陈，我哭了，陈现在是不是太弱了？（我有煌和银灰了）？]]></summary>
+        <author>
+            <name>Yuro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator]]></title>
+        <id>https://css-tricks.com/?p=343092</id>
+        <link href="https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/"/>
+        <updated>2021-07-01T14:40:14.000Z</updated>
+        <summary type="html"><![CDATA[If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.
+
+Clicking the button above lets me (or you!) instantly …
+The post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Cassidy Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them]]></title>
+        <id>https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/</id>
+        <link href="https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/"/>
+        <updated>2021-07-01T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价《画江湖之不良人》第四季第十二集？]]></title>
+        <id>http://www.zhihu.com/question/467933480/answer/1972409154</id>
+        <link href="http://www.zhihu.com/question/467933480/answer/1972409154?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-01T11:30:07.000Z</updated>
+        <summary type="html"><![CDATA[终于快迎来结局了，其实最后一集片子的音效我现在还没完全通过，今天少说点，得赶紧去工作啦。下周最后一更多写，写一堆。
+
+
+先感谢赵梦娇小姐姐（蚩梦/鲜参 CV）。
+
+
+《花腰带》这首歌早先其实并没有安排两个版本，她唱的版本是后来加的。原因是这首歌成品出来后，我总觉的鲜参年轻的时候一开口是原生态腔有点儿奇怪，因此才有的《花腰带》CV版。
+
+
+这首歌是没有报酬的，咱娇姐送的！当然饭是管的，我记得录完歌请她吃了顿火锅……
+发布的歌曲中是没有最后一段弦乐的，是因当时做片子时我觉得空所以后加的。
+12集草配
+（很早以前拍摄的，请忽略我给鲜参草配的台词。制作镜头时没有最后的这段弦乐，我只能一边剪辑一边嘴配，贼逗。最后出片子前再交给毛亮老师按我嘴配的加了这部分。其实有时候剪烦躁了，连音效我都嘴配……叮咣咚唰的。这里顺便给自己邀个功，不良人4是我配音的处女作，哈哈哈！基本上旧部打斗那些喊叫奸笑都是我跟镜头导演任伟杰配的，第五季的导演也被我拉过来配过群杂角色——不过群杂里的男一，绝对是我！）
+本集略有些伤感，李偘、李星云他们也做了该做的事——正所谓，我不入地狱，谁入地狱。蚩离、鲜参也完成了他们这一辈人该做的事，弥补了当年犯下的错误。本季最终结局下周就要来了，我这里关于剧情也不多讲了，每个人看剧时都会有不同的感受，其实就我个人而言我倒是没有觉得很虐，但杨磊大大就觉得虐，还发了微博强调这个事。。。。。总之，喜欢看的小伙伴们就请继续看吧。
+下周主要说一下蚩梦的情感线，以及这个人物的由来等，包括尤川的问题，会一并聊。
+最后，百年荣光，普天同庆。
+但任重而道远，吾辈当自强，祝祖国繁荣昌盛 ！ 
+
+来源：知乎 www.zhihu.com
+橙子多
+点击下载
+119 个回答，查看全部。
+如何看待《画江湖之不良人》第四季第10集？
+如何评价《画江湖之不良人》第四季第9集？]]></summary>
+        <author>
+            <name>橙子多</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年高考生想选心理学专业，好找工作吗？工资多少？就业方向和就业前景怎么样？]]></title>
+        <id>http://www.zhihu.com/question/459989284/answer/1971264035</id>
+        <link href="http://www.zhihu.com/question/459989284/answer/1971264035?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-01T05:30:09.000Z</updated>
+        <summary type="html"><![CDATA[学心理学的人，毕业之后能做什么工作？
+都去做心理咨询师么？当然不是。
+继续做科研？可以呀，但也当然不是唯一的选择。
+《心理学职业发展手册》，由北京师范大学心理学部社会实践队出品，自2015年起，深度访谈在社会各领域心理学人，讲述生涯故事，希望全方位介绍心理学专业毕业生在毕业后可选择的职业方向与行业情况。
+学堂君在这个回答下面重新发布一下手册的完整目录，供心理学生或即将就读于心理学专业的同学翻阅了解。
+高校教师
+
+在我国高校中，高校教师一般分为教学科研、工程实验员和行政管理等几类岗位。本节聚焦于承担教学科研任务的高校教师。
+有别于在研究院所中开展研究的科研工作者，高校教师一般需要承担科研和教学两方面的任务，发展过程中，还可能兼任系主任、副院长、院长等行政工作。除本专业外，心理学背景的科研工作者还广泛活跃于教育学、教育技术、行为经济学、人力资源管理、公共管理等院系部所。
+详见：当学心理的人留在高校成为教师 | 心理学职业发展手册 
+用户体验
+
+用户体验是用户在使用产品的过程中感受的总和，通俗来讲就是“这个东西好不好用、方不方便”。用户体验行业旨在为用户解决基本功能问题，提升产品的使用感受，满足用户的情感诉求。用户体验针对的产品不局限在实物，也包括虚拟产品，比如手机应用、服务等等。目前，各种各样的行业都已经逐渐意识到了提升用户体验对于产品开发与推广的重要性，并在公司内设立相关的部门。
+详见：学心理的人“让产品更好用” | 心理学职业发展手册 
+市场研究
+
+市场研究公司是专业从事市场研究、市场调查、营销研究、满意度调查的专业公司。根据全球市场研究者协会的定义，市场研究公司接受其他组织的委托，为委托方需要进行的决策收集信息并进行专业性的研究活动。包括设计收集信息的方法、收集并管理数据、分析数据、得出相关结论等等。和战略咨询公司相比，市场研究公司偏重于科学、有效地收集中立的市场信息并作…]]></summary>
+        <author>
+            <name>京师心理大学堂</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10+ 款 Redis 容器化技术选型对比，K8S 并非万金油]]></title>
         <id>https://toutiao.io/k/d98hw5o</id>
@@ -6661,142 +7219,6 @@ IP价值将达468亿元，阴阳师这款游戏还有哪些深挖潜力？
 如何评价《画江湖之不良人》第四季 第 4 集？]]></summary>
         <author>
             <name>橙子多</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
-        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
-        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
-        <updated>2021-06-02T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
-        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
-        <updated>2021-06-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-21欧冠回顾：我们是怎么来到这个地方的？]]></title>
-        <id>http://zhuanlan.zhihu.com/p/376912709</id>
-        <link href="http://zhuanlan.zhihu.com/p/376912709?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-02T05:39:03.000Z</updated>
-        <summary type="html"><![CDATA[献给：欧洲之王切尔西和这个夏天
-
-
-一、
-
-
-谁是爱德华·门迪最感谢的人？
-
-如果没有凯帕19年联赛杯决赛的“教练门”，也许兰帕德不会对他忍无可忍（我知道时任教练是萨里，但教练门确实是凯帕丢掉主力的导火索），如果没有球队顾问切赫的铮铮荐言，也许门迪根本没有机会踏进蓝军的大门。
-
-
-这名塞内加尔的黑人守门员的足球之路相当坎坷：上过业余足校，踢过法甲第4级别联赛。6年前失业靠领救济金勉强维生，甚至一度准备退役，转行做一名男装导购员。
-
-
-假如生活欺骗了你，不要悲伤，不要心急。  
-忧郁的日子里需要镇静。  
-相信吧，快乐的日子将会来临。
-
-
-俄国诗人普希金的名句是如此的发人深省。
-
-
-即便在那最黑暗的，怀才不遇的，穷困潦倒的日子里，门迪也没有放弃自己的“足球梦”。他依然如此勤勉，如此虔诚的从事着这项运动。
-
-
-终于，去年9月，命运迎来了转机。凯帕的自大给了门迪一个前所未有的机会，成为英超豪门切尔西的一员。而他也不负众望，赛季9场欧冠零封，追平了卡西利亚斯的纪录，并列历史第一。要知道：这才是门迪欧冠处子季的表现。
-
-
-当终场的哨响，门迪捂着脸长跪不起，这是一种巨大的释放。当梦想实现时，它可以是激昂的，可以是肆意的，可以是奔跑，也可以是拥抱的。
-
-
-而对于爱德华·门迪来说，此时无声胜有声。
-
-二、 
-
-
-欧冠决战开始前不到24小时......
-
-
-塞萨尔·阿兹皮利奎塔（下文统称AZP）在例行采访环节时表示“我很自豪能和切尔西一起前进，这是一次巨大的机会，蓝军时隔9年重返欧冠决赛。不幸的是，2012年的时候我还不在这里。所有这一次，我想要抓住机会......”
-
-听听这字里行间的情感，这难道不是足球版的“重铸蓝军荣光，吾辈义不容辞”？
-
-
-还记得2012年的夏天，这位马赛少年初入蓝军的样子。当时AZP在球队更衣室的黑板上写下了自己拗口的名字。然后他的队友们花了很长的时间才学会如何正确…]]></summary>
-        <author>
-            <name>海布里de酋长</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.06.02 今天是每日时报陪伴您的第 568 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/06/02.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/06/02.html"/>
-        <updated>2021-06-02T02:17:51.000Z</updated>
-        <summary type="html"><![CDATA[2021.06.02 今天是每日时报陪伴您的第 568 天
-[文章] 精读《低代码逻辑编排》的社区讨论：https://github.com/ascoders/weekly/issues/319
-[文章] 腾讯面向开发人员梳理的代码安全指南：https://github.com/Tencent/secguide
-[工具] listemoji 方便开发人员查找与复制 emoji 的网站：https://listemoji.com/]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 有赞 TCP 网络编程最佳实践]]></title>
-        <id>https://toutiao.io/k/a7bxrhs</id>
-        <link href="https://toutiao.io/k/a7bxrhs"/>
-        <updated>2021-06-02T01:15:33.915Z</updated>
-        <summary type="html"><![CDATA[概述 本文是根据有赞中间件团队多年的TCP网络编程实践经验总结而来，目的是为了避免应用因各种网络异常而出现各种非预期行为，从而造成非预期的影响，影响系统稳定性与可靠性。 本文不会涉及TCP的各个基础知识点，主要是总结一些TCP网络编程实践中可能碰到的一些问题，以及相应的经过实践验证的解决方案等。虽然本文档很多细节主要是针对于Linux系统，不过，大部分建议适合于所有系统。 本文共总结了16项建议，下面逐一进行介绍。 1. 服务端监听设置SO_REUSEADDR选项 当我们重启服务端程序的时候可能会碰到“address already in use”这样的报错信息，即地址已被使用，导致程序无法快速成功重启。老的进程关闭退出了，为什么还会报地址已被使用呢？ 我们先来理解如下两点：   TCP连接主动关闭方存在持续2MSL的TIME_WAIT状态；   TCP连接由是由四元组<本地地址，本地端口，远程地址，远程端口>来确定的。 我们先简单回顾一下TCP连接关闭过程中的TIME_WAIT状态，如下所示： （图片来源：...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI冠军战RNGvsDK万字全复盘：巅峰对决方显强队本色，团队对抗下的全面胜出]]></title>
-        <id>http://zhuanlan.zhihu.com/p/376069707</id>
-        <link href="http://zhuanlan.zhihu.com/p/376069707?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-01T16:15:07.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是尹天，这里是经典的万字全复盘系列。
-首先，还是要恭喜一下RNG，在历经五局鏖战后，战胜强敌DK的他们时隔三年后再度捧起了MSI冠军奖杯。在我看来，这是尤为典型的团队胜利，队内每个人都在发挥自己的作用，每个人都为了胜利而发挥出了自己的最强水平，每个人在这场比赛中都具备世界第一流的水准。
-反观DK，除开BP以外，DK今天每个点都有问题，边路轮流给机会，作为核心的中单选手ShowMaker在后两局出现有明显下滑，整体的团战表现也完全不如RNG。尤其在团队稳定性上，DK真的太不稳定了。谁都没有想到，一个MSI打下来，被讨论最多的游戏不是LOL，而是原神。
-不多说了，进入正题。我们略写1、2局，详写3、4、5局。网页端我尽量添加目录功能，若页面不支持大家可以搜索“第X局”进入对应局数复盘，手机端请加油滑进度条。
-
-第一局
-一、先看BP
-
-
-
-1、第一轮BP
-第一局，DK率先在红尝试放卢锡安。
-今晚在BP上，蓝色方一定是比红色方好做的，因为红色方要承担的版本强势角色太多了。所以双方比的就是谁能在红色方实现破蓝，通过开OP英雄后的轮次计算，达到利用红色方一二两手连选的优势，并且在第五手实现counter。
-这里有趣的是，DK对盲僧+鳄鱼的重视度明显高于RNG，这一点也在后续RNG来到红色方后被证实是正确的。
-DK特地放出UD，给到RNG组强势中野的机会。原因就是DK认为这一手卢锡安大概率是上单xiaohu使用，如果走中那么很容易出现菜刀队的情况。所以他们也相对的在第三手拿出塞恩，意图就是“我要上路抗压”。
-
-
-2、第二轮BP
-所以，DK第二轮ban中，把强势的梦魇和发条按掉。RNG也ban中，因为DK有第五手counter位，不能把一些强势的中单给到RNG。
-在这里，RNG已经明显的露出了想要把卢锡安转中的意图，尤其是维克托这一手。这一手是比较好抗卢锡安的法师，ban维克托，…]]></summary>
-        <author>
-            <name>尹天</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
-        <updated>2021-06-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
