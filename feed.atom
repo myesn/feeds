@@ -2,10 +2,555 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T01:09:26.534Z</updated>
+    <updated>2021-07-07T01:09:42.691Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ItemCF 的演进：狭义 VS 广义]]></title>
+        <id>https://toutiao.io/k/fbscufi</id>
+        <link href="https://toutiao.io/k/fbscufi"/>
+        <updated>2021-07-07T01:09:42.518Z</updated>
+        <summary type="html"><![CDATA[经久不衰的ICF演化史，你了解多少？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重温设计模式之 Factory]]></title>
+        <id>https://toutiao.io/k/1zift50</id>
+        <link href="https://toutiao.io/k/1zift50"/>
+        <updated>2021-07-07T01:09:41.870Z</updated>
+        <summary type="html"><![CDATA[工厂模式对比。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发中的坑（二）：MQ 也能做 RPC 调用？]]></title>
+        <id>https://toutiao.io/k/jotbtu7</id>
+        <link href="https://toutiao.io/k/jotbtu7"/>
+        <updated>2021-07-07T01:09:41.764Z</updated>
+        <summary type="html"><![CDATA[RPC 框架来做服务间调用，而选择用 MQ 来代替。是不是很意外？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobar 源码分析之 AST]]></title>
+        <id>https://toutiao.io/k/00qvkkd</id>
+        <link href="https://toutiao.io/k/00qvkkd"/>
+        <updated>2021-07-07T01:09:41.655Z</updated>
+        <summary type="html"><![CDATA[Cobar源码分析系列之抽象语法树]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分布式事务如何解决？一次讲清楚]]></title>
+        <id>https://toutiao.io/k/fcm5li4</id>
+        <link href="https://toutiao.io/k/fcm5li4"/>
+        <updated>2021-07-07T01:09:41.576Z</updated>
+        <summary type="html"><![CDATA[干不干 你说了算？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国 39 所 985 工程大学都在哪里？Python 动态图帮你盘点]]></title>
+        <id>https://toutiao.io/k/yysa8ut</id>
+        <link href="https://toutiao.io/k/yysa8ut"/>
+        <updated>2021-07-07T01:09:41.512Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年 5 月大厂面试总结]]></title>
+        <id>https://toutiao.io/k/jzi9mfx</id>
+        <link href="https://toutiao.io/k/jzi9mfx"/>
+        <updated>2021-07-07T01:09:41.388Z</updated>
+        <summary type="html"><![CDATA[本文 9793 字，读完需要 30 分钟左右，适合在早高峰拥挤的地铁中阅读！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有大厂的命，得了大厂的病]]></title>
+        <id>https://toutiao.io/k/l96isr0</id>
+        <link href="https://toutiao.io/k/l96isr0"/>
+        <updated>2021-07-07T01:09:41.184Z</updated>
+        <summary type="html"><![CDATA[活人还能让尿憋死？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试高频题：讲讲项目中的技术难点？]]></title>
+        <id>https://toutiao.io/k/f1ktph1</id>
+        <link href="https://toutiao.io/k/f1ktph1"/>
+        <updated>2021-07-07T01:09:41.107Z</updated>
+        <summary type="html"><![CDATA[有遇到过么？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么植物土培时浇水太多会烂根，而水培了反而就不烂根？]]></title>
+        <id>https://daily.zhihu.com/story/9737835</id>
+        <link href="https://daily.zhihu.com/story/9737835"/>
+        <updated>2021-07-06T23:08:02.000Z</updated>
+        <summary type="html"><![CDATA[鑫波和他的小鱼干，你觉得我是鑫波？ 不，我是他的小鱼干！
+阅读原文
+
+土培条件下，淹水会使土壤通气性下降，根际氧含量降低，土壤氧化还原电位过低。土壤氧化还原电位太低，土壤有机质分解变慢养分供应能力会下降，嫌气分解产生大量有机酸会抑制根系呼吸作用。土壤长期的低氧化还原电位还会使 Fe、Mn 有效性增加造成根系毒害，硫化氢和丁酸积累也会抑制根系生长。根系长期生长受抑制，长期被毒物毒害，就会造成细胞坏死、凋亡，呈现出黑褐色的烂根症状，俗称淹水沤烂。
+水培条件下，营养液的成分通常简单，没有过多复杂的土壤有机物，只有必须的大量、中微量矿质营养。而且水培是要换水的！水培是要换水的！水培是要换水的！水培通常三到五天就要换一次水，不然水会臭，会有藻类和其他微生物滋长。因此，正规的水培条件下来不及积累大量的硫化氢等有害物质，水有一定的氧溶解量，通过换水可以供应植物根系需要的氧气。另外，土壤的成土母质成分并不单一，不同母质差别大，但淹水都会使土壤中的次生黏土矿物中 Fe、Mn 有效性升高甚至过量造成毒性增强，水培条件下的培养液不含镉、砷、铝等毒物，Fe、Mn、Cu、Zn 等微凉元素的含量也控制在适宜水平远不会因为环境变化造成过量或毒害。
+小结：水培条件下，通过换水补充了根系消耗掉的氧气，通常不会缺氧。水培体系成分简单，矿质元素含量精确受控，不会有离子毒害，不会大量积累硫化氢、有机酸等物质，所以水培不烂根。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根据相对论，中国空间站三个月比地面能慢多少时间？]]></title>
+        <id>https://daily.zhihu.com/story/9737840</id>
+        <link href="https://daily.zhihu.com/story/9737840"/>
+        <updated>2021-07-06T23:07:53.000Z</updated>
+        <summary type="html"><![CDATA[绿影无痕
+阅读原文
+
+2021-06-22：
+根据爱因斯坦广义相对论场方程的史瓦西真空解：
+
+，可以近似推导出空间站与地面的时间差表达式为
+
+，
+取万有引力常数
+
+，地球质量
+
+，光速
+
+，地球赤道半径
+
+，中国空间站高度400~450km，取平均425km，则空间站到地心的距离
+
+，地球赤道线速度
+
+，空间站运行速度
+
+，中国空间站累计时间
+
+（以90天计），得
+
+。
+由
+
+公式可见，方括号中第一项表示的是狭义相对论效应，为正，说明狭相效应使时间流逝变慢，三个月能慢2.6ms；第二项是广义相对论效应，为负，说明广相效应使时间流逝变快，三个月能快0.34ms。综合起来为正，说明整体上空间站时间流逝变慢。
+另外，因为地球为椭球体，赤道相比中高纬度地区虽然线速度更大，但是因为隆起，引力势更小，在计算狭义、广义相对论效应时效果正好抵消，所以采用赤道半径和线速度不影响计算结果，对中国地区同样适用。
+所以，根据相对论，中国空间站三个月比地面能慢2.3ms。
+另外，扩展着说些内容。
+（1）平均下来，中国空间站每天比地面能慢25.4
+
+。别小看这点时间差异，如果不修正，那么理论上基于自身解算的定位误差每天将达到7.6km，3个月误差累计达到686km。因此相对论对时间的修正极其重要。
+（2）相对论修正中狭相占主要成分还是广相占主要成分，要看航天器的运行高度。结合万有引力公式和圆周运动向心力公式，简单推导可得上述二效应相当（时间流逝快慢相抵）的航天器运行半径
+
+，即在距离地面高度约3173km处，时间流逝速度与地面相同。当航天器运行轨道低于此高度时，时间流逝比地球慢，狭义相对论效应占主要成分；当航天器运行轨道高于此高度时，时间流逝比地球快，广义相对论效应占主要成分。运行高度在数万公里的北斗、GPS导航卫星，它们的时间流逝都比地球快。
+
+2021-06-27：
+鉴于@李平 的建议，周末抽空用Kerr解来分析一下。
+因为地球存在自转，有自转角动量，但基本认为整体电荷为0，因此可以用Kerr度规来分析。几何单位制下，以Boyer-Lindquist坐标写出Kerr真空解为
+
+，
+
+，
+
+。
+近似认为空间站在一定高度圆形轨道飞行，地球表面位置也同样为圆形轨道，则
+
+。
+为了便于计算，写出Kerr真空解在
+
+条件下的国际单位制形式：
+
+，
+
+，
+
+。
+当然，如果令地球单位质量角动量
+
+，则Kerr真空解退化为Schwarzschild真空解。Schwarzschild解是静态球对称解，Kerr解是稳态轴对称解。
+我们考虑一般情况：计算地球单位质量角动量
+
+，
+
+为地球自转角速度；中国空间站的轨道倾角为42°~43°，取平均值
+
+，
+
+空间站横向角速度分量
+
+，
+
+纵向角速度分量
+
+（将坐标时t替换成地面固有时
+
+，对速度的影响不到
+
+倍，不会对计算带来超出精度要求的影响。）；
+
+随运行过程均发生变化，
+
+，
+
+。
+则固有时与坐标时比值的平方
+
+。
+则空间站与地面时间差
+
+（因
+
+）。
+因计算过程与空间站的
+
+有关，所以每时每刻空间站时间流逝与地面时间流逝的比值是不断变化的。空间站在赤道与最高能到达的纬度42.5°之间时间流逝速度见下图。
+
+以空间站在赤道上空的时间流逝速度为准，一天下来比地面能慢
+
+；以在（南）北纬42.5°上空的时间流逝速度为准，一天下来比地面能慢
+
+。平均下来，中国空间站一天比地面能慢
+
+，三个月能慢
+
+。
+
+2021-06-28：
+略去高阶小量，可以近似推导出基于Kerr真空解的空间站与地面时间差
+
+。
+与施瓦西解相比，Kerr解除了有狭义相对论效应项和广义相对论效应项以外，还有第3项，为狭相、广相效应耦合项。需要指出的是，由于大量使用略去高阶小量的操作，上式关于
+
+与
+
+的函数关系已与原方程明显不同，但结果近似。
+
+在计算角速度时，如果不直接用
+
+替换
+
+，则应在角速度后配上系数
+
+，即
+
+，
+
+、
+
+为代入地球赤道半径
+
+的值。
+解关于
+
+的二次方程，得
+
+（舍去负值解）。
+求出
+
+后，再带入原方程求出
+
+，便可进一步得到该问题的最终解。可以看到，这样不换元直接求解非常繁琐，而结果的精度并没有显著改变，所以一般采用
+
+替换
+
+的方式求解。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想带猫猫去医院，需要做些什么来缓解它的压力，避免应激？]]></title>
+        <id>https://daily.zhihu.com/story/9737827</id>
+        <link href="https://daily.zhihu.com/story/9737827"/>
+        <updated>2021-07-06T23:07:50.000Z</updated>
+        <summary type="html"><![CDATA[八只包子，有只猫，日系家居爱好者，猫叫伊吹你懂的，很高兴遇见你呀✨
+阅读原文
+
+猫咪介绍：
+
+我家猫伊吹，两岁妹妹，家养已绝育。
+典型母猫性格，胆小敏感且机警。典型加菲猫怂样，遇到不乐意的事情只会默默反抗，不叫不闹不打人。
+一、准备猫包 / 航空箱：
+1.有家长随便抱着猫、用纸箱端着就去看医生了，最好不要，这是有潜在危险的哦。
+2.猫遇到外界刺激可能会剧烈挣扎，甚至伤人逃脱，所以为保安全请务必准备好猫包 / 航空箱。
+3.猫包 / 航空箱最好选透气好的，不要全透明的，结实的，易清洗的，就医完及时清洁消毒。
+【几种常见的猫包 / 航空箱简评】：
+1.全透明猫包（不推荐！）
+这种猫包当时凭借颜值吸引了好多人种草，可是它没有透气孔，全暴露又容易让猫咪没有安全感，所以非常不推荐！
+
+2.最常见的航空箱（自用款性价比高）
+这种款式是最容易买到的航空箱，价格也便宜，性价比很高，塑料材质清洗方便，不会像书包那样粘毛。但就诊时猫咪会不肯出来，铲屎官也难以将猫抱出（比如我），也算是一个缺点吧。
+
+3.可“开口”航空箱
+所以我建议还没买航空箱的家长，可以看看这种中途能打开的款式，个人感觉是最佳就医航空箱。可以折叠便于收纳，平时在家里放着也不会占地方。
+
+二、如何把猫骗进笼子：
+1.平常在家不建议猫包 / 航空箱收起来，放出来提前让猫咪习惯它的存在。
+2.在家看见它进去了就奖励一点零食，让猫知道“进去会有不错的体验”，正所谓 100 次进航空箱，98 次体验都是 good，只有 2 次是 bad，何乐不为呢！
+【我的经历】：平时我的航空箱就摆在客厅，随便伊吹进去玩儿。所以想把猫骗进箱子简直是小菜一碟，我丢了个冻干在里头，伊吹扭着橘色大屁股立马就挤进去了，so easy！
+
+三、辅助安抚用品（从高到低）：
+1.猫咪爱的零食和猫条是必备的，猫在极度压力下可能会不吃。
+2.虽然我们口口声声说猫条都是诱食剂不要喂，但在就医情况下，诱惑最大的猫条才是哄猫王者。
+
+3.充满猫咪气味的毛巾和小毯子可以带一带，必要时候把猫“卷起来”有奇效。
+4.如果猫咪出门极度激动可以问医生是否能使用加巴喷丁（镇静作用），药店可以买到的人用药，亲测有效，但需要掌握好用药剂量。
+5.费利威（安抚效果）喷雾可以来一点，讲到缓解猫咪应激反应宠物医生会推荐的用品，不过安抚效果因猫而异，有可能无效哦。
+辅助安抚用品大合集
+【我的经历 / 用品推荐】：
+1.上面图片大家也能看到，我用猫猫平时最爱的冻干骗伊吹是完全没用的，必须要上诱惑力强的咕噜酱 or 猫条，流体食物想混药也比较方便。
+2.我在就诊前 30 分钟用咕噜酱混了一点加巴喷丁（此处不做医疗建议）给伊吹吃，于是整个就诊过程中异常顺利。其实猫就是蔫巴了，压根无力反抗...
+3.不想喂药的家长我更推荐费利威喷雾，但是它的安抚效果并不稳定，同时价格还不便宜，99 一瓶刷刷刷就没了。
+and 哪怕是国产的小壳费乐舒也要 69/ 只，所以大家根据实际情况酌情购入吧。
+四、路途 / 排队中安抚：
+去医院最好就是私家车自驾啦，其次是滴滴，可以在箱子盖一条充满猫咪气味的毛巾哦，忘带了也可以用铲屎官的衣服代替。
+比如我的衬衫：
+
+五、抱出笼子检查：
+这对我家爱躲猫猫的伊吹来说是个老大难问题，爪爪死死扣住底板，倒也倒不出来，而且航空箱又无法中途打开，就只能温柔温柔再温柔的由主人把它抱出来了...
+六、检查期间安抚：
+1.如果是性格温柔，也就是吓到动都不敢动的猫咪，那主人在场安抚真的会好一点。
+2.如果是性格造孽上蹿下跳嗷嗷叫拆诊疗室的猫咪，那就.......没办法了，听医生的吧！
+3.不过，遇到凡事不要慌，保持冷静，不要焦虑，猫是能察觉到人的心情的哦~
+【我的经历】：伊吹因为吃了药以及本身就很怂的缘故，检查一动不动，超级无敌配合，不过我还是一直都在诊室陪着。
+比如偶尔轻轻叫它名字抱抱它：
+
+比如剃毛的时候撸撸小脑瓜安抚：
+
+七、检查完，麻溜走人（猫）！
+最后？哪还有最后哇。
+认真遵医嘱，该检查该治疗，没事的话结账完赶紧回家，快速回到熟悉的地方就是猫咪缓解压力最好的方式！
+之所以会有这么多图片，原因就是我上周末刚带了猫去检查心脏。个人认为定期体检还是很有必要的，想进一步了解的小伙伴可戳：
+有多少人会每年给猫做体检，甚至做生化和心脏彩超？
+希望去医院的小猫咪都能不用住院，
+身体棒棒，赶紧回家，嗷嗷嗷喵喵喵！
+
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《觉醒年代》中有哪些知识点？]]></title>
+        <id>https://daily.zhihu.com/story/9737826</id>
+        <link href="https://daily.zhihu.com/story/9737826"/>
+        <updated>2021-07-06T23:07:45.000Z</updated>
+        <summary type="html"><![CDATA[是古米呀，新传考研三跨上岸，懒癌晚期，努力分享ing
+阅读原文
+
+想从新闻史的角度谈谈《觉醒年代》中有哪些考点呢！
+以下知识点按照《觉醒年代》剧集时间线出场或出现的先后顺序排列，图片皆截图自爱奇艺。
+1、癸丑报灾
+重要指数：☆☆☆☆☆
+
+1913 年（癸丑年）袁世凯为达到专制独裁的目的，派人刺杀了宋教仁，以孙中山为首的革命党人为此发动了“二次革命”，各地报纸随即兴起了反袁浪潮。
+在大量的报刊声讨之下，袁世凯开始向新闻界发起大规模的摧残。北京、上海、武汉、长沙等地的国民党报刊和反袁报刊被扣上“乱党报纸”的罪名而遭到查禁。
+袁世凯采取了多种手段压制国民言论，创立了《亚细亚日报》、《金刚报》等报刊为自己的反动舆论喉舌，并用各种方式收买了一些报刊为自己所用，同时制定《出版法》等法令限制新闻自由，并通过残暴的方式大肆打压报业与残害进步报人。（手段）
+在袁世凯的参保镇压下，1913 年的民国报纸由民初的 500 多家锐减到 130 余家，大量报人遭到迫害。（结果）
+1913 年正逢农历癸丑年，当时新闻出版人将这一年报纸遭受的浩劫称为“癸丑报灾”，称袁世凯为“报刊屠夫”。该年同时也被新闻史上认为是 1949 年中华人民共和国成立前新闻史上最为黑暗的一年。
+2、李大钊
+重要指数：☆☆☆
+
+李大钊是我国无产阶级新闻活动的先驱，早期接触的马克思主义宣传家，中国共产党创始人之一。
+1.早年留学日本，1916 年回国后积极参与《新青年》的编撰工作。
+2.1918 年在《新青年》发表了《庶民的胜利》、《布尔什维克的胜利》等文章，是我国最早有关马克思主义的文献。他指导了《晨报》副刊的改革。
+3.1920 年带领观中共北京小组创办了《劳动音》。
+4.中国共产党成立后和大革命时期，指导创办《工人周刊》、《国民新报》等，并为《新青年》季刊、《向导》撰稿。
+3、陈独秀
+重要指数：☆☆☆☆
+
+陈独秀是我国著名的…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有没有在动漫中被扭曲了形象的兵器？]]></title>
+        <id>https://daily.zhihu.com/story/9737829</id>
+        <link href="https://daily.zhihu.com/story/9737829"/>
+        <updated>2021-07-06T23:07:40.000Z</updated>
+        <summary type="html"><![CDATA[勃然大怒，只是一名普通的渔民
+阅读原文
+
+看到大家都在谈弱化长兵器，弱化弓弩，过分吹嘘刀剑，以及各种奇怪的盔甲之类的，我来提一嘴传说中的巨剑（比如 Claymore 和 Zweihander）
+（在下第一次写知乎回答，请多多指教啦）
+这是真正的大剑 Claymore
+Claymore
+Claymore（威廉华莱士的那把，不是克蕾亚的那把），也称四环大剑，因为十字护手的尖上有四个环得名。这玩意更像是加长加粗版的长剑，剑长 120 到 140cm，重量一般也就两公斤略重于长剑，剑刃宽阔，技法貌似也接近长剑。和 Zweihander 不同的是它长的还比较正常，没有脱离老祖宗骑士剑的形制太多......
+这是真正的 Zweihander 自慰汉
+一大群外形粗犷的自慰汉
+zweihander 则比较奇怪，长度能干到 160，某些极端的 180 都有，重量范围也很大，2 到 6kg 都有（4kg 以上的那些我认为不实用，更像是礼器），不仅需要怪物级的力量，体格也必须足够高大才能使用。它最大的特点是宽阔的大护手，护手上方一小段不开刃（有些还包了皮革之类的可以手握）这一小段上方是格挡勾，上方的剑刃一般比 claymore 窄厚，可能是为了戳刺性能，但也有一些为了提高劈砍威力把剑刃做成了焰形。技法基本已经失传，但我不认为这把武器适合当作普通的剑去使用，它更像是一把可以顺便砍一砍人，还有一堆护手的长枪......
+现实中的巨剑除了平淡无奇的 Claymore，外形粗犷充满狂野美的 Zweihander，还有外形优美的西班牙巨剑 Montante 等等
+单身久了看把剑都......
+但无论是哪种都坚持了长刃刀剑最基础的几点：剑刃细长，重量也没有特别重，也一样都破不了甲......
+然而这是动漫和游戏里的：
+Level 1（说的就是你猎魔战记）
+其实我也忘了这是谁...
+其实这在动漫作品里已经算小的了，然而这大铁坨子起码也有二三十公斤重——最强壮的人类勇士也许能挥起来砍一刀？重归重，可是长度上我却感觉连现实中的 Claymore 都不如，做成这么重还舍弃了长度优势是为什么？
+然而我们身材纤细，再瘦一点就可以瘦成鲁鲁修（误）的女主可不管这些，随随便便就是一个单手平握（随随便便哑铃侧平举三四十公斤的水平？）
+顺便吐槽下护手，护手边缘就比剑刃宽了一点点，确定这护手不是装饰品？
+女主
+Level 2（没错就是你巴隆！）
+
+向门板剑前进了一小步——四五十公斤应该是有了，当然无论如何，应该还是有人类能抬起来砍一刀下去的（然后被对面拿小匕首反杀）
+另外我非常不明白的一点就是，为什么有些日漫里的大剑不做长一点，非要做成这样短粗胖的类型呢？这样搞别提打现实中的巨剑了，我怀疑一米二的 rapier 都能给你戳死......
+顺便提一嘴，这把剑直接连护手都不要了——不过假如真的有人和他粘剑，他的手也不会有事，因为胳膊直接就掉下来了......
+同属这一级别的还有夜刀神十香等等（护手好评）
+
+Level 3（格斯的大剑）
+假如 Level 2 只是到门板剑的过渡期，格斯的大剑可真就是门板剑了，而且还是最正宗的那种。话不多说先上图
+真的很 man， 属实羡慕了再来张狂战盔甲的，感受下门板的厚度
+帅归帅，man 归 man，这把剑少说也有三四百公斤重，除了极少数几个大力士怕是没人能让这玩意离开地面，更别提挥舞自如了吧......
+一样的没有护手的设计，我怀疑这种设计就是剑风起的头 hhh，但不得不说，这设计看久了其实还挺帅的。
+同属 Level3 级的还有我们的克劳德同学（比起格斯的门板剑还是小巫见大巫了）
+个人认为克劳德最 cool 的一张图
+总之，动漫或者游戏这些作品里我几乎就没见过正常的大剑。然而和比基尼铠甲，被刀剑吊打的长枪，射人像挠痒痒的弓弩一样，绝大多数时候我我们看动漫玩游戏不就是图个乐子吗？人家也没说自己有多“硬核”，他爱扯就扯呗，高达没有坦克实用我们看高达不是一样津津有味吗？比基尼铠甲和超重型板甲没有板甲衣实用我们不是一样看的爽到爆吗？只要大家心里有数，明白现实中是什么样，动漫和游戏里爱咋地咋地，他赤手空拳吊打耍大枪的我也不反对。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9737847</id>
+        <link href="https://daily.zhihu.com/story/9737847"/>
+        <updated>2021-07-06T23:07:34.000Z</updated>
+        <summary type="html"><![CDATA[被长辈看见打《文明》系列游戏是一种什么样的体验？
+
+小枫快跑，愿吾放浪此生之余，形骸之外仍有初心
+阅读原文
+
+一觉睡到中午，被叫醒吃饭
+老妈饭后问“你昨天是不是听了一晚上茉莉花”
+阅读原文
+
+现在的95后指挥不动，下班准时走，活安排不下去只能自己干，怎么办？
+
+AAA巴德，数码爱好者
+阅读原文
+
+下班不走什么时候走？
+阅读原文
+
+你们家宝宝有没有迷之喜爱的东西?
+
+廿六，学生
+阅读原文
+
+
+就喜欢钱。
+阅读原文
+
+当对方说想要星星，如何用化学的方法满足愿望？
+
+500英里，无情的富婆等待者
+阅读原文
+
+强烈推荐——手工电弧焊
+实惠 美丽 到处能找到地方看
+实属最佳星星替代品
+
+找不到地方看就打个出租车，叫师傅给你拉到什么汽配城之类的地方，绝对把你看高兴
+阅读原文
+
+第一次接吻是什么样的感觉?
+
+匿名用户
+阅读原文
+
+我俩牙套卡一块了。
+。。。。。
+最后不得不连着去找老师。
+至今仍记得老师当时震惊愤怒的表情。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Body Toggle]]></title>
+        <id>https://css-tricks.com/?p=343438</id>
+        <link href="https://css-tricks.com/body-toggle/"/>
+        <updated>2021-07-06T20:55:45.000Z</updated>
+        <summary type="html"><![CDATA[I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:
+It’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.
+<body onclick="this.classList.toggle("active");"
+Could …
+The post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve got one question about Jetpack for you.]]></title>
+        <id>https://css-tricks.com/?p=343560</id>
+        <link href="https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/"/>
+        <updated>2021-07-06T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[And maybe an optional follow-up if you’re up for it.
+Automattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …
+The post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
+        <id>https://css-tricks.com/?p=343149</id>
+        <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
+        <updated>2021-07-06T14:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …
+The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Martin Lexelius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
+        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
+        <updated>2021-07-06T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待游戏《我的世界》（Minecraft）1.17.1 pre2 版本加入了文言文？]]></title>
+        <id>http://www.zhihu.com/question/469226186/answer/1979682825</id>
+        <link href="http://www.zhihu.com/question/469226186/answer/1979682825?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-06T03:00:12.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是Minecraft文言语言的校对员ff98sha。
+前些天Minecraft文言语言上线了，借此机会写个回答和大家说说，Minecraft的翻译到底是个什么流程。关于文言翻译的来龙去脉可以先看看项目创始人的话。
+语言的增减
+在Minecraft Java版1.1时代，游戏还只有36种语言，到了1.17.1便增长到了111种。近几年的语言申请是在Crowdin上的一个话题/表格中申请的。可以在这上百层楼中看到有许多语言正等候加入游戏。Cuervo在2020年向Mojang提交了文言申请，并在2021年初被通过。因此文言并不特殊，至少和克林贡语比起来（
+语言申请通过之后，Mojang会在这两个项目中开放该语言的翻译。当语言的翻译和审核进度达到一定百分比时，Mojang就会在定期的排查中将此语言加入到游戏中。例如，文言在正式加入游戏时，校对进度为56%。
+因此新语言要正式加入游戏，除了审批外，至少需要翻译和审核2000多个词条（约8000多个单词）。在Crowdin上Mojang开放了140个语言的翻译，但在1.17.1中仅有111个语言。剩下的那些语言中除了尚未上线过的，还有因为长期无人维护（而字符串又在不断增加）导致翻译进度很低，而从游戏中移除的（如这次移除的马恩岛语）。
+所以，各位看到的文言语言其实是尚未完工的。在上线之前我们也没有得到任何的通知。于是乎，大家就会各种吐槽某些翻译有问题……
+自从看到b站的某介绍MC文言视频热度飙升，我们就紧急联系了许多up主，他们也在视频里介绍了“文言语言由玩家翻译，尚未完工，轻喷”的事。不过大多数人还是以为这是Mojang官方整的烂活（
+
+翻译流程
+Minecraft Java版的翻译全由社区完成，其他版本由专门团队完成，在此不做讨论。
+Minecraft所在的翻译平台叫做Crowdin（中文版），Mojang开设了Minec…]]></summary>
+        <author>
+            <name>ff98sha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何开发一个文件文档在线预览的网站？]]></title>
         <id>https://toutiao.io/k/p3i66hk</id>
@@ -2055,6 +2600,16 @@ The post Hack the “Deploy to Netlify” Button Using Environment Variables to 
 如何评价《画江湖之不良人》第四季第9集？]]></summary>
         <author>
             <name>橙子多</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一次 Airflow 性能调优]]></title>
+        <id>https://toutiao.io/k/bjznqqr</id>
+        <link href="https://toutiao.io/k/bjznqqr"/>
+        <updated>2021-07-01T06:00:19.000Z</updated>
+        <summary type="html"><![CDATA[本文基于运行在 Google Cloud Composer 上的 Airflow 1.10.15 。 TL;DR 复制一份参数计算表格，填入 Airflow 集群的配置，将最下方给出的参数结果应用到自...]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -8329,142 +8884,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 游戏《摩尔庄园》有哪些细思极恐的细节？]]></summary>
         <author>
             <name>摩尔庄园手游</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价《阴阳师》动画剧场「天域篇」？]]></title>
-        <id>http://www.zhihu.com/question/463588518/answer/1927031020</id>
-        <link href="http://www.zhihu.com/question/463588518/answer/1927031020?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-07T11:30:09.000Z</updated>
-        <summary type="html"><![CDATA[《阴阳师》全新动画剧场「天域篇·上篇」
- ☆全新动画剧场「天域篇·上篇」☆
-  愿承世间，所有之恶。
-「我将在这王座上等待，那厮杀至战争尽头的英雄归来。」
-SSR阶式神帝释天（CV：神谷浩史）、SSR阶式神阿修罗（CV：小西克幸）降临平安京！
-
-《阴阳师》全新动画剧场「天域篇·下篇」
-☆全新动画剧场「天域篇·下篇」☆
-「你总说你有一具坚韧的身体，但我却有一颗坚韧的心，如今这颗坚韧的心，我把它送给你。」
-「无论何时，无论何地，当你想要找到我，你甚至都无需回头，我都会在这里等你。」
-以最强的身体，怀抱着最强之心的勇气，阿修罗用尽了两人份的全力，狠狠地击向了那虚伪的光明——
-天域的千年战争已经终结，但他们的故事才刚刚开始……更多剧情故事回顾，大人们可前往→ 天域篇动态绘卷 观看~
-
-来源：知乎 www.zhihu.com
-网易阴阳师手游
-点击下载
-85 个回答，查看全部。
-IP价值将达468亿元，阴阳师这款游戏还有哪些深挖潜力？
-《阴阳师》 IP 新作《代号 · 世界》最新释出的官方内容中，有哪些值得留意的细节？]]></summary>
-        <author>
-            <name>网易阴阳师手游</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
-        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
-        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
-        <updated>2021-06-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 年高考生想选心理学专业，有哪些大学推荐？专业排名靠前的学校有哪些？]]></title>
-        <id>http://www.zhihu.com/question/459989886/answer/1927198599</id>
-        <link href="http://www.zhihu.com/question/459989886/answer/1927198599?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-07T08:30:07.000Z</updated>
-        <summary type="html"><![CDATA[近些年越来越多的人对“心理学”感兴趣，觉得这是一个很新潮、很有发展前景的专业。对心理学的好奇，不仅仅发生在高中生身上，也有不少其他专业的本科生想要考取心理学的硕士研究生或者博士。
-我听到一些对心理学感兴趣的人会说“我希望学了心理学之后，可以当心理咨询师”。先抛开其他不说，我觉得这些现象客观上是可喜的，说明了中国人已经慢慢摆脱只关注衣食住行的物质生活的状况，开始慢慢关注作为人的精神世界的丰富和愉悦。
-在这个又要开始填写高考志愿的日子里，我希望能够作为一个心理学专业的学习者、一个心理咨询师、和一个高校教师的身份，来给即将走向心理学专业、心理咨询行业的朋友们分享一些经验。这些经验都只是来自我个人的学习、工作与成长，所以在做出任何重大的决定之前，一定要试图尽可能多的了解不同人的意见，不要因一人而决定了你的决定。
-
-
-
-
-心理学是学什么的？
-
-
-想了解一个学科学什么，最简单的方式就是看大学专业里给这门课开了那些必修课程。
-在中国，本科阶段心理学的学习是广袤的。我用”广袤“这个词，是想表达所学内容的丰富性和未知性。以下我将列举本科阶段必修的几门重要的基础课程：
-普通心理学、实验心理学、心理学统计、人体解剖生物学、社会心理学、认知心理学、发展心理学、变态心理学、心理咨询概论
-除了以上必修的课程之外，
-如果你是师范类院校心理学专业的学生那么你可能更多会接触偏发展教育类方向的学习：教育心理学、教育学、学校心理学等
-如果你是综合类院校心理学专业的学生，那么你可能更多会接触偏认知神经科学、社会类、人力管理类方向的学习：脑认知神经科学、管理心理学、组织行为学、人力资源管理、广告心理学、营销心理学等
-当我告诉不少学生心理学会学这些内容的时候，得到最多的反应是：
-
-
-“纳尼？！心理学还要学数学？学统计？！还要学生物？！我可是文科生啊。”
-“普通心理学是什么？实验又是什么？我只对变态心理学感兴趣。”
-“…]]></summary>
-        <author>
-            <name>简单心理Uni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价新华社推出的动画短视频《疫苗大战病毒》？]]></title>
-        <id>http://www.zhihu.com/question/463586862/answer/1926924058</id>
-        <link href="http://www.zhihu.com/question/463586862/answer/1926924058?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-07T04:00:08.000Z</updated>
-        <summary type="html"><![CDATA[谢邀，感谢站方提问。先来复习一下可爱的视频。
-《疫苗大战病毒》（Virus Fighter 2: Game On!）
-近日，凭借爆款视频《病毒往事》（Once upon a virus）火遍外网的新华社主创团队再次出手，在海外社交媒体平台推出了动画短视频《疫苗大战病毒》（Virus Fighter 2: Game On!），以大胆的创意、丰富的细节和幽默的语言，收获大批海外网友点赞。
-
-视频截图
-《疫苗大战病毒》主打“街霸”怀旧风，设置游戏闯关情节，将动画人物做像素化处理，模拟了自新冠疫情暴发以来人类对抗病毒的艰难努力，讽刺了阴谋论者和反疫苗者对全球抗疫努力的破坏。
-视频制作细节考究，妙趣横生。比如，游戏背景设置为中国式的宝塔和长城，体现了中国对全球抗疫的突出贡献；人类队对抗病毒队的“武器库”有防护口罩、浓度75%的酒精、肥皂等，疫苗作为“终极武器”化身“火箭”击中病毒……
-戳上面的视频，还有更多细节等你来发现。
-截至目前，《疫苗大战病毒》在海外总浏览量已经超过300万，总互动量3万次。
-
-
-海外网友纷纷表示：请推出这样一款游戏，我也想玩！
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-一些网友对视频里的细节与对话产生了兴趣：
-
-
-
-
-
-
-
-
-还有网友借此批评美国抗疫不力和散布阴谋论的行径，并为中国的抗疫努力点赞：
-
-
-
-
-
-
-
-
-
-来源：新华国际头条
-记者：黎藜、杨骏、桑华、蒋彪
-
-来源：知乎 www.zhihu.com
-新华社
-点击下载
-8 个回答，查看全部。
-如何评价中国的盗版动画网站?
-制作一集例如《十万个冷笑话》这种短片动画的成本是多少？]]></summary>
-        <author>
-            <name>新华社</name>
         </author>
     </entry>
 </feed>
