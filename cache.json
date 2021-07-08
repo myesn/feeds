@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343495",
+          "author": "Chris Coyier",
+          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
+          "publishedOn": "2021-07-07T21:06:35.000Z",
+          "wordCount": 2391,
+          "title": "A Look at Building with Astro"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343388",
+          "author": "Robin Rendle",
+          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-webs-worst-default/",
+          "publishedOn": "2021-07-07T14:30:34.000Z",
+          "wordCount": 1322,
+          "title": "The Web’s Worst Default"
+        },
+        {
           "id": "https://css-tricks.com/?p=343438",
           "author": "Chris Coyier",
           "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -461,6 +479,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
+          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
+          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 4044,
+          "title": "An Introduction To Figma Interactive Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
           "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
           "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
@@ -837,20 +869,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
-          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2347,
-          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -911,6 +929,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/khg0dob",
+          "author": null,
+          "description": "本篇文章讲解gdb的一些高级用法，在我们的开发生涯中，调试是很重要的技能，而在linux下开发，最常用的调试工具就是gdb了，所以这里介绍几种gdb比较高级的用法，助力我们的调试技能。",
+          "link": "https://toutiao.io/k/khg0dob",
+          "publishedOn": "2021-07-08T01:06:17.123Z",
+          "wordCount": 710,
+          "title": "工欲善其事，必先利其器之 gdb 五大高级用法"
+        },
+        {
+          "id": "https://toutiao.io/k/fuppjgn",
+          "author": null,
+          "description": "长在云里的原生“免疫系统”。",
+          "link": "https://toutiao.io/k/fuppjgn",
+          "publishedOn": "2021-07-08T01:06:16.988Z",
+          "wordCount": 64,
+          "title": "跳过量变过程的安全质变"
+        },
+        {
+          "id": "https://toutiao.io/k/39edoom",
+          "author": null,
+          "description": "肝了一星期",
+          "link": "https://toutiao.io/k/39edoom",
+          "publishedOn": "2021-07-08T01:06:16.874Z",
+          "wordCount": 776,
+          "title": "Java 线程池原理及最佳实践（1.5W 字，面试必问）"
+        },
+        {
+          "id": "https://toutiao.io/k/88jw8t4",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/88jw8t4",
+          "publishedOn": "2021-07-08T01:06:16.576Z",
+          "wordCount": 503,
+          "title": "Spring 中定义 bean 的 12 种方法，真的绝了"
+        },
+        {
+          "id": "https://toutiao.io/k/6aytfwu",
+          "author": null,
+          "description": "通过简单例子介绍go-kit三层架构",
+          "link": "https://toutiao.io/k/6aytfwu",
+          "publishedOn": "2021-07-08T01:06:16.364Z",
+          "wordCount": 171,
+          "title": "微服务入门（一）：使用 go-kit 输出 hello world"
+        },
+        {
+          "id": "https://toutiao.io/k/shxvkd4",
+          "author": null,
+          "description": "加入「码农周刊VIP会员」，一起牛起来！",
+          "link": "https://toutiao.io/k/shxvkd4",
+          "publishedOn": "2021-07-08T01:06:16.142Z",
+          "wordCount": 92,
+          "title": "工具 | 一款专门为 Mac OSX 系统打造的，集多功能于一身的 SSH 客户端工具"
+        },
+        {
+          "id": "https://toutiao.io/k/jnonz5v",
+          "author": null,
+          "description": "MobTech邀您参加CoderPark技术直播课第二期：移动端技术新风向",
+          "link": "https://toutiao.io/k/jnonz5v",
+          "publishedOn": "2021-07-08T01:06:14.408Z",
+          "wordCount": 137,
+          "title": "CoderPark 技术直播课第二期：移动端技术新风向"
+        },
+        {
+          "id": "https://toutiao.io/k/5mtep0b",
+          "author": null,
+          "description": "ES 标准模块化规范-概述历史上，JavaScript 一直没有模块（module）体系，无法将一个大程序拆分成互相依赖的小文件，再用简单的方法拼装起来。其他语言都有这项功能，比如 Ruby 的require、Python 的 import，甚至…",
+          "link": "https://toutiao.io/k/5mtep0b",
+          "publishedOn": "2021-07-08T01:06:14.300Z",
+          "wordCount": 94,
+          "title": "ES 标准模块化规范"
+        },
+        {
+          "id": "https://toutiao.io/k/gpnnwqw",
+          "author": null,
+          "description": "前言为了进一步提高开发工作效率，最近我们基于 electron 开发了一款媲美 uTools 的开源工具箱 rubick。该工具箱不仅仅开源，最重要的是可以使用 uTools 生态内所有开源插件！这将是巨大的能力，意味着 uTools 生…",
+          "link": "https://toutiao.io/k/gpnnwqw",
+          "publishedOn": "2021-07-08T01:06:14.291Z",
+          "wordCount": 366,
+          "title": "基于 Electron 实现 uTools 的超级面板"
+        },
+        {
+          "id": "https://toutiao.io/k/m768nz2",
+          "author": null,
+          "description": "作为程序员，你遇到问题时会如何去解决，相信大家(也包括...",
+          "link": "https://toutiao.io/k/m768nz2",
+          "publishedOn": "2021-07-08T01:06:14.262Z",
+          "wordCount": 5,
+          "title": "作为程序员，遇到问题时你的解决手段是什么？"
+        },
         {
           "id": "https://toutiao.io/k/fbscufi",
           "author": null,
@@ -2872,6 +2980,24 @@
       "siteUrl": "http://www.zhihu.com",
       "articles": [
         {
+          "id": "http://www.zhihu.com/question/470160388/answer/1983181215",
+          "author": "赵禹晴",
+          "description": "大家好，这次非常感谢知乎的邀请，经过深度了解，发现知乎是一群有思想有态度的年轻人经常聚集交流的平台。感觉能让我这个很少上网冲浪的老人家跟年轻人又近了一步~但是初次上来非常非常紧张，为了备稿失眠了，首分享不知道该说啥好，就先跟大家先聊聊最近的心情和感受吧。   \n\n这周一，《眷思量》第五集终于上线，且传来破亿喜讯，恍惚中还是十分开心，其实我从6月14号首播当天，到今天，这段时间仍旧深陷在最后几集高潮戏的紧张赶制中。\n\n和没上线前不一样的就是，每天还需要应对一大堆宣发物料的制作和审核，以及随时会来的合作洽谈和访谈准备等，所以前几周一直没什么时间上线跟观众朋友们多做交流，因为如果在公司见识过我工作状态和排队审核状态的人就知道，小伙伴们很多人加班到很晚，为了每天早点下班回家，排队等反馈的人的眼神能把其他插队的人生吞活剥=v=。\n我就比他们幸运多了～我不用走下班回家这个流程，我就住在公司阁楼，下楼就上班，上楼就躺倒。。。3年来生活就是工作，工作也是生活，无缝衔接。。。。。。嗯，是幸福的！\n\n之前幻想上线的时候应该会轻松些了吧，没想到真的到了这个阶段却是没上线前成倍的忙，以至于最近更晕头转向了，大概是我太吹毛求疵了，很多细节不磨到位就不肯罢休，也许草草收了尾，赶紧杀青，就不会像现在这样连轴转都转不过来了。但……那就不是我了。\n\n前几周赶各环节反馈加上其他方面的工作量爆发，导致睡眠时间严重缩减到破纪录，最夸张的一天，睡了1个半小时爬起来，然后第二天，睡了3个半小时，两天，48小时，睡眠时间5小时，其他时间就像机器一样，白天跟各组人轮番交流推进度，晚上不断处理着各种反馈。第三天实在扛不住，才强制自己切断工作多睡几个小时。我相信自己能扛过去，一如每次遇到制作上的坎坷，都坚持着咬牙扛过来一样，因为我的背后还有很多各环节、各公司的小伙伴们支撑着我，他们都和我一样，想做一部好看的片子，跟有共同的目…",
+          "link": "http://www.zhihu.com/question/470160388/answer/1983181215?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-07-07T04:00:11.000Z",
+          "wordCount": 428,
+          "title": "如何评价动画《眷思量》第五集？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/397486086/answer/1982744764",
+          "author": "呆呆兽星君",
+          "description": "观前提醒：1，本文是以《传武》漫画为基础做的简单猜想；不涉及具体细节，如果对个别人物或剧情感兴趣；希望大家关注原版漫画与官方信息； \n2，文中涉及的历史，神魔以及各门派的简介，都是仅在《传武》世界观的语境下，结合个人浅薄的认识做的片面介绍；带有一定的主观倾向，目的仅是为了更好的解释个人观点，希望大家不要在现实生活中对号入座；\n 3，文中出现的如：详情之类的字眼，目的是为了缩短篇幅，不代表观点一定正确；\n\n目录\n引子\n《传武》中的神话设定\n1.《西游记》观音小分队的细节\n2.《封神演义》红尘仙的世俗依靠\n3.《水浒传》故事背后的故事\n4.漫画背后的微缩历史\n《传武》中的山海经设定\n1.仁兽驺虞的变态之路\n2.雁门关外的火凤燎原\n3.青龙背负的四大灾星\n《传武》中的克苏鲁设定\n1.黄衣之王与他的黄沙眷属\n2.克苏鲁神话外的克苏鲁\n《传武》中的戏剧化设定\n1.二百年一轮的庄周梦蝶\n2.樊家的王之宝库\n3.六道轮回间的相生相克\n个人感想\n\n\n\n\n引子\n无论怎么评价，传武注定是一部难以简单概括的作品，这并不是说传武的故事太过复杂，而是从整体的阅读体验来说的；就我个人而言，我一共系统的阅读过三次《传武》；第一次是跟随连载，大概从第一部的白骨洞剧情线一直跟到现在，回过头来看，中间确实会有出现跳戏或者自以为读懂其实不然的情况出现；不过抛开当时对部分细节的错误理解，《传武》也是一部初体验非常爽快的漫画；\n\n第二次就是走的我个人的拉片流程，建立了Excel表格，对漫画中出现的所有的各大门派，各大势力，绝学，法器，红尘仙，山海种，天灾；都做了简单的归类整理，并标注每件事发生的相关剧情信息；这一次我得出的结论是：传武中的故事和架构是要比我想象的更加严谨合理的；剧情其实也并不是我一开始认为的纯线性平铺直叙；而是不同的线在一开始就交织并行了，虽说不上草蛇灰线，但确实处处有伏笔；所有中期出现的关键剧情其…",
+          "link": "http://www.zhihu.com/question/397486086/answer/1982744764?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-07-07T03:00:11.000Z",
+          "wordCount": 434,
+          "title": "如何评价国产漫画《传武》？"
+        },
+        {
           "id": "http://www.zhihu.com/question/469226186/answer/1979682825",
           "author": "ff98sha",
           "description": "大家好，我是Minecraft文言语言的校对员ff98sha。\n前些天Minecraft文言语言上线了，借此机会写个回答和大家说说，Minecraft的翻译到底是个什么流程。关于文言翻译的来龙去脉可以先看看项目创始人的话。\n语言的增减\n在Minecraft Java版1.1时代，游戏还只有36种语言，到了1.17.1便增长到了111种。近几年的语言申请是在Crowdin上的一个话题/表格中申请的。可以在这上百层楼中看到有许多语言正等候加入游戏。Cuervo在2020年向Mojang提交了文言申请，并在2021年初被通过。因此文言并不特殊，至少和克林贡语比起来（\n语言申请通过之后，Mojang会在这两个项目中开放该语言的翻译。当语言的翻译和审核进度达到一定百分比时，Mojang就会在定期的排查中将此语言加入到游戏中。例如，文言在正式加入游戏时，校对进度为56%。\n因此新语言要正式加入游戏，除了审批外，至少需要翻译和审核2000多个词条（约8000多个单词）。在Crowdin上Mojang开放了140个语言的翻译，但在1.17.1中仅有111个语言。剩下的那些语言中除了尚未上线过的，还有因为长期无人维护（而字符串又在不断增加）导致翻译进度很低，而从游戏中移除的（如这次移除的马恩岛语）。\n所以，各位看到的文言语言其实是尚未完工的。在上线之前我们也没有得到任何的通知。于是乎，大家就会各种吐槽某些翻译有问题……\n自从看到b站的某介绍MC文言视频热度飙升，我们就紧急联系了许多up主，他们也在视频里介绍了“文言语言由玩家翻译，尚未完工，轻喷”的事。不过大多数人还是以为这是Mojang官方整的烂活（\n\n翻译流程\nMinecraft Java版的翻译全由社区完成，其他版本由专门团队完成，在此不做讨论。\nMinecraft所在的翻译平台叫做Crowdin（中文版），Mojang开设了Minec…",
@@ -3113,15 +3239,6 @@
           "publishedOn": "2021-06-11T04:00:11.000Z",
           "wordCount": 724,
           "title": "如何评价《一人之下》530（562）话？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/462564909/answer/1928201336",
-          "author": "摩尔庄园手游",
-          "description": "【庄园部分隐藏装扮大盘点】\n小摩尔们，听说最近丝尔特拜访了一些小摩尔家里，还介绍了自己私藏的神秘时装，导致家中出现许多小摩尔排队买包包！\n除了神秘商店，其实庄园里还有更多的神秘装扮哦~一起来盘点一下吧！\n\n\n\n\n\n来源：知乎 www.zhihu.com\n摩尔庄园手游\n点击下载\n3 个回答，查看全部。\n你在玩《摩尔庄园》游戏时，做过哪些傻事？\n游戏《摩尔庄园》有哪些细思极恐的细节？",
-          "link": "http://www.zhihu.com/question/462564909/answer/1928201336?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-06-07T15:30:08.000Z",
-          "wordCount": 20,
-          "title": "游戏《摩尔庄园》中有哪些冷知识？"
         }
       ]
     },
@@ -3130,6 +3247,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9737854",
+          "author": null,
+          "description": "墨子连山，干货在这不受待见，我把他们放在“同名公众号”了……\n阅读原文\n\n因为西方掉进了资本主义这个局部最优陷阱。\n之前回答过一个类似的问题，为什么中国五千年文明，却没有发展出体系化的现代科学？\n答案同样是因为中国掉进了局部最优陷阱。\n欧洲为什么发展出了科学？因为他们一直在低位徘徊，文艺复兴开始触底反弹了。\n秦始皇统一中国，车同轨，书同文，建立了中央集权的统一帝国。在当时的生产力水平下，中央集权的大帝国可以统一调配资源，这些高度集中的资源被用在兴修水利、基础建设、国防安全等方面，其对生产力的促进是那些分散的小国无可企及的。\n从此之后，吃到中央集权甜头的中国人便始终追求着大一统。\n秦朝二世而亡，取而代之的汉朝仍然维持了大一统，经过几代人的摸索，终于由汉武帝找到中央集权的思想理论指导，即外儒内法。\n这种思想在今后的两千年中经受了岁月的考验，自始至终发挥着无与伦比的效用，足见其强大之处。\n隋唐发明的科举制度，可谓中国最伟大的发明，这种制度将外儒内法的思想发挥到了极致，在之后一千多年中的绝大部分时间里，中国始终保持着稳定的统一。\n正是这样的稳定统一，使得中国在两千年时间里屹立于世界之巅。\n然而，也正是由于这种优势，使得中国人的认知出现了局限，大家开始“一心只读圣贤书”，专注于道德修养，关注于人与人的关系。因为历史一再证明，只要能够把人的问题解决好，就可以维持相当优越的生活。于是，中国人开始忽视客观世界，甚至对物质产生了鄙视，更不要说去钻研客观事物了。\n一个典型的例子就是“格物”。既然叫“格物”，而没有叫“格人”，其最初的含义显然包含了客观事物。但是在后来的发展过程中，格的对象逐渐发生了偏移，最终焦点完全转移到了“欲情念”等主观方面。而这种关注自身的倾向并没有阻碍生产力发展，相反的，他造就了一批批的君子，在这些君子的领导之下，这个大一统的帝国得已稳定运行，客观上促进了生产力的发展。\n…",
+          "link": "https://daily.zhihu.com/story/9737854",
+          "publishedOn": "2021-07-07T23:06:42.000Z",
+          "wordCount": null,
+          "title": "为什么马哲没有被西方国家（它的发源地）广泛接受，却在中国、俄国、拉美地区生根发芽？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737861",
+          "author": null,
+          "description": "ag獭，好奇而无用的獭獭\n阅读原文\n\n想做一个按照知识树和标签对内容进行分类，以便采集信息、整理资源、进行讨论的网络平台。之前为了对网络和文献中的信息进行分类，根据中国大百科全书和中图分类法制作了一张分类图——\n\n当然，上图的知识树主要是根据现代的学科设置进行分类的，近期在查找资料，整理古代世界科学发展的过程中，能够很真切地了解到，古人对世界的认识、对学科和事物的分类，与今天人们的观念是非常不同的。\n古代的知识分类\n历史上有哪些全才全能型的人物？\n我们今天说到毕达哥拉斯，会说他是古希腊数学家、哲学家，而在毕达哥拉斯眼中“数即万物”，他的数学观念，其实是和他的哲学观、宗教观一脉相承的，彼此并无明确的界限。今天说到葛洪，我们会说他是魏晋时代的道教学者、炼丹家、医学家，而在葛洪的时代，炼丹和医学，其实也是和他的道教实践融为一体的。可见在古人眼中，学科的界限，往往并没有当下那么明晰，今天所说的物理、化学、哲学，在古人眼中，也许属于同一类认识世界，解释世界的方法，在文艺复兴时的欧洲，大概可以笼统的被归入自然哲学的范畴。\n科学科学，字面上理解，可以看做是分科的学术，细致明确的知识和学科分类，可说是近现代学术的主要特征之一。如何对知识进行分类，体现着对世界的看法，那么在古人眼中，知识和学科的分类又是如何的呢？\n《尔雅》\n为了更好地认识万物，很久以前，先民就开始对事物进行分类。最初的分类，主要是关于平日接触的动植物、矿物等。成书于战国至两汉时代的词典《尔雅》，将动物分为鸟兽鱼虫四大类，这大概是我国最早的动物分类。大约同时代，古希腊哲学家亚里士多德根据动物的性状，将其分为冷血动物、温血动物等类别，并按照其构造完善程度依次排列，形成高低有序的阶梯。\n随着书面著作的增加，以及教育的体系化，为了便于检索收藏，东西方古文明先后发展出了不同的图书编目和学科划分体系，和上面所说的生物分类比较，图书编目和…",
+          "link": "https://daily.zhihu.com/story/9737861",
+          "publishedOn": "2021-07-07T23:06:35.000Z",
+          "wordCount": null,
+          "title": "如何对知识分类？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737874",
+          "author": null,
+          "description": "地平线HOA，简单、有趣、认真的科普。『公众号同名』\n阅读原文\n\n“恐…恐怖机器人？”\n1.“真实的”科普\n前两天在路边一块大石头上，看到这么个玩意儿↓\n\n睿智的我果断求助了朋友圈的大佬：\n——“这啥啊？”\n\n——“小…螃蟹？”\n——“小蜘蛛？”\n——“别瞎说，蜘蛛八条腿！”\n——“看着像个昆虫幼虫？”\n——“某不知名海洋生物？”\n……\n\n——“额，恐怖机器人？”\n\n（别说，还挺像的…）\n2.身背白面馍馍的三角脸星人\n这个东东叫“三角蟹蛛”，拉丁学名Thomisus labefactus，普遍分布于平地至低海拔山区。\n“三角蟹蛛”这个名字取得是相当的传神，把它的两个特点概括得清清楚楚：\n①三角脸↓\n\n不禁让人联想到↓\n\n②远看像个小螃蟹↓\n（尤其是前面两对“胳膊”合起来的时候）\n\n人们对蜘蛛通常有两个印象：有毒、结网。好巧不巧，这俩特征三角蟹蛛都没沾上。\n不过，你要是认为三角蟹蛛性情温顺那就错了，它可是个狠角色。如果说一般的蜘蛛靠毒液和蛛网安静地“务农”，那么三角蟹蛛就是一个四处游荡、以小博大的“猎手”。\n三角蟹蛛长得很“迷你”，最大的个体也就 1 厘米左右。虽然的个头虽然比较捉急，它却能猎捕大自己好几倍的昆虫，比如蝴蝶、飞蛾、蜜蜂等等。\n它们是耐心的猎手，静静在花朵上潜伏着……\n机会来了！\n\n三角蟹蛛的雌雄个体差异很大。\n和雄性相比，雌性三角蟹蛛的体型大得多：成年雌性能长到 12mm，而雄性一般不会超过 5mm。\n除了体型，雌雄个体的颜色差异更明显。雌性以白色为主，而雄性大多以棕褐色为主。\n雄性\n\n雌性\n\n乍一看简直是两个物种……\n其实，抛开那些固有偏见，这些小家伙还是挺可爱的。如果你想知道，它们的确可以做暂时的宠物。\n为什么是暂时的呢？\n因为三角蟹蛛的生命很短暂，大概只有三个多月的时间。\n它们通常在每年的 6 月至 9 月活动，中间的 7 月到 8 月则用来繁衍后代。这个时候，雌蛛会把叶子卷成粽形的巢，然后在里面产卵。\n比较特别的是，小宝宝出生后不会马上开始发育，而是越过冬天后，在次年 6 月开始生长。（这个说法来自拓展阅读 2，但暂时没有找到其他佐证，存疑）\n\n疑似在卿卿我我的雌雄个体↑\n拓展阅读：\n1. 香港常见蜘蛛网，\nhttps://hkspider.owlhk.org/spider/thomisus-labefactus\n2. ーモアセンスのある顔の蜘蛛！！『アズチグモ』，\nhttps://konchulivetogether.com/thomisus-labefactus/#toc2\n3. 三角蟹蛛 Thomisus labefactus Karsch, 1881，\nhttp://gaga.biodiv.tw/new23/9402/36.htm\n©版权所有，转载请后台留言申请\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737874",
+          "publishedOn": "2021-07-07T23:06:27.000Z",
+          "wordCount": null,
+          "title": "有哪些长相比较逆天的昆虫？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737865",
+          "author": null,
+          "description": "彬帝，漫画爱好者，钟爱盘点类回答\n阅读原文\n\n除了 @孟德尔 书记提到的《湾岸竞速 MIDNIGHT》外，我再补充几部我知晓的\n四驱兄弟\n\n赛道之狼\n\n超时空甩尾\n\n极速方程式\n\n关于汽车题材的漫画，之前看过一篇不错的文章分享给大家\n原文链接：不是只有《头文字 D》的秋名山才有老司机_漫画\n·汽车漫画是什么时候兴起的?\n说到漫画中的汽车，要追溯到 20 世纪初。汽车诞生初期它就走进漫画了，不过当时还不是主角，只是在一些描写现实生活、讽刺社会现状的漫画中带有一些有汽车的情节。日本漫画祖师级人物北泽乐天笔下的漫画里就出现过不少汽车相关的故事，应该算是汽车漫画的起源。\n说北泽乐天可能比较陌生，但要是说漫画之神手冢治虫都是受他影响，这个人的地位就清楚了。\n\n20 世纪初北泽的漫画以政治讽刺为主，里面描写过当时权贵有汽车的时代，汽车与庶民间的关系，用一系列小人物的故事来表现平民对汽车的看法与感情，算是最早的汽车相关漫画。\n\n随着时代的发展，漫画在日本形成一种文化，几乎任何东西都可以成为漫画的主题和元素，汽车也不例外。汽车真正成为漫画的主角还要追溯到 20 世纪 60 年代，一些机甲类的科幻作品涌现，同时也有一些描写赛车比赛的漫画出现。1960 年漫画《少年 No.1》开始连载，标志着以汽车作为主题的漫画正式登上历史的舞台。单就日本漫画史来说，这应该是最早的以汽车作为主题的漫画作品。\n这部作品以勒芒赛车、方程式赛车为故事主线，开创了汽车类漫画的先河。当年这部漫画被誉为日本第一的赛车漫画。直至今日，还能购买到复刻版的《少年 No.1》漫画，可见它在漫画历史上也是举足轻重的一部作品。经过它的影响，令其他漫画家也开始创作汽车漫画。\n\n《少年 No.1》不仅是汽车类漫画的启蒙，它也为第一部风靡世界的汽车动画做出了铺垫。经过《少年 No.1》 时代，汽车漫画的情节、画风都得到了肯定。紧随其后漫画…",
+          "link": "https://daily.zhihu.com/story/9737865",
+          "publishedOn": "2021-07-07T23:06:22.000Z",
+          "wordCount": null,
+          "title": "除了《头文字 D》还有哪些经典的汽车题材漫画？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737875",
+          "author": null,
+          "description": "送女朋友拼好的乐高城堡算直男行为吗？\n\nJxxxx，大学生\n阅读原文\n\n前天晚上和男朋友一起拼了乐高的迪士尼城堡的一小小小半，然后就让他带回家了，约好下次出来再一起拼。今天打视频电话的时候发现，他自己一个人基本拼完了，留了个副塔尖尖给我，说是防止我生气给我留的......\n看到基本成品的那一刻脑袋真实的嗡嗡响，他送我的时候说的那句「我们一起拼，拼完你就住进去！」一直在脑子里面回荡。我不想要吵架，不想让他觉得我无理取闹，但我实在觉得恶心，甚至整个城堡都不想要了。\n拼都拼完了给我干什么？我顶多算个给城堡打地基的建筑工人，我是个住不进城堡的公主病。对我来说，这个迪士尼城堡是他的又一个乐高玩具，不是我们的城堡。\n阅读原文\n\n敖丙为什么打不赢哪吒？\n\n柒个葫芦，想恋爱\n阅读原文\n\n片名已经告诉你了，叫哪吒之魔童降世，不是叫敖丙之灵珠崛起\n阅读原文\n\n人们平均每洗一次头要掉多少根头发？\n\n稀罕小尤，音乐\n阅读原文\n\n我不清楚这个问题\n因为我已经没有头发了\n阅读原文\n\n如何激怒一个航天爱好者？\n\n昙花再现，昙花一现又再现，此中真意已惘然。\n阅读原文\n\n“你说的不对，大刘是这样说的……”\n阅读原文\n\n如何跟我爸解释刘慈欣不是疯子?\n\n邓cl，药师\n阅读原文\n\n诚恳的对您爸爸说：“您说得对，刘慈欣就是疯子！”\n然后该干嘛干嘛。\n放心，没人找你麻烦的。\n因为：\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737875",
+          "publishedOn": "2021-07-07T23:06:15.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9737835",
           "author": null,
