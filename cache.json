@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344024",
+          "author": "Chris Coyier",
+          "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://wesbos.com/javascript",
+          "publishedOn": "2021-07-08T22:25:22.000Z",
+          "wordCount": 700,
+          "title": "Beginner JavaScript Notes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343623",
+          "author": "Amit Sheen",
+          "description": "The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …\nThe post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/",
+          "publishedOn": "2021-07-08T14:35:38.000Z",
+          "wordCount": 1712,
+          "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343574",
+          "author": "Fortune Ikechi",
+          "description": "Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …\nThe post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/",
+          "publishedOn": "2021-07-08T14:35:09.000Z",
+          "wordCount": 1131,
+          "title": "Building a Command Line Tool with Nodejs and Fauna"
+        },
+        {
           "id": "https://css-tricks.com/?p=343495",
           "author": "Chris Coyier",
           "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -479,6 +506,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
+          "author": "hello@smashingmagazine.com (Uma Victor)",
+          "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
+          "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
+          "publishedOn": "2021-07-08T11:00:00.000Z",
+          "wordCount": 4784,
+          "title": "Tools And Practices To Speed Up The Vue.js Development Process",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "author": "hello@smashingmagazine.com (Emiliano Cicero)",
           "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
@@ -855,20 +896,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
-          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2782,
-          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -877,6 +904,15 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n位于临港新城的上海天文馆，将于7月17日启用，普及天文知识，据说是世界最大的天文馆。（via）\n本周话题：视频学习胜过读书吗？\n现在，网上的课程视频和讲座视频，越来越多。同样的内容，可以读书学习，也可以视频学习，大家喜欢哪一种？\n\n我比较喜欢读书，实在没耐心视频学习。\n书籍只要随手一翻，就知道大概的内容了，哪些章节需要重点阅读。视频行吗？不行，只能从头到尾，看完整个视频。看完才发现，10分钟的视频，只有1分钟是想听的。读书读到精彩之处，可以停下来慢慢琢磨，反复读上几遍。视频行吗？很麻烦，如果要回到10秒前，多拖几次播放轴，保证让你心情烦躁。\n\n奇怪的是，我发现， 很多人宁愿看视频，也不想读书。\n举例来说，我遇到过同学跟我说：老师，我想学习 React，你有好的视频教程推荐吗？你可以看文档啊，官方文档写得不错。老师，我觉得视频学起来更快，文档不好懂，看起来太慢了。\n我感到很困惑，明明是读书的学习效率比较高，为什么别人不这样想呢？\n\n最近，我读到一篇文章，里面有一句话，让我恍然大悟，明白了为什么人们喜欢视频学习。\n文章说， 人类学习效率最高的方式，不是\"读书 + 思考\"，而是\"观察 + 模仿\"。 前者需要较长时间的注意力投入，后者只需要短时间注意力，更符合人类的天性。\n我一下子就想通了，有些知识，读书读半天也不一定明白，但是亲眼看别人做一遍，马上就能懂。即使不完全懂，至少知道怎么模仿。所以才会有\"百闻（文）不如一见\"，人们更容易接受形象的东西，而不是抽象的文字。\n\n大部分领域的入门方式，都是\"观察和模仿\"，所以视频学习更有效。 对于深入学…",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
+          "publishedOn": "2021-07-09T00:45:10.000Z",
+          "wordCount": 439,
+          "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html",
           "author": null,
@@ -929,6 +965,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/viodnlo",
+          "author": null,
+          "description": "有搜索的江湖，怎么能少得了搜索提示。",
+          "link": "https://toutiao.io/k/viodnlo",
+          "publishedOn": "2021-07-09T01:07:14.051Z",
+          "wordCount": 780,
+          "title": "系统设计之路：如何设计搜索提示（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/bjjvhwf",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/bjjvhwf",
+          "publishedOn": "2021-07-09T01:07:13.952Z",
+          "wordCount": 1348,
+          "title": "2.5 万字详解：23 种设计模式"
+        },
+        {
+          "id": "https://toutiao.io/k/nw9yd13",
+          "author": null,
+          "description": "唯有动手才能变强",
+          "link": "https://toutiao.io/k/nw9yd13",
+          "publishedOn": "2021-07-09T01:07:13.848Z",
+          "wordCount": 141,
+          "title": "手痒想写项目？我挑了 10 个开源项目送你"
+        },
+        {
+          "id": "https://toutiao.io/k/4hdm0ni",
+          "author": null,
+          "description": "架构扩展性提高数倍",
+          "link": "https://toutiao.io/k/4hdm0ni",
+          "publishedOn": "2021-07-09T01:07:13.752Z",
+          "wordCount": 359,
+          "title": "代码写的烂，经常被同事怼，教你一招"
+        },
+        {
+          "id": "https://toutiao.io/k/mquagyh",
+          "author": null,
+          "description": "今天我们来探讨下扣减库存的方案。生活中，我们总是用各种电商 APP 抢购商品，但是库存数是很少的，特别是秒杀",
+          "link": "https://toutiao.io/k/mquagyh",
+          "publishedOn": "2021-07-09T01:07:13.667Z",
+          "wordCount": 132,
+          "title": "浅析 “扣减库存” 的方案设计"
+        },
+        {
+          "id": "https://toutiao.io/k/5oqrerw",
+          "author": null,
+          "description": "推荐系统综述带你一览行业现状",
+          "link": "https://toutiao.io/k/5oqrerw",
+          "publishedOn": "2021-07-09T01:07:13.335Z",
+          "wordCount": 87,
+          "title": "推荐系统技术演进趋势：重排篇"
+        },
+        {
+          "id": "https://toutiao.io/k/5270rol",
+          "author": null,
+          "description": "聊聊spring bean名称命名的那些事儿",
+          "link": "https://toutiao.io/k/5270rol",
+          "publishedOn": "2021-07-09T01:07:13.259Z",
+          "wordCount": 255,
+          "title": "聊聊 Spring bean 名称命名的那些事儿"
+        },
+        {
+          "id": "https://toutiao.io/k/wo0254g",
+          "author": null,
+          "description": "OutOfMemroyError 能被 catch？",
+          "link": "https://toutiao.io/k/wo0254g",
+          "publishedOn": "2021-07-09T01:07:13.138Z",
+          "wordCount": 179,
+          "title": "try-catch OOM，可行吗？"
+        },
+        {
+          "id": "https://toutiao.io/k/v8t22ft",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/v8t22ft",
+          "publishedOn": "2021-07-09T01:07:13.065Z",
+          "wordCount": 128,
+          "title": "将命令行工具转为 Web 页面？"
+        },
+        {
+          "id": "https://toutiao.io/k/x1jpbls",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/x1jpbls",
+          "publishedOn": "2021-07-09T01:07:11.212Z",
+          "wordCount": null,
+          "title": "Java 流水帐代码的重构与单元测试"
+        },
         {
           "id": "https://toutiao.io/k/khg0dob",
           "author": null,
@@ -2980,6 +3106,15 @@
       "siteUrl": "http://www.zhihu.com",
       "articles": [
         {
+          "id": "http://www.zhihu.com/question/469383435/answer/1985890753",
+          "author": "橙子多",
+          "description": "大家好，我是舒，播又来。今天最后一篇，至此12篇知乎的任务完成。\n\n\n先闲聊两句吧！从2015年参与不良人2编剧至今已有六年，做导演这还是头一回。在紧紧巴巴的时间里磕磕碰碰，总算是完成了不良人4的所有内容，虽遗憾颇多，但只能到此为止。\n六年了，今天也该告别了。\n\n\n五、六季的不良人中，我将不会再担任编剧与导演，只是负责与剧本监督一起敲定剧情走向与结局等“大方向”类的内容，剧本层面则由我们的编剧李皖青与李佳炫主笔，再加上导演李帅帅，往后是李家人的天下啦！\n\n\n\n\n虽不再参与制作，但在闲暇时间我和李导偶尔也会交流一些后续内容，还参与了第五季OP画面的构思，我记得那天跟李导听着片头曲聊片头的时候还是很开心的！对了，在这里还要感谢一下不良人第四季的镜头导演由于13集片尾没有放入他们的照片，在这里补上！\n\n\n\n 感谢作曲丁培峰老师和作词海雷老师的付出，创作出了歌曲《蛊》。之前听过他们合作的那首《不染》就很惊艳。在创作这首歌时是先词后曲的，海雷老师一共出了三版词，前两版的词也十分成熟，只是因为我个人喜好因而并未采纳，最终《蛊》的词出来一下子感觉就对了，十分简单明了的歌词，毫不矫情。最终这版词也没有做任何修改，作曲丁老师那边我更是完全没有操过任何心。毕竟有两位大神出马，我就在家乖乖等着发歌了。\n\n还有一个遗憾还是想说一下，最后蚩梦母亲的镜头被不可抗力了，因而替换成了一只手，由于做的仓促效果并不理想，如果有剪辑帝的话，可以尝试把这个镜头放到正片里的位置试试看，效果会完全不同。\n\n第四季最初叫做娆（苗）疆篇，因此会有许多观众认为此剧与不良人并无太大关系。大家不必担心，从第五季开始剧情将会回归主线内容。之前关于蚩梦与尤川的问题没有回复大家，只是因为不想做过多的引导，影响大家的观感。网上各种瞎传也只能当没看见，好家伙星雪凡轩蚩尤六个人死了个遍，连我妈都问我蚩梦是不是要死了……往后还是以看正剧为准…",
+          "link": "http://www.zhihu.com/question/469383435/answer/1985890753?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-07-08T11:30:08.000Z",
+          "wordCount": 66,
+          "title": "如何评价《画江湖之不良人》第四季第十三集？"
+        },
+        {
           "id": "http://www.zhihu.com/question/470160388/answer/1983181215",
           "author": "赵禹晴",
           "description": "大家好，这次非常感谢知乎的邀请，经过深度了解，发现知乎是一群有思想有态度的年轻人经常聚集交流的平台。感觉能让我这个很少上网冲浪的老人家跟年轻人又近了一步~但是初次上来非常非常紧张，为了备稿失眠了，首分享不知道该说啥好，就先跟大家先聊聊最近的心情和感受吧。   \n\n这周一，《眷思量》第五集终于上线，且传来破亿喜讯，恍惚中还是十分开心，其实我从6月14号首播当天，到今天，这段时间仍旧深陷在最后几集高潮戏的紧张赶制中。\n\n和没上线前不一样的就是，每天还需要应对一大堆宣发物料的制作和审核，以及随时会来的合作洽谈和访谈准备等，所以前几周一直没什么时间上线跟观众朋友们多做交流，因为如果在公司见识过我工作状态和排队审核状态的人就知道，小伙伴们很多人加班到很晚，为了每天早点下班回家，排队等反馈的人的眼神能把其他插队的人生吞活剥=v=。\n我就比他们幸运多了～我不用走下班回家这个流程，我就住在公司阁楼，下楼就上班，上楼就躺倒。。。3年来生活就是工作，工作也是生活，无缝衔接。。。。。。嗯，是幸福的！\n\n之前幻想上线的时候应该会轻松些了吧，没想到真的到了这个阶段却是没上线前成倍的忙，以至于最近更晕头转向了，大概是我太吹毛求疵了，很多细节不磨到位就不肯罢休，也许草草收了尾，赶紧杀青，就不会像现在这样连轴转都转不过来了。但……那就不是我了。\n\n前几周赶各环节反馈加上其他方面的工作量爆发，导致睡眠时间严重缩减到破纪录，最夸张的一天，睡了1个半小时爬起来，然后第二天，睡了3个半小时，两天，48小时，睡眠时间5小时，其他时间就像机器一样，白天跟各组人轮番交流推进度，晚上不断处理着各种反馈。第三天实在扛不住，才强制自己切断工作多睡几个小时。我相信自己能扛过去，一如每次遇到制作上的坎坷，都坚持着咬牙扛过来一样，因为我的背后还有很多各环节、各公司的小伙伴们支撑着我，他们都和我一样，想做一部好看的片子，跟有共同的目…",
@@ -3247,6 +3382,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9737880",
+          "author": null,
+          "description": "吴怼怼，左手科技互联网，右手文娱与消费\n阅读原文\n\n张绍刚吐槽宝贝儿的那句「取其精华，变成糟粕」用来形容翻拍电影很贴切。\n国产《阳光姐妹淘》上映后，这句话被再次印证。\n虽然为降低导演口碑对电影的影响，包贝尔这次低调得只在片尾用一小行字署名「导演包贝尔」，宣传电影时上的几个专访也都谨小慎微，尽量在讲对电影的热爱，讲自己普世且普通。\n但浓浓的求生欲并没能挽回《姐妹淘》的口碑。\n包贝尔本人拍电影功力不足是肯定的，不过作为翻拍电影，《阳光姐妹淘》的问题并不孤立。\n今年上映了《你的婚礼》《当男人恋爱时》，这些由韩国电影翻拍而来的片子，取得商业成功的同时，其实和《姐妹淘》一样，在本土化问题上，都犯了难。\n拉长时间线看，近年翻拍韩国电影的操作在电影市场十分频繁。\n\n这是因为相比好莱坞 IP，韩国电影版权显然更便宜。且相比差异更大的欧美文化，日韩文化与中国文化背景更接近，改编更轻松，已经经受韩国市场检验的电影，按理说本土化后成功率会更高。\n但成功的公式并不好复制。\n除了《重返 20 岁》等少数叫好叫座的电影翻拍片外，大多数翻拍韩国的电影，境地都很尴尬，《比悲伤更悲伤的故事》高票房外引来对电影价值观的质疑，《小小的愿望》复制粘贴《伟大的愿望》却困于「技术原因」，《你的婚礼》在口碑本就平平的原作上再下一层楼……\n爱情、犯罪、悬疑、喜剧，明明选的都是最典型的商业类型，为什么翻拍韩国片这个看似保险的举动之下，全是深坑？\n绕不过「本土化」三个字。\n01.适配的背景\n翻开豆瓣评论，会发现韩版《阳光姐妹淘》里为人称道的情节，到了国产《阳光姐妹淘》里，广为诟病。典型如暴力的运用。\n韩版《阳光姐妹淘》里，打架是一大特色。看电影的人不会产生「这群女的虚度光阴不务正业打打杀杀」的违和感。\n因为故事发生的背景是 1980 年代的韩国，动荡的时局，充满暴力的社会，给校园暴力提供了普遍性与合理性。\n\n人物动机在时代背…",
+          "link": "https://daily.zhihu.com/story/9737880",
+          "publishedOn": "2021-07-08T23:06:34.000Z",
+          "wordCount": null,
+          "title": "翻拍的电影电视剧为什么总是不尽如人意？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737888",
+          "author": null,
+          "description": "知乎用户，请走在我的身边，做我的朋友。\n阅读原文\n\n这部分是回答“交流为何会出现误解”。\n内容相对抽象。\n如果我会可能带入现有情景的诸多可能，比如互联网或日常沟通等通俗内容，以便于大家进行内化。\n理解与误解并存于诠释活动中，当一个人看到 or 听到另一个人的言论 or 文本，或者一个人从另一个的视角得出某个人的看法，都属于诠释活动的一部分，而“理解”或“误解”既是过程，也是结果。\n当一个理解究竟是“正确”还是“错误”，决定这一切的尺度可以是客观的，也可以是主观的，可以依托于群体，也可以依托于个体。\n这个最终敲定锤子的“法官”所具有的东西就称为【解释权】——我暂且如此定义。\n关于“解释权”的严肃性研究，涉及的范围比较分散，它可以是权利的一种，更可以是权力的一种......比如法律法规来说，在违法犯罪行为的判定上，所依据的解释权就是法条。\n再以知乎的规范来说，用户的著作权属于用户自身，当你感觉到自己写的内容被人“理解错误”，那么对方就是“误解”。\n这是解释权的判定问题。\n这个部分比较重要，有一种叫做“批评权”或者“介入授权”的东西，推荐阅读：\n知乎用户：为什么人们不喜欢被批评？\n知乎用户：该如何对待习惯性论断（judge）他人的人？\n这个“解释权”也是类似的，在沟通的过程中必然出现各方以个人视角对文本进行而此解读。\n假设 A 与 B 比较熟络的情况下，沟通并不会仅限于文本内容，A 还会对 B 进行某种“形象构建”，这个涉及某种话语背后的立场和动机揣摩。\n比如在“键盘政治”领域，人们通常习惯于在政治话题中，先摆明立场，而因为立场而团结起来的群体，之后的价值观也会偏向于此立场。\n这部分需要足够的政治素养，不然非常容易变成集体集中于各自立场的争论与狂欢。\n有时候一个人未必没有懂得文本的意思，比较文本内容就摆在那里，如果沟通无障碍的话，必然会出现一些其它“因素”导致了“误解”，但其实在…",
+          "link": "https://daily.zhihu.com/story/9737888",
+          "publishedOn": "2021-07-08T23:06:25.000Z",
+          "wordCount": null,
+          "title": "为什么会出现理解偏差？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737894",
+          "author": null,
+          "description": "周雨思Yusi，知名音乐博主；音乐审美通识教育践行者\n阅读原文\n\n钢琴家如果能在原曲的基础上，自我发挥，加入自己的二次创作，那么不可否认，这样的演奏就是非常有价值的。近代很多优秀的钢琴家是当之无愧的大师。但现实情况是如今确实存在一个很大的问题是：大部分的琴童甚至很多钢琴家，只会依照谱子演奏，根本没有自我发挥的能力。\n一、为什么演奏越来越照本宣科，失去了生命力？\n音乐行业的细分，以及大众对古典音乐的固化认知，导致业内人对自身要求降低，逐渐失去了创造力。\n要知道，“钢琴家”是近代才逐渐分化出来的一个职业。在历史上，没有作曲家、演奏家之分，他们只有一个统一的称呼——音乐家。\n既能创作，也能演奏，是那个时代每一名音乐家的基本素养。我们熟知的肖邦、舒曼无一不是能写能弹的全才，即便是当时以演奏出名的克拉拉，也是同样具备创作才能的。\n而当年的音乐家在演奏时，其实常有即兴发挥的时刻。比如，在古典乐协奏曲中，就有专门供演奏者即兴表达的华彩部分。巴赫的《勃兰登堡协奏曲》第五首的第一乐章，就有一段很长的大键琴华彩，我们可以从音乐中听到他自由酣畅的表达。\n但是现在，我们听音乐会，会发现几乎没有任何一场协奏曲的华彩部分是即兴的，因为如今很多“钢琴家”几乎没有这样的能力了。\n是的，近代以来，音乐行业细分出“钢琴家”这一职业，而这个职业，不管是业内人还是大众看来，都是对创作没有要求的。\n但对于一个做音乐的人来说，只会演奏而不能创作，其实是一件很荒谬的事。\n就像一个学英语的人，只学会了背诵和朗读而无法进行日常自主对话，却被认定为“英语专家”。\n很多琴童就是这样被教育和成长起来的，像学“哑巴英语”一样也学成了“哑巴音乐”：只要能依据谱子弹下来就是学会了，根本没有人关心他们是否可以用音乐“说话”。\n可悲的是，出于对古典音乐的固化认知，大众并不认为这是一件很奇怪的事。\n更多的人默认钢琴家只要把曲子弹奏好就可以了，默认他们不需要会创作，默认这些缺乏生命力的音乐是正常的、甚至优秀的。\n我曾经看过一个笑话：如何让一个钢琴家停止弹琴？答案是：把他的谱子拿掉。\n虽然只是一个笑话，但如今想想，真的是意味深长。\n\n二、刻意尝试比起刻意练习，要伟大得多\n\n当然，并非所有钢琴家都在对自己降低标准。依然有很多优秀的钢琴家，在追求创作、追求自我表达，因为他们知道，这才是音乐真正的意义。\n比如我们之前提到的古尔达，他原本在古典乐演奏上已经达到了很高成就，但为了可以有更大的空间自我表达，他选择跨界到爵士乐。这其中的难度可想而知，但古尔达还是义无反顾地去尝试了。\n小时候，我曾看过一本阿格里奇的传记，里面写到古尔达曾经鼓励她去做有更多即兴的爵士乐，但是她拒绝了。\n因为这件事，我一度很不理解阿格里奇，觉得她缺乏勇气去尝试。直到长大后，我才释然，因为她也在自己想做的范畴内去努力了。她尽可能把每一次现场都做到不一样，永远给大家带来惊喜。\n今年60岁的加拿大音乐家哈默林Marc-André Hamelin，也是集创作与演奏才能于一身的大神级人物，古典音乐弹奏信手拈来，创作音乐也不在话下。他创作的小调练习曲，有很多伟大作曲家音乐的身影。\n​另外，俄罗斯90后钢琴家特里福诺夫，也曾创作过钢琴协奏曲。虽然作品中明显有前人的味道，但至少他向前迈出了那一步，有尝试去发出自己的声音。\n所以你问我，自我表达有没有对错？表达没有对错，但是一定有好坏。\n像上面的例子，这些钢琴家都在有意识地、不断地训练，让自己的演奏方式更丰富，不断让大家听到新的东西，我认为这就是好的表达。\n而那些经验化、套路化，总是用同一种方式来突出情感的，我认为就是不够好的表达。\n郎朗本身其实是一个非常有天赋的表达者，但是我们有时候会感受到他的演奏陷入一种套路化的表达：比如表达浪漫，往往总是先抑后扬，用长音来表达深情。\n\n不是说这样不对，只是每一次都用这些技巧，就很难再带给人新鲜感，我们会觉得他没有再做过新的思考与尝试了。这一点会让我觉得特别可惜。\n当然，这种无意识的、无思考的表达，并不仅仅存在于古典音乐，哪怕是非常依赖于即兴的爵士，也很容易被这种套路化、经验化的演奏充斥着。因为不加思考地表达，往往是最轻松、最省力的。\n所以在我看来，有意识、有思考的去尝试，比不加思考、千篇一律的重复训练要伟大得多。\n因为在无数次的尝试中，充满了不为人知的艰辛和挑战，但呈现出的结果，却是最热烈、最动人的花朵。\n音乐，永远不是会弹钢琴就够了，更能打动人的，往往是那些努力尝试后，新鲜而惊艳的瞬间。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737894",
+          "publishedOn": "2021-07-08T23:06:18.000Z",
+          "wordCount": null,
+          "title": "为什么只弹钢琴不作曲的人会成大师？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737898",
+          "author": null,
+          "description": "时雨，知乎常驻铲屎官 | iOS开发工程师 | 设计师 | 剑网3\n阅读原文\n\n前言\n我养过公猫和母猫，也经历过各自的绝育过程。\n对比下来发现，母猫的绝育确实要比公猫麻烦很多。\n那么这篇回答就来盘点一下母猫绝育需要提前做的准备以及注意事项吧。\n\n术前准备篇1.考察准备给猫咪做手术的医院。\n毕竟现在科技发达了，信息查询也越来越快捷。\n一家医院的好坏，也很容易通过一些方法判别。\n比如上一些点评类 APP 查看，或者问一下同样是铲屎官的朋友。\n一家靠谱的医院往往会让猫咪的绝育过程事半功倍。\n\n2.确保猫咪疫苗完备。\n猫咪绝育是动刀子的事情，而动刀期间，猫咪的抵抗力是很薄弱的。\n如果没有打疫苗，那么很容易在绝育期间染上猫瘟等传染病。\n如果猫咪，尤其是母猫，在绝育期间染上猫瘟，那就会危及生命。\n千万不要抱有侥幸心理。\n有条件的，打完三针疫苗，建议做一个抗体检测，看看猫咪是否产生抗体。\n毕竟不是所有猫咪打完三针疫苗都一定会产生抗体的。\n宠物疫苗本（图源网络）\n3.断食断水\n这个最好是咨询做绝育的医院。\n我们家小豆子做绝育的时候，医生让断食断水 12 小时。\n这么做是为了防止猫咪在麻醉期间产生意外。\n猫手术时候是这个画风，如果不断食断水一段时间，确实很容易呛死自己\n4.铲屎官的时间\n因为母猫的绝育手术需要开腹。\n所以术后恢复期需要连续注射几天止疼消炎针。\n这个要咨询给猫咪做绝育手术的兽医。\n提前请假预留出带猫咪打针的时间也是很重要的。\n\n5.术前检查\n这个检查一般情况下是检查猫咪有没有病，有没有炎症。\n如果猫咪正在生病，是不适合手术的。\n同时还会检查猫咪的各个器官的代谢能力。如果这些有问题，那么麻醉的风险会加大。\n另外，有一小部分猫咪凝血性很差，是不能做开腹手术的。\n如果您财力雄厚我建议您做一下。以防万一。\n\n绝育用品篇1.伊丽莎白圈\n猫咪手术后会本能很想舔伤口，但是他们带刺的小舌头会把…",
+          "link": "https://daily.zhihu.com/story/9737898",
+          "publishedOn": "2021-07-08T23:06:11.000Z",
+          "wordCount": null,
+          "title": "给母猫做绝育，需要准备哪些东西？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9737878",
+          "author": null,
+          "description": "古代为什么立嫡长子不立贤？\n\n雪姑娘，语气不好，但三观极正\n阅读原文\n\n1 2 3 4 5 6 7 8 9\n请找出上面最大的一个数？很简单是 9～\n请找出上面最特别的一个数？选几都有理由\n阅读原文\n\n学医的女生有多可怕？？\n\n三川，我为米开朗基罗打铁\n阅读原文\n\n我妈。野战部队医院，骨科小辣椒，肿瘤科一枝花。\n我爸经常把自己喝成傻逼，然后怕我妈骂他，闭目躺床上装死。\n吵架这种东西，得吵出来对吧，如果对方辩友装死猪，你说气不气嘛！\n我妈风情万种地趴在他耳边：你知道吗？我这一刀下去，让你走得没有痛苦。\n我爸：醒了醒了醒了。\n阅读原文\n\n90后的你现在拥有多少存款？\n\n良鹿\n阅读原文\n\n96，毕业一年了 本来预计存款是五万，现在还差六万。\n阅读原文\n\n你在高中时听说过/做过什么轰动全校的事？\n\n刘尔春，苦逼民工\n阅读原文\n\n我班一对情侣私奔，一周后钱花完后回来了。\n阅读原文\n\n《哈利·波特》中最惊艳你的一处设定是什么？\n\n胡文浩，恩···搞生态的\n阅读原文\n\n生怕哈利学习不好，伏地魔总是到期末才搞事\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9737878",
+          "publishedOn": "2021-07-08T23:06:03.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9737854",
           "author": null,
@@ -4595,15 +4780,6 @@
           "publishedOn": "2021-06-11T01:50:45.000Z",
           "wordCount": 83,
           "title": "2021.06.11 今天是每日时报陪伴您的第 573 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/06/09.html",
-          "author": null,
-          "description": "2021.06.08 今天是每日时报陪伴您的第 571 天\n[新闻] 介绍 chrome.scripting ：https://developer.chrome.com/en/blog/crx-scripting-api/\n[文章] 总结 TypeScript 在项目开发中的应用实践体会：https://juejin.cn/post/6970841540776329224\n[文章] 三角学在 CSS 和 JavaScript 中运用：https://tympanus.net/codrops/2021/06/01/trigonometry-in-css-and-javascript-introduction-to-trigonometry/",
-          "link": "https://wubaiqing.github.io/zaobao/2021/06/09.html",
-          "publishedOn": "2021-06-09T03:07:43.000Z",
-          "wordCount": 92,
-          "title": "2021.06.08 今天是每日时报陪伴您的第 571 天"
         }
       ]
     }
