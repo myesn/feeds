@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344273",
+          "author": "Georgi Nikoloff",
+          "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
+          "publishedOn": "2021-07-15T14:40:03.000Z",
+          "wordCount": 1882,
+          "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
+        },
+        {
           "id": "https://css-tricks.com/?p=344249",
           "author": "Temani Afif",
           "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -506,33 +515,6 @@
           "publishedOn": "2021-06-16T14:26:58.000Z",
           "wordCount": 2409,
           "title": "How I Used the WAAPI to Build an Animation Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342198",
-          "author": "Chris Coyier",
-          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
-          "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 809,
-          "title": "Detect Unused Classes in… HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342519",
-          "author": "Chris Coyier",
-          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
-          "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 2234,
-          "title": "Media Queries in Times of @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342248",
-          "author": "Chris Coyier",
-          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
-          "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 2869,
-          "title": "Just How Niche is Headless WordPress?"
         }
       ]
     },
@@ -541,6 +523,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "author": "hello@smashingmagazine.com (Cassidy Williams)",
+          "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "publishedOn": "2021-07-15T14:00:00.000Z",
+          "wordCount": 1071,
+          "title": "ISR vs DPR: Big Words, Quick Explanation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.",
+          "link": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "publishedOn": "2021-07-15T13:45:00.000Z",
+          "wordCount": 3198,
+          "title": "You Can Do That With A JavaScript Data Grid?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a22acbe3-8a80-4f08-95eb-d440e60c5723/kendo-ui-homepage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -904,20 +914,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4106,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -926,6 +922,15 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n中世纪的艺术大师米开朗基罗，曾经设想在罗马的台伯河上建一座桥，从未实现。法国艺术家根据这个设想，在当年的位置上，使用三个巨大的氦气球，升起了一座长达18米的飞桥。这个装置艺术品将在天空中，展出到7月18日。（via）\n本周话题：广告拦截器太过分了\n上月的一期周刊，发生了怪事。我的个人网站有读者留言：\"怎么少了两段内容，你是不是遗漏了？\"他的浏览器里，有两段文字消失了。\n后来找到原因，原来是广告拦截器把那两段隐藏了。本周，我想谈谈这件事。\n\n有些读者可能不知道，什么是广告拦截器，我先科普一下。它是一种浏览器插件，用来拦截网页广告，使其不显示。\n它有一套内置的过滤规则，只要符合规则，就会认定内容是广告，从而拦截或隐藏。比如，它会自动拦截脚本文件ad.js，因为脚本名称里面含有\"ad\"（广告）这个词。\n内置的过滤规则，主要来自网上几个著名的规则集（filter lists），拦截器会每天定时下载。下图就是规则集的配置界面。\n\nEasylist 是最著名的一个规则集，所有拦截器基本都会装。它还有不同国家的国别版，中国用户会装中国版。\n中国版点进去，就是一个文本文件，搜索\"ruanyifeng.com\"。就能看到，大概有十几条规则是针对我的。\n\n第一次看到时，我挺震惊的。一个单纯的个人博客网站，有人居然写了这么多规则，重兵围剿。下面，我选几条，让大家看看它到底拦截了什么东西。\n\n! 拦截脚本 checker.js\nruanyifeng.com/blog/checker.js\n\n! 隐藏指向 t.cn 的链接\nruanyifeng.com##a[…",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
+          "publishedOn": "2021-07-16T00:45:10.000Z",
+          "wordCount": 420,
+          "title": "科技爱好者周刊（第 167 期）：广告拦截器太过分了"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
           "author": null,
@@ -978,6 +983,105 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/zn772as",
+          "author": null,
+          "description": "with 语句非常优雅，它的设计思路很有讲究！",
+          "link": "https://toutiao.io/k/zn772as",
+          "publishedOn": "2021-07-16T01:08:02.973Z",
+          "wordCount": 1537,
+          "title": "Python 的上下文管理器是怎样设计的？"
+        },
+        {
+          "id": "https://toutiao.io/k/5sjgun3",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/5sjgun3",
+          "publishedOn": "2021-07-16T01:08:02.866Z",
+          "wordCount": 592,
+          "title": "微信 Matrix 不好用？主要原因是监控日志解析方面，那手写一个"
+        },
+        {
+          "id": "https://toutiao.io/k/gqumeuu",
+          "author": null,
+          "description": "涵盖数据管治、数仓、中台、DataOps、AIOps、混沌工程、CI/CD、机器学习、分布式数据库等精华干货。",
+          "link": "https://toutiao.io/k/gqumeuu",
+          "publishedOn": "2021-07-16T01:08:02.784Z",
+          "wordCount": 74,
+          "title": "DAMS 2021：BATJ、美团等大厂和工行、农行等大型银行如何最大化挖掘数据价值？"
+        },
+        {
+          "id": "https://toutiao.io/k/db3h74b",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/db3h74b",
+          "publishedOn": "2021-07-16T01:08:02.694Z",
+          "wordCount": 292,
+          "title": "特征选择：8 种常见的特征过滤法"
+        },
+        {
+          "id": "https://toutiao.io/k/lquoozy",
+          "author": null,
+          "description": "什么是指标体系？为什么建设指标体系？如何使用OSM和AARRR模型搭建指标体系？",
+          "link": "https://toutiao.io/k/lquoozy",
+          "publishedOn": "2021-07-16T01:08:02.616Z",
+          "wordCount": 74,
+          "title": "网易传媒数据指标体系建设实践"
+        },
+        {
+          "id": "https://toutiao.io/k/emx402i",
+          "author": null,
+          "description": "APP个人隐私合规梳理总结",
+          "link": "https://toutiao.io/k/emx402i",
+          "publishedOn": "2021-07-16T01:08:02.538Z",
+          "wordCount": 88,
+          "title": "App 隐私合规"
+        },
+        {
+          "id": "https://toutiao.io/k/u3luoxm",
+          "author": null,
+          "description": "背景两周前，我遇到一个挺有意思的xss，过滤了很多符号，包括\\x26lt;\\x26gt;=()`[]等。我将此问题抽象成ctf题目[",
+          "link": "https://toutiao.io/k/u3luoxm",
+          "publishedOn": "2021-07-16T01:08:02.457Z",
+          "wordCount": 100,
+          "title": "神奇的 JavaScript：不用括号带参执行函数"
+        },
+        {
+          "id": "https://toutiao.io/k/y23rfbd",
+          "author": null,
+          "description": "最近CSDN的一篇文章《我辞职了，决定全职去开发我的操作系统！》",
+          "link": "https://toutiao.io/k/y23rfbd",
+          "publishedOn": "2021-07-16T01:08:02.318Z",
+          "wordCount": 67,
+          "title": "SerenityOS 和 Red"
+        },
+        {
+          "id": "https://toutiao.io/k/eo1k9uj",
+          "author": null,
+          "description": "如题",
+          "link": "https://toutiao.io/k/eo1k9uj",
+          "publishedOn": "2021-07-16T01:08:02.209Z",
+          "wordCount": 108,
+          "title": "软件工程师采用新技术的正确方式"
+        },
+        {
+          "id": "https://toutiao.io/k/pg6tvcv",
+          "author": null,
+          "description": "加入「码农周刊VIP会员」，一起牛起来！",
+          "link": "https://toutiao.io/k/pg6tvcv",
+          "publishedOn": "2021-07-16T01:08:02.134Z",
+          "wordCount": 90,
+          "title": "工具 | 字节跳动开源的 Golang 微服务 RPC 框架"
+        },
+        {
+          "id": "https://toutiao.io/k/chowuck",
+          "author": null,
+          "description": "操作系统：CentOS-7.8 kubernets版本：1.20.4 docker版本：20.10.3 本篇是一个安装教程，包含了docker安装，kubernetes安装以及kube-flannel网络插件的安装，整个安装过程使用的为国内网络环境，在阿里云的镜像服…",
+          "link": "https://toutiao.io/k/chowuck",
+          "publishedOn": "2021-07-16T01:07:59.860Z",
+          "wordCount": 441,
+          "title": "kubernetes 安装（国内网络 + 阿里云）"
+        },
         {
           "id": "https://toutiao.io/k/eyzro50",
           "author": null,
@@ -3587,15 +3691,6 @@
           "publishedOn": "2021-06-17T07:54:48.000Z",
           "wordCount": 348,
           "title": "[译] Data Mesh 的原则和逻辑架构"
-        },
-        {
-          "id": "https://toutiao.io/k/akx3jo7",
-          "author": null,
-          "description": "一个新的算法横空出世，它就是Serializable Snapshot isolation，简称SSI，它的优点就是能够牺牲很小的性能达到Serializable隔离的效果，这个算法是2008才出现的，不过已经被运用在PostgreSQL的版本9.1和FoundationDB中了",
-          "link": "https://toutiao.io/k/akx3jo7",
-          "publishedOn": "2021-06-16T05:52:01.000Z",
-          "wordCount": 210,
-          "title": "一文带你深入理解 Serializable 隔离最新技术 SSI"
         }
       ]
     },
@@ -3604,6 +3699,24 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/472178904/answer/2000086901",
+          "author": "ZCloud",
+          "description": "作品名：四维人看的漫画是啥样的？   作品类别：关于四维空间的脑洞   作者：ZCloud\n\n\n\n\n来源：知乎 www.zhihu.com\nZCloud\n点击下载\n10 个回答，查看全部。\n如何引导父母一起看动画和漫画？\n求推荐一些好看不火的动画或者漫画?",
+          "link": "http://www.zhihu.com/question/472178904/answer/2000086901?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-07-15T15:30:07.000Z",
+          "wordCount": 42,
+          "title": "如何用科普动画、漫画的形式进行科学传播？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/470292481/answer/1999413742",
+          "author": "黄伟明",
+          "description": "大家好，我是《喜羊羊与灰太狼》总导演黄伟明。又到暑假，喜羊羊的新系列如约而至，这次推出的《决战次时代》，羊羊们将去到未来的“次时代”冒险，给大家呈现不一样的羊村和羊狼角色！感谢大家的支持与厚爱，《决战次时代》播出4天芒果TV点击率破亿，登上优酷全站热搜和少儿榜单热度第一，羊羊团队会继续努力做好内容来回馈大家的支持！\n《喜羊羊与灰太狼》十六周年\n送给你我的一场成年礼：未来的你也可以成为自己最喜欢的样子\n     《决战次时代》是一个和时空有关的故事，讲述了喜羊羊与灰太狼意外来到十五年后的此事后，为了重塑历史，回到自己的时空，与其他长大后的小羊们齐心收集能源石碎片，守护家园的故事.《羊村守护者》系列已经来到第四季了，什么样的题材才能不断给观众不一样的惊喜是创作团队一直在思考的事情。怎样去避免故事模式化，“突破羊守系列的传统，给观众带来点惊喜！”，于是团队一致决定，这一次跨时空之旅要做一场“成人礼”！把《决战次时代》定位在：成长与未来。小羊们一改趣萌可爱的小羊形象，加上城市化、科技化的场景元素，打开了大家对羊守系列乃至《喜羊羊与灰太狼》世界观的全新想象。\n\n    为什么说是“成人礼”？今年是《喜羊羊与灰太狼》的16周年，羊狼们的形象一直深入人心，年纪虽小但却勇敢正义守护家园，一直陪伴大家的成长，大家对小羊们“多大了”这个问题也一直充满兴趣，十五年过去了，小羊们是时候长大了！因此，创作团队就决定：让大家见证一下十五年后，走上社会的小羊和大家见面，一起守护十五年后的家园。这一次无论是在动画世界里还是我们故事创作，动画制作上都是一次很大的尝试和挑战。      \n   比如长大后的小羊形象，在创作初期，我们构想设计过许多小羊长大后形象，那究竟怎样才符合长大后的他们呢？才能做出合理的变化？在我看来，作为家喻户晓的国民动画IP，我们角色形象的突破要建立在角色固有的DNA上，不能纯粹为了“…",
+          "link": "http://www.zhihu.com/question/470292481/answer/1999413742?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-07-15T11:30:07.000Z",
+          "wordCount": 120,
+          "title": "如何评价7月播出的《喜羊羊与灰太狼之决战次时代》？"
+        },
         {
           "id": "http://zhuanlan.zhihu.com/p/375634204",
           "author": "backom",
@@ -3891,15 +4004,6 @@
           "publishedOn": "2021-06-17T03:00:10.000Z",
           "wordCount": 23,
           "title": "如何看待《画江湖之不良人》第四季第10集？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/465128349/answer/1943674386",
-          "author": "一座山丘",
-          "description": "不邀自答，利益相关，我是其中一个游戏《重塑火星》的开发者——山丘。\n半年前，还在家里撸猫写bug的我，怎么也想不到，今天能连人带猫一起上了E3的直播。\n这里首先要感谢我的发行商游力卡，你问我怎么看待2021 E3 游戏展「游力卡发布会」？当然是从床上蹦起来看（激动手抖）\n\n关于游戏\n《重塑火星》是一款在火星上建设殖民地，通过轻(xin)松(xin)愉(ku)快(ku)地经营，最终将火星改造为宜居星球的游戏。\n《重塑火星》也是一款轻度4X游戏，毫不避讳地说，我受到很多优秀的4X游戏启发。《重塑火星》舍去了许多繁杂的数值，一切围绕最核心的4X体验，只为打造一场流畅的火星之旅。\n在《重塑火星》里，你对于一些事件选择，可能将影响你的整个故事发展。你的火星基地一片欣欣向荣，建设人类第二家园的未来可期。然而，并不是所有人都这么想。\n\n当地球联合国面临经济倒退，政局突变之时，他们是否还会像以往那样支持火星的建设发展？\n\n当地球上崛起的军政府，正在用武力横扫一切之时，他们的野心是否又会蔓延至火星？\n\n在火星上，有一波失联的无人机正在隐秘的角落，悄悄地采矿，发展着一股钢铁机械势力。他们是敌是友，会认可我们这个曾经的造物主吗？\n\n作为重塑火星计划的最高指挥官，你将带领火星人民去探索这一切的答案。\n或许你会为了发展，忍气吞声；或许你会傲骨铮铮，接受战争。总之，一切都是最合适的选择，火星的民众们将支持你做的每一个外交决定，别辜负了他们，带领大家走向繁荣！\n\n\n最后\n《重塑火星》也是我心中满腔好奇心的产物，在过去的一年里，我从设计，程序，到美术，音乐，一个人走过了开发它的道路。\n相信有各位玩家的陪伴，这条独立开发《重塑火星》之路将会变得热闹起来；正如游戏里，来到火星的一波又一波移民者，让这颗沉寂的星球充满希望。\n《重塑火星》现已在Steam上开放试玩，欢迎来体验，或是加入心愿单：\nReshaping Mars on Steam\n\n游戏本体将于今年7月29号Steam发售。欢迎大家来交流《重塑火星》的各方面感受，加入组织Q群：961849645，共商火星大计！\n游戏中的地名全都为真实的火星地貌名称，并且按照经纬度，着落在大致正确的地理位置。比如水手谷，阿西达里亚平原，坦佩堑沟等。因此，就算你把殖民地经营得很烂，至少你也学到了不少火星地理，没准这些知识能在你亲自登上火星的时候用得着，对吧？\n如果你对殖民火星有着浓厚的兴趣，可以进一步了解现实世界中各路大神们真正的火星重塑计划，也许他们正需要像我你这样平凡或不平凡人的关注。\n\n\n最后的最后\n展示一下我的保安+监工：\n\n\n\n\n来源：知乎 www.zhihu.com\n一座山丘\n点击下载\n1 个回答，查看全部。\n2021年E3游戏展「SE 发布会」有什么值得期待的？\n2021年E3游戏展「任天堂发布会」有什么值得期待的？",
-          "link": "http://www.zhihu.com/question/465128349/answer/1943674386?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-06-16T11:30:08.000Z",
-          "wordCount": 43,
-          "title": "如何看待 2021 E3 游戏展「游力卡发布会」？有哪些值得关注的消息？"
         }
       ]
     },
@@ -3908,6 +4012,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9738116",
+          "author": null,
+          "description": "风森正辉，立！击！斩！\n阅读原文\n\n一切的伊始\n奥特曼这个系列传到今天，已经有 55 年了。这个长寿的系列给了无数的孩子珍贵的童年回忆，无论是 70 后，80 后，90 后，00 后，还是 10 后，提起奥特曼这个 IP，心里总归会有或多或少的印象。而这个 IP 的伊始，就是 1966 年的这部作品：初代奥特曼。初代奥特曼作为第一步开山作，不仅仅是给后人指明了应该怎么拍摄这种作品，而且其本身拥有非常高的质量，无论是本篇的剧情水平，还是主角和敌役的塑造，亦或是其特摄部分展现出的特摄水平，在当时都是最上品的东西。可以说，即使没有后面的系列，初代奥特曼也是一部至真，至纯，至善，至美的作品，其制作时候的思路，是值得被后世所有奥系列的作品所吸纳的。\n初代幕后的故事\n初代虽然是一部完成度极高，作品剧集水平极高，同时特摄水平在当时世界顶级的作品。虽然他有这么高的地位以及水平，但是其实这部作品是一部准备时间非常短，并且一度濒临难产的作品。其制作条件是收到了极大的限制的，但正是因为如此，初代为何能够变成这样的一部极高水平的作品，其本质原因就是因为初代聚集了一批拥有极高的水平，同时又拥有相当热情的 staff 们。这些优秀的监督，脚本，特技监督，以及摄影等片场人员，碰撞出了许多十分有趣的故事。因此，初代曼的回答的第一个部分，我选择讲一下初代曼在制作时候的幕后的故事，也让读者们能够拥有更多的关于这部剧集的知识。\n难产\n1966 年 1 月份，円谷制片厂的第一部特摄 TV《奥特 Q》在 TBS 播放了，当时就获得了轰动，收视率最高超过了 30%。\n\n但是在这部作品播出之前，円谷制片厂就已经开始作接下来的企划的打算了，其本质原因是因为円谷为了发展，必须主动，因为円谷作为“小作坊”，在和 TBS 的合作中，必须要主动，而 TBS 方的制片人栫井巍向円谷制片厂下达了制作新作的要求，要求为以下几点：\n第一…",
+          "link": "https://daily.zhihu.com/story/9738116",
+          "publishedOn": "2021-07-15T23:06:33.000Z",
+          "wordCount": null,
+          "title": "如何评价《初代奥特曼》？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738124",
+          "author": null,
+          "description": "广藿，媒体人/香水收藏者/花园主人/香水和园艺专栏作家\n阅读原文\n\nClinique Aromatics Elixir\n\n又一个不那么高端的品牌拥有最顶级香水的例证，倩碧不但拥有红极一时在欧美几乎人手一支的 Happy，还有这支公认的女王香 Aromatics Elixir。芳香不老药，听着就像是 Transsilvania 山中德古拉伯爵豢养的那些齿白唇红既美且狠的女吸血鬼——其中有一个是莫妮卡贝鲁齐演的。\n真正的美是超越时间的，贝鲁齐本人就是例证，二十多年之后，虽然脸上的皱纹已经不少，在 007 幽灵党里面一身丧服出场十几分钟，一举手一投足依然是特罗伊的海伦的气场，把那正牌邦女郎衬得犹如一块农家乐餐桌上油腻的肥肉。所以在面对“什么香水能让我显得年轻”这个问题时，我总会反问，亲，你希望自己立刻变成 20 岁的凤姐，还是 50 岁的莫妮卡贝鲁齐呢？\n倩碧的这支“不老药”之所以能成为经典，原因也在于此——它绝非让你闻上去像一个 18 岁的少女，而是让你心生敬畏，深知不到 30 岁，这个味道根本撑不起。进而让你不再恐惧，甚至开始向往慢慢变老这件事。\n醛的皂感是第一印象，有腥甜的气息，让人没由来地想到鲜血。紧接着药感扑面而来，幽凉，却质感醇厚，并不像午夜飞行那般似夏夜凉风。\n不久之后广藿香奔涌而出，如潮湿泥土般纯正的广藿香，整体是暗沉的灰色调，简直让人厌世。这广藿香出现之早、之纯正，几乎会误导鼻子，让人以为这是一支单一广藿香。\n但是一进入中调，花香灿烂地迸发，极洁净却又极雍容，简直如散花天女，宝相庄严，并没有哪种花香是特别突出的，这个阶段非常神似 Vivre——它们两个正是同年问世的。接下来味道渐渐发咸，和一点点酸，像是一个端庄的大美人轻轻一撇嘴，有那么一点点刻薄，却更添了风流宛转。\n这酸起初带有花粉油润的质感，很青翠，一扫前调的灰暗沉重，十分明亮轻盈，很有 Chamade 安稳…",
+          "link": "https://daily.zhihu.com/story/9738124",
+          "publishedOn": "2021-07-15T23:06:24.000Z",
+          "wordCount": null,
+          "title": "有什么黑暗系的香水值得推荐？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738109",
+          "author": null,
+          "description": "星球研究所，一群国家地理控，专注于探索极致世界\n阅读原文\n\n四姑娘山，迷人的山野与心中的梦想。\n本文由 VOLVO 瓦罐联盟 特约制作\n在风景如画的川西，四姑娘山堪称传奇。\n人们谈论着「她」的每一座山峰、每一条沟谷、每一个湖泊，以及发生在这里的每一段故事。\n而当你真正走近她就会发现，她是风景，更是万千人夙夜以求的山野梦想。\n▼\n01. 四姑娘山幺妹峰，摄影@欧阳凯\nI 山之凌厉\n「她」距离成都市区只有 120km，却已是一派险峰林立、沟谷纵横。\n▼\n02. 四姑娘山有广义与狭义之分，狭义的四姑娘山仅指一字排开的大峰、二峰、三峰、幺妹峰四座山峰，广义的四姑娘山包括四峰及周围山区，若无特殊说明，本文皆指整片区域；四姑娘山位置及地形示意，制图@郑艺 / 星球研究所\n从空中俯瞰，群峰如无数箭矢，刺破云海。\n▼\n03. 航拍四姑娘山群峰，摄影@行影不离\n如此山势，缘于一场持续数百万年的冰与岩的博弈。\n▼\n04. 羊满台峰与骆驼峰下冰川，摄影@苏铁\n四姑娘山核心区域的造山岩体多为坚硬的花岗岩，花岗岩经冰川剥蚀形成的山体格外凌厉，其脊如刃。\n▼\n05. 皇冠峰刃脊，摄影@张善友\n其壁如墙，\n▼\n06. 布达拉峰西壁，摄影@王梓祺\n其峰如锥，\n▼\n07. 婆缪峰，摄影@fkkk\n且尤以海拔达 6250m 的幺妹峰最为高耸挺拔、冠绝群山。\n▼\n08. 从达瓦更扎远眺幺妹峰，摄影@艾斌\n其山体呈三棱锥形，东、南、西北三个壁面皆如刀劈斧砍，格外挺拔俊逸。\n▼\n09. 幺妹峰东壁，摄影@黄继舟10. 幺妹峰南壁，摄影@伊伦迪尔11. 幺妹峰西北壁，有时也简称「北壁」，摄影@曹维兵\n花岗岩山体外围由变质岩演化而成的山峰同样不失精彩。\n例如日月宝镜与五色山，堪为褶皱地貌的经典样本；\n▼\n12. 左侧为日月宝镜，右侧为五色山，摄影@王振 Rocker\n尖山子与猎人峰连体，如同一排利刃；\n▼\n13. 尖山…",
+          "link": "https://daily.zhihu.com/story/9738109",
+          "publishedOn": "2021-07-15T23:06:21.000Z",
+          "wordCount": null,
+          "title": "成都周边有哪些真正山清水秀的地方？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738119",
+          "author": null,
+          "description": "Shijia，自学成蔡\n阅读原文\n\n对于汽车来讲，选择正确的机油标号是一件非常重要的事情。\n机油的主要作用是在发动机的各个零部件之间形成一层油膜，减少各零部件之间的干摩擦，避免零部件之间因为干摩擦导致损坏或是卡死，保证发动机在运转时的磨损最小化，延长发动机的寿命。\n随着使用时间和里程的增加，机油中的杂质会逐渐增多，并且机油自身也会氧化，润滑的效果就会逐渐下降，为了保证发动机时刻处于一种“给油就飞”的状态，我们就需要定期更换机油。\n机油的好与坏，往往决定着发动机的工作状态，在选用上，往往最让人纠结的就是到底用“原厂机油”还是“品牌机油”。\n相信大多数车主和我一样，一般都是在 4S 保养的，多花点钱，咱们图个放心省心嘛。这时候一般 4s 的售后往往会推荐使用“原厂机油”，作为车主，听到“原厂”这俩字一般就难以把持自我了，往往认为“原厂机油”就和汽车的其他“原厂配件”一样，都是一个公司的嘛，肯定和外面那些妖艳贱货不太一样，质量肯定更好！更高级！\n那么事实上，所谓的“原厂机油”和市场上销售的“品牌机油”到底有没有区别？\n答案是…理论上，没区别…\n理论上来说，只要标号一致，级别一致，无论是原厂机油还是品牌机油所表现出的性能不会有太大差别。\n那么二者有什么区别？\n“原厂机油”虽然顶着“原厂”俩字，但实际上消费者在 4s 点买到的并不是真正原厂的机油，汽车主机厂是不生产机油的，毕竟术业有专攻，往往是通过招标的形式，由专业的润滑油品牌进行 OEM 代工，然后贴牌供货给全国的各个 4s 店使用，“原厂机油”大多数也是由美孚、嘉实 多、壳牌、出光、道达尔、长城等专业机油厂家贴牌生产的。\n举个例子，我现在在开的是一汽马自达的 2.5L 阿特兹，上图就是一马提供的原厂机油，实际上是由日本出光代工生产的半合成机油。\n原厂机油真的比市场上销售的品牌机油更好么？\n理论上 4S 店提供的“原厂机油”是工程…",
+          "link": "https://daily.zhihu.com/story/9738119",
+          "publishedOn": "2021-07-15T23:06:12.000Z",
+          "wordCount": null,
+          "title": "为什么有些厂家用原厂机油，而有些厂家直接使用市场上的产品？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738134",
+          "author": null,
+          "description": "如何看待微信 7 月 10 日凌晨向用户推送「hello test 3」等信息？是什么原因导致的？\n\nGIN\n阅读原文\n\n大厂员工素质就是高。\n像我这种大晚上还要加班，反复改的情况下发的测试消息经常是 fxxk 之类的。\n阅读原文\n\n如果医生在屋里听见患者在外面喊：“人呢，大夫都死了？”怎么办？\n\n学金刚打飞机\n阅读原文\n\n不会的，我们这不会发生这种事的。\n他们都说我的照片能辟邪，就挂了这么一张\n\n真的，从来没有题主说的那种事。\n偶尔有这种：\n患者门口晃一圈：呀，怎么没人。然后走了。\n我还得假装愤怒大吼两句：那坐这儿两百多斤那个是什么！\n阅读原文\n\n如何评价凤凰传奇中曾毅的说唱？\n\nkonosasaku\n阅读原文\n\n教父级别吧，毕竟教会了我父亲说唱。\n阅读原文\n\n假如我把故宫瓷器摔烂了会怎么样？\n\n小太阳，嗯\n阅读原文\n\n参考沙僧\n阅读原文\n\n爱上已婚有孩子的男人，求拍醒？\n\n馒头稀饭，无业游民\n阅读原文\n\n我们拍不醒，你跟人家老婆说一声，她能拍死你。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738134",
+          "publishedOn": "2021-07-15T23:06:06.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9738091",
           "author": null,
@@ -5618,33 +5772,6 @@
           "publishedOn": "2021-06-17T01:53:09.000Z",
           "wordCount": 83,
           "title": "2021.06.17 今天是每日时报陪伴您的第 575 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/02/02.html",
-          "author": null,
-          "description": "2021.02.02 今天是每日时报陪伴您的第 500 天\n[文章] 一个草根前端人的焦虑：https://juejin.cn/post/6922456847765110798\n随笔的形式聊了下当代草根前端人的焦虑，非常喜欢这种草根的写作方式，很多问题都是现在程序员会普遍遇到的，如果你有焦虑也可以看一下。\n[文章] 你可能不知道的 transition 技巧与细节：https://juejin.cn/post/6924114612799406093\ntransition 的一些基本与骚操作，签名版功能：\n\n[工具] 浏览器生成图片的 2 个实践：text2image：https://github.com/egoist/text2image 以及文档实现 Web 端自定义截屏：https://juejin.cn/post/6924368956950052877\n[文章] 一个大佬的博客：https://antfu.me/",
-          "link": "https://wubaiqing.github.io/zaobao/2021/02/02.html",
-          "publishedOn": "2021-06-16T01:40:28.000Z",
-          "wordCount": 102,
-          "title": "2021.02.02 今天是每日时报陪伴您的第 500 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/03/30.html",
-          "author": null,
-          "description": "2021.03.30 今天是每日时报陪伴您的第 530 天\n[文章] Notion 编辑器原理分析：https://zhuanlan.zhihu.com/p/359122473\n[文章] 移动端开发的兼容适配与性能优化：https://github.com/chokcoco/cnblogsArticle/issues/25\n[文章] 从前端角度看企业软件的研发过程：https://zhuanlan.zhihu.com/p/149802972\n一直以来，企业软件前端工程体系处于一个很尴尬的局面，无数前端对它有过各种吐槽：技术栈老旧、封闭，体验差，而项目和交付经理又会觉得开发效率太低。据我所见，大部分吐槽的人并没有理解造成这些状况的深层原因，或者说，当自己去构建这么一套体系的时候，并不理解在选型和技术集成过程中，存有哪些可能的决策点。\n[文章] 数字技术战略：开发者体验 —— 内部工具的“最后一公里”：https://mp.weixin.qq.com/s/iwba1flyVpFYryu79-Id0g\n开发者体验六要素：错误呈现。即出错时，以何种方式来呈现。文档体验。易用性。如何简化开发。交互式。降开发者学习成本。触点。让更多的人知道这个软件。支持。\n[类库] 基于 N-API 的 node-addon-api 目前是 JS 嵌入式 C++ 最轻松的方式了：https://github.com/nodejs/node-addon-api\n[类库] 使用 render 函数在 canvas 中创建文档流布局，小程序海报图、小程序朋友圈分享图。：https://github.com/Gitjinfeiyang/easy-canvas",
-          "link": "https://wubaiqing.github.io/zaobao/2021/03/30.html",
-          "publishedOn": "2021-06-16T01:40:28.000Z",
-          "wordCount": 116,
-          "title": "2021.03.30 今天是每日时报陪伴您的第 530 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/06/07.html",
-          "author": null,
-          "description": "2021.06.07 今天是每日时报陪伴您的第 570 天\n[新闻] Chrome 93 有个重磅 Google Lighthouse 8 会跟着它一起发布，更新了 FCP 曲线：https://github.com/GoogleChrome/lighthouse/blob/master/changelog.md\n[新闻] Chrome 92 const 在 console 中可以重复声明了、并且支持了 Grid 编辑器：https://developer.chrome.com/blog/new-in-devtools-92/\n[文章] 畅销书《深入浅出 Vue.js》作者，在阿里淘系 1 年的收获成长：https://mp.weixin.qq.com/...\n[工具] GitHub 项目 README 生成器：https://github.com/rahuldkjain/github-profile-readme-generator\n[工具] Fluent UI 是一套微软的 React 组件库。https://github.com/microsoft/fluentui\n[工具] 一个 Vue 3 组件库、比较完整，主题可调，使用 Typescript，不算太慢、有点意思：https://www.naiveui.com/zh-CN/os-theme\n[工具] 基于 react 的一套头像库：https://github.com/chilllab/react-nice-avatar",
-          "link": "https://wubaiqing.github.io/zaobao/2021/06/07.html",
-          "publishedOn": "2021-06-16T01:40:28.000Z",
-          "wordCount": 135,
-          "title": "2021.06.07 今天是每日时报陪伴您的第 570 天"
         }
       ]
     }
