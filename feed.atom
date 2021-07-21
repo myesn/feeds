@@ -2,10 +2,372 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T01:13:00.313Z</updated>
+    <updated>2021-07-21T01:09:30.007Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爬虫入门到放弃（三）：爬虫如何模拟人的浏览行为]]></title>
+        <id>https://toutiao.io/k/868e4od</id>
+        <link href="https://toutiao.io/k/868e4od"/>
+        <updated>2021-07-21T01:09:28.511Z</updated>
+        <summary type="html"><![CDATA[接一个刻骨铭心的吻，献给我注定孤独的余生。\x0a纹一个触目惊心的身，致我们终将逝去的青春。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆解一个 Elasticsearch Nested 类型复杂查询问题]]></title>
+        <id>https://toutiao.io/k/0l1fca4</id>
+        <link href="https://toutiao.io/k/0l1fca4"/>
+        <updated>2021-07-21T01:09:28.462Z</updated>
+        <summary type="html"><![CDATA[一个线上 Nested 实战问题，三种实战方案探讨 \x26gt;\x26gt;]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈 Hbase 在用户画像上的应用]]></title>
+        <id>https://toutiao.io/k/1fn2tc3</id>
+        <link href="https://toutiao.io/k/1fn2tc3"/>
+        <updated>2021-07-21T01:09:28.362Z</updated>
+        <summary type="html"><![CDATA[背景用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。设计从基础设施建设到应用层面，主要有]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DistSQL：像数据库一样使用 Apache ShardingSphere]]></title>
+        <id>https://toutiao.io/k/nv2t7y3</id>
+        <link href="https://toutiao.io/k/nv2t7y3"/>
+        <updated>2021-07-21T01:09:28.296Z</updated>
+        <summary type="html"><![CDATA[Apache ShardingSphere 5.0.0-beta 新特性之 DistSQL 解读\x26amp;实战]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：小松子知道什么是内联函数吗？]]></title>
+        <id>https://toutiao.io/k/6t9xola</id>
+        <link href="https://toutiao.io/k/6t9xola"/>
+        <updated>2021-07-21T01:09:28.221Z</updated>
+        <summary type="html"><![CDATA[啥是内联优化呀！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工具 | 一款 Golang 实现的分布式事务管理器]]></title>
+        <id>https://toutiao.io/k/curakqj</id>
+        <link href="https://toutiao.io/k/curakqj"/>
+        <updated>2021-07-21T01:09:28.101Z</updated>
+        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅开二度：PancakeBunny 被黑分析]]></title>
+        <id>https://toutiao.io/k/gbxug5p</id>
+        <link href="https://toutiao.io/k/gbxug5p"/>
+        <updated>2021-07-21T01:09:28.031Z</updated>
+        <summary type="html"><![CDATA[DeFi 收益聚合器 PancakeBunny 再次被攻击。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫画：要不是因为家庭困难，谁会选择干程序员？]]></title>
+        <id>https://toutiao.io/k/qd3xnuw</id>
+        <link href="https://toutiao.io/k/qd3xnuw"/>
+        <updated>2021-07-21T01:09:27.801Z</updated>
+        <summary type="html"><![CDATA[你为什么当了程序员？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你觉得我的这段 Java 代码还有优化的空间吗？]]></title>
+        <id>https://toutiao.io/k/lqm7cmx</id>
+        <link href="https://toutiao.io/k/lqm7cmx"/>
+        <updated>2021-07-21T01:09:26.536Z</updated>
+        <summary type="html"><![CDATA[上周，因为要测试一个方法的在并发场景下的结果是不是符合预期，我写了一段单元测试的代码。写完之后截了个图发了一个朋友圈，很多人表示短短的几行代码，涉及到好几个知识点。  还有人给出了一些优化的建议。那么，这是怎样的一段代码呢？涉及到哪些知识，又有哪些可以优化的点呢？  让我们来看一下。  背景  先说一下背景，也就是要知道我们单元测试要测的这个方法具体是什么样的功能。我们要测试的服务是AssetSe]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何控制负面情绪？]]></title>
+        <id>https://daily.zhihu.com/story/9738314</id>
+        <link href="https://daily.zhihu.com/story/9738314"/>
+        <updated>2021-07-20T23:07:40.000Z</updated>
+        <summary type="html"><![CDATA[壹心理，专业而有趣的心理服务平台，为大众心理健康提供解决方案。
+阅读原文
+
+陷入负面情绪，很像掉入泥沼，难免想控制与挣脱。
+想象一下，负面情绪就像又湿又脏，沾满你的身体，你想不想挣脱？
+是的，你想，你烦死各种负面情绪了。
+可你有没有发现，当你试图控制、对抗各种负面情绪时，就像在泥沼中挣扎一样，你陷得更深了、更痛苦了。
+高考前两个月，我总失眠。
+晚上看到床，上眼皮和下眼皮就不停打架，可手和身体却在抖，心里想着 “绝不能再失眠了，不然明天上课，更听不进去了。”
+关灯后，身体僵直地平躺，手放一会放在肚皮，一会又放到床边，期间脑子安了发电机似的，一直转不个停。
+等头皮发麻时，深深叹一口气，接着坐到床边，用一只手拄着下巴，凝视地上的月光。同时听力变得格外敏感，楼道外的任何声响，都能被轻易捕捉。
+待眼睛自然合上，我才准备躺下。可一挨上枕头，脑子就又变得清醒了，然后攥起拳头轻轻砸墙。
+直到折腾了 5、6 轮，我放弃挣扎，只静静观察呼吸时，不一会儿就睡着了……
+在失眠的这个过程中，我发现自己越试图控制自己不焦虑、要求自己睡觉，结果就更睡不着了，可当我折腾累了，不想着再控制了，焦虑似乎就不可怕了。这是为什么呢？
+控制负面情绪会带来什么？
+“控制情绪”这个词，从本质上就不太可能实现。例如，在高考前两个月，我焦虑是很正常的，基本每个同学都很焦虑。
+控制负面情绪的目的，其实是防止焦虑影响自己的学习与考试。
+而对于当时焦虑我的来说，包括很多试图控制负面情绪的人，其实是在逃避各种负面情绪与感受。
+而逃避痛苦的感受，往往会放大眼前的痛苦，从而陷入越逃避——越痛苦——越逃避——越痛苦的负向循环之中。
+
+因为逃避意味着，我们把痛苦的负面情绪放到了心上，从而使这种感觉更真实、更让人难以摆脱。结果就是，“眼前的痛苦”加剧了。而我们内心苦苦挣扎的同时，生活也就被忽略了，又出现了新的现实问题。结果就是，中间黑点正常…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刑法中的“不能犯”是什么意思？]]></title>
+        <id>https://daily.zhihu.com/story/9738286</id>
+        <link href="https://daily.zhihu.com/story/9738286"/>
+        <updated>2021-07-20T23:07:30.000Z</updated>
+        <summary type="html"><![CDATA[从八品盛京游牧副尉，略懂法术
+阅读原文
+
+学习过刑法的老铁都知道，一旦着手开始实行犯罪行为，后续可能的犯罪形态就是，中止、既遂和未遂。其实还有一种发展方向，就是不能犯。
+不能犯是指：以行为当时存在的客观事实作为判断依据，从具有科学常识的一般人的立场进行判断，没有发生结果的现实可能性。
+简要来说就是：正常来讲，干的这事没有危险。或者说，不具备驾驭这次犯罪的条件。
+根据定义，我们把不能犯所需要的考虑条件提炼出来，逐条阐述一下：
+第一，判断素材：行为时存在的客观事实。这个客观事实根据我国司法实践，采用的观点是“具体危险说”，就是以行为当时一般人能够认识到的事实为基础（站在行为当时预测该行为事后发生结果的可能性），如果没有发生结果的可能性，就是不能犯。来一个直观点的例子，《我开始摇滚了》里面有句歌词，非常好的描述了什么叫行为时存在的客观事实，如果歌词里的这位爸爸，误以为自己是国家工作人员而收受了他人财务，就是受贿罪的不能犯。
+客观事实：没职位，无犯罪
+再比如说，《功夫》里面周星驰假扮黑社会，他以为自己是黑社会，认为理应得到的罪名是成立组织领导黑社会罪，但事实上高估了自己的黑社会属性，顶多构成诈骗罪。从后续效果来看，还是诈骗罪未遂。
+
+第二，判断立场：具有科学常识的一般公众。一个很好的例子来自于电影《背靠背脸对脸》，里面爷爷为了让自己孙女变哑巴，给孙女喝烟油水，即使大部分观众认为这种行为具有危险性，但是由于投入的量少，从科学常识的一般公众来看，并没有变哑巴或者发生其他伤害的可能性，成立不能犯。
+
+第三，危险性：行为当时具有发生结果的可能性。举个美队的例子吧：九头蛇想要弄美队，挺会挑地方，一个电梯间满满登登站了一堆杀手。以为这下稳了。
+
+没想到对于美队来说，人还是不够多。
+
+虽然美队有特殊体质不死光环，但从一般公众的角度认为，这满满一电梯人仍然具有杀伤美队的可能性。所以不成立不能犯，成立未遂。
+第四，危险性的判断，既要看具体对象，也要看周遭的环境。引用一个楼主老铁 @奇昊楷 的例子，在一个月黑风高夜，抱住一个身影就是一顿艹，最后发现是哈士奇，成立强奸罪不能犯。但如果加入了环境因素，比如月黑风高夜，在一个经常有人走夜路的巷子里，或者是站街女聚集地，抱住一个身影一顿艹，即便是哈士奇，但从周围环境来看，仍有强奸到他人的危险性，如果他想强奸的是女的，构成强奸罪未遂，如果想强奸男的，构成强制猥亵罪未遂。
+最后，举一个不能犯的例子：
+隔壁有个 80 多岁的大爷在小区树下发现了一条黑色的蛇，纹理来看属于国家二级保护动物，都冻僵了，大爷就把他揣在怀里，想温暖过来当宠物。该行为已经涉嫌非法猎捕野生动物罪。但是经过公安机关侦查发现，大爷属于不能犯，当场释放。
+回到家后，大爷就在小区树下挂了一块牌子：禁止随地大小便。
+
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古代人会穿更古代的衣服吗?]]></title>
+        <id>https://daily.zhihu.com/story/9738295</id>
+        <link href="https://daily.zhihu.com/story/9738295"/>
+        <updated>2021-07-20T23:07:20.000Z</updated>
+        <summary type="html"><![CDATA[綾音Ayane，三坑少女/妆娘/中国古代史/汉语言文学/女性向消费数码
+阅读原文
+
+岂止是会，有些古代人简直会把穿更古代的衣服当做一种值得炫耀的事情，如果他们生活在现代，一定会被某些人批判为“莫名其妙的优越感”
+不管是古画里面常见的穿着各种古代衣服的路人，还是宫廷里不知道什么时候刮起来的复古风——其实古代女性除了礼服之外并没有固定的什么朝代穿什么衣服，除了清朝的“剃发易服”，古时候很少有规定百姓日常穿什么衣服，每次改动的礼制也仅仅是“礼制”而已。
+古代人会不会考据更古代的衣服呢
+关于这个问题，我们就拿著名的深衣举例子吧。
+深衣这种东西，《礼记》的记载是起源于有虞氏。
+“有虞氏皇而祭．深衣而养老。”——《礼记·王制》
+有虞氏，也就是虞舜的氏族，看这个名字就知道了，比《礼记》写成的时间早得多。
+也许深衣就是周朝人崇尚三皇五帝时期才这么穿也说不准呢（x）
+当然，深衣这种形制简直贯穿了中国上下五千年。现在的汉服也会大体分为通裁制和深衣制。
+简单说深衣的形制就是衣裳连在一起，分开剪裁但是缝在一起的袍服。
+在这个回答里，我们着重来说直裾深衣，毕竟后世复原的深衣也以直裾为主。
+《礼记》是这样记载的
+古者深衣盖有制度，以应规、矩、绳、权、衡。短毋见肤， 长毋被土。续衽钩边．要缝半下．袼之高下．可以运肘．袂之长短．反诎之及肘．带．下毋厌髀．上毋厌胁．当无骨者．
+制十有二幅．以应十有二月．袂圜以应规．曲袷如矩以应方．负绳及踝以应直．下齐如权衡以应平．故规者．行举手以为容．负绳抱方者．以直其政．方其义也．故易曰．坤六二之动．直以方也．下齐如权衡者．以安志而平心也．五法已施．故圣人服之．故规矩取其无私．绳取其直．权衡取其平．故先王贵之．故可以为文．可以为武．可以摈相．可以治军旅．完且弗费．善衣之次也．
+具父母．大父母．衣纯以缋．具父母．衣纯以青．如孤子．衣纯以素．纯袂．缘．纯边．广各寸半。
+当然，…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古代平民说话也用文言文吗？]]></title>
+        <id>https://daily.zhihu.com/story/9738304</id>
+        <link href="https://daily.zhihu.com/story/9738304"/>
+        <updated>2021-07-20T23:07:11.000Z</updated>
+        <summary type="html"><![CDATA[墨子连山，干货在这不受待见，我把他们放在“同名公众号”了……
+阅读原文
+
+先别说古代平民说话用不用文言文，就说现在的高级知识分子，教授、院士们讲课或者公开演讲有没有用书面语的？
+没有吧？因为根本没法用，如果一位教授开口就是，“今日，我将与诸位同学一道，共同对《组合数学》进行初步的研究与探讨，以期达到运用自如之效果……”，咱们会不会觉得他是精神病？
+放到古代，假如老子给关令尹喜讲道，张口就是“道可道，非常道，名可名，非常名……”，你觉得关令尹喜同志能听得明白？
+大宗师都没法用书面语说话，平民有几个认识字的？还用文言文说话？
+古代文字最早刻在甲骨上，就是甲骨文，后来刻在青铜器上，叫金文，再后来写在竹简上，那之后文字和书籍才能开始流传，否则只能在贵族圈子里面小范围使用。为什么呢？因为文字不论刻在哪里，其雕刻成本是极高的，所以古人用文言文，现实原因就是为了降低刻字成本，否则像我现在这样啰里八嗦、不加节制地说起来没完，一本书刻出来估计要等个十年八年，成本嘛，可真的要一字千金了。
+既要节约成本，又要把话说明白，怎么办？古人有办法，他们从用字上面下功夫。
+首先尽量不要出现废字，这就跟当年拍电报是一个意思，按字收费，所以大家都斟酌再三，力求用最简单的几个字把事情说清楚，例如：父亲生病快不行了，你快点回来。转化成电报就是：父危速回。
+其次是要把每一个字用精，最大程度地挖掘单个汉字的潜能，那时候才真的是咬文嚼字。所以，文言文里面的任何一个字都不是随便用的，用口语解释恐怕有的字能写一句话，有的字可以写篇文章，甚至有的字都够写一部书了，例如这个“道”字，已经不止写了一部书，古往今来注疏无数，可现在看来还是没写清楚。
+最后，古人发现篇幅资源实在太受局限，就算把单个字的潜力发挥到极致也还是写不清楚，那怎么办？于是，他们创造出了一种叫“意境”的东西，就是通过文字给我们以想象空间，方法可以是比喻，可以是寓言，总之虽然说得没那么严谨，甚至也不那么清楚，但是我可以给你指个方向，你自己往那个方向走，边走边看，走得远了看得多了，自己就明白了。明白之后，这些文字也就不再重要，这叫“得意忘言”。
+这是中国人极高明的地方，通过“意境”试图把自然语言的能力压榨干净，以至于中国的文学、历史、哲学、艺术自古就分不了家，诗词歌赋、议论文章，他们就是哲学的载体，同时又是文学艺术，其本身就是对美的追求。
+当然，有优势就必然有劣势。
+优势是有深度，甚至使人常读常新，也可以让人遐想连篇，随着阅历的增加，领悟也就增加了。所以，理解《道德经》主要靠的不是“学”，而是“习”，也就是实践。好比咱们《篮球理论》看得再多，也学不会打球，对不对？怎么才能学会呢？要去球场打才行。打一场再去对照理论复盘，看看问题在哪，带着答案回去打，把毛病改掉，如此往复，就可以成为高手。也正是因为这个特点，理论上面的一些文字、语句有些出入就没必要吹毛求疵了，这些偏差在实践之后都会自然而然地被校正过来。管他写的是分解训练、还是协调发力呢？总之我们最后把标准动作做熟练、变成了肌肉记忆，自然就成了高手，谁在场上打球还会想着“哎哟，我这个动作不标准吧”？
+劣势也同样明显，就是牺牲了精度。西方以他们的语言为原型，提取出了形式逻辑，进而有了数学语言，这就是语言应用的另一个极端，追求精确。数学对模糊是零容忍的，必须清晰地定义每一个概念，每一个数字和符号的定义都不能变，变了就是错误。而数学之美也正在于此，基于几个直观的公理就可以建构出一栋摩天大楼，而且整个系统之精密与优雅，足矣让人产生美的享受。只不过，这种精密必然地牺牲了深度，他将客观世界做了高度抽象，高度之高以至于当我们把他还原到客观世界时已经找不到完美的对应物，例如最简单的射线在客观世界中就找不到，连光线都是弯曲的，还有什么事物可以是平直的呢？这种高度抽象使得数学在描述复杂系统时捉襟见肘，例如我们甚至没办法预测任何一个人的行为，哪怕自己的都不行，因为那背后是一个混沌系统。
+所以，人类在未来很长一段时间的探索中，自然语言与数学语言必然缺一不可。而汉语系统在目前看来，是最完善的自然语言系统，因为每一个文字都可以追溯到甲骨文，再到金文、小篆、隶属、楷书、简体字，这就把每一个文字变成了一部电影，其信息量远超字母语言，甚至在维度上都是碾压。
+所谓文言，就是经过“文饰”之后的语言，是精加工的语言，是凝练深邃的语言，出口成章那是在特定情境下的夸张修辞，就算有也是很费脑子的，日常想出口成章，恐怕脑子会过载吧？
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些容易被忽视但又极为重要的护肤知识？]]></title>
+        <id>https://daily.zhihu.com/story/9738319</id>
+        <link href="https://daily.zhihu.com/story/9738319"/>
+        <updated>2021-07-20T23:07:05.000Z</updated>
+        <summary type="html"><![CDATA[倩Sur，医学博士、里根医院访问学者、赫尔辛基大学中心医院Fellow
+阅读原文
+
+聊一聊这几年比较新的一个进展——肠子好，皮肤才会好
+皮肤不仅是我们的的第一道“防护墙”，也是肠道微生物健康状况的晴雨表。
+我们的肠道（菌群）作为消化和吸收的工厂，承担着机体能量调转中心的工作。这类定植于人体胃肠道的所有细菌，其种类超过 500 种，总数约百万亿个，被称为人体的“第二基因组”。它如此重要，以至于它的一点不适，都会在情绪或皮肤上反应出来。我们习惯于把这种影响途径叫做“肠 - 脑 - 皮轴”。
+痘痘总是不好，是肠子在作怪？
+我们国家的科学家们曾经做过一个大数据的统计，去证实胃肠道功能障碍是皮脂腺疾病的重要危险因素，与皮脂腺疾病的发生发展密切相关。实验招募了 13215 名 12~20 岁的汉族青少年，他们脂溢性皮炎、痤疮和酒渣鼻的患病率分别为 28.27%、51.03%和 0.97%。这些人与未患皮肤病的青少年相比，发生便秘、口臭、胃反流等胃肠道症状显著偏高【1】。
+拿常见的黑头、青春痘举例子。它们的形成其实是有“潜伏期”的。雄激素作用下的皮脂腺快速发育和脂质大量分泌是痤疮发生的病理生理基础。接下来会发生毛囊皮脂腺导管堵塞、皮脂排出障碍, 形成粉刺。粉刺的形成为具有厌氧生长特性的痤疮丙酸杆菌增殖创造了良好的局部环境。这种杆菌会让粉刺变成黑头或者闭口进而变成丘疹或者脓疱（就是我们看见的又大又红的青春痘）总结就是“微粉刺→黑头 / 闭口→丘疹 / 脓疱→痘印”。而肠道菌群可以参与到每个发展步骤中去。肠道菌群失调可导致雄激素过高，还会导致胰岛素抵抗，进而通过高胰岛素的水平刺激卵泡膜细胞产生过多雄激素【2】。
+
+皮肤与肠道健康相关的最极端代表是一种叫肠病性肢端皮炎的皮肤病，病因是肠道对锌的吸收异常。这类患者皮肤和肠道都会表现症状, 会出现肢端皮炎、脱发和腹泻。
+肠 - 脑 - 皮肤轴
+肠道…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9738328</id>
+        <link href="https://daily.zhihu.com/story/9738328"/>
+        <updated>2021-07-20T23:06:59.000Z</updated>
+        <summary type="html"><![CDATA[化学实验用的烧杯能不能平时喝水用？
+
+杨疯疯，摄影爱好者
+阅读原文
+
+阅读原文
+
+作为医学生你经历过最囧的事是什么？
+
+Pirarubicin-木木，一个大夫＋心理咨询师小司机，有需要加关
+阅读原文
+
+第一次给病人做穿刺抽胸水，病人有帕金森。。。
+可我抖的比他还厉害。。。
+阅读原文
+
+北京大学和清华大学的学生是怎么「互损」的？
+
+云和极光，某乎一号辩手
+阅读原文
+
+记得有一年女生节，清华和北大好像有个什么女生节活动。主要是清华男生和北大女生参加活动，看电影还是什么记不清了。
+然后我看到有个北大的男生发朋友圈说：“又到了一年一度隔壁男生假装喜欢女生的日子了。”
+阅读原文
+
+为什么我写代码时总是手滑把main打成mian？
+
+魔某人，游戏工程师，魔幻小说家
+阅读原文
+
+你的大脑：
+#include#includevoid左手(){putchar('a');}void右手(){putchar('m');putchar('i');putchar('n');}intmain(){std::thread左手线程(左手);std::thread右手线程(右手);左手线程.join();右手线程.join();return0;}
+你的手：
+mian 
+阅读原文
+
+学生会主席在开会，我公开怼了他，目前还想在学生会待，对外宣布已经开除了，我有什么好的办法力挽狂澜吗？
+
+小宝，法律、游戏、电影
+阅读原文
+
+你完了，你彻底完了
+参加公务员、事业单位考试，政审将无法通过
+不得购买超过 40 平方的房产和 2 座以上的机动车，电瓶车每次充电只允许充 40%
+银行不向你发放任何性质的贷款、信用卡，储蓄卡一旦超过 500 块直接强制扣划并充公
+出门不得乘坐高铁、动车、飞机，连硬卧和汽车卧铺都不准，坐公交地铁只能站，有座也不行
+国企别想了，私企上班工资减半，加班时间翻倍，无绩效奖金
+怼主席的记录将会计入档案，并在档案封面盖章“无组织无纪律小能手”，跟随终身
+手机入网永远 1 格信号，且不得使用 3G 及以上通讯网络
+所有网游、手游、steam、epic、育碧反正各种，一旦发现立刻销号，好友账号一并消除，连坐
+还有结婚和子女方面的限制我就不说了，因为基本上就告别传宗接代了
+公开场合硬怼学生会主席，奥斯卡编剧都不敢这么打草稿，我打字手都在抖
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓相机完全操作指南]]></title>
+        <id>http://zhuanlan.zhihu.com/p/391495508</id>
+        <link href="http://zhuanlan.zhihu.com/p/391495508?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-20T14:15:08.000Z</updated>
+        <summary type="html"><![CDATA[写在前面
+现在是北京时间的 2021 年 6 月 18 日晚上 11 点 24 分，我正坐在新疆夏塔的温泉酒店里。今天的拍摄很不顺利，天空阴气沉沉，而且时不时落着小雨。而我刚刚得到消息，明早的日出拍摄也落空了，因为几乎不会有日出的可能。
+所以，现在我突然有了一块很完整的时间，我想这是一个很好的机会，让我整理一下心情，开始这一篇长篇文章的写作。
+
+如你所见，这篇文章的名字叫做《安卓相机操作指南》。这也就意味着还有一篇《iPhone 相机操作指南》，而我相信其实很多人之所以能够了解我就是因为那篇文章。最近的《iPhone 相机操作指南 3.0》目前在各个社交网络平台总的阅读量已经超过了 1000 万。一想到每 140 个人中，就有一个人阅读过我的文章，心里还是有一点骄傲。
+但正是这篇文章的火爆，越来越多的读者通过各种方式询问，什么时候可以有一个《安卓相机操作指南》。一开始我都会用「本质上都是相通，安卓用户阅读一样有收获」来回答，但其实归根到底是因为「心虚」。因为在当时，我并没有长时间大批量使用安卓手机的经历，我很清楚，我还没有能力完成这样的写作。并且当时 iPhone 相机在手机摄影领域也是一枝独秀，我也认为安卓手机还「不值得认真」。
+
+但是时间过得很快，这两年里我自己发生了很多变化，由于工作的原因，我开始接触大量的安卓旗舰影像手机，甚至是在过去的两年里，为不同的安卓机型进行过深度测试，或者是完成样片拍摄。而与此同时，这两年里国产安卓的影像能力突飞猛进，甚至还演绎出了自己的不同特色。
+所以，我想现在是一个很好的时机，完成这一篇《安卓相机操作指南》。
+
+但是想要完这样一篇文章，不仅仅是对我有难度，我相信对于在座的各位也有难度，因为不出意外，这篇文章的字数将会达到 30000 字以上，堪比一篇论文。不过事实已经证明，只要你拿出诚意写作，就会获得诚意的回响。我在写《iPhone相机操…]]></summary>
+        <author>
+            <name>Derrick Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP 转 Go 速学手册]]></title>
         <id>https://toutiao.io/k/d52lqdy</id>
@@ -4955,6 +5317,16 @@ The post The Web’s Worst Default appeared first on CSS-Tricks. You can support
         <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入分析 MySQL 系列之总体架构介绍]]></title>
+        <id>https://toutiao.io/k/zm3jxob</id>
+        <link href="https://toutiao.io/k/zm3jxob"/>
+        <updated>2021-07-07T04:26:41.000Z</updated>
+        <summary type="html"><![CDATA[在我们详细深入介绍MySQL的方方面面之前，让我们首先来看一下MySQL的总体架构，从总体上对MySQL有所了解，这样我们在后面的具体介绍部分的时候才能够知道这些部分属于哪个模块，大概有什么样的作用。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -11626,508 +11998,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【深入理解魂系列】为什么计算伤害时要考虑防御力？]]></title>
-        <id>http://zhuanlan.zhihu.com/p/381732813</id>
-        <link href="http://zhuanlan.zhihu.com/p/381732813?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-21T03:00:10.000Z</updated>
-        <summary type="html"><![CDATA[伤害是很多游戏中绕不过去的一环，毕竟只有对敌人造成伤害，才能最终击杀敌人，赢得胜利。那伤害是如何计算的呢？伤害和攻击力是一回事吗？一般来讲，攻击力是指玩家所具有的一个属性或者一次攻击所具有的属性，而伤害则是这次攻击实际所能造成的血量削减，这两者之间，还差了一个防御力。
-没错，防御力，这就是关键。假设我们的攻击力是100，敌人的防御力是20，伤害公式是普通的减法，那么伤害就是100-20=80。正是防御力让攻击力和伤害有所区别，这就是本文的核心：防御力到底是用来干什么的，为什么需要有防御力？
-防御力以及类似的概念广泛存在于不同的游戏中，但是往往有不同的称呼：防御力，减伤率，抗性……为了统一，以及为了避免与某个具体游戏中的相关概念混淆，接下来我会用一个很别扭的词来表达广义的防御力概念，"抵抗能力"。这只是随便给的一个词而已，别扭是因为不别扭的词都被各种游戏用过了，不用太纠结。
-接下来，就让我们一同探索抵抗能力的本质吧。
-
-穿上你的护甲
-抵抗能力的出现是合乎逻辑的
-在很多ARPG游戏中，主角是可以拥有护甲的，效果是让主角更耐揍。那么，"更耐揍"这一点应该如何体现出来呢？也许可以是增加血量上限，但是由此一来，恢复生命值的药剂应该如何处理，是否应该增加恢复量？当主角卸下护甲之后，生命值又应该如何处理呢？
-这些问题属实不好处理，所以我们干脆把攻击力和伤害分开，在两者中间插入一个抵抗能力，来体现护甲的作用。
-这样看来，抵抗能力的出现是合情合理的，这是体现护甲作用的符合直觉的方式。
-但是这不一定是抵抗能力在现代游戏中的意义
-这是抵抗能力的起源，但不一定是它现在的意义。
-如今的游戏中，伤害公式多种多样，如果只是为了体现护甲的作用，真的有必要搞出这么多不同的东西吗？可见，抵抗能力在现代的游戏中，还有更多的作用。
-别着急，我们接着往下说。
-
-抵抗能力的本质
-本质是约束攻击力成长的收益
-抵抗能力的…]]></summary>
-        <author>
-            <name>Darkbblue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.06.21 今天是每日时报陪伴您的第 577 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/06/21.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/06/21.html"/>
-        <updated>2021-06-21T01:58:26.000Z</updated>
-        <summary type="html"><![CDATA[2021.06.21 今天是每日时报陪伴您的第 577 天
-[新闻] TailWind 2.2 发布：全新的 cli 命令行，支持 before、after 伪类等：https://blog.tailwindcss.com/tailwindcss-2-2
-[类库] Babel 的替代方案，主要解决的点是，集成了 Babel 最为核心的东西，避免了更多的转换；可以解决新浏览器 Babel 打包过慢的问题：https://github.com/alangpierce/sucrase
-[工具] TailWind Jit 让编译时间缩短至 3-8s：https://github.com/tailwindlabs/tailwindcss-jit
-[工具] JSVU 可以很方便的测试不同的 JS 引擎所标识的差异性问题，可以用于 APM 这类的探针做浏览器的兼容，支持 V8、QuickJS、JavaScriptCore：https://github.com/GoogleChromeLabs/jsvu
-[文章] 从罗马到长安，从旅行到创作独立游戏，前端的边界已经越来越广了：https://www.gcores.com/articles/137634]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.06.10 今天是每日时报陪伴您的第 572 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/06/10.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/06/10.html"/>
-        <updated>2021-06-21T01:44:38.000Z</updated>
-        <summary type="html"><![CDATA[2021.06.10 今天是每日时报陪伴您的第 572 天
-[视频] 我把自行车做成了 自 动 驾 驶 ！！：https://www.bilibili.com/video/BV1fV411x72a，代码地址：https://github.com/peng-zhihui/XUAN-Bike
-[工具] snowpack 的脚手架 astro 支持，多种语言在一个 Single File Components！！:https://github.com/snowpackjs/astro
-https://github.com/snowpackjs/astro/blob/main/examples/kitchen-sink/src/pages/index.astro
----
-import { A, B as Renamed } from '../components';
-import * as react from '../components/ReactCounter.jsx';
-import { PreactCounter } from '../components/PreactCounter.tsx';
-import VueCounter from '../components/VueCounter.vue';
-import SvelteCounter from '../components/SvelteCounter.svelte';
----
-
-<html>
-  <head> </head>
-  <body>
-    <main>
-      <react.Counter:visible>
-        <h1>Hello React!</h1>
-        <p>What's up?</p>
-      </react.Counter:visible>
-
-      <PreactCounter:visible>
-        <h1>Hello Preact!</h1>
-      </PreactCounter:visible>
-
-      <VueCounter:visible>
-        <h1>Hello Vue!</h1>
-      </VueCounter:visible>
-
-      <SvelteCounter:visible>
-        <h1>Hello Svelte!</h1>
-      </SvelteCounter:visible>
-
-      <A />
-
-      <Renamed />
-    </main>
-  </body>
-</html>]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文带你了解 .Net 互斥锁]]></title>
-        <id>https://toutiao.io/k/gtpub6o</id>
-        <link href="https://toutiao.io/k/gtpub6o"/>
-        <updated>2021-06-21T01:11:45.890Z</updated>
-        <summary type="html"><![CDATA[本文主要讲解.Net基于Threading.Mutex实现互斥锁 基础互斥锁实现 基础概念：和自旋锁一样，操作系统提供的互斥锁内部有一个数值表示锁是否已经被获取，不同的是当获取锁失败的时候，它不会反复]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 95% 的算法都是基于这 6 种算法思想]]></title>
-        <id>https://toutiao.io/k/pbwl6pl</id>
-        <link href="https://toutiao.io/k/pbwl6pl"/>
-        <updated>2021-06-21T01:11:45.642Z</updated>
-        <summary type="html"><![CDATA[算法思想是解决问题的核心，万丈高楼起于平地，在算法中也是如此，95% 的算法都是基于这 6 种算法思想]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[算法入侵，不如拥抱、打造更好的个性化推荐系统？]]></title>
-        <id>https://toutiao.io/k/dut19am</id>
-        <link href="https://toutiao.io/k/dut19am"/>
-        <updated>2021-06-21T01:11:45.035Z</updated>
-        <summary type="html"><![CDATA[技术的善与恶]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刻意练习 Elasticsearch 10000 个小时，鬼知道经历了什么]]></title>
-        <id>https://toutiao.io/k/emceu6t</id>
-        <link href="https://toutiao.io/k/emceu6t"/>
-        <updated>2021-06-21T01:11:44.961Z</updated>
-        <summary type="html"><![CDATA[7000 字长文复盘 Elasticsearch 学习辛路历程......]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ 类和继承面试点 25 连问]]></title>
-        <id>https://toutiao.io/k/1zai9jw</id>
-        <link href="https://toutiao.io/k/1zai9jw"/>
-        <updated>2021-06-21T01:11:44.882Z</updated>
-        <summary type="html"><![CDATA[本篇文章连问面试时经常会遇到的类和继承相关25个问题，看看你能回答出几道题呀。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flink 和 Iceberg 如何解决数据入湖面临的挑战]]></title>
-        <id>https://toutiao.io/k/ofl3azz</id>
-        <link href="https://toutiao.io/k/ofl3azz"/>
-        <updated>2021-06-21T01:11:44.802Z</updated>
-        <summary type="html"><![CDATA[借助 Flink 和 Iceberg 来尝试解决数据入湖的相关挑战。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重构日记：应用架构选哪种？]]></title>
-        <id>https://toutiao.io/k/kj7zjbf</id>
-        <link href="https://toutiao.io/k/kj7zjbf"/>
-        <updated>2021-06-21T01:11:44.696Z</updated>
-        <summary type="html"><![CDATA[最近重构应用，设计应用架构的时候，给新宁皓选择的是一种流式架构，感觉很好，一切都规规矩矩，整整齐齐。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何获取客户端 IP]]></title>
-        <id>https://toutiao.io/k/0q4s2ed</id>
-        <link href="https://toutiao.io/k/0q4s2ed"/>
-        <updated>2021-06-21T01:11:44.628Z</updated>
-        <summary type="html"><![CDATA[用户请求经过了交换机、路由器等网络硬件设备，Nginx 等负载均衡器，Web 服务器如何获取到客户端 IP?]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自监督目标检测：不用在 ImageNet 上训练的目标检测（附论文下载）]]></title>
-        <id>https://toutiao.io/k/e36za56</id>
-        <link href="https://toutiao.io/k/e36za56"/>
-        <updated>2021-06-21T01:11:44.542Z</updated>
-        <summary type="html"><![CDATA[无监督视觉表示学习引起了相当多的关注，旨在用大量的未标记数据生成更好的特征表示]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊一聊鸿蒙的构建系统]]></title>
-        <id>https://toutiao.io/k/59zdn41</id>
-        <link href="https://toutiao.io/k/59zdn41"/>
-        <updated>2021-06-21T01:11:44.459Z</updated>
-        <summary type="html"><![CDATA[简单谈一谈鸿蒙源码中的构建系统。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harmony OS Wearable 秒表项目开发小实践（附带源码）]]></title>
-        <id>https://toutiao.io/k/5x7donf</id>
-        <link href="https://toutiao.io/k/5x7donf"/>
-        <updated>2021-06-21T01:11:39.093Z</updated>
-        <summary type="html"><![CDATA[项目效果图 介绍 我将手把手带你实现华为Wearable可穿戴设备秒表应用程序的开发。华为Wearable手表应用开发支持JS语言，支持HTML标签和CSS样式布局。 要求 DevEcoStudioIDE Wearable可穿戴手表或模拟器 Wearable秒表项目创建步骤 第一步：创建一个Wearable项目并运行HellWorld 第二步：拷贝下面的代码替换index.html中的代码 <...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 XXL-JOB 实现灵活控制的分片处理]]></title>
-        <id>https://toutiao.io/k/8fsdc6i</id>
-        <link href="https://toutiao.io/k/8fsdc6i"/>
-        <updated>2021-06-21T01:11:38.183Z</updated>
-        <summary type="html"><![CDATA[本文讲述了一种利用 XXL-JOB 来进行分片任务处理的方法，另外加入对执行节点数的灵活控制。场景现在一张数据表里有大量数据需要某个服务端应用来处理，要求：能够并行处理；能够较灵活地控制并行任务数量。压力较均衡地分散到不同的服务器节点；思路因为需要并行处理同一张数据表里的数据，所以比较自然地想到了分片查询数据，可以利用对 id 取模的方法进行分片，避免同一条...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些是「真正去过非洲的人」才知道的事？]]></title>
-        <id>https://daily.zhihu.com/story/9737266</id>
-        <link href="https://daily.zhihu.com/story/9737266"/>
-        <updated>2021-06-20T23:08:19.000Z</updated>
-        <summary type="html"><![CDATA[平老虎，略懂摄影器材和技术
-阅读原文
-
-非洲是我目前除了亚洲唯一去过的大洲，2014 年在朋友任总资助下去过肯尼亚，2018 年和媳妇一起去的坦桑尼亚。这是一个不全面的回答，因为我去非洲都是住在自然保护区内的酒店，对当地百姓生活并不了解。
-东非的坦桑尼亚和肯尼亚，是地球上为数不多的动物天堂
-面积一万五千平方公里的塞伦盖蒂国家公园 Serengeti National Park，位于东非大裂谷南部，是坦桑尼亚最著名的国家公园: 有宽阔的稀树草原，与肯尼亚的马赛马拉国家公园相邻。
-Lonely Planet（孤独星球）的《东非》是这样介绍塞伦盖蒂：
-塞伦盖蒂的广袤平原上，充满神秘感、融合了力与美的大自然包围着你。这里有世界上最壮观的自然循环之一。[1]
-上面这句话介绍的“自然循环”就是指这里可以看到 150 万只角马的大迁徙，还有地球上最多的肉食动物，生生不息、优胜劣汰。
-纳库鲁的清晨
-
-角马过河是大迁徙中最惨烈的场景，每年大概有 50 万头角马、斑马等草食动物死在迁徙的路上。1-3 月，的雨季，角马分布在塞伦盖蒂南部和恩戈罗恩戈罗自然保护区的西部，4 月到来的时候角马迁徙到西北方，到了五月末和七月初，角马为了有草吃，开始跨越格鲁梅蒂河，这个过程历时一周，在 8 月，它们再次渡河，离开塞伦盖蒂，到肯尼亚的马赛马拉寻找水源和草，等吃完了肯尼亚的草，11 月再返回到坦桑尼亚。这些过程中，因为鳄鱼在马拉河里的“半渡而击”、狮子、花豹、猎豹、鬣狗在河对岸的以逸待劳、守株待兔，马拉河在大迁徙的季节，有时候河流都会被染红！
-有好心人说，为啥不给角马们建一座桥？那么问题来了，桥梁建好了之后，再给角马每头配备上防狼喷雾，角马们安然无恙了，鳄鱼狮子、猎豹、花豹、鬣狗它们就饿死了。
-
-我在塞伦盖蒂遇到的猎豹被鬣狗抢去食物羚羊的一个镜头：
-
-在塞伦盖蒂，猎豹兄弟刚吃完一头羚羊，满脸是血。大自然是公平…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想快速入坑王家卫，应该按什么顺序来看电影？你推荐的「必看」片目有哪些？]]></title>
-        <id>https://daily.zhihu.com/story/9737254</id>
-        <link href="https://daily.zhihu.com/story/9737254"/>
-        <updated>2021-06-20T23:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Pierrot，河南汉族底层屌丝国蝻啃老单身废物鼠人蛆蛆在武汉要饭
-阅读原文
-
-王家卫目前执导了十部长片，以下是个人对王家卫作品评价
-第一档《花样年华》《春光乍泄》《重庆森林》
-第二档《一代宗师》《阿飞正传》《东邪西毒》《堕落天使》
-第三档 《2046》《旺角卡门》《蓝莓之夜》
-如果只是想了解一下王家卫的普通观众建议只看一下第一档的三部作品，这三部最具特点，抽帧，杜可风华丽的摄影，梁朝伟张国荣张曼玉的精彩表演，王式独白，张叔平的美术风格和神一般的剪辑都在这三部里达到了最高水平。在评论界和观众的评价都最高。如果是影迷前两档的作品都是精品也属于必看。
-当然如果想成为王的死忠粉，自然是要部部都看。建议按指导的时间顺序来，这样更能理解王家卫。
-处女作《旺角卡门》一部很有特色的黑帮类型片也是谭家明电影《最后胜利》的姐妹篇。
-
-此时王氏风格还没有形成，只是在张曼玉和刘德华的感情戏里有了雏形。
-第二部《阿飞正传》风格初具，王家卫真正的处女作，也是六十年代三部曲的第一部。
-
-受到法国新浪潮影响，片子里的张国荣和戈达尔镜头下的无脚鸟形象重合。片子里有香港漂泊无定的母题。
-第三部《重庆森林》天才的妙笔偶得，风格形成。
-
-第一次大规模使用抽帧。华语电影第一次把目光投向城市里的寂寞男女。至今我都认为没有任何一部片子能比重庆森林更能代表香港爱情片。
-第四部《东邪西毒》革新武侠。
-
-当时港台的武侠片子大都受胡金铨和徐克的影响。王家卫用自己的风格借了金庸的人物拍出了古龙的感觉。此片摄影极佳获得了威尼斯电影节摄影奖。
-第五部《堕落天使》城市的另一面，也是重庆森林的姐妹篇。
-
-重庆森林在寂寞中创造浪漫，堕落天使是寂寞中产生荒诞。超广角镜头怼脸拍摄把人物和城市变得畸形。
-第六部《春光乍泄》97 回归背景下的同性议题。
-
-97 回归命题是当时香港导演的创作的一大母题。最著名的就是陈果的《香港制造》。王家卫对这个命题来了一次最浪漫化的解构。他来到了布宜诺斯艾利斯，香港在地球的正对面。这也是为数不多让直男喜爱的同性电影，因为它的落脚在爱情不在同性。
-第七部《花样年华》上海情怀，60 年代三部曲的第二部。
-
-上海是王家卫的故乡也是王家卫从小生长的地方。在王家卫杜可风张叔平梁朝伟张曼玉共同努力下，花样年华里的上海成了最有魅力的城市。在各种各样镜头符号里构筑似水年华，缅怀逝去的老上海。《花样年华》至今被评论界广泛认可为 21 世纪全世界最佳电影。
-第八部《2046》面向未来，60 年代三部曲第三部。
-
-花样年华是缅怀过去，2046 就是看见未来。依旧是大面积的镜头符号，但由于过多的人物，影片显得十分混乱。氛围独到，整体观感很一般。当然这仅仅是我个人的评价，可能我没有看懂吧。
-第九部《蓝莓之夜》美国版重庆森林。
-
-在好莱坞制片厂下复制的无聊的故事。脱离了香港东方语境，虽然王式风格依旧但始终没有味道。
-第十部《一代宗师》民国往事。
-
-王家卫的突破之作，放弃了自花样年华开始的大面积符号，和完全的私人情感，转向宏大叙事。这应该也是香港导演第一次驾驭家国的宏大主题。片子以宫二和叶问为主线，民国做背景，武术当媒介，当《美国往事》的背景音乐响起，你会在王家卫的光影世界里发现这部突破性的杰作。
-第十一部 《繁花》改革开放的上海主题。关于时代的变迁，又是香港导演第一次涉足的领域。期待这部佳作问世。
-
-从电影的时间线来看，王家卫的作品内容虽然都是男欢女爱，但主题一直在变，也一直在突破自己。而王家卫的电影风格深刻的影响了电影界，17 年奥斯卡最佳电影《月光男孩》就深深受到《花样年华》影响。
-最后推荐最近 cc 出的王家卫珍藏蓝光碟片。（非广告）
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么鞋子比较百搭？]]></title>
-        <id>https://daily.zhihu.com/story/9737263</id>
-        <link href="https://daily.zhihu.com/story/9737263"/>
-        <updated>2021-06-20T23:08:02.000Z</updated>
-        <summary type="html"><![CDATA[StayFashion，公众号/微博：StayFashion
-阅读原文
-
-历数我最常收到的问题，其中一个就是：买了一双鞋，不知道该怎么配衣服。
-这个问题实在不好回答。我想大多数女生应该都和我一样，会根据当天的衣服决定鞋子吧？除非下雨，很少有人会因为鞋子去想穿什么衣服。
-
-然而，忘记鞋子的存在，的确也会陷入每天情不自禁套上同一双鞋出门的怪圈。如果鞋子的款式和颜色不够好搭，需要思前想后才能穿，再爱的鞋也会在不知不觉间变成闲置。
-鞋子通常代表着一个人的品位，而一双好搭的鞋需要满足哪些条件？除了有质感的不俗款式，颜色更是决定搭配的关键因素。
-低调简单的黑白通常是不出错的选择，大家也热衷于购买各种不同款式的“小白鞋”、“小黑鞋”，可每双颜色都太安全的话，穿久了也难免会觉得无聊。
-所以，今天想为大家提供一点不同的思考：黑白之余，不太需要动脑就好搭的鞋子颜色有哪些？他们又和什么衣服最合拍？
-篇幅有限，图片有限，这里出现的自然不会是全部搭配的办法，但相信你也能找到一些灵感~
-棕色
-第一个颜色，棕色，你一定也能想到的。日常休闲的穿衣风格，尤其是人人都会穿的牛仔，基本上都能和棕色搭，无论是深棕色还是浅棕色。
-
-在我的微信公众号也聊过，棕色的乐福鞋很适合有点小复古的搭配，比如一件有点宽松的高腰裤装。
-
-或是有点复古的格纹或者小碎花。
-
-棕色有时候也带一点中性的感觉，毕竟男生的皮鞋基本上就是黑色、棕色……如果你某天穿得比较帅气，也可以搭配棕色的鞋子。
-
-不只是帅气，甜美或优雅的风格也能和棕色相称，看起来很乖巧。
-
-秋冬季节，棕黄色的麂皮鞋子通常很受喜爱。对于通勤族来说，尖头高跟的款式时髦又优雅。
-
-近两年流行的中跟鞋就轻松一些，休闲好搭，学生党穿也很不错。
-
-红色
-说到红色鞋子你会想到什么？是女人味十足，还是热情似火？的确，红色细高跟气场挺强大，不太好驾驭。
-
-相对于高跟鞋，红色中跟鞋就不会那么凌厉强势，日常搭配牛仔裤也轻松。
-
-红色平底鞋也好穿多了，甜美可爱的感觉，特别是用来搭配各种小裙子的时候。
-
-如果你穿了一身基本款，那么小红鞋就是点睛之笔。
-
-红色也是时尚品牌们钟爱的颜色。当时装精们穿上有设计感的红鞋，瞬间让全身色彩感更有层次。
-
-小红鞋虽然看起来精神百倍，一搭配休闲装，比如卡其色的裤子，也能散发一种悠闲又有趣的态度。
-
-一双红色的无后跟拖鞋，就更有意思了。有点随意，又像是精心打理。
-
-裸色
-裸色高跟鞋通常会被人认为很优雅。如果你想给休闲穿着增添一点女人味，但又不希望像红色那么浓烈，裸色就很不错。
-
-全身清爽的色系时，特别适合裸色鞋子。
-
-白裤子，和裸色鞋子很搭。
-
-裸色高跟鞋还有助于拉长腿部视觉，尤其是穿过膝裙的时候。
-
-当然，裸色的平底鞋也很好搭，也会更有日常休闲的感觉。
-
-酒红色
-酒红色，乍听之下很隆重，其实也是好穿的，和牛仔裤特别配。
-
-我觉得酒红就像棕色和红色的混合体。有红色的凌厉感和时髦度，但高跟鞋比红色更好驾驭。
-
-又有棕色的休闲和轻松。
-
-酒红色还和棕色一样，与有点小复古的风格是绝配。
-
-穿风衣的时候，搭配一双酒红色的鞋，也会比棕色的鞋子感觉更出挑。
-
-黄色
-鲜活明快的黄色鞋子与秋冬的色调不太一致，不过，在春夏，它就是能轻松制造亮点的颜色，和靛蓝色的牛仔裤搭在一起尤其好看。
-
-即使是高跟鞋款，也有藏不住的俏皮劲。
-
-而搭配中性休闲的裤装，则可以中和这份懒散，提升时髦度。
-
-当然，黄色鞋子也可以搭配各式各样的小裙子，尤其是和白裙子一起穿，看起来十足清爽。
-
-豹纹 
-虽然这一篇主要想说说颜色，但在挑选图片的时候，却发现豹纹鞋子出镜率实在太高，好搭的程度也毋庸置疑。也许你固有印象里的豹纹=野性，但它其实和红鞋一样，是基础款的点睛之笔。
-
-豹纹平底鞋，早就是轻松休闲风格品牌的挚爱。
-
-有点帅气的着装，搭配一双豹纹鞋，一下子就变得玩味多了，不会像黑色或者棕色那么 man。
-
-如果是酷酷的一身黑，豹纹鞋可以做搭配的亮点。
-
-摇滚风的单品，比如皮革，也和豹纹鞋子特别搭。
-
-大地色系的衣服也能和豹纹鞋子来搭。即使是温柔的着装风格，也因为豹纹增加了趣味时髦感呢。
-
-以上。
-这些颜色，无论和牛仔、黑色、白色还是大地色系都能搭，相信可以最大程度地和每个人衣橱里的单品组合起来。
-当然，小总结也不可少：
-棕色：特别百搭，尤其是和休闲单品，很适合复古风
-红色：点睛利器，中跟平跟更轻松好搭
-裸色：与浅色衣物相得益彰，高跟鞋可拉长腿部线条
-酒红色：棕色与红色的结合体，既可时髦也可休闲
-黄色：清爽又俏皮，特别适合春夏和搭配牛仔裤
-豹纹：能给简单基础款增添亮点
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给猫做绝育有什么注意事项？]]></title>
-        <id>https://daily.zhihu.com/story/9737250</id>
-        <link href="https://daily.zhihu.com/story/9737250"/>
-        <updated>2021-06-20T23:07:57.000Z</updated>
-        <summary type="html"><![CDATA[铲屎官与便利店，公众号:铲屎官与便利店 干货满满，养宠少花钱！
-阅读原文
-
-小猫咪的适龄绝育是非常重要的，特别是小母猫！母猫频繁发情非常容易引发子宫蓄脓！子宫蓄脓之后还是得绝育的，这时的绝育就从生理性手术转变为病理性手术，价格更高手术风险也更大。
-公猫其实特别纯情，如果没有接收到母猫发情信号的话，公猫是不会发情的……虽然母猫的费洛蒙能传好几公里……
-这里就不具体讨论猫咪是否要绝育、绝育的好处与危害等等问题了。
-接下来的内容都基于铲屎官决定给主子去绝育的前提。
-主要分成以下几点
-
-术前准备
-术后康复
-如何选择一个靠谱的宠物医院和绝育套餐
-
-术前准备1、体检
-首先，绝育手术之前尽量保证猫咪身体健康，如果小猫咪是处于生病的状态，是不可以做绝育的哟～
-所以，既然来了医院，我非常建议绝育之前顺便做个体检。具体体检项目的问题可以参考这个答案
-刚接小奶猫回家有什么注意事项，需要带猫打哪些预防针和检查呢？
-虽然讲的是小奶猫的体检，但是其中很多体检项目是非常建议纳入年度体检的。
-如果单独说针对绝育需要做哪些体检的话，建议额外关注这几个：
-血常规、生化、心超
-血常规用于判断身体的基本健康状况，比如身体是否存在炎症之类的，这个务必要做哦，而且这项其实很便宜，很多体检套餐绝育套餐里都有，大家记得选择有这项的就行～
-生化检查主要是检查猫咪的肝肾情况，这关系到猫咪的麻醉安全。生化检查分为全套和半套，最少的是六项，最多的是十多项。全做价格势必会很高，但是不全做铲屎官们又不放心。有些绝育套餐里也带了生化检查，但是这种一般价格也比较高。所以到底该如何选呢？
-我的建议是，如果之前猫咪没有出现过任何泌尿系统的问题，比如尿闭、尿频之类的，也没有因为肝肾问题进医院的话，选择半套生化就可以了～但是如果小猫咪之前有过这些问题，还是选择全套更为保险哦～通常生化按单项收费，半套大概两百多，有折扣的话会更低一些。
-心超其实也…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学史上有哪些令人惋惜的遗憾？]]></title>
-        <id>https://daily.zhihu.com/story/9737275</id>
-        <link href="https://daily.zhihu.com/story/9737275"/>
-        <updated>2021-06-20T23:07:54.000Z</updated>
-        <summary type="html"><![CDATA[贾明子，化学工程，玻尔兹曼门下走狗
-阅读原文
-
-“Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906 by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics. Perhaps it will be wise to approach the subject cautiously. ”“穷其一生钻研统计力学的玻尔兹曼，于 1906 年亲手结束了自己的生命。艾伦费斯特（继承了他的工作，于 1933 年同样步其后尘。现在，统计力学这块阵地轮到我们顶上去了。在进入这个领域之前，我们可能需要三思而后行。”
-这一段看上去很很悲壮的话，是著名的物理学家 David Goodstein 说的，它包括了统计力学中两个杰出人物，玻尔兹曼和艾伦费斯特的悲剧故事。这两个人都是当时统计力学领域中的大佬，都有不同程度的抑郁症，并且都信奉当时不是主流的思想，最后两人都死于自杀。并且，后者是前者的学生。
-玻尔兹曼终身信奉原子，在现在看来理所当然，但是在那个时代却不被主流所接受。玻尔兹曼试图用分子运动论推出全部的热力学理论，把热力学归结为动力学的统计结果，并且试图从完全可逆的动力学理论中找到不可逆的根源。为此他和唯像热力学的几个大佬争论不休。当时分子和原子并没有直接的实证证据证明存在，因而其实不能怪马赫和奥斯特瓦尔德他们的极力反对，作为坚定的实证主义者，他们拒绝接受“原子”这个尚未被实证的概念。玻尔兹曼一直处在一种孤军奋战的境况。当时的著名物理学术会议甚至都不去邀请他参加，就好像你挖空…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9737255</id>
-        <link href="https://daily.zhihu.com/story/9737255"/>
-        <updated>2021-06-20T23:07:46.000Z</updated>
-        <summary type="html"><![CDATA[2021 年江西中考作文材料出自「邻人烹鸡」，有哪些好的立意方向？
-
-Mn zg1y
-阅读原文
-
-我写的是其实一切都是邻居策划好的，因为邻居家卖鸡卖不出去，半夜掐鸡脖子让鸡叫，打扰周围的邻居，又因为这位邻居是刚搬进来的，周围被打扰的也不好说什么，就只好花钱买他的鸡委婉提醒。最后邻居又搬走了，来到新的地方继续让别人买他的鸡。后来他成为了一名富有的养鸡大户。
-阅读原文
-
-神舟十二号航天员将在空间站驻留三个月，他们会如何度过太空生活？你期待看到他们做些什么？
-
-被逼的圣骑，实践是检验食物的唯一标准
-阅读原文
-
-种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜种菜
-阅读原文
-
-现在的95后指挥不动，下班准时走，活安排不下去只能自己干，怎么办？
-
-我啥也不知道，沐浴着阳光的叶，深埋在地下的根
-阅读原文
-
-下班你不让我走，
-意思是要我上班走？
-阅读原文
-
-猫被人抱的时候，心里在想什么？
-
-王豆皮，「动物行为学」爱好者｜兴趣是观察猫咪行为
-阅读原文
-
-谢邀 @Serendipity@小施同学 。
-四脚离地了，瞌睡就关闭了，
-恐惧的本能又占领高地了！
-阅读原文
-
-如何看待长辈（亲戚）要吃自己的宠物？
-
-田有溪，地外类人生物，文字工作者
-阅读原文
-
-小时候住姥姥家，姥姥养了一只狸花猫。
-有一天，老家来了个长辈，二十几岁，辈分大，指指点点的一股嘚瑟劲。
-然后，他看见了我姥姥养的狸花猫，非要炖了给他儿子吃。
-我姥姥笑眯眯地说：好啊，咱们换着吃，我看你儿子养的白白胖胖，味道应该不错。
-说着让我大舅三舅关门，让我爸磨刀。
-该长辈对我姥爷大叫：我们刘家是名门之后，怎么能娶这么粗鲁的媳妇？
-我姥爷扭头对我爸说：刀磨快点，别让孩子受罪。
-该长辈抱着娃逃了，再没来过。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
         </author>
     </entry>
 </feed>
