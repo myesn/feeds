@@ -4,23 +4,40 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 368,
-          "title": "v1.11.0"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344960",
+          "author": "Chris Coyier",
+          "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
+          "publishedOn": "2021-07-22T22:33:29.000Z",
+          "wordCount": 965,
+          "title": "Organize your CSS declarations alphabetically"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344580",
+          "author": "Nathan Babcock",
+          "description": "We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …\nThe post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-google-drive-as-a-cms/",
+          "publishedOn": "2021-07-22T14:44:26.000Z",
+          "wordCount": 2790,
+          "title": "Using Google Drive as a CMS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344330",
+          "author": "Chris Coyier",
+          "description": "Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.\nThe post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hashnode-a-blogging-platform-for-developers/",
+          "publishedOn": "2021-07-22T14:39:09.000Z",
+          "wordCount": 967,
+          "title": "Hashnode: A Blogging Platform for Developers"
+        },
         {
           "id": "https://css-tricks.com/?p=344950",
           "author": "Chris Coyier",
@@ -506,33 +523,6 @@
           "publishedOn": "2021-06-23T14:27:14.000Z",
           "wordCount": 629,
           "title": "“Weak declaration”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342930",
-          "author": "Chris Coyier",
-          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
-          "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 687,
-          "title": "inherit, initial, unset, revert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342634",
-          "author": "Geoff Rich",
-          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
-          "publishedOn": "2021-06-22T14:37:50.000Z",
-          "wordCount": 3090,
-          "title": "Using Custom Elements in Svelte"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342925",
-          "author": "Chris Coyier",
-          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
-          "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 1497,
-          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
         }
       ]
     },
@@ -541,6 +531,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "author": "hello@smashingmagazine.com (Matthew Talebi)",
+          "description": "Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.",
+          "link": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "publishedOn": "2021-07-22T12:30:00.000Z",
+          "wordCount": 2582,
+          "title": "Adding Time To Your Schedule As A Professional",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/75bfca56-7f2b-488f-b9eb-7fa00d930444/5-time-scheduling.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -904,20 +908,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1402,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -926,6 +916,15 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n东京奥运村的运动员宿舍，两人一间。看上去有点简陋，没有为每个人配一张桌子，只有床头柜，上面也没有吉祥物或者绿植。（via）\n本周话题：游戏《底特律：变人》\n本周谈谈游戏。去年双十一，我抱着巨大的期望，买了热门游戏《死亡搁浅》（Death Streading）。付款时，看见很多老游戏都是二折，随手又挑了一部《底特律：变人》（Detroit: Become Human）。\n如今，我必须说《死亡搁浅》真是太糟糕了，令人大失所望，情节、人物、游戏玩法一无是处，根本玩不下去。我断断续续坚持了几个月，现在已经放弃了。倒是《底特律：变人》出乎意料的精彩，我给它满分，真的是一部杰作。\n\n《底特律：变人》是2018年的游戏，可能很多朋友都已经玩过了。如果你还没有，我强烈推荐。下面是它的预告片，大家可以感受一下它精良的制作，以及荡气回肠的情节。\n\n\n它的故事非常老套。2038年的底特律，机器人突然有了意识，希望得到人类的平等对待。玩家轮流扮演三个不同的机器人，经历他们的遭遇。这个游戏精彩的地方是电影大片级别的制作水准，每个场景都非常漂亮，每个片段都经过精心设计，明显有分镜头剧本，每个镜头拍什么，都是安排好的，剪辑得非常明快，扣人心弦。\n出人意料的是，所有主要人物都不是计算机生成的。而是由真实演员扮演。下图是游戏的女主角和她的真人演员。\n\n\n游戏画面其实是真人表演，进行动作和表情捕捉，再添加背景，最终生成的。\n\n\n它是一个情节类的游戏，动作和解密的成分非常少。故事的每一个节点，都会给出几个选项，让玩家选择下一步，比如下图是选择要去哪个地点，不同的选择会导致…",
+          "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html",
+          "publishedOn": "2021-07-23T00:34:09.000Z",
+          "wordCount": 482,
+          "title": "科技爱好者周刊（第 168 期）：游戏《底特律：变人》"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
           "author": null,
@@ -978,6 +977,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/o9uac2u",
+          "author": null,
+          "description": "本文对 google 的 web 前端性能优化指南进行了翻译整理。整个性能优化的内容分为三个部分：加载性能、渲染性能和性能评估。",
+          "link": "https://toutiao.io/k/o9uac2u",
+          "publishedOn": "2021-07-23T01:08:20.418Z",
+          "wordCount": 359,
+          "title": "[译] Google Web 前端性能优化指南"
+        },
+        {
+          "id": "https://toutiao.io/k/hchcwai",
+          "author": null,
+          "description": "了解ShardingSphere源码如何实现压测影子库",
+          "link": "https://toutiao.io/k/hchcwai",
+          "publishedOn": "2021-07-23T01:08:19.991Z",
+          "wordCount": 1744,
+          "title": "全链路压测之影子库及 ShardingSphere 实现影子库源码剖析"
+        },
+        {
+          "id": "https://toutiao.io/k/dc01zhh",
+          "author": null,
+          "description": "在经历了春节假期每天大概花 2 ~ 3 小时的投入，终于如期上线，第一个版本是发布于 2 月 14 日情人节 ，算是给自己的情人节礼物。",
+          "link": "https://toutiao.io/k/dc01zhh",
+          "publishedOn": "2021-07-23T01:08:19.668Z",
+          "wordCount": 1211,
+          "title": "重构于 Vite：我如何做 SSG、静态资源发布以及自动化部署"
+        },
+        {
+          "id": "https://toutiao.io/k/cmj9lvn",
+          "author": null,
+          "description": "下层基础决定上层建筑",
+          "link": "https://toutiao.io/k/cmj9lvn",
+          "publishedOn": "2021-07-23T01:08:19.307Z",
+          "wordCount": 96,
+          "title": "刷 LeetCode，进字节、阿里等一线大厂，刷题之前一定先打好底层基础"
+        },
+        {
+          "id": "https://toutiao.io/k/vug2wkq",
+          "author": null,
+          "description": "redis多线程，难啊",
+          "link": "https://toutiao.io/k/vug2wkq",
+          "publishedOn": "2021-07-23T01:08:19.149Z",
+          "wordCount": 105,
+          "title": "和 “杠精” 聊 Redis 多线程"
+        },
+        {
+          "id": "https://toutiao.io/k/gz48fpu",
+          "author": null,
+          "description": "压测神器",
+          "link": "https://toutiao.io/k/gz48fpu",
+          "publishedOn": "2021-07-23T01:08:19.077Z",
+          "wordCount": 311,
+          "title": "你的站点抗压么？推荐一款超方便的开源压测工具"
+        },
+        {
+          "id": "https://toutiao.io/k/3h5esll",
+          "author": null,
+          "description": "美食与技术",
+          "link": "https://toutiao.io/k/3h5esll",
+          "publishedOn": "2021-07-23T01:08:18.766Z",
+          "wordCount": 76,
+          "title": "CPU 核数与线程数有什么关系？"
+        },
+        {
+          "id": "https://toutiao.io/k/4v1pf6t",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/4v1pf6t",
+          "publishedOn": "2021-07-23T01:08:16.704Z",
+          "wordCount": 395,
+          "title": "音视频命令转换工具：FFmpeg"
+        },
+        {
+          "id": "https://toutiao.io/k/d67pcrt",
+          "author": null,
+          "description": "记录一下笔者关于软件设计的一些相关认知。在开始之前，先引入两个概念目标和途径(这里可能会有些咬文嚼字，不过主要是为了区分主观和客观的一些细微差异)。 1 目标和途径 我们在做某一件事情的时候，总是会带",
+          "link": "https://toutiao.io/k/d67pcrt",
+          "publishedOn": "2021-07-23T01:08:16.566Z",
+          "wordCount": 436,
+          "title": "软件设计的目标和途径"
+        },
+        {
+          "id": "https://toutiao.io/k/bcfigx9",
+          "author": null,
+          "description": "作者：王博文 | 旷视 MegEngine 架构师一、背景对于深度学习框架来说，网络的训练/推理时间是用户非常看中的。在实际生产条件下，用户设计的 NN 网络是千差万别，即使是同一类数学计算，参数也各不相同。如果没有…",
+          "link": "https://toutiao.io/k/bcfigx9",
+          "publishedOn": "2021-07-23T01:08:16.405Z",
+          "wordCount": 471,
+          "title": "Fast Run：提高 MegEngine 模型推理性能的神奇功能"
+        },
         {
           "id": "https://toutiao.io/k/xbnvrk9",
           "author": null,
@@ -3623,123 +3712,6 @@
           "publishedOn": "2021-06-24T00:53:37.924Z",
           "wordCount": 119,
           "title": "JPower 2.0.3 发布，配置文件支持各服务间共享"
-        },
-        {
-          "id": "https://toutiao.io/k/6gj548h",
-          "author": null,
-          "description": "Sonobuoy 是一种诊断工具，通过以可访问且无损的方式运行一组插件（包括Kubernetes一致性测试），可以更轻松地了解Kubernetes集群的状态。 这是一种可定制，可扩展且与群集无关的方式，可以生成有关群集的清晰，有用的报告。",
-          "link": "https://toutiao.io/k/6gj548h",
-          "publishedOn": "2021-06-23T07:47:46.083Z",
-          "wordCount": 715,
-          "title": "Kubernetes 集群一致性测试工具 Sonobuoy 介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/7fwgr8j",
-          "author": null,
-          "description": "时钟是一个我们常常会使用的东西，比如我们会用它来确定一个事情发生的时间或者说一个请求花费的时间。然而在分布式系统中，每个机器都有他们自己的时钟，通常来说是由它们本身的硬件来决定的（比如晶振等），它们都不是精确准确的，所以每个机器之间的时钟都或多或少有点差别。所以当我们需要使用不同机器的时钟时，比如比较两个发生在不同机器上事情发生的先后顺序的时候，就很难说哪一个事情是真正先发生哪一个是后发生的。本文就来介绍一下一般如何处理这个问题。 单调时钟(Monotonic)和当天的时间（Time-of-Day Clock） 在现代计算机上，一般有两种时钟，一个是单调时钟另外一个是当天时间。虽然两者都是时钟，但它们其实有很大的差别。 当天时间 所谓当天时间就是我们通常意思上看到的时间，比如现在是几月几日几点几分等。从代码的角度来讲就是类似clock_gettime(CLOCK_REALTIME)返回的值，通常来说这个值会和NTP（Network Time Protocol）进行同步，所以理想状况下各个机器这个值都是差不多，当然现实中每个机器还是不同的，或多或少会有漂移。不过假如漂移过大就会被强制重置从而跳回正确的时间。然而正是因为这种漂移和重置的机制使得这个时钟不太适合用来计算消耗的时间，因为他会不准设置有可能会变成负值。 单调时钟 单调时钟顾名思义就是这个时钟始终往前单调递增。这样一来它就很适合来衡量过去了多长时间。比如说你想看一个请求的时间，可以在发送请求前得到一个时间，然后在得到response之后再获取一个时间，连个时间的差就是你想要的duration。 需要注意的是这个时间的绝对值没有任何意义，所以你要是去比较多个机器的单调时钟是不合适的。 另外对于多CPU的服务器，其实没个CPU的单调时钟也是不同的，只是说一般来说操作系统会帮应用程序处理这个不同，这样一来应用程序就不用担心这个问题。但是有时这个保证也不一定对，所以知道这件事有可能会对一些意想不到的问题有帮助。 NTP对单调时钟也是有影响的，它会看本地的单调时钟的频率，假如本地时钟太快或者太慢它会进行调整（一般的容忍度在0.05%），但是和当天时间不同的是，它只会调整频率，不会让单调时钟跳到很前或者很后。所以，一般来说单调时钟还是一个很好的方法来测量消耗的时长，毫秒级别的精度是没有问题。 时钟的同步和准确性 当天时间是需要进行同步的，因为只有这样它才有真正的意义。然而时钟的同步可能和我们想象的不太一样，我们来看几个例子： 机器上的晶振本身是不准确的，它会漂移。这是一个硬件上的问题，主要会跟环境的温度等等息息相关。Google一般会假设他们的服务器有200ppm的漂移，相当于每30秒有6ms的差别。所以哪怕别的方面都没有问题，这个漂移都是存在的。 机器的时钟和NTP有很大差别的时候，可能会拒绝同步或者被强制重置。这样一来我们就会看到时钟会有一个向前或者向后的跳跃。 假如机器的防火墙设置有问题，那么时钟可能就没有机会和NTP来进行同步了，而我们都不知道这件事。 即使你能够和NTP同步，这个准确度也会因为你的网络延时而有差别。可以想象假如同步的信息收到了网络传输的影响，那么时钟的同步就是不准确的。 NTP服务器本身可能也会有问题，这样一来你拿到的数据可能也不是准确的。 跳跃的秒数会让一分钟的时间发生变化，再也不是60s了，也就是说一分钟可能是59s也可能是61秒，这就很有可能导致系统出现问题。 虚拟机的时间更加复杂，因为多个虚拟机共享CPU，每一个虚拟机在别的机器运行的时候可能都需要暂停几个毫秒，这就使得时间的计算更加困难。 所以精确的时钟在现实中是很难得到的，但是我们仍然可以做一些努力来得到相对精确的时钟，比如依赖于GPS的PTP (Precision Time Protocol)，然后很好的控制deploy和监控。当然这样做的代价也很大。 依赖同步时钟的实例 虽然我们知道时钟有这样那样的问题，但是我们仍然有很多情况想要依赖于这个时钟，这该怎么办呢？下面我们从几个例子来具体分析如何处理 有序事件的时间戳 一个常见的例子就是多个节点同时写一个值，常见的做法就是比较一下谁先写谁后写，后写的失败或者覆盖先写的。如下图所示，一个多leader的数据库的写: Client A在Node 1上写了x=1， 然后这个值被replica到节点3。之后Client...",
-          "link": "https://toutiao.io/k/7fwgr8j",
-          "publishedOn": "2021-06-23T05:19:07.000Z",
-          "wordCount": 211,
-          "title": "分布式系统之不可靠时钟揭秘"
-        },
-        {
-          "id": "https://toutiao.io/k/kkvemjf",
-          "author": null,
-          "description": "这篇文章我想和你聊一聊 Redis 的最佳实践。你的项目或许已经使用 Redis 很长时间了，但在使用过程中",
-          "link": "https://toutiao.io/k/kkvemjf",
-          "publishedOn": "2021-06-23T00:58:12.815Z",
-          "wordCount": 631,
-          "title": "Redis 最佳实践：7 个维度 + 43 条使用规范，带你彻底玩转 Redis（附实践清单）"
-        },
-        {
-          "id": "https://toutiao.io/k/rnk9wn6",
-          "author": null,
-          "description": "没有摘要",
-          "link": "https://toutiao.io/k/rnk9wn6",
-          "publishedOn": "2021-06-23T00:58:12.683Z",
-          "wordCount": 89,
-          "title": "云原生部署之 Helm 最佳实践（上）"
-        },
-        {
-          "id": "https://toutiao.io/k/z9fx1fc",
-          "author": null,
-          "description": "​Spring官方推荐使用WebClient替代RestTemplate完成HTTP调用。因为WebClient是基于Reactor实现的，所以既可以支持阻塞调用也可以支持非阻塞调用，在高并发的场景下资源利用率更高。",
-          "link": "https://toutiao.io/k/z9fx1fc",
-          "publishedOn": "2021-06-23T00:58:12.620Z",
-          "wordCount": 277,
-          "title": "有了 WebClient 还在用 RestTemplate？"
-        },
-        {
-          "id": "https://toutiao.io/k/mobj8bo",
-          "author": null,
-          "description": "在Windows WSL 上下载和编译鸿蒙系统。",
-          "link": "https://toutiao.io/k/mobj8bo",
-          "publishedOn": "2021-06-23T00:58:12.546Z",
-          "wordCount": 337,
-          "title": "鸿蒙系统研究第一步：从源码构建系统镜像"
-        },
-        {
-          "id": "https://toutiao.io/k/md02mcl",
-          "author": null,
-          "description": "频繁模式挖掘是怎么做的？",
-          "link": "https://toutiao.io/k/md02mcl",
-          "publishedOn": "2021-06-23T00:58:12.460Z",
-          "wordCount": 167,
-          "title": "FP-Growth 算法原理、Spark 实现和应用介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/74x2gyc",
-          "author": null,
-          "description": "前言ZooKeeper作为dubbo的注册中心，可谓是重中之重，线上ZK的任何风吹草动都会牵动心弦。最近笔者",
-          "link": "https://toutiao.io/k/74x2gyc",
-          "publishedOn": "2021-06-23T00:58:12.353Z",
-          "wordCount": 467,
-          "title": "ZooKeeper 集群拒绝服务"
-        },
-        {
-          "id": "https://toutiao.io/k/hdv64nz",
-          "author": null,
-          "description": "Flutter 使用 const widget，优化效果明显吗？代价是什么？",
-          "link": "https://toutiao.io/k/hdv64nz",
-          "publishedOn": "2021-06-23T00:58:12.285Z",
-          "wordCount": 408,
-          "title": "Flutter 的 Widget，刻意加上 const，真的值得吗？"
-        },
-        {
-          "id": "https://toutiao.io/k/dr4u4yt",
-          "author": null,
-          "description": "天下武功，无坚不摧，唯快不破",
-          "link": "https://toutiao.io/k/dr4u4yt",
-          "publishedOn": "2021-06-23T00:58:12.161Z",
-          "wordCount": 157,
-          "title": "Redis：我是如何与客户端进行通信的"
-        },
-        {
-          "id": "https://toutiao.io/k/96b5kbd",
-          "author": null,
-          "description": "可视化是有好处的，能帮我们什么？\\x0a\\x0a一图胜千言\\x0a\\x0a掌握系统业务\\x0a\\x0a明确系统边界\\x0a\\x0a小步改造系统",
-          "link": "https://toutiao.io/k/96b5kbd",
-          "publishedOn": "2021-06-23T00:58:12.038Z",
-          "wordCount": 45,
-          "title": "[推荐] 领域驱动设计、可视化与遗留系统的微服务改造"
-        },
-        {
-          "id": "https://toutiao.io/k/yyrg9dw",
-          "author": null,
-          "description": "在代码的编写中有一个很重要的环节，经常会被忽视，那就是 Code Review ,据说在 Facebook、",
-          "link": "https://toutiao.io/k/yyrg9dw",
-          "publishedOn": "2021-06-23T00:58:11.983Z",
-          "wordCount": 109,
-          "title": "你有做 Code Review 吗？"
-        },
-        {
-          "id": "https://toutiao.io/k/nnpqk6o",
-          "author": null,
-          "description": "dsymutil程序调试符号帮助工具简介操作归档的DWARF调试符号文件场景一打包有开启bitcode, 上传时没有勾选上传符号文件。结果iTunes后台处理完安装包后, 不会有下载dSYM文件...",
-          "link": "https://toutiao.io/k/nnpqk6o",
-          "publishedOn": "2021-06-23T00:58:08.430Z",
-          "wordCount": 145,
-          "title": "dsymutil 程序调试符号帮助工具"
         }
       ]
     },
@@ -4062,24 +4034,6 @@
           "publishedOn": "2021-06-24T11:30:09.000Z",
           "wordCount": 39,
           "title": "如何评价《画江湖之不良人》第四季第 11 集？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/466393646/answer/1955410750",
-          "author": "包云岗",
-          "description": "22号下午关于香山的报告，因为Zoom直播出现了技术故障，导致大家未能听到完整的报告，稍有些遗憾。考虑了一下，这里就把报告PPT直接贴出来，再加上我们在香山开发过程中的一些考虑和想法，跟大家分享。\n\n这个报告主要回答四个问题：\n\n一、为什么要做香山？\n二、香山什么水平？\n三、香山怎么做的？\n四、香山未来如何发展？\n\n一、为什么要做香山？\n\n2010年RISC-V诞生，迄今已有11年。如今，在RISC-V国际基金会网站上登记的各类商业或开源的RISC-V处理器核就有上百个（如下链接），为什么还要做一个开源的高性能RISC-V核？\n\nRISC-V Exchange: Cores & SoCs - RISC-V International\n对于这个问题，我们和很多业界企业交流过，也做了很多调研与分析，这都让我们判断认为业界需要一个开源的高性能RISC-V核。另一方面，我们也在思考一个问题——为什么CPU领域还没有一个像Linux那样的开源主线？1991年开源的Linux诞生，到今天正好30年。如今，Linux不仅被工业界广泛应用，也成为学术界开展操作系统研究的创新平台。\nRISC-V是开放开源的指令集，允许全世界任何人免费实现一个RISC-V处理器，可以是商用，也可以开源，这是和公司私有的X86/ARM指令集相比最大的区别之一。但是，十年过去了，到现在还未能形成一个像Linux那样的开源主线。Berkeley的BOOM目标是一个高性能开源RISC-V核，但是BOOM代码仓库相对不开放，官方建议其他人实现任何功能都要事先和他们沟通，以确保不要与他们的计划产生冲突。根据GitHub官方的统计页面显示，从2014年1月至今，为BOOM提交过超过100行代码修改的仅有8人。由此可见，一定程度上因为BOOM严格的外部贡献政策，开源社区对BOOM的参与度并不高。\n所以，团队的唐丹博士和我一直…",
-          "link": "http://www.zhihu.com/question/466393646/answer/1955410750?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-06-23T04:15:08.000Z",
-          "wordCount": 338,
-          "title": "首届 RISC-V 中国峰会 2021 年 6 月 21 日起在上海举行，有什么值得关注的地方？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/465547566/answer/1954604848",
-          "author": "壹心理",
-          "description": "一个有爱的家庭，就像一片丰富的土壤，能给一个人的成长提供持续且足够的滋养与力量。\n如果没有一个有爱的家庭，就需要成年的自己，主动获得爱的滋养，为其注入营养。\n\n\n根据美国儿童研究组织Child Trends的说法，一方面，父母对孩子的温暖与爱会带来更高的自尊、更好的学习成绩、更好的亲子沟通以及更少的心理和行为问题。另一方面，没有慈爱父母的孩子往往自尊心较低，感觉更加疏远、敌意、好斗和反社会。\n\n下面我们来看一看相关研究。\n研究一：爱有助于孩子发展出稳定的情绪\n2010 年，杜克大学医学院的研究人员发现，拥有非常深情和细心的母亲的婴儿长大后会变得更快乐、更有弹性、焦虑更少。[1]\n该研究涉及大约 500 人，他们从婴儿时期一直到 30 多岁。\n当婴儿八个月大时，心理学家观察了他们的母亲在他们进行了几次发育测试时与他们的互动。\n心理学家从“消极”到“饱满的爱”等五个程度对母亲的感情和关注程度进行了评估。近 10% 的母亲表现出低度的感情，85% 的母亲表现出正常的感情，约 6% 的母亲表现出高度的感情。\n30 年后，这些人接受了情绪健康的采访。\n母亲表现出“饱满的爱”或“爱抚”感情的成年人比其他人更不容易感到压力和焦虑。他们也不太可能报告敌意、令人痛苦的社交互动和心身症状。\n\n研究二：爱有助于孩子的大脑发育\n大脑发育最重要的阶段是生命的开始，从子宫开始，然后是生命的第一年。到三岁时，儿童的大脑已达到其成人大小的近 90%。在此期间，这种快速的大脑生长和回路估计以每秒 700-1000 个突触连接的惊人速度发生。[2][3]\n婴儿与照顾者的经历对于这种早期脑回路的布线和修剪至关重要，并且良好的互动能够帮助婴儿在大脑中建立数以百万计的新突触连接。\n父母与孩子反复的互动和交流，会有助于提升孩子的记忆、建立关系的能力，同时能促进其逻辑发展。[4]\n\n\n研究三：爱有助于孩子建立良好的依恋…",
-          "link": "http://www.zhihu.com/question/465547566/answer/1954604848?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-06-22T23:00:10.000Z",
-          "wordCount": 189,
-          "title": "充满爱的家庭能给孩子带来什么？这些能否通过后天获得？"
         }
       ]
     },
@@ -4088,6 +4042,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9738392",
+          "author": null,
+          "description": "许标-心理咨询师，提供当面和网络咨询，预约公众号psyche-space\n阅读原文\n\n这是个好问题。我的回答依问题本身展开，不涉明星睡粉事件。\n我认为这个问题，要看从何种程度谈论。往深了，“自愿”涉及到“自由意志”，可上升到哲学、神经科学高度都存在极大分歧。\n如果按照某些哲学、神经科学观点，否定人的自由意志，也就不存在“自愿”一说——不论何种情形，双方关系是否存在强弱势，都不存在“自愿”。\n如果抛开这种“自由意志”的高度，降低些高度，从心理学角度看，也存在“斯德哥尔摩综合征（人质情结）”——指被害者对于犯罪者产生情感，甚至反过来帮助犯罪者，这个情感造成被害者对加害者产生好感、依赖性、甚至协助加害者。\n产生“斯德哥尔摩综合征”的人质，因好感、依赖性等帮助犯罪者的行为，并非来自犯罪者直接胁迫，可以说是人质的“自愿行为”。\n可这种被挟持、面临生命危险的特殊情境下，人的身心状态显著异于常态。平时决策、计划等维持日常生活的偏理智系统，这时候让位于求生存的本能系统。\n看似自愿行为，实际已经被本能求生系统主导，不够“自愿”——自主性，已经被情境极大过滤，受情境影响，这时候的自主性，远低于平时的自主性。\n看似自愿，实非自愿。\n简单来说，意识已经被潜意识极大左右。\n被潜意识左右的意识，算“自愿”吗？\n这又回到“自愿”的定义了。\n如果把“自觉”——自己觉得是——定义自愿，被情境影响，被潜意识左右的意识，也算自愿；\n如果认为潜意识左右的意识，失去自由选择，则不算自愿。\n可人的心理，必然包含情境影响的部分，无法撇开情境单独谈论。\n当双方关系在权力、地位、信息等方面，存在强弱势差别，强弱势身份差异带来的情境影响，已经无形渗透在双方关系、心理中，无法剥离这层影响，谈论所谓的“纯粹自愿”。\n譬如像医患、师生、咨访（心理咨询师 - 来访者）等关系中，为何避免亲密关系为宜？\n因为这类关系中，先验存在内置的不平等——不论如何避免，都必然存在。\n这种内置的不平等，无形中影响关系的建立，自愿一说，无从谈起。\n不少这类关系的强奸行为，法律上用“诱奸”区分，表明受害者存在一定程度自愿。按照如上自愿理解，就像产生“斯德哥尔摩综合征”的人质，在不平等关系情境中的弱势方，“此自愿非彼自愿”，自主程度远低于平时，不算真正的自愿。\n大家如果接触一些社会心理学知识，便会知道，情境对人影响的重要性，被极大低估。\n如同许多人觉得，如果回到二战时期，自己不会像德国或日本士兵，做出惨无人道的事情。可是近几十年内的斯坦福监狱实验、从众实验、旁观者效应实验等，被试均是受过高等教育者，却做出自认为不会做的残忍、冷漠、不理智等行为。\n不要低估情境影响，不要高估意志作用。\n强弱势身份差异本身，能够带来足够多的无形影响，造成不存在“纯粹自愿”。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738392",
+          "publishedOn": "2021-07-22T23:06:52.000Z",
+          "wordCount": null,
+          "title": "如何判断「双方自愿」中弱势一方是真的自愿，而不是因为社会结构层级更低，信息差距导致的自以为自愿？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738371",
+          "author": null,
+          "description": "綾音Ayane，三坑少女/妆娘/中国古代史/汉语言文学/女性向消费数码\n阅读原文\n\n日常跑题系列。\n我想说的是托尔金三部曲。\n很早很早之前，我被《指环王》电影的小叶子深深地吸引。又过了几年，被小叶子他爸爸深深吸引。\n这就让我在之后的好几年里，一个是开始追星，追的是李佩斯。\n一个就是，开始喜欢托尔金，开始去补关于托尔金笔下的这个世界的一切。\n因为对托尔金体系的热爱，还有对于 wow 的历史的热爱——大家都知道，它们的许多设定起源是北欧神话。\n也因此，前两年我写了一篇关于北欧神话的文章。\n北欧神话如今只有留下的几个残篇，流传下来的故事甚至不能成为一个体系。\n但是，因为种种原因，北欧神话的设定，在现代的各种文学影视游戏等等作品里面是如此的常见。就如同北欧神话本身所说的，世界会毁灭并且重生。\n世界会不会毁灭还是未知，但是北欧神话本身真的毁灭，并且重生了。\n\n《魔戒》是著名英国作家、语言学家、牛津大学教授约翰·罗纳德·瑞尔·托尔金创作的小说。它另一个更广为人知的名字是《指环王》。也许是因为《指环王》和《霍比特人》系列电影的大火，这一系列的故事都非常脍炙人口。\n这个系列的作品除了《魔戒》以外，还有《霍比特人》，《精灵宝钻》\n（《精灵宝钻》之前因为版权问题未能出版，但是随着作者逝世 70 周年，这本书也终于得以出版了）\n很多人都说，托尔金为我们展现了一个新的世界，他开创了奇幻小说的先河，现如今许许多多的小说，游戏，动漫，影视作品都来源于托尔金的设定。\n那么，大家可知道这些设定起源于哪里呢。矮人，侏儒与精灵，世界树和人类的起源。\n这一切的一切，其实来自于一段失落的神话，它很早之前就已经被毁掉了，典籍被烧掉，神像被推入深渊，连那些故事也都变得残破，不再有人口口相传。\n可是，它竟然如同它自己预言的那般，在现代以另一种形式深入人心，它的故事和精神被我们所熟知，只是我们并不知道她的名字。\n这便是北…",
+          "link": "https://daily.zhihu.com/story/9738371",
+          "publishedOn": "2021-07-22T23:06:43.000Z",
+          "wordCount": null,
+          "title": "有哪些对你影响很深的书籍？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738362",
+          "author": null,
+          "description": "ag獭，好奇而无用的獭獭\n阅读原文\n\n八大菜系这一说法，历史不会超过 50 年，至于各菜系本身的口味、烹饪手法区别，也只是在近几百年来才出现的。比如中餐中常见的炒菜，要等到宋代才开始普及，流行于各地的辣味菜肴，也要等到美洲辣椒传入并广泛种植后才能普及。\n“菜系”的出现\n菜系一词的前身，是清末民国时所说的“帮口”。当时，由于餐饮业的发展，加之各地菜式、口味的区别，人们借鉴帮口的概念，以本帮菜、杭帮菜、盐帮菜、苏帮菜等称呼，区分不同的饮食流派。新中国成立后，为了消除帮口称呼中的封建色彩，将其改称为菜系。据说菜系一词，是来自五六十年代分管财贸活动的姚依林同志。\n90 年代初的菜系分类，陈光新，《菜系的认定》，《四川烹饪》1992 年第 1 期\n1980 年 6 月 20 日，《人民日报》第四版“小常识”栏目刊登了由汪绍铨撰写的《我国的八大菜系》，这可能是文献中关于八大菜系的最早记录。不过当时，菜系一词才刚开始流行，所以四大菜系、五大菜系、八大菜系、十大菜系等等说法并存。甚至八大菜系本身包含哪些菜系，都没有形成定论。至于哪个菜系排第一，更是无从考证，大抵只是人们的口水仗罢了。\n*.类似的还有某某方言差点成为普通话之类的流言。\n为何八大菜系大多都在中国南方？\n目前比较公认的八大菜系，只有鲁菜是纯粹的北方菜系，其余菜系中，淮扬菜诞生于长江以北，介于南北之间，大多数菜系，确实都在中国南方，这是为什么呢？\n口味的形成，和族群、方言、文化的形成过程类似。古时交通不便，人口流动比较少见，受气候、地理、物产、历史、宗教和技术发展的影响，各地逐渐发展出了不同的烹饪传统，按现在常见的说法，就可以称之为菜系。\n鲁菜善用爆、烧、炸、炒，口味偏重，图为鲁菜之九转大肠\n举例来说，中国西南地区气候温暖潮湿，远离海洋，盐比较昂贵，因此当辣椒传入中国后，很快就爱上了吃辣。辛辣的辣椒可以排解湿气，也可增加风味，弥补…",
+          "link": "https://daily.zhihu.com/story/9738362",
+          "publishedOn": "2021-07-22T23:06:38.000Z",
+          "wordCount": null,
+          "title": "为什么八大菜系中除了鲁菜之外都在中国的南方？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738381",
+          "author": null,
+          "description": "八只包子，有只猫，日系家居爱好者，猫叫伊吹你懂的，很高兴遇见你呀✨\n阅读原文\n\n猫粮越大包性价比越高！可是...\n\n大包猫粮要怎么储存？\n怎么判断猫粮受潮变质？\n猫吃坏肚子得不偿失？\n\n先说简单粗暴的结论，最直接看猫粮有没有受潮的方法，是直接放嘴里嚼看脆不脆。\n包子翻了豆瓣，小红书大量铲屎官的经验，以及自身实际情况，按照储粮工具的成本从低到高，吐血整理了几个靠谱储存办法！\n一、大夹子和干燥剂\n图：自家已经吃完的 GO 猫粮，大袋子本身有密封条，这样保存了 5 个月没有坏。\n存啥：已开封的一整包猫粮。\n优点：简单粗暴 0 成本，猫粮袋子本身设计的就是符合保存的标准的，直接把干燥剂丢进去，大夹子夹稳密封好就 ok。\n缺点：仅限于南方地区非潮湿季节、非混粮喂养家庭暂时性保存。到后期我在猫粮袋附近看见了米虫，好在里面没有影响，所以这法子不适用于长期保存哦！\n 二、发酵桶\n图：豆瓣网友把一整袋猫粮，连带着包装塞进了 25L 的酵素桶里\n存啥：已开封（未开封）的一整包猫粮\n优势：食品级塑料，防潮性最佳。发酵要求的就是完全密封环境，所以酵素桶的密封性超好！而且猫粮直接整包塞进去，网友血泪教训是宁愿买大也别买小，买 20L 的 5kg 粮连包装塞进去拿出来都很困难~\n劣势：取的时候有点麻烦，有点占地方，样子有点点点一言难尽，但我也准备入手了～\n三、真空袋\n图：小红书网友的拆包储粮方式图：我自己的爱肯拿猫粮，爱肯拿包装没有密封条，必须要想办法存放好。 图：我自己的渴望猫粮，大包装也没有密封条，又整包塞进了真空袋子里，但我发现确实会漏气..\n存啥：已开封，没吃完的猫粮\n优势：简单粗暴，密封性 ok，不占地方。我采用的是一整袋猫粮塞进去去，买的是平常装被子衣服的小号真空袋，再用吸尘机一抽就完事了。\n劣势：运气不好会漏气，要挑质量好的！但我整包放进去，所以还能再继续抽真空补救，感觉比第一种办法安心。\n 四、真空机\n图：小红书网友\n存啥：所有猫粮\n优点：防潮性是最好的，看起来就很靠谱。真空防潮，分装好后开一袋吃一袋，真空袋什么尺寸都有，网上很多心灵手巧的小仙女都是这样保存哒。\n缺点：太麻烦，不适用于懒癌，要反复购买真空袋分装，金钱和时间成本比较高。看下来...非常不适合我....\n But 不推荐：简单密封袋\n\n存啥：不买就没有保存对象\n优点：每家每户都有，随手即取\n缺点：分装过程中容易二次污染，加上不密封也不牢固，不小心一碰就开，小动物一啃就坏，真心不推荐嗷！\n 五、储粮密封（米）桶\n图：小红书网友 \n存啥：日常要吃的、或分装后的猫粮\n优点：用途广，方便好看，开盖即取。极其适合北方干燥地区，放在这种桶里就足够了，甚至根本用不上酵素桶或者真空机。\n缺点：市面花样太多，容易踩雷买到质量不好不密封的，所以要铲屎官用心去挑选，网评日本爱丽思、华元宠具还算是不错的～\n 补充：随时要吃的猫粮如何储存？一、矿泉水瓶 | 玻璃罐 | 小号储粮桶\n\n存啥：采用每日定量自由采食方法的，用一个小盒子放日常随时要吃的~\n优点：矿泉水瓶 0 成本，玻璃密封罐循环利用，小号储量桶自带量杯！\n缺点：矿泉水瓶密封性一般，可能存在风险。坐标南方沿海地区，我亲身试用了 7 个月吧，目前还没有出现发霉生虫变脆的情况~其他的当然会安心一点，总比老打开猫粮袋取粮要好，降低了二次污染的风险~~\n二、豪华自动喂食器\n存啥：采用定时定量方法的，就需要买一个自动喂食器啦~\n优点：可以控制好猫咪的食量，避免猫咪一下吃过多软便的肠胃问题（亲身经历...）\n缺点：我本人没有用过。据网友经验，有几率会导致卡粮问题，自动喂食器成本比较高，我也还在观望中，希望用过的朋友积极在评论区补充意见哦！\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738381",
+          "publishedOn": "2021-07-22T23:06:33.000Z",
+          "wordCount": null,
+          "title": "大袋猫粮如何储存？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738377",
+          "author": null,
+          "description": "知乎用户，建筑 职场提升 设计留学 媒体合作｜咨询微信：hurmus\n阅读原文\n\n没有期待了，上海喜提全球最佳的天文馆！\n今天是上海天文馆开馆的第三天。三天前的那周，大量的媒体朋友来找我这位“ennead 老熟人”约稿获取最“独家”的信息和报导。但我全部回绝了，并不是不给面子，只是这项目太漫长，一时之间不知从何写起……\n世界最大天文馆开幕，上海离外太空更近一步\n上海天文馆概念动画 - enneadhttps://www.zhihu.com/video/1400838781403090944\n一位建筑师，能有多少个八年？\n2014 年上海天文馆中标时，我还是纽约的小顾问；之前在国际事务所工作的时候，也参与过不少这类文化地标项目的竞赛和深化。但了解这个方案后，还是被设计逻辑性和形式语言的美感契合度震撼到了。一年后，因为这个项目扩展与主创 Thomas&Grace 的人格魅力加持下，我加入 ennead 事务所。\n实景拍摄 © ennead/ 存在\n自项目 2013 年竞赛启动，2014 年中标到 2021 年开馆，一晃过去八年。作为最初参与竞标的建筑师团队，与这座“地标”建筑长达八年的磨砺。翻看过往文本不经感叹，做建筑师是重大的人生承诺，人生能有多少个八年去完成一座重大项目？\n上海天文馆最后一次概念竞标方案汇报文本\n为什么建在离市区那么远的临港新城？\n世界上最大的天文馆——上海天文馆，坐落于临港新城滴水湖畔；作为上海科技馆分馆，总规划用地面积 5.86h㎡，占地约 3.8 万㎡（相当于 5.5 个标准足球场大小）。\n实景拍摄 © ennead/ 存在\n当时选址考虑到两个较为重要的问题：\n\n寸土寸金的上海市中心，难以整块拨出如此巨大的用地来支持全世界最大的天文馆建设。因此考虑正在建设开发的临港新城；\n市中心的办公与商业建设量密集，人造光较强，对天文观测有一定的影响。因此需要选择类…",
+          "link": "https://daily.zhihu.com/story/9738377",
+          "publishedOn": "2021-07-22T23:06:30.000Z",
+          "wordCount": null,
+          "title": "全球建筑规模最大的上海天文馆于2021年7月17日正式开馆，对此你有哪些期待？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738402",
+          "author": null,
+          "description": "哪个瞬间你突然觉得读书真没用？\n\nConway Young，知乎不是庸者的百度。\n阅读原文\n\n阅读原文\n\n郭德纲在台上被泼水会怎么样？\n\nTraHeart，一场竹节虫的美梦。\n阅读原文\n\n谢谢您呐，我家里头热得快炸了\n_(:_」∠)_\n阅读原文\n\n你见过最丑的猫是怎样的？\n\n一只小牌九，这位姑娘，可否与小生共推牌九啊？( •̀∀•́ )\n阅读原文\n\n这个回头，谁遭得住？\n\n\n\n阅读原文\n\n女生不会接吻怎么办呢？\n\n匿名用户\n阅读原文\n\n买一桶的星球杯，丢掉勺子。\n阅读原文\n\n如何看待警方通报吴亦凡事件：一男子冒充涉事双方对吴与都二人进行诈骗？有哪些信息值得关注？\n\n编辑部小李，知乎第一大号背后的难人\n阅读原文\n\n朝阳警方提醒您：一切以转账为目的的聊天都是诈骗。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738402",
+          "publishedOn": "2021-07-22T23:06:20.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9738344",
           "author": null,
@@ -5667,56 +5681,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737346",
-          "author": null,
-          "description": "壹心理，专业而有趣的心理服务平台，为大众心理健康提供解决方案。\n阅读原文\n\n没被夸大，只是被用错了。\n原生家庭的影响，就像一个人，一直觉得自己不舒服，很难受，却不知道是哪里痛，哪里有伤口，哪里曾经被人狠狠地打了几下，捅了几刀。\n我们本能的会去探究为什么会痛、会难过，问题究竟出在了哪里？\n有些人探索原生家庭的影响没用、甚至更颓废，是因为他们的探索是为了推责、开批判大会、找到人生问题的罪魁祸首。\n他们需要给自己一个理由：因为我原生家庭的 XX 问题，导致了我现在生活的不如意。\n进而，他们可以不为当下的生活与人生负责，不去努力和改变。\n毕竟对有些人来说，承担人生的责任与压力、努力改变，比忍受创伤和痛苦更可怕。 \n\n但如果探索原生家庭的影响不是为了逃避，而是直面过去的痛苦和创伤，进而理顺一团乱麻的、从未处理的各种情绪和故事，我们就能更好地面对未来的生活。\n那么，探索原生家庭的影响，具体都可以给我们带来怎样的改变呢？\n1.放下“不爱父母”自责和内疚\n在我们从小接受的教育下，孝顺和爱父母像是一个准则和道理，我们必须要做到。可对于很多人来说，这真的很难。\n我曾经有一个来访者小 J，她和父母的关系都一般，小时候父母常常争吵，重男轻女，也常常打骂身为女儿的她。\n现在她自己做点生意，经济状况是家里几个姐妹里最好的。\n父亲望子成龙却养出了一个没什么出息的儿子，还要求这个女儿能够对弟弟负起责任，带他做生意上路，以后可以自谋出路衣食无忧。\n来访者小 J 说，自己一和父亲说话就觉得父亲的情绪让她难以忍受。\n父亲就像个婴儿，他提的要求无论是什么总是要求别人必须去满足他：\n“我就算做一百件事，如果有一件事，没有做好，没有满足他的要求，他就会对我生很大的气，否定我、斥责我。”\n她和父亲不在一个城市，她不想给父亲打电话。因为一打电话，她就会觉得很难受。\n可是不打电话，父亲会责怪她不孝顺，家里亲戚也会对她有看法…",
-          "link": "https://daily.zhihu.com/story/9737346",
-          "publishedOn": "2021-06-22T23:07:17.000Z",
-          "wordCount": null,
-          "title": "这些年来，原生家庭的影响是否被过度夸大了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737355",
-          "author": null,
-          "description": "邹钰莹，成都室内设计师Wechat：qiuku0512\n阅读原文\n\n有许多人都准备买房或者已经买了房子，对自己未来的家有一个大致的轮廓。第一次装修的朋友对装修更是一窍不通，装修需要注意的地方有很多，需要耐心的跟进装修进度。装修质量也直接关乎到今后的生活质量，所以我们在装修的过程中需要把好质量关，做好前期准备工作。那么装修前应该做好哪些准备工作?\n一．了解装修方式\n装修方式分为全包、半包、清包和套餐四种。\n1.全包是包工包料装修，所有材料采购和施工全部由施工方负责。是很省时省力的一种装修方式，但也是装修利润最大的一种装修方式。\n优缺点：全包相比于半包更贵一点。对于忙碌的上班族来说，是个省心的方法。设计、施工、选材都由一家公司负责，装修效果会更统一。不用管设计，也不用选购材料，但是有很多弊端。收费不合理，收费多，以次充好，偷工减料等。大多数上班族对装修材料价格、种类不了解，就算报多也不知道。所以，全包合同很重要，一定要看清楚。\n2.半包介于全包和清包之间，只负责施工和辅料，业主提供主料。\n优缺点：装修材料自己购买不用担心材料质量问题，但是要花时间跑材料市场，个人精力投入很多。主材提供不及时，有可能会延期施工时间。对装修材料不了解，也容易被建材商欺骗。\n3.清包是包工不包料装修，装修用的材料自己负责。\n优缺点：业主掌握主动权，施工环节自己把握。这种方式需要对装修材料和施工方面很熟悉，也需要了解材料市场行情。相当于整个装修必须亲力亲为。\n4.套餐装修就是套餐价格乘以建筑面积，得出最好装修费用。（含主材）\n优缺点：最大的亮点就是便宜，但很容易被套住，施工时有许多东西都不在套餐内，业主要拿钱贴上，隐形消费很多。\n二．协调好邻里关系\n开工之前通知邻居，楼上楼下，也好有个准备。因为装修的周期长，噪声大，对邻居的影响非常大。看有什么特殊情况，对工期进行调整，避开节假日和休息时间。\n三．了解材料市场，看装饰材料\n冒着小雨看材料\n逛建材市场时候尤其重要，记录装修知识，产品的价格或是厂商的联系方式，家里的设计，装修期间的花费等等，都要认真记录下来用作参考。最好是能记录下自己每一天的装修进度，花费情况，这样可以控制预算。要多考察新装修的邻居、朋友家的情况、了解材料市场，把握市场价格动态。\n四．了解装修公司、施工队、工作室\n1.装修公司\n装修工程比较系统化，业主省心，每个环节都有专业的人来负责，不会出现出现问题找不到人。装修公司接单量大，设计师对每个单子花的心思有没的工作室多。\n2.施工队\n施工队很多，一抓一大把。便宜当然是没得说，但设计根本发看。虽然主打施工为主、设计为辅。没有规范的施工要求，后期出现问题找不到人。\n3.工作室\n工作室是设计为主，施工为辅，或者不施工。有很多比较优秀的设计师个人开设的工作室，大都有着丰富的经验，注重美观度，风格大胆独特，对装修效果也很重视。每个项目都会负责到底，避免软装环节出现差错。对于追求生活品质的人来说，选择工作室是个不错的选择。\n五．与设计师出沟通\n1.给出详细的资料；家庭成员及年龄，职业，是否有老人，是否喂养宠物；\n2.功能需求及日常生活习惯；比如是否经常做饭、喜欢听音乐、沐浴、看书等等。多向设计师描述生活需求和状态，而不是告知设计师我想怎么做。把自己的需求、想法及与设计师的沟通结果用笔记本记录，便于后面回顾和总结以求在选择方案时做出平衡。\n3.确定一个大的方向。想要装出什么样的感觉，营造什么样的氛围。（例如严肃、庄重、亲切、大方、豪华、平实或妩媚、欢快、活泼等效果）。找一些自己喜欢的参考图，很多时候业主描述与设计师的理解并不会很默契的在同一个面上，所以图片是很直观的方式。 选择你喜欢的一个色彩，并不是说大面积应用这个色彩，设计师从色彩角度分析业主隐藏的一些需求。有利于之后的硬装和软装上面的设计，更贴合业主的喜好。\n4.对整体预算要有谱，预算的高低在一定程度上影响设计师能实现多少。一个好的设计方案是业主和设计师相互沟通配合完成的。业主与设计师，不仅是甲方和乙方的关系，更是合作关系。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737355",
-          "publishedOn": "2021-06-22T23:07:12.000Z",
-          "wordCount": null,
-          "title": "装修前应该做好哪些准备工作？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737364",
-          "author": null,
-          "description": "早知鸟，公众号：早知鸟飞行日记 写故事的地方\n阅读原文\n\n经过我在社会上多年的观察，我发现一个有趣的现象：在那些成功的精英人士当中，并不缺乏内向者，甚至内向的成功人士要比外向的成功人士数量更多，也就是说，性格不是成功的关键因素。\n比如商界名人当中，有马化腾、俞敏洪、张一鸣、马斯克；学术名人当中，过去有陈景润、和现在的北大数学天才韦东奕。\n这些名人的内向是众所周知的，也就是世人所认为的不善言辞，喜欢独处。但一点都不妨碍他们取得巨大的成就，不限于任何领域。大家可以通过查阅他们的百科或传记、演讲视频去了解一下，这里就不做赘述。\n在我看来，内向者的优势是完爆外向者的，核心在于你会不会利用好你的内向优势。你不需要去刻意改变自己内向的性格，因为人的性格是与生俱来的，刻意的改变往往会弄巧成拙，明智的做法是找到自己性格中的优势，然后扬长避短。上面列举的名人，无一不是学会了「扬长避短」。\n那么，内向者的优势是什么？\n一、有极强的延迟满足能力，可以专注做好暂时看不到反馈的事\n延迟满足是一项很强的技能，这一点内向者要比外向者表现得好。因为外向者的动力来自外界，比如外向者心情差的时候，会和朋友聚会、聊天、运动、打游戏，这些行为都属于即时回馈，付出就能得到回馈。比如叫一帮朋友去 K 歌，在 K 歌的过程中就能得到多巴胺的补充。所以，外向者更倾向于做那些能即时回馈的事情。\n内向者心情差的时候，通常会向内部寻找力量，比如独自在家看电视、阅读、整理房间、冥想等。这些行为得到的反馈并不明显，甚至在外向者看来就是一份苦差（比如整理房间），或者类似于修行，但在内向者看来，就是一种很好的放松方式。\n由于长时间的固定行为模式，内向者养成了更优秀的延迟满足能力，他们可以轻松地做那些「看起来乏味无趣的事情」，并坚持较长的时间。而这些基本都不能引起外向者的兴趣。\n比如学习这件事，我们都知道著名的学习金字塔理论，学习难度跟…",
-          "link": "https://daily.zhihu.com/story/9737364",
-          "publishedOn": "2021-06-22T23:07:06.000Z",
-          "wordCount": null,
-          "title": "在这个外向者更吃香的社会里，内向者拿什么做优势？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737370",
-          "author": null,
-          "description": "配方师Gigi，配方师/药学硕士\n阅读原文\n\n我屡次告诉大家，防晒或者粉底液其实很好洗，用 22 元的旁氏氨基酸洗面奶差不多就全部洗掉了。但仍然有妹子不放心啊，今天我搬出来实验室的几台仪器，用数据和图片说话，让大家眼见为实。\n左边的 HIROX 已经给大家介绍过，右边两个是德国 CK 公司推出的高科技皮肤测试仪器，能够准确量化测试皮肤的各种参数，如油脂、水份、黑色素、血红素、弹性强弱等，及时发现皮肤存在的各种问题。这三台仪器，加起来也价值小 100 万人民币了。\n\n一，多合一洁面产品能够洗掉底妆产品吗？-- 能！能！能！\n现在很多洁面产品都宣称具备卸妆功能，可以有效卸除防晒产品，以及粉底液，BB 霜，隔离霜等底妆，无需二次清洁。很多知友都想知道，这些产品，价格很便宜，超市开架货，真的能把底妆卸除干净吗？\n一般来讲，粉底液里面含有大量的粉体，比隔离霜，妆前乳，BB 霜，气垫 BB 等产品难洗。也是大家最担心卸不干净有残留的。我们拿蜜丝佛陀的粉底液当样板，这款粉底液热度比较高，价格不贵。并且算是持妆相对久的，也比较难卸妆。我们用碧柔的卸妆洁面乳来洗，给大家展示一下结果。\n 皮肤看起来平整，其实充满了纹理沟壑。颜色深的地方是毛孔。涂抹粉底液之前粉底液涂抹后，填充在皮肤的沟壑纹理。虽然局部放大有点恐怖，但皮肤肉眼看起来光泽匀净用碧柔卸妆乳洗完后，沟壑里的粉底液都被洗掉了。\n我还用相宜本草的芯净自然净妆洁面两用乳做了同样测试，结果也是一样。\n\n看到了吧？用卸妆洁面多合一的洗面奶，完全可以把粉底液洗干净。\n二 ， 卸妆洁面二合一产品把安耐晒小金瓶也能洗干净\n仍然有妹子问防晒霜能不能洗干净，理由是防晒霜用量大。于是再次挑战最高难度，我们找来了 2018 版的安耐晒小金瓶，号称防水耐汗，在脸上固若金汤。实验结果如下：\n涂抹安耐晒之前之前，皮肤的沟壑纹理涂抹安耐晒后，皮肤有轻微泛白和油光用碧…",
-          "link": "https://daily.zhihu.com/story/9737370",
-          "publishedOn": "2021-06-22T23:07:03.000Z",
-          "wordCount": null,
-          "title": "洗面奶和卸妆油，如果只用一个，能把脸洗干净吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737328",
-          "author": null,
-          "description": "如果我在大专期间获得了诺贝尔奖，能被保送研究生吗？\n\n大理想家，咨询请使用值乎，接收商业合作。其他请发邮件。\n阅读原文\n\n两个农夫聊天。\n“你说你要是当上皇帝了，你要干嘛？”\n“嘿嘿，那我得用金锄头锄地！”\n阅读原文\n\n香奈儿推出 AirPods 保护套，售价约 17300 元，有什么亮点？你愿意买吗？\n\nBohnaBohna\n阅读原文\n\n为了保护一个售价 1599 的 airpods pro，买一个 17300 元的香奈儿保护套。\n我提议，给这个 17300 的香奈儿保护套再做一个保护套，一定能大卖。\n阅读原文\n\n男生看到女朋友对自己撒娇是什么感觉？\n\n楚楚楚楚，喜欢吃肉还要减肥一路变胖\n阅读原文\n\n买，吃，好，行。\n阅读原文\n\n如何激怒一位俄语学习者？\n\n一松，学生\n阅读原文\n\n激怒？哈哈哈哈哈太天真了吧！\n\n\n您觉得我学了俄语还有脾气吗？\n\n\n\n阅读原文\n\n爸爸对我的网名头像发起了进攻，家长中意的到底是什么样的？\n\n杨雨欣，一条快乐的咸鱼\n阅读原文\n\n用敌人的逻辑打败敌人：）\n\n以胡扯对胡扯，以迷信对迷信！\n让对方无言以对\n\n今天看到一个更秀的朋友！放出来给大家观摩一下，大家快拿出小本本记重点！\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737328",
-          "publishedOn": "2021-06-22T23:06:56.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5725,6 +5689,60 @@
       "feedUrl": "https://wubaiqing.github.io/zaobao/rss.xml",
       "siteUrl": "https://wubaiqing.github.io/zaobao",
       "articles": [
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/22.html",
+          "author": null,
+          "description": "2021.07.22 今天是每日时报陪伴您的第 594 天\n[文章] 谷歌工程师的代码审核最佳实践：https://google.github.io/eng-practices/review/reviewer/\n[文章] 如何搭建适合自己团队的构建部署平台：https://juejin.cn/post/6987140782595506189",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/22.html",
+          "publishedOn": "2021-07-21T10:56:12.000Z",
+          "wordCount": 81,
+          "title": "2021.07.22 今天是每日时报陪伴您的第 594 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/21.html",
+          "author": null,
+          "description": "2021.07.21 今天是每日时报陪伴您的第 593 天\n[文章] qiankun 的作者谈，你可能并不需要微前端：https://zhuanlan.zhihu.com/p/391248835",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/21.html",
+          "publishedOn": "2021-07-20T10:07:20.000Z",
+          "wordCount": 76,
+          "title": "2021.07.21 今天是每日时报陪伴您的第 593 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/20.html",
+          "author": null,
+          "description": "2021.07.20 今天是每日时报陪伴您的第 592 天\n[新闻] 7.17 日是 时间 emoji 日：https://worldemojiday.com/\n[新闻] window11 最新设计理念：https://medium.com/microsoft-design/windows-11-designing-the-next-generation-of-windows-490c02fb6373\n[新闻] FreConf 前端会议第一期：解密前端，7.20 日，Fre 作者，Omi 作者@当耐特，Naive-ui 作者；7.21 日，Umi 云谦，garfish 作者和 deno 核心开发者 https://t.bilibili.com/546781918403455918\n[类库] airbnb 可视化 react 组件库 visx：https://airbnb.io/visx/",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/20.html",
+          "publishedOn": "2021-07-19T12:41:06.000Z",
+          "wordCount": 110,
+          "title": "2021.07.20 今天是每日时报陪伴您的第 592 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/16.html",
+          "author": null,
+          "description": "2021.07.16 今天是每日时报陪伴您的第 591 天\n[工具] 在跨浏览器窗口共享数据，允许用户传输数据到外部窗口，google/transmat：https://github.com/google/transmat 中文介绍博客：https://juejin.cn/post/6984587700951056414\n[文章] 你可能不知道的 5 个 html tags：https://dev.to/ayabouchiha/5-html-tags-that-almost-nobody-knows-5p5",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/16.html",
+          "publishedOn": "2021-07-15T11:52:39.000Z",
+          "wordCount": 88,
+          "title": "2021.07.16 今天是每日时报陪伴您的第 591 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/15.html",
+          "author": null,
+          "description": "2021.07.15 今天是每日时报陪伴您的第 590 天\n[文章] 海康前端职业规划：https://juejin.cn/post/6984674442483875853\n[新闻] 转化 vue3 组件至标准的组件，还未上线：https://twitter.com/youyuxi/status/1414594164168269828\n[工具] 国内低代码平台从业者交流仓库：https://github.com/taowen/awesome-lowcode\n[工具] markdown editor -- milkdown：https://github.com/Saul-Mirone/milkdown",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/15.html",
+          "publishedOn": "2021-07-14T11:52:16.000Z",
+          "wordCount": 95,
+          "title": "2021.07.15 今天是每日时报陪伴您的第 590 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/07/14.html",
+          "author": null,
+          "description": "2021.07.14 今天是每日时报陪伴您的第 589 天\n[新闻] React.js 核心开发者 Dan Abramov 访谈实录：https://juejin.cn/post/6984291978884153358\n[讨论] vue3 的组件发布，还需要打包吗？https://twitter.com/antfu7/status/1414270820315066375",
+          "link": "https://wubaiqing.github.io/zaobao/2021/07/14.html",
+          "publishedOn": "2021-07-13T12:29:39.000Z",
+          "wordCount": 85,
+          "title": "2021.07.14 今天是每日时报陪伴您的第 589 天"
+        },
         {
           "id": "https://wubaiqing.github.io/zaobao/2021/07/12.html",
           "author": null,
@@ -5814,15 +5832,6 @@
           "publishedOn": "2021-06-24T01:54:00.000Z",
           "wordCount": 91,
           "title": "2021.06.24 今天是每日时报陪伴您的第 579 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/06/23.html",
-          "author": null,
-          "description": "2021.06.23 今天是每日时报陪伴您的第 579 天\n[文章] 手写简易浏览器 HTML Parser 篇：https://mp.weixin.qq.com/s/ku6yNZqIKH9wBSGbUdhW0A\n[文章] 使用 Whistle 作为你的 Web 调试工具吧：https://zhuanlan.zhihu.com/p/79037633\n[视频] WebKit 官方博客发布了 WWDC21，主要介绍 Safari 更多新特性：https://webkit.org/blog/11700/webkit-features-in-safari-at-wwdc21/\n[技巧] 用 CSS 实现方向感知的按钮：https://codepen.io/jh3y/pen/XWMobqx",
-          "link": "https://wubaiqing.github.io/zaobao/2021/06/23.html",
-          "publishedOn": "2021-06-23T06:34:56.000Z",
-          "wordCount": 103,
-          "title": "2021.06.23 今天是每日时报陪伴您的第 579 天"
         }
       ]
     }
