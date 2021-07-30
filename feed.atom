@@ -2,10 +2,452 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T01:06:29.900Z</updated>
+    <updated>2021-07-30T01:11:19.531Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C++11 增加的变参数模板，今天总算整明白了]]></title>
+        <id>https://toutiao.io/k/qji6bfm</id>
+        <link href="https://toutiao.io/k/qji6bfm"/>
+        <updated>2021-07-30T01:11:19.036Z</updated>
+        <summary type="html"><![CDATA[本篇文章介绍一下c++11中增加的变参数模板template\x26lt;typename... _Args\x26gt;到底是咋回事，以及它的具体用法。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文搞懂基础数据单位换算逻辑]]></title>
+        <id>https://toutiao.io/k/t2k11io</id>
+        <link href="https://toutiao.io/k/t2k11io"/>
+        <updated>2021-07-30T01:11:18.867Z</updated>
+        <summary type="html"><![CDATA[夯实基础，专注技术积累与成长~]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秒杀系统你必须知道的 9 个细节]]></title>
+        <id>https://toutiao.io/k/ghq07ln</id>
+        <link href="https://toutiao.io/k/ghq07ln"/>
+        <updated>2021-07-30T01:11:18.789Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊 WKWebView cookie 管理那些事]]></title>
+        <id>https://toutiao.io/k/e92hx8a</id>
+        <link href="https://toutiao.io/k/e92hx8a"/>
+        <updated>2021-07-30T01:11:18.715Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试开发知识图谱]]></title>
+        <id>https://toutiao.io/k/vz05cdo</id>
+        <link href="https://toutiao.io/k/vz05cdo"/>
+        <updated>2021-07-30T01:11:18.653Z</updated>
+        <summary type="html"><![CDATA[❝记录从单纯的测试或者技术小白如何一步步进阶成为一名合格的测试开发工程师❞Tips文中如果有不当的地方欢迎大]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一起来逆向分析吃鸡外挂]]></title>
+        <id>https://toutiao.io/k/8h03iv9</id>
+        <link href="https://toutiao.io/k/8h03iv9"/>
+        <updated>2021-07-30T01:11:18.578Z</updated>
+        <summary type="html"><![CDATA[吃鸡辅助外挂的逆向实践]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈如何成为技术一号位？]]></title>
+        <id>https://toutiao.io/k/knfqsnx</id>
+        <link href="https://toutiao.io/k/knfqsnx"/>
+        <updated>2021-07-30T01:11:18.438Z</updated>
+        <summary type="html"><![CDATA[探讨如何通过实践完成自己从普通开发到技术一号位的角色转变。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看了读者阿里面经，总结了这几个面试关键点]]></title>
+        <id>https://toutiao.io/k/ndwzphu</id>
+        <link href="https://toutiao.io/k/ndwzphu"/>
+        <updated>2021-07-30T01:11:18.352Z</updated>
+        <summary type="html"><![CDATA[你与大厂，可能就差这几点]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零到谷歌程序员：“狗头” 的面试刷题心得]]></title>
+        <id>https://toutiao.io/k/sm7qipf</id>
+        <link href="https://toutiao.io/k/sm7qipf"/>
+        <updated>2021-07-30T01:11:18.268Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一款可媲美 uTools 的开源工具箱]]></title>
+        <id>https://toutiao.io/k/5iy1ao9</id>
+        <link href="https://toutiao.io/k/5iy1ao9"/>
+        <updated>2021-07-30T01:11:18.160Z</updated>
+        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 书单 | 这些书，可以让你构建经得住考验的架构系统]]></title>
+        <id>https://toutiao.io/k/t51adta</id>
+        <link href="https://toutiao.io/k/t51adta"/>
+        <updated>2021-07-30T01:11:16.929Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[webpack 从 0 到 1 构建 vue]]></title>
+        <id>https://toutiao.io/k/ihkq5q8</id>
+        <link href="https://toutiao.io/k/ihkq5q8"/>
+        <updated>2021-07-30T01:11:16.121Z</updated>
+        <summary type="html"><![CDATA[前端领域框架百花齐放，各种优秀框架出现（react，Vue，ag）等等框架。为了方便开发者快速开发， 开发对应的 cli 脚手架，来提高产出。然而初中级的前端工程师对项目里的 webpack 封装和配置了解的不清楚，就容易…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 169 期）：五菱汽车的产品设计]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html"/>
+        <updated>2021-07-30T00:30:01.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+上海中环的一根高架柱子上面，画着一匹巨大的斑马。（via）
+本周话题：五菱汽车的产品设计
+很多年前，我就知道五菱汽车。大学时，一个广西同学去了那里就业，从此我就记住了，柳州有一家汽车厂。
+当年，它很不起眼，主要生产面包车。据说，模仿的是日本三菱面包车，连牌子和名字都模仿了人家。
+
+但是后来，这家公司逐渐摆脱了模仿，开始生产原创的家用轿车，发展得越来越好，成了全国知名品牌。尤其是近两年的几个车型，简直令人刮目相看。
+宝骏 E300。
+
+宏光 Mini EV。
+
+皮卡和房车。
+
+
+这些车的造型和外观设计，十分新颖和别致，完全原创，明显有一套自己的设计语言，非常吸引眼球。
+要知道，它们都是低价车，定价几乎是同类车的下限，房车十几万，其他车几万块，配置都很低端。这就是我觉得不简单的地方， 明明是廉价货，可是看上去一点都不廉价，反而有点气派。
+举例来说，很多年轻人，尤其是女性，购买五菱宏光 Mini EV，作为代步车。但它的配置和价格，跟有一些四轮的老年代步车差不多。那些老年代步车让人觉得很简陋，年轻人几乎不可能购买，但是五菱重新设计和包装以后，就打开了市场。这就是厉害的产品设计。
+
+把廉价的东西做得很廉价，那不叫本事； 把廉价的东西做得很轻盈，那才叫本事。  
+所谓"轻盈"，就是简单优雅，在物质上节省材料和能源，在精神上追求自由。廉价的东西，原来只能吸引低端的顾客；做得轻盈以后，就能吸引到高收入的顾客。
+我觉得，五菱汽车是一个好例子，值得软件开发者学习，怎么把产品做得简单而不简陋，轻盈而不笨重。
+Vue 3 和 React 17 的源码比较
+…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果 A 拿着枪逼着 B 杀死了 C，那么 A 和 B 分别要负什么样的法律责任？]]></title>
+        <id>https://daily.zhihu.com/story/9738646</id>
+        <link href="https://daily.zhihu.com/story/9738646"/>
+        <updated>2021-07-29T23:08:36.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，一个圣骑士成熟的标志是不再向盲人解释阳光
+阅读原文
+
+1、不成立胁从犯。
+如高票回答所说，完全失去自由意志的情况下，B 只是 A 的工具，不成立胁从犯。
+但是如果是一个现实案件，还是会作为胁从犯处理。因为在证据上，很难证实“完全失去自由意志”。
+2、不成立紧急避险。
+高票回答这里是非主流的。
+虽然在牺牲一个生命以保全另外一个生命的问题上是否成立紧急避险，有很大争议。但是通说认为，生命是无价的，因此无法比较人与人之间的生命价值，法的秩序也不能支持这种生命有价的功利想法。
+因此，牺牲一个生命以保全 X 个生命的情况，不属于紧急避险。这是很容易反证的：
+如果生命有价，可作紧急避险的价值大小判断，则 1 个生命的价值小于 2 个生命的价值。
+在此情况下，如果 A 强迫 B 杀死 2 个人，则因 B 的 1 个生命价值更小，不得以牺牲更大价值的方式进行紧急避险，成立故意杀人罪。这显然不合理。因此，生命无价，不得进行价值大小的评价。一般人认为的“1 个生命小于 2 个生命”，其实是指生命对于社会（公共利益）能够创造的价值大小，但不是生命本身的价值。
+理论上应该是以缺乏期待可能性或者不可抗力作为 B 的无责理由，实际案件中的法律依据是《刑法》第十三条的“情节显著轻微”。
+3、C 反杀 B 的行为属于正当防卫。
+B 是不法侵害，对不法侵害的防卫当然是正当防卫。
+但如果认为 B 是紧急避险的情况下，C 的反杀行为就变成假想防卫了，这样明显是不合理的，这也是反对认为 B 可以紧急避险的原因之一。
+4、A 对 B 被 C 反杀的结果承担故意杀人
+A 胁迫 B 从事犯罪行为，自然应对 B 从事该行为的结果承担后果。
+——————
+有些人不明白为什么，给出我的大概推论过程吧：
+首先要确定的基础是，A 有两个杀人的故意内容，一个是杀 B，一个是杀 C。后者无争议。
+对于前者，如果 A 没有杀 B 的故意内容，则 B 不受生命威胁，不成立“完全失去自由意志”，只能算胁从犯。在此情况下，A 与 B 是共同犯罪，A 自然不对 B 被反杀的结果承担责任。
+但如果认为 B 已在死亡威胁下失去自由意志，则 A 应当具备杀 B 的故意内容。
+在此基础上，A 以杀 B 的故意强迫 B 实施 X 行为导致 B 死亡，主观上是杀人故意，客观行为与 B 的死亡结果有因果关系，应对 B 的死亡结果承担相应的故意杀人的刑事责任。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自暴自弃与自我接纳的区别在哪？如何做到自我接纳？]]></title>
+        <id>https://daily.zhihu.com/story/9738640</id>
+        <link href="https://daily.zhihu.com/story/9738640"/>
+        <updated>2021-07-29T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[张临风-心理咨询师，微信Therapycomm，公众号The_Shack
+阅读原文
+
+如果说有什么建议是在人生中始终有效，那大概就是抱着接纳的态度面对人生中的所有问题了。当我们谈论改变时我们到底在谈什么？在遇到触发我们情绪的事件时我们应该怎么做？为什么有时候越努力越适得其反？这些问题背后的答案多多少少都跟接纳有关。我们期待的成长和改变，只能从接纳开始，到接纳为止。当你能够接纳自己的时候，你会发现很多时候选择并不重要，其实做什么都可以。
+一．改变，从接纳开始
+“在我经历中最悖论的事情在于，即使是生活依然如以前一样复杂，但是当我越能接受自己之后，我就越能够理解与接受生活的现实，而这样的接受似乎又能让我的生活产生积极的变化。”——卡尔·罗杰斯[1]
+接纳是咨询里非常常见的话题。在认知行为疗法第三浪潮[2]中都有涉及，也是许多时候应对成长、挑战甚至危机的核心议题。当然，无论是 ACT 里的以开放的态度接纳，还是辨证行为疗法里的全然接纳，其核心都是相似的：接纳不会让事情变得更糟，而不接纳（内耗）会。
+接纳的定义是：以不评判和不对抗的态度，对当下的情况进行观察、描述和参与。它的反面就是对于事物有过多的评判，或者因为对抗而产生的内耗。
+在具体的生活中，其实就是我们在遇到危机时，对待自己与事务的态度。
+假如自己忘记了一次考试的时间，发现的时候已经离考试就剩几天了，这时候我应该怎么做？是评判自己，给自己贴上懒惰，不负责任的标签？还是对抗考试设置，干脆不复习了，破罐子破摔，在焦虑中消耗掉自己仅有的时间？
+答案是显而易见的，都不是。大家都明白，在这样的时刻，不管是评判自己还是对抗制度都是无效的，有效的行为是接受我现在面临的危机现状，认可自己担忧的感受，把这种压力更好的调节和应用在有效的复习行为上。
+而在这个情境中，区分有效和无效行为的分水岭，正是我们能不能选择接纳当下的困境与现状，并且不去评判与…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑寡妇为什么能当复仇者？]]></title>
+        <id>https://daily.zhihu.com/story/9738610</id>
+        <link href="https://daily.zhihu.com/story/9738610"/>
+        <updated>2021-07-29T23:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Ricki，总有一双鞋子适合你行业咨询请私信
+阅读原文
+
+问这个问题的应该只看过《复仇者联盟 3》。
+-
+电影宇宙，尤其是复仇者联盟 2 和美国队长 3 这两部，已经交代得很清楚了，复仇者联盟并不仅仅是有了重大威胁之后和外星人打打架而已，他们需要负责地球整体的安全。大小威胁，都要处理。换言之，复仇者联盟并不是只做超强武力输出这一件事，维护地球的安全，光有武力是不够的。
+娜塔莎的价值在于，她是复仇者联盟里最专业的特工。这一点，妇联里无人能和她媲美（包括巴顿）。强劲如浩克或者雷神的攻击力输出娜塔莎自然是没有，但很多细腻或费心思的事情，却只有她能干，或者，只有她做得好。几个电影里交代的片段：
+- 潜伏到斯塔克身边当秘书，毫无破绽（钢铁侠 2）。伪装，卧底，收集资料，最后武力干涉。一整套特工的工作，毫无纰漏。
+- 审讯俄国罪犯团伙，基本是耍得对手团团转顺便秀了一下流利的俄语（复仇者联盟 1）
+- 和洛基长时间交谈故意卖破绽引洛基说出真实目的（复仇者联盟）
+- 和罗杰斯一起被朗姆罗追捕。罗杰斯已经准备开打然而娜塔莎用简单的技巧就成功躲避敌人（美国队长 2）
+- 深陷敌营的娜塔莎依然能想办法用最传统的特工手段联系上队友（复仇者联盟 2）
+上面这几件事，巴顿和巴恩斯也许能做到几件，但能全都做到的，只有娜塔莎。她的特工技能包太全了，伪装，诱供，心理战，多语言，电脑，甚至包括她的美貌。以及如果有人记得《神盾局特工》的剧情，里面有一个测谎仪。确定这个测谎仪是否合格的标准，就是能否识别出娜塔莎在说谎。
+甚至，在电影宇宙里，娜塔莎表现出来的战斗力丝毫不虚。在复仇者联盟 3 里她甚至和队友团战黑曜五将的选手们都不落下风甚至能够取胜（虽然我个人认为这是战斗力设定的混乱）。而且，她面对强敌时表现得胆色过人。尽管她肉体凡胎还是近战模式，但一次次面对外星人，面对长枪短炮各种奇怪能力，她基本没有怕过（除了对巴恩斯那次马路站时表现出的一丝的惊慌）。
+-
+除了上面这些实打实的内容，还要提的就是，娜塔莎是妇联团队中唯一一位成熟女性，旺达在成长，但依然比不上娜塔莎在人情世故和调节团队气氛方面的价值和作用。几个重要的事情：
+- 只有娜塔莎能安抚浩克，她相信浩克，也换来了浩克的信任；
+- 帮助巴恩斯恢复清醒并且给予他心里安慰的，是娜塔莎；
+- 内战的时候，是娜塔莎一直在努力软化斯塔克和罗杰斯的矛盾；也是她在最后时刻选择了相信罗杰斯而不是一味打下去；
+一帮上天入地无所不能的超级英雄，充满了男性荷尔蒙和肌肉。一位聪明勇敢的女成员所能带来的价值，实在是难以估量。另一个角度来说，娜塔莎也是幸运的。相比于前辈卡特，她没有轻视，
+只是没想到最后还是被题主轻视了……
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何挑选一件好看、耐穿且性价比高的T恤？]]></title>
+        <id>https://daily.zhihu.com/story/9738628</id>
+        <link href="https://daily.zhihu.com/story/9738628"/>
+        <updated>2021-07-29T23:08:20.000Z</updated>
+        <summary type="html"><![CDATA[姚蔚铭，纺织品化学工程师（神秘职业） 纺织品问题请付费咨询
+阅读原文
+
+我是纺织品化学工程师，这次就不长篇大论了
+我买白 T 一定会看这几个关键词
+1 支数 2 克重 3 精梳棉 4 纤维成分 5 版型 6 丝光
+1.支数
+这个支数是专门形容棉花纱线的细度，是英制表示方法（谁让人家是工业革命起源地）。
+支数越大说明越细，加工成本越高，纱线也越紧密顺滑不易皱（相对来说，棉花本身就易皱）。
+60 支会更加细软，价格也更高
+如果喜欢粗犷风格支数就选低的。（我就喜欢 32 支）
+（ps.双股纱会更稳定）
+2.克重
+就是面料的密度，太薄了穿上去会透的，淋点雨能看到⊙⊙得多尴尬。
+我一般选 220g/㎡
+3.精梳棉
+精梳是一道工艺，把棉花的杂毛去除掉，穿起来更平整没有毛羽，档次高。
+4.纤维成分
+其实无论新疆棉，海岛棉和普通棉花比溢价高还不容易分辨，看个人选择。
+我选成分喜欢带 30%涤纶，干的快不易皱，看个人喜好。
+也喜欢配粘胶一类的纤维
+5.版型
+男生买的时候看版型，别买个修身的，没肌肉的话那就太 gay 了。还有长款短款记得看清楚。
+6.丝光
+这也是一道工艺，能极大提高棉 T 和棉衬衫品质，略带蚕丝的光泽，吸湿透气性都很好，不易皱。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何客观地评价并比较王志文，陈道明和陈宝国三个人的演技？]]></title>
+        <id>https://daily.zhihu.com/story/9738636</id>
+        <link href="https://daily.zhihu.com/story/9738636"/>
+        <updated>2021-07-29T23:08:16.000Z</updated>
+        <summary type="html"><![CDATA[荞麦花开，红楼梦文本研究员；陈道明表演解剖师
+阅读原文
+
+同为顶级演员，风格各有千秋。1980-1990 年代：陈宝国、陈道明
+1980-1990 年代，改革伊始，万象复苏，今日影视市场化的负面恶效应——过度商业化——尚未肆虐，电影电视剧都还处于淳朴健康的创作生态中。
+1982 年，因《赤橙黄绿青蓝紫》中刘思佳一角，年轻的陈宝国“一夜成名”，可算是改革开放以来第一代第一位青年影视偶像。陈宝国凭借此角获得首届金鹰奖视帝。相较于传统观念里“高大全”的正面形象，陈宝国塑造的刘思佳这种看似玩世不恭、满不在乎，然而业务能力过硬的叛逆青年，无疑更为有血有肉，更符合新时期人们的审美。
+中国电视剧史上后来大火的《过把瘾》（1994）中的方言（王志文饰）、《亮剑》（2005）中的李云龙（李幼斌饰），以及陈宝国本人饰演的《大宅门》（2001）中的白景琦，无疑都可列入这一审美谱系。
+时不时爆粗口、带痞子劲儿的大老粗团长李云龙，毒舌、烟不离嘴、带点痞气的叛逆青年刘思佳，他们征服不同时代观众的是同一种内核：人物身上那种倔强向上的精气神和能够向上的过硬能力。
+
+1984-1987 年，经过四年精心拍摄制作，历史剧《末代皇帝》终于于 1988 年登上荧屏，火爆大江南北，年轻的陈道明也可谓是“一夜成名”，凭此角获得飞天、金鹰双料视帝。历史剧是国剧中一方重镇，甚至不妨说是最重一镇，后来的巨制佳作如陈家林的《唐明皇》、《太平天国》，胡玫的《雍正王朝》、《汉武大帝》，张黎的《走向共和》、《大明王朝 1566》，莫不以深厚的思想内涵和精湛的艺术表现，让国剧历史大剧在亚洲乃至世界电视剧界，卓然岳峙——而筚路蓝缕的，则为这部电视剧《末代皇帝》（此前的历史剧，如《努尔哈赤》（侯永生版）、《诸葛亮》（李法曾版）等，也是精品，但社会热度则有不及）。
+陈道明为溥仪一角倾注了大量创作精力，他自述：“我在扮演溥仪时，对人物这三个…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9738655</id>
+        <link href="https://daily.zhihu.com/story/9738655"/>
+        <updated>2021-07-29T23:08:11.000Z</updated>
+        <summary type="html"><![CDATA[情侣第一次睡一起什么感觉？
+
+匿名用户
+阅读原文
+
+男生睡觉真快……
+________分界线________
+看了评论才发现原来不止我一个人有这个感悟 嗯 平衡了
+阅读原文
+
+看耽美百合小说看多了，性向真的会弯么？
+
+狸猫共和
+阅读原文
+
+你会变成，不喜欢男不喜欢女，只喜欢看小说而已。
+阅读原文
+
+给你印象最深的班级口号是什么？
+
+曾飞大佬超大佬，双鸭山大学熬夜冠军
+阅读原文
+
+以前我们兄弟班 23 班的
+2323，2333
+23 得 6，6666
+从此成为我校经典
+阅读原文
+
+如何激怒一位数学爱好者？
+
+宜城漫士，茶园咸鱼
+阅读原文
+
+
+
+
+阅读原文
+
+婚后夫妻睡一个被窝么？
+
+立婉桃，知识做力量，撕逼都漂亮。
+阅读原文
+
+
+主要问题是睡不着
+有天晚上老公打呼噜太响了，先把我吵醒，我倒是可以原地闭目养神。但过会儿又把同屋的一岁半的儿子吵醒，儿子离他挺远，支起小胳膊把上半身撑起来，在黑暗中小脑袋转来转去到处望了望。
+说了声：炮！
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价玄机出品的动画《武庚纪》第四季第一集，如何看待逆天而行之死？]]></title>
+        <id>http://www.zhihu.com/question/475547867/answer/2027215850</id>
+        <link href="http://www.zhihu.com/question/475547867/answer/2027215850?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-29T11:30:09.000Z</updated>
+        <summary type="html"><![CDATA[古有王婆卖瓜，今有我们武庚纪编剧组来回答这个问题——如何评价国产动画《武庚纪》第四季第一集。
+先为动画做个简单的科普，《武庚纪》的故事则是由商王之子武庚为起点的，衍生至三界万年的传说。在故事的发展中，人族不屈于神的奴役，追求独立自由的生活；冥族为生存为荣耀而战；人、神、冥三大种族纷争不断，不断有新的人物登场，追求他们心中的信念，完成他们命定的使命，在挑战与被挑战的路上，让人感受热血沸腾的力量。
+本次《武庚纪》新篇章《问天之战》，人、神、冥三大种族的战斗将迎来高潮，逆天而行、子羽以及武庚都将对战力天花板“天”发出挑战，尘封在时间长河中的远古旧神之战将再次展开，武庚在本季也会面对更强的对手，不得不更快地成长！
+我相信，只要是《武庚纪》的粉丝，一定都很期待这部分内容。第一集的标题就叫《终点》，暗示冥族大元帅“逆天而行”走到了他生命的尽头，但这也是神权瓦解的开始，三界格局变化的开始，当然还是第四季精彩故事的开始。编剧在写逆天而行最后一战时，也有万般不舍，不过更多的是触动。他是十万年冥族战士的缩影，也是散落三界火种的象征。我们不禁问道：有些事明知是对的，却又明知不可为，还会有奋力为之、奔向终点的勇气吗？是啊，就像逆天而行说的“很多事并非尽力就可以成功”，“但会在‘ 我们’手中完成”。
+所以第一集讲了一个“死亡”的故事，希望给观众展现“生命”的光芒。这种光芒不只属于主角光环，而是每个角色的内心力量。之后集数，还会有形形色色的新角色——旧神登场，他们不仅有传奇色彩的名字，更有因绽放各自生命而迥异的魅力。
+在第一集播出后，我们也收到了众多粉丝恭送大元帅的真心。看到逆天而行的人物塑造能收获大家的认同，非常开心，正所谓一千个观众心里有一千个哈姆雷特，在逆天而行踏上他命运的同时，我们也将这部分的评价权交由一直以来支持我们的观众，期待你们说出对这个悲壮角色的感受。
+回归这个故事，说是一场人类自救之旅也不过。当商王焚毁“天”之神谕，举旗逆天，人类的自我觉醒和为自由独立而战的决心已然萌芽。后面又遇到同样去推翻神权的盟友，冒出来一个又一个的厉害角色，我们想要展现的和观众想要看到的，就是如神挡，则可以杀神；如天挡，也逆天而行的决心和快意。
+最后，《武庚纪之问天之战》究竟会有什么新故事？目前动画也有了更新，还是希望大家去观看、去感受，有关于剧集的任何问题，都欢迎大家在评论区和我们探讨。
+感谢大家对《武庚纪》动画的支持！
+
+来源：知乎 www.zhihu.com
+武庚纪动画
+点击下载
+1 个回答，查看全部。
+如何评价动画《天行九歌》第二季预告?
+为什么动漫《武庚纪》播放量那么高，讨论度却那么低？]]></summary>
+        <author>
+            <name>武庚纪动画</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
+        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
+        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
+        <updated>2021-07-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elad Shechter)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心理学家阿尔伯特·班杜拉（Albert Bandura）2021.7.28 逝世，如何评价他的一生？]]></title>
+        <id>http://www.zhihu.com/question/475684348/answer/2026194701</id>
+        <link href="http://www.zhihu.com/question/475684348/answer/2026194701?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-07-29T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[今天我才知道班杜拉老师跟我们是同一时代的人，可悲的是我一直以为他已经去世了。作为一名老师，大学当中对于班杜拉的“交互决定论”、“自我调节机制”以及社会学习理论非常感兴趣，可以说他的很多理论指导了我论文的撰写。
+一、班杜拉的一生
+1925年，班杜拉出生于加拿大阿尔伯塔省的一个小农场社区，他的家庭来自东欧，移民至加拿大。他的父母没有正式读过书，但是他们非常看重孩子的教育。班杜拉在加拿大拿到本科文凭后，1949年在不列颠哥伦比亚大学获生物学学士学位。
+在这之后，班杜拉攻读艾奥瓦大学研究生（因为这个大学在学习理论方面传统颇深），在这里他遇到了一位对他产生深刻影响的人——肯尼斯·斯宾塞。在艾奥瓦大学的学习过程中，班杜拉逐渐坚信，心理学者应该“以经得起试验检验的方式把临床现象概念化”。于1952年获得博士学位。
+班杜拉于1953年来到斯坦福大学，继续在传统学习理论和认知人格理论之间、在临床心理学和人格研究的实证取向之间架设桥梁。于1974年当选为美国心理学协会主席，并在1980年获得美国心理学会颁发的杰出科学贡献奖。
+二、核心理论
+1.社会认知理论
+由于人总是生活在一定的社会条件下的,所以班杜拉主张要在自然的社会情境中而不是在实验室里研究人的行为。事实上,人们在社会情境中,通过观察和模仿,学到很多行为。
+班杜拉不同意其他行为主义者对人的描述——外界刺激无论以怎样的方式施加于人，人都是被动接受者，这忽视了人类行为的一些重要原因。由于这些被忽视的东西一般都与思维和信息符号加工有关，所以班杜拉称自己的理论为社会认知理论。
+□交互决定论
+班杜拉认为行为是由内因和外因共同决定，但是并非是由二者的简单结合来决定，在此基础上他提出了交互决定论的概念：即外因和内因是一个相互作用的影响系统中的一部分，它不仅影响行为，也影响系统中的其他部分。
+我们举一个例子：加入有个你不喜欢的人找你玩游戏，但是你觉得与他…]]></summary>
+        <author>
+            <name>翼犀稀</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASP.NET Core 使用 HostingStartup 增强启动操作]]></title>
         <id>https://toutiao.io/k/gdk5cis</id>
@@ -11117,435 +11559,6 @@ The post When a Click is Not Just a Click appeared first on CSS-Tricks. You can 
         <updated>2021-06-30T14:44:54.000Z</updated>
         <summary type="html"><![CDATA[I was working on a bug ticket the other day where it was reported that an icon was sitting low in a button. Just not aligned like it should be. I had to go on a little journey to figure …
 The post Fixing a Bug in Low-Resolution Mode appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价单机乙女向游戏《风起长安：驭骨人》？]]></title>
-        <id>http://www.zhihu.com/question/464467926/answer/1968625798</id>
-        <link href="http://www.zhihu.com/question/464467926/answer/1968625798?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-30T11:30:10.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是《风起长安·驭骨人》的制作人非离，同时也担任了剧本写作和演出设计的工作。
-很高兴能在知乎上与大家聊聊我们新上线的这款乙女向单机游戏。
-这一作的诞生原因很多，但总归来说，是我们有故事希望能讲给大家听。
-作为一个因共同兴趣聚拢在一起的制作组，我们面临的问题很多，如大家所说……主要是资金问题。等到资金问题稍有缓解时，《风起长安·驭骨人》已经封包小半年了，这一点现在想来也很遗憾。
-游戏发售后，我看到最多的反馈是世界观很大，但剧本太短，很多问题没讲清楚。
-之前我有说过，《风起长安·驭骨人》是我们的心血之作，也必定成为遗憾之作。
-为了游戏能较完整地出现在大家面前，我将女主设置为非漩涡中心的人物，省去了大篇幅的权力斗争剧情，能更专注于感情线。
-同时我注意到许多玩家表达了对本作中其他女性角色的喜欢，我非常开心。除去男女主的情感描写，塑造女角色之间的友谊是我非常珍视的部分。
-制作时，我对剧情进行了优先级划分，最终将有限的资金分配到制作较为重要的主线剧情上，忍痛舍弃了部分支线剧情，包括其他角色剧情、回忆剧情等。
-这么做的益处很多：我能将剧情演出做得更为精致、细腻，做到了多CG、全语音配置，能一遍遍去磨演出设计、反复测试那0.5秒与1秒的视觉差别。
-缺点也很明显——世界观没铺开，给玩家留下了不少疑问。
-但好在《风起长安》初步构建了一个驭骨人的世界，后续我们会在同一世界观下继续制作新游戏。
-能走到今天，非常感谢玩家们的包容，能够包容我们的缺点、对我们进行鼓励。
-在此还要感谢发行商咕咕工作室，在我们最困难、几乎无以为继的时候提供了很多支持，《风起长安》能顺利做完，离不开咕咕小姐姐们的全力支援。
-目前我们已经在规划新作，非常感谢玩家对轻梨工作室的支持，我们会继续坚持下去。
-
-来源：知乎 www.zhihu.com
-轻梨工作室
-点击下载
-8 个回答，查看全部。
-为何手游《江南百景图》没有常州府？
-网易游戏为什么大多是和风游戏（手游）？]]></summary>
-        <author>
-            <name>轻梨工作室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鸿蒙系统研究（三）：迈出平台移植第一步]]></title>
-        <id>https://toutiao.io/k/lnpuz88</id>
-        <link href="https://toutiao.io/k/lnpuz88"/>
-        <updated>2021-06-30T01:09:36.589Z</updated>
-        <summary type="html"><![CDATA[开始动手移植鸿蒙系统到 QEMU 模拟器。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零信任实战架构总结]]></title>
-        <id>https://toutiao.io/k/20ggekk</id>
-        <link href="https://toutiao.io/k/20ggekk"/>
-        <updated>2021-06-30T01:09:36.506Z</updated>
-        <summary type="html"><![CDATA[此报告主要参考了《零信任实战白皮书》，结合自己对零信任的理解，做了一个精简的总结，做参考。一、零信任认识零信]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTCore：机器学习开发与部署管理平台]]></title>
-        <id>https://toutiao.io/k/luawryi</id>
-        <link href="https://toutiao.io/k/luawryi"/>
-        <updated>2021-06-30T01:09:36.421Z</updated>
-        <summary type="html"><![CDATA[NTCore是一个开源的机器学习开发与运维（MLOps）平台，旨在帮助用户开发、测试模型，控制模型版本，部署模型以及监控模型。NTCore为机器学习和数据科学团队提供了完整的开发体验，可以大大减少模型从研发到落地需要的时间和成本。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神秘的 “无服务器” 架构，怎么秃然火了？]]></title>
-        <id>https://toutiao.io/k/eb1fjk4</id>
-        <link href="https://toutiao.io/k/eb1fjk4"/>
-        <updated>2021-06-30T01:09:36.359Z</updated>
-        <summary type="html"><![CDATA[如果问云计算有哪些很火技术趋势，那么“无服务器”架构必属其一。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] 七个改变我生活的 Git 小技巧]]></title>
-        <id>https://toutiao.io/k/kly6lxt</id>
-        <link href="https://toutiao.io/k/kly6lxt"/>
-        <updated>2021-06-30T01:09:36.224Z</updated>
-        <summary type="html"><![CDATA[导读：这些有用的小技巧将改变你在当前最流行的版本控制系统下的工作方式。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flink 高频面试题，附答案解析]]></title>
-        <id>https://toutiao.io/k/kv7n38i</id>
-        <link href="https://toutiao.io/k/kv7n38i"/>
-        <updated>2021-06-30T01:09:36.131Z</updated>
-        <summary type="html"><![CDATA[大厂面试题解析]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] 为什么 Python 没有函数重载？如何用装饰器实现函数重载？]]></title>
-        <id>https://toutiao.io/k/3uunstz</id>
-        <link href="https://toutiao.io/k/3uunstz"/>
-        <updated>2021-06-30T01:09:36.038Z</updated>
-        <summary type="html"><![CDATA[从示例中可以学到很多东西]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 switch 的 case 没有 break 不行]]></title>
-        <id>https://toutiao.io/k/jcf834i</id>
-        <link href="https://toutiao.io/k/jcf834i"/>
-        <updated>2021-06-30T01:09:35.739Z</updated>
-        <summary type="html"><![CDATA[break，没你我活不下去啊！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15 继续和隐私较劲，苹果到底在想些什么？]]></title>
-        <id>https://toutiao.io/k/or34c5f</id>
-        <link href="https://toutiao.io/k/or34c5f"/>
-        <updated>2021-06-30T01:09:35.559Z</updated>
-        <summary type="html"><![CDATA[会不会既做裁判员，又做守门员？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 知识点整理：Spring、MySQL]]></title>
-        <id>https://toutiao.io/k/j4kd9qh</id>
-        <link href="https://toutiao.io/k/j4kd9qh"/>
-        <updated>2021-06-30T01:09:35.274Z</updated>
-        <summary type="html"><![CDATA[Spring 10 
-P1：Spring 框架 
-Spring 是分层的企业级应用轻量级开源框架，以 IoC 和 AOP为内核。Spring 可以降低企业级应用开发的复杂性，对此主要采取了四个关键策略]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么中国运动员运动寿命短？]]></title>
-        <id>https://daily.zhihu.com/story/9737588</id>
-        <link href="https://daily.zhihu.com/story/9737588"/>
-        <updated>2021-06-29T23:08:07.000Z</updated>
-        <summary type="html"><![CDATA[运动分子，体育科普/运动知识/装备测评/赛事报道/选手故事/
-阅读原文
-
-题目里，姚明、刘翔和李娜放整个中国体育史上，都是各自领域独一无二、甚至完全没有接近者的存在。
-放更大的范围，他们也都是世界级（world-class）的选手，全世界、整个人类历史上都不多见——用这一类运动员作为分析样本，其实意义并不大。
-不过还是以其中的一位，刘翔为例，稍微展开说说。
-
-伤病伴随了刘翔的整个职业生涯，最主要两个部位，大腿和跟腱 / 脚跟。其中跟腱 / 脚跟部位的伤堪称是他生涯的“阿基里斯之踵”，因为本身脚跟骨比别人更突出，只要有高强度训练，就一定会出状况，没法根治，只能缓解。
-——可能很多人不知道，刘翔后跟 / 跟腱部位的伤病在 2004 年雅典奥运会前就已经出现，也被确诊会反反复复、困扰其整个职业生涯。
-
-即便如此，刘翔在自己职业生涯依然创造了两次巅峰，且这两次巅峰持续的时间都非常之长——几乎抛开两次严重受伤（都有各自代表性的赛事，2008 北京奥运会和 2012 伦敦奥运会），刘翔都很快恢复到曾经的水准。
-2004 年刘翔雅典夺冠，也带乱了杜库雷的节奏2012 年伦敦奥运会，刘翔跟腱断裂，在第一个栏架意外摔倒，以这样一种未完成的方式结束了自己的最后一场比赛
-刘翔生涯中段大家都很了解了，回顾一下他的起点与终点——
-刘翔 1999 年、不到 16 岁正式跟着孙海平练跨栏，3 年后（2002 年）就创造了 110 米栏世界青年纪录 + 亚洲纪录（13 秒 12），同年釜山亚运会（13 秒 27）摘金。
-——所以从 19 岁开始，刘翔就已经是全世界最顶级的 110 米栏选手。第二年圣但尼田径世锦赛 13 秒 23 摘铜，也是含金量极高的一块奖牌。
-2003 圣但尼世锦赛，20 岁的刘翔 13 秒 23 仅次于特拉梅尔和偶像阿兰约翰逊，拿到含金量极高的铜牌
-刘翔最后一场正式比赛完赛，是 20…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父母的内疚式教育，对孩子影响有多大？]]></title>
-        <id>https://daily.zhihu.com/story/9737564</id>
-        <link href="https://daily.zhihu.com/story/9737564"/>
-        <updated>2021-06-29T23:07:58.000Z</updated>
-        <summary type="html"><![CDATA[常爸-黄任，传播科学育儿理念，提供优质教育资源。公号：常青藤爸爸
-阅读原文
-
-先提醒一下大家：
-■ 用内疚来控制孩子的父母真的很多，甚至可以说绝大多数中国父母都在孩子身上实践过这一招，只是或轻或重，自己意识得到意识不到了。
-■ 内疚是一种负性情绪，但让孩子内疚并不全然是坏事，反之适合的内疚是一个人道德水平最好的检验官，但是过度内疚就是妥妥的有害情绪。
-接下来，详细说一下什么是“内疚式教育”以及这种教育方式对孩子的影响。
-01内疚，是道德的“晴雨表”
-先来看看什么是内疚？
-它是一个人真的做错了事情，或者想象中做错了事情，因为违背良心而对他人产生的一种惭愧、不安的心情，它是道德情绪中的一种。
-为了不受到道德惩罚，消除内疚感，人们往往会积极努力地做出弥补，比如道歉、关心别人，或者满足别人的愿望等。
-就像一个小孩子推倒了另一个小孩子，看到对方哇哇大哭，这个小孩就会觉得很内疚，进而安慰对方、把对方扶起来。
-
-所以，有适当内疚感，就证明这个人有道德要求，是一个心理健康的人，在这个层面上，内疚可以和“自省”划等号。反之，没有内疚感或内疚感比较低的人，则更可能做出不道德的事情。
-曾经有一个研究显示：
-低内疚感的人更容易撒谎或做出不诚实的行为，比如不买门票就进入电影院、公园等。而高内疚感的人，则更少撒谎或做出不道德的事情，在商务谈判、做出决策时也会表现得更诚实。
-试想，你身边有这样两个人：
-A、诚实友善，关注别人的感受
-B、撒谎投机，只考虑自己的感受
-你会选择和谁做朋友呢？
-毫无疑问，一定是 A 更受欢迎。
-因此，有高内疚感的人，也更容易交到朋友，融入集体，团队合作和协作能力也更强，人生幸福度也更高。
-一般情况下，很多父母认为让一个孩子产生“内疚感”，是为了让他成为一个更好的人。
-比如说爸妈挣钱不容易，让孩子知道勤俭节约；
-说爸妈为了孩子上学付出很多，让孩子知道奋发向上；
-说爸妈工作的辛酸，…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪些中国文化对科技发展有促进作用？]]></title>
-        <id>https://daily.zhihu.com/story/9737574</id>
-        <link href="https://daily.zhihu.com/story/9737574"/>
-        <updated>2021-06-29T23:07:54.000Z</updated>
-        <summary type="html"><![CDATA[ag獭，好奇而无用的獭獭
-阅读原文
-
-回答这个问题之前，先要明确一下，什么是科学技术？中国文化有哪些独到特色？
-科学，是人类认识世界的一种实践方法。英语中的科学 Science，来源于拉丁文中的 Scientia，意思是“知识””学问“，而在中文里，科学又可以理解成“分科的学术研究”。归根结底，科学是我们认识世界的一种方式，但不是唯一的认识方式，随着社会的发展，在不同时代、不同领域，科学的范畴自然也有所不同。
-汉代刘歆编著的《七略》，是中国最古老的藏书目录之一，现代意义上的科学书籍，在七略中，大约属于术数、方技、诸子等略，和今日之学科分类大不相同。（中国大百科全书，图书馆学情报学档案学卷）
-现代意义上的科学，大约形成于文艺复兴后的西欧，此前，古希腊人发展出了公理体系，但没有形成现代科学，中国古人重视实践和记录，也没有形成现代科学。在现代科学形成的过程中，古希腊人和中国古人都贡献出了自己的一份力量，但古人自有其认识世界的方法，也自有其对学术体系、自然世界的分类方式。在不同社会背景之下，每一种分类和认识方式，只要适合，就是合理的。
-与之相似，所谓文化，自然也是不断变化的。清末的相片上，许多人看起来都麻木呆滞、死气沉沉，几十年后的新中国，人们的精神面貌却与之大不相同。不过几十年工夫，孕育中国国民的文化却发生了巨大改变。西汉的中国文化、南宋的中国文化以及 21 世纪的中国文化，显然是不同的。但总有一些藏在深处的文化基因，能够历经时间的筛选，世代流传。这大概也是中华文明能历经数千年而不断的原因所在。
-那么有哪些中国文化，能够历经千年，并对科技发展产生促进作用呢？
-重视教育
-中国是世界第一个以考试作为官僚选拔机制的国家。科举制度的诞生，为国家选拔了大批文化水准过关的可靠官员，促进了阶层流动，打破了世家大族对高层职位的垄断。日积月累，社会上形成了重视教育和学历的文化氛围。大多数中国人相信…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam 上有哪些必买游戏？]]></title>
-        <id>https://daily.zhihu.com/story/9737582</id>
-        <link href="https://daily.zhihu.com/story/9737582"/>
-        <updated>2021-06-29T23:07:46.000Z</updated>
-        <summary type="html"><![CDATA[汪靖豪，专心做一个点赞的知乎用户。
-阅读原文
-
-摸着良心说话，以下每款游戏玩个几十小时上百小时都不过分，对于一些特殊类型的游戏上千小时也是很正常的。
-我想最早关注这个问题应该很多都是喜欢打游戏，比如玩玩动视暴雪、腾讯、网易这三家的游戏，但是对 steam 接触不深的玩家，或者说以前玩了些盗版，毕竟现在 steam 上有几万款游戏，从茫茫多的游戏中找到自己所爱还是要花费些许时间的，
-没错我就是那个 steam 萌新，在一群骨灰级单机玩家朋友的安利下带着慢慢成为新司机。
-既然是必买，就推荐几个贴吧&黑盒&NGA&知乎呼声都比较高的游戏，萝卜青菜各有所爱，喜欢玩的人多的游戏你不一定喜欢，但不代表是游戏不好，可能某一天你再去回味回味就会有另一番风味。
-其实大家买东西看哪家公司出的，玩游戏也看是哪个公司开发，哪个公司发行，下面以各大公司为主题安利。比较厉害的公司主要有
-V 社(steam 创立)、ubi(旅游模拟公司)、CDPR(不赚钱的公司)、R 星(永远在新建文件夹)、
-B 社(捡垃圾废土开放世界)、P 社(如何看待 P 社玩家群体)、Capcom(动作天尊冷饭王)、
-SE(游戏是好游戏但公司要不得)、SEGA(街机年代老公司)、KOEI(活在情怀里的公司)、
-EA(美国腾讯)、万代南梦宫(你喜欢的动漫他都能给你做成游戏)、WB(IP 游戏)
-2020 年 3 月 14 日 update 精品篇
-2020 年 4 月 4 日 update 主播学习篇
-为什么想更这个呢，一来是方便大家玩的时候卡关了可以找视频看看，二来是一些游戏真的很难可以看视频攻略来学习，三来我自己也是看视频学习来的，吃水不忘挖井人既然有这么多 hxd 在看就当流量入口推荐给大家，第四就是大家如果没有打主意买可以云一会，再决定买不买
-游戏都买了，为什么还要我花时间玩。什么，还要我废脑袋去学习，你肯定是疯了。
-20…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么涂了防晒还会晒黑？「皮肤越黑越容易晒黑」是真的吗？]]></title>
-        <id>https://daily.zhihu.com/story/9737587</id>
-        <link href="https://daily.zhihu.com/story/9737587"/>
-        <updated>2021-06-29T23:07:40.000Z</updated>
-        <summary type="html"><![CDATA[知乎用户，化妆品配方师；美妆科普人；公众号：凡可美肤实验室
-阅读原文
-
-一、先说结论吧
-题主的两个问题跨度其实都挺大，但是可以肯定的告诉大家，皮肤越黑的人确实的越容易晒黑，尤其是天生黑或者从小皮肤比较偏黑的；皮肤白的通常更容易晒红晒伤。
-至于涂了防晒还会晒黑这个问题，大概率是实际操作方法有问题：例如防晒产品的选择，防晒产品的使用场景，也就是所处的环境紫外线有多强，防晒霜的量有没有涂足够，防晒霜时间长失效后没有及时的补涂，就是操作上的细节都会影响实际使用效果。
-我以前回答的内容里，写过关于防晒品的选用
-真的需要每天涂防晒吗，防晒霜对皮肤有害处吗？
-还有防晒霜指数的问题，量涂得不够，效果会很打折扣的
-防晒霜涂不够量，是没有防晒作用？还是防晒作用比起其标注指数会打折扣？
-二、基因决定了你肤色最白的“天花板”
-我们皮肤的肤色受很多因素的影响，我们先来了解一下你最白的肤色是怎么构成的，也就是你皮肤最白的天花板。
-这点可能大家都知道，都是基因决定的，目前已知超过有 125 种基因可以调节肤色。皮肤黑的人和皮肤白的人在黑色素细胞（也就是黑色素的生产工厂）的数量上并没有太大的区别。但是却造就了形形色色的肤色，就是因为有很多基因以及后天的因素在影响着肤色的组成。
-
-三、皮肤越黑意味着黑色素的“生产能力”更强
-黑色素的合成是非常复杂的反应，从皮肤受到紫外线以及损伤的刺激，启动相应的黑色素合成流产，把黑色素生产出来并逐步转运到皮肤的表面，呈现更深的肤色，中间的反应环节，涉及的信号路径、调控等很复杂。
-不过总的来说，皮肤越黑也就意味着你本身皮肤的黑色素生产和转运的能力更强，而且黑色素的代谢速度更慢。
-
-这一点我自己深有体会，小时候有长时间的暴晒史，肤色天生也比较黑。虽然自己很长时间在研究美白淡斑化妆品，在防晒方面也注意的很到位，还经常使用美白产品。不过一旦出去无防护地晒一圈回来，不是很快就黑好几个度，而且后期需要很长时间的维护才能逐渐的白下来。
-有些朋友是肤色天生比较白的，尽管大家的生活环境和防晒习惯差不多。一起出去玩一圈，接受相近的紫外线暴露，晒一圈回来后，皮肤发红几天，不过很快又会白下来。
-四、哪些坑可能导致涂了防晒还会晒黑？
-防晒，对于皮肤保养，抗衰老和美白都是很重要的措施，要做好防晒需要注意的细节还真不少。但是防晒没注意好的话，足够可以让你养了一个秋冬季节才白下来的肤色，晒半天时间可以毁于一旦。
-为什么涂了防晒还会晒黑？不排除有很多极端案例，我认为原因有以下方面：
-第一，防晒指数选的不够。这个非常好理解，例如大中午的非常强的紫外线，去沙滩游玩什么的，却选个 spf35 的防晒，不黑才怪。
-第二，防晒指数选择没问题，但是没涂够。防晒产品的数值是在标准用量（2.00±0.05）mg/ 平方厘米的情况下测试出来的，如果你的用量低于标准用量，也就是没用够，那可能是涂了个寂寞。
-第三，可能是错误的使用场景。例如去海边游玩，却选择了抗水性非常差的防晒产品。大多数的防晒都是油包水或者硅油包水的体系，肤感会相对油腻，水包油的防晒优点是清爽，但是抗水性很差。天气热出汗很多，或者漂流玩水等等都会冲掉水包油的防晒，这种场景当然也会晒黑。
-第四，没有及时的补涂。这种场景其实不多，假如你是在户外长时间（4 小时以上）的暴露，才需要多次的涂抹防晒产品。化学防晒剂吸收紫外线会不停损耗，越来越少甚至失效；在玩耍过程中会不停的碰擦，也会蹭掉皮肤的防晒成分。所以长时间在户外的话，需要注意及时的补涂。
-最后要补充的一点是，防晒不能仅仅指望防晒霜，有时候加一件品质不错的防晒衣，帽子、墨镜、遮阳伞等，或者能够尽量避开在强紫外线时候外出，往往能够实现更好的防晒效果。
-要知道，紫外线带来的不仅仅是肤色变黑，也会加速皮肤的衰老，以及引发起来更多的皮肤问题。皮肤受到紫外线的刺激，合成出更多的黑色素，其实是人体免疫系统自我保护的一种行为。我觉得晒黑背后的问题还更值得引起注意的。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9737597</id>
-        <link href="https://daily.zhihu.com/story/9737597"/>
-        <updated>2021-06-29T23:07:34.000Z</updated>
-        <summary type="html"><![CDATA[第一次带女朋友回家让她做饭结果她大发雷霆，我真错了吗？
-
-粥六，只接玫瑰的梗
-阅读原文
-
-这是厨子应聘？交面试作品？
-下面是我的建议：
-高情商：考试之前你不一定要划重点，但请务必给考生自主报名的权利。
-低情商：在你通知她去你家做饭挣表现分之前，你先问问她要不要挣这个分，愿不愿意去你家做饭。
-阅读原文
-
-恋爱时给女朋友钱让她给我代买了70元的物品，分手后物品还没给我，我能够提起民事诉讼吗？
-
-方舟，触不到的总是最好的，如风，如你。wechat：law_fz
-阅读原文
-
-可以的，但是得先交诉讼费 50……
-
- 
-
-
-阅读原文
-
-假如在古代你当御厨给皇帝泡一碗方便面会发生什么？
-
-阿撒托斯乐队总指，从来没有什么天经地义，只有习以为常！
-阅读原文
-
-面还好说
-估计你放调料包的时候，会被大内侍卫一刀捅死。
-毕竟太像下毒了。
- 
-阅读原文
-
-你对空姐提出过最奇怪的要求是什么?
-
-背离，碰到傻子会预防性拉黑的。
-阅读原文
-
-并不是对空姐提出的奇奇怪怪的要求，就是坐飞机的一个比较好玩的事。
-有一次出差，头一天晚上打了半宿的麻将，第二天感觉要升仙了。
-上飞机的时候，空姐可能看我一脸迷茫觉得我找不到自己的位置，于是——
-“先生您好，请问您是哪个座？”
-我可能也是没睡醒，愣了一下，“射手座……？”
-我明显看到空姐脸部肌肉不自然的抽动了一下……
-阅读原文
-
-为什么平常穿汉服就会让路人觉得很奇怪？
-
-痴情蛊灬DOM，一个发言都要谨小慎微的平台，退了
-阅读原文
-
-你穿的汉服，放古代出门路人也看你
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
-        <id>https://css-tricks.com/?p=343470</id>
-        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
-        <updated>2021-06-29T22:43:50.000Z</updated>
-        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
-html {
-  font: 110%/1.4 system-ui;
-}
-…
-The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
-        <id>https://css-tricks.com/?p=343260</id>
-        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
-        <updated>2021-06-29T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
-The squiggly lines that indicate possible spelling or grammar errors 
-…
-The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏《皇帝成长计划2》攻略有哪些？]]></title>
-        <id>http://www.zhihu.com/question/328462161/answer/986274203</id>
-        <link href="http://www.zhihu.com/question/328462161/answer/986274203?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-06-29T15:30:07.000Z</updated>
-        <summary type="html"><![CDATA[好兄弟们，我大一了，来更新了
-对本篇内容进行了更新与修改
-我创立了一个公众号叫【羊村大战魔仙堡】
-我这里面分类了一下攻略 希望更能清楚明了的帮到大家
-现在内容还比较少 但是在陆续更新 欢迎大家关注
-没有关注也没关系，会在知乎更新的哟
-
-这个游戏从小学大概4年级就开始玩了               现在高三了                                                              出来手游版                                                               越来越好啦                                                                                                                           
-有人看就再总结一下我玩的经验(个人总结，可能不够准确)：
-最最最重要的一点：一定要养成存档的好习惯!玩稍微久一点就黑屏，就什么都没有了!!!
-目前没有苹果手机的版本 但是苹果端玩家可以浏览器搜索皇帝成长计划2h5 点进4399在线玩(好消息，苹果端在2020.10.10上线啦！)
-1.前期最好不要过多招兵买马，容易破产
-2.前期多多贸易，能够让你不用克制去嚯嚯钱(推荐存档后再开始第二月，尽量刷成盈利)
-3.没钱可以尝试去东厂——查看把柄——东厂查办犯事官员——依法处理 可能抄家收获不菲
-4.智能建设才是根本上增加国库的！！！每天请坚持！！！
-5.刷属性：前期我一般都郊外先刷体能 然后尽量智慧多刷武力少刷 一般后期后期我都会让体能 智慧 武力 道德都700以上(为了教育皇子)
-6.刷近臣推荐的性格是：聪明 理想 独立(送礼多)
-7.我觉得御医楼的最高位置最好刷到4…]]></summary>
-        <author>
-            <name>魔仙堡大美人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
-        <id>https://css-tricks.com/?p=342736</id>
-        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
-        <updated>2021-06-29T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
-The answer, it …
-The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
