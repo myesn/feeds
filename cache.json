@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345418",
+          "author": "Hugh Haworth",
+          "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/",
+          "publishedOn": "2021-08-05T14:24:36.000Z",
+          "wordCount": 3842,
+          "title": "Three Buggy React Code Examples and How to Fix Them"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345552",
+          "author": "Fauna",
+          "description": "(This is a sponsored post.)\nFlutter is Google’s UI framework used to create flexible, expressive cross-platform mobile applications. It is one of the fastest-growing frameworks for mobile app development. On the other hand, Fauna is a transactional, developer-friendly serverless …\nThe post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-build-a-full-stack-mobile-application-with-flutter-fauna-and-graphql/",
+          "publishedOn": "2021-08-05T09:23:00.000Z",
+          "wordCount": 3141,
+          "title": "How to Build a Full-Stack Mobile Application With Flutter, Fauna, and GraphQL"
+        },
+        {
           "id": "https://css-tricks.com/?p=345866",
           "author": "Chris Coyier",
           "description": "You gotta appreciate the tenacity of Surma. He’s been advocating for Web Workers as a path forward to better-feeling websites for a lot of years now. He’s at it again making sure we all understand the landscape:\n[…] regardless \n…\nThe post The State Of Web Workers In 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -469,33 +487,6 @@
           "publishedOn": "2021-07-07T14:30:34.000Z",
           "wordCount": 1322,
           "title": "The Web’s Worst Default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343438",
-          "author": "Chris Coyier",
-          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/body-toggle/",
-          "publishedOn": "2021-07-06T20:55:45.000Z",
-          "wordCount": 385,
-          "title": "Body Toggle"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343560",
-          "author": "Chris Coyier",
-          "description": "And maybe an optional follow-up if you’re up for it.\nAutomattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …\nThe post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/",
-          "publishedOn": "2021-07-06T20:00:30.000Z",
-          "wordCount": 391,
-          "title": "I’ve got one question about Jetpack for you."
-        },
-        {
-          "id": "https://css-tricks.com/?p=343149",
-          "author": "Martin Lexelius",
-          "description": "Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …\nThe post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
-          "publishedOn": "2021-07-06T14:41:22.000Z",
-          "wordCount": 2192,
-          "title": "The Dilemma of Naming Font Size Variables"
         }
       ]
     },
@@ -504,6 +495,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.",
+          "link": "https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/",
+          "publishedOn": "2021-08-05T13:30:00.000Z",
+          "wordCount": 6564,
+          "title": "Frustrating Design Patterns: Disabled Buttons",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9a10b5d-3bad-4083-a83c-082ff772fa9f/frustrating-design-patterns-disabled-buttons.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/react-children-iteration-methods/",
           "author": "hello@smashingmagazine.com (Arihant Verma)",
@@ -825,20 +830,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
-          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
-          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4044,
-          "title": "An Introduction To Figma Interactive Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -847,6 +838,15 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n一个摄影师在荷兰拍到了一只倒着飞的鹅。（via）\n本周话题：软件订阅制的胜利\n上周，苹果公司最新一季的财报，披露了一个惊人的数据：它有 7亿 付费订阅用户。\n\n这太可怕了。世界总人口目前大约是78亿，里面包含了小孩、老人、文盲、穷人。即使把他们都算在内，全世界每11个人里面，就有一个人购买苹果公司的软件服务。软件生意还能做得比这更大吗？\n注意，这是付费用户，不是免费用户。作为比较，阿里巴巴上周也宣布，它有10亿活跃用户，但那是免费用户。如果每月付费才能使用淘宝，不知还有多少能留下来。\n苹果的付费订阅服务，目前主要有六项。\niCloud：存储服务\nApple Music：音乐服务\nApple TV：视频服务\nApple News：新闻服务\nApple Fitness：健身服务\nApple Arcade：游戏服务\n苹果把它们打包在一起，做成了一个 Apple One 订阅包。7亿订阅用户应该就是购买这些服务的人数。至于硬件质保的 Apple Care 服务，可能不包括在里面，因为它属于硬件销售收入，而不是软件收入。\n\n今天我想谈的，并不是这些服务本身，而是想提醒大家注意。 世界最大的一些软件公司，正在改变软件销售模式，不再销售软件本体了，而是收取软件服务的订阅费。 苹果只是其中一个典型的例子。\n除了苹果，世界最大的桌面软件商----微软公司也正在改成订阅制。它的 Office 已经变成了 Office365 服务，都在云端使用，个人版的价格是每年398元人民币。它还有计划在今年下半年，推出 Windows365 服务，把 Windows …",
+          "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html",
+          "publishedOn": "2021-08-06T00:23:21.000Z",
+          "wordCount": 480,
+          "title": "科技爱好者周刊（第 170 期）：软件订阅制的胜利"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html",
           "author": null,
@@ -890,6 +890,87 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/62fkj1t",
+          "author": null,
+          "description": "本篇文章主要讲解Vue项目中，this.$set这个api的用法.",
+          "link": "https://toutiao.io/k/62fkj1t",
+          "publishedOn": "2021-08-06T01:10:46.946Z",
+          "wordCount": 148,
+          "title": "Vue 项目上 this.$set 的用法"
+        },
+        {
+          "id": "https://toutiao.io/k/gg08t4d",
+          "author": null,
+          "description": "目前AOP技术已经京东内部已经落地实践了性能监控、隐私方法/字段合规检测、线程使用数优化等场景。",
+          "link": "https://toutiao.io/k/gg08t4d",
+          "publishedOn": "2021-08-06T01:10:46.770Z",
+          "wordCount": 317,
+          "title": "AOP 技术在 App 开发中的多场景实践"
+        },
+        {
+          "id": "https://toutiao.io/k/1v0dnue",
+          "author": null,
+          "description": "本文将逐一介绍 Web 开发相关知识，它们可能是技术、可能是工具、也可能是思想等。",
+          "link": "https://toutiao.io/k/1v0dnue",
+          "publishedOn": "2021-08-06T01:10:46.685Z",
+          "wordCount": 171,
+          "title": "Web 开发指南（零）开发相关知识"
+        },
+        {
+          "id": "https://toutiao.io/k/cpcg1s5",
+          "author": null,
+          "description": "重构时机如何定，表述不同核心同\\x0a满足需求好设计，效率提升争一争",
+          "link": "https://toutiao.io/k/cpcg1s5",
+          "publishedOn": "2021-08-06T01:10:46.100Z",
+          "wordCount": 68,
+          "title": "何时进行重构？"
+        },
+        {
+          "id": "https://toutiao.io/k/ldv3dxl",
+          "author": null,
+          "description": "实践DevSecOps的第一个误区解析。",
+          "link": "https://toutiao.io/k/ldv3dxl",
+          "publishedOn": "2021-08-06T01:10:46.051Z",
+          "wordCount": 73,
+          "title": "实践 DevSecOps，很多人第一步就做错了"
+        },
+        {
+          "id": "https://toutiao.io/k/bu12ly2",
+          "author": null,
+          "description": "是跨域，但又不完全是跨域",
+          "link": "https://toutiao.io/k/bu12ly2",
+          "publishedOn": "2021-08-06T01:10:45.975Z",
+          "wordCount": 290,
+          "title": "一次跨域问题的分析"
+        },
+        {
+          "id": "https://toutiao.io/k/tcejg6u",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/tcejg6u",
+          "publishedOn": "2021-08-06T01:10:44.769Z",
+          "wordCount": 63,
+          "title": "Lucene 之 DisjunctionMaxQuery（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/662perp",
+          "author": null,
+          "description": "相关文章: 从零开发一款可视化大屏制作平台 演示地址: V6可视化大屏编辑器 几个月前我写了一篇关于 从零开发一款可视化大屏制作平台 的文章， 简单概述了一下可视化大屏搭建平台的一些设计思路和效果演示， 这篇文…",
+          "link": "https://toutiao.io/k/662perp",
+          "publishedOn": "2021-08-06T01:10:43.991Z",
+          "wordCount": 864,
+          "title": "从零设计可视化大屏搭建引擎"
+        },
+        {
+          "id": "https://toutiao.io/k/86zehix",
+          "author": null,
+          "description": "前言自从微前端框架micro-app开源后，很多小伙伴都非常感兴趣，问我是如何实现的，但这并不是几句话可以说明白的。为了讲清楚其中的原理，我会从零开始实现一个简易的微前端框架，它的核心功能包括：渲染、JS沙箱、样式隔离、数据通信。由于内容太多，会根据功能分成四篇文章进行讲解，这是系列文章的第二篇：沙箱篇。通过这些文章，你可以了解微前端框架的具体原理和实现方式...",
+          "link": "https://toutiao.io/k/86zehix",
+          "publishedOn": "2021-08-06T01:10:43.003Z",
+          "wordCount": 645,
+          "title": "从零开始写一个微前端框架（沙箱篇）"
+        },
         {
           "id": "https://toutiao.io/k/esph33j",
           "author": null,
@@ -2475,6 +2556,15 @@
           "title": "Android 系统推送 Hook 实战"
         },
         {
+          "id": "https://toutiao.io/k/y74p0gl",
+          "author": null,
+          "description": "我们在分析各种分布式系统场景时不可避免地会讨论到数据的读写，很多时候我们会对数据的读写做很多的优化和特殊处理，而这些操作的背后根源都离不开数据存储的硬件，本文就来和大家谈一谈这其中设计的各种硬件和相应的技术。 Cache和读写 我们都知道把数据放到内存中，这样有读请求过来的时候就可以直接从内存中读取到相关数据（hit cache的情况），而不需要去访问具体的物理磁盘，从而减少了disk I/O的操作。同样地，写也可以写到内存中，只是和读不同的是，内存写终究只是一个中间状态，你最终还是要写到磁盘中才行，所以内存到写操作来说只起到一个delay的作用（当然假如你没有persist保存的情况下，可能也不需要写到磁盘，但我们讨论正常的需要persist保存的情况）。 不过当我们再仔细想一下，其实cache对写并不仅仅是一个delay的作用，它其实还有一些别的好处： 多次写，一次flush：我们很容易就可以想到假如我们对一个数据进行了多次更新，然后再进行一次flush到磁盘，那么这些多次的更新操作其实就只要一次磁盘的写就好了。这从另一个角度减少了磁盘的写操作。 I/O Merge：另外一个好处，就是我们可能有多个数值在内存中被修改了，但我们可以把这些数值集合在一起，一次性更新，这样真正的物理写就可以看成是一次磁盘操作了。 理解了这一点之后，我们再来想想我们之前提到的Write-ahead的logging策略。在write-ahead logging中，内存的修改并没有立即flush到disk中（减少了Random IO的操作），而是写到了一个sequential的log文件中（速度比较快），然后再通过一个后台进程来进行优化写（比如合并之类的）。 这里有人会问为什么Random I/O的操作没有Sequential I/O写的速度快，这是因为对物理磁盘来说，磁头移动是需要时间的，Random I/O就意味着每次要写的偏移地址之间有很大的差别，所以这个磁头需要不停地移动，这显然是很费时间的。而Sequential I/O则不尽然，假如偏移地址是连续的，磁头就不需要不停的移动寻找新的写的偏移，这样就减少了磁头偏移的时间（这里还要看各个厂家的fw的设置，就是sequential写之间的间隔对这个也是有影响的，因为假如sequential写之间间隔时间比较长，那么磁头可能会被reset，所以我们一般认为overlap sequential写是最佳的方案）。 SSD 其实我们上文提到的磁盘准确来讲是HDD，事实上在我们现如今的系统中HDD是最后一层存储，在其和Memory之间还存在另外一种存储介质：SSD。它和HDD不同，不再使用磁头和磁盘来进行存储，它是基于固态电子存储芯片阵列制成的硬盘。简单来说，它有以下优点： 和HDD相比来说，它的random读写的速度都要快很多。一般来说，它的读要比写稍微快一点点。稍后我们来解释这个原因。 Sequential的读写也比HDD速度要快。但是因为HDD的Random 读写比Sequential要差很多，所以单纯比较Sequential的读写速度，SSD提升倍数没有Random读写提升得那么明显，但也有很大的提升。 同步操作有很大的提升。因为HDD只有一个磁头（现在有新的HDD可以支持多个磁头，但是每个磁头也只能访问特定的扇区），所以对于同步操作来说就不能做到真正的同步，说白了还是一个单线程的操作。而SSD则没有这样的限制。 对SSD来说，读操作比较简单，你可以不停地读一个小的单元。但是写操作就比较复杂了，在写之前你必须做一个擦除的操作，而且每次擦除只能是一个block，比如512KB。这个擦除操作还是比较慢的，而且最终会把这个block擦坏了（想象一下，你在一张纸上不停用铅笔写，不停要橡皮擦，最终这张纸的命运就是被擦破）。所以我们对HDD一般讨论的是I/O，而对SSD则一般研究的是寿命。 提到block的擦除，我们就不得不聊一聊SSD的GC（Garbage Collection），其实也很好理解，就是为了让一些block预先准备好了，SSD会回收一些block。这个时候就会有一个数据搬移的过程，比如把几个block中的少量数据（就是数据量不到一个block，但是占用了一个block）移到同一个block中，然后这几个block就可以空出一些出来。这种搬移的操作，其实也是一个新的写的循环，我们称之为Write amplification。你也可以想象，这里的GC操作是需要reserve一些空间来进行的，比如有一个空的block，我们就可以很容易把几个block中的数据搬运过去，假如空的block越来越少，那么搬运的代价就越大。 这也是为什么我们发现当SSD要写满的情况下，性能就会急剧下降。比如你写110GB文件到160GB的SSD和写到同样的320GB的SSD得到的速度可能会有差别，究其根源还是因为需要等待擦除操作。一般来说直接写到一个空的block只需要几百微秒，但是擦除则可能需要几毫秒的时间。 RAID RAID全称廉价磁盘冗余阵列（Redundant Arrays of Independent...",
+          "link": "https://toutiao.io/k/y74p0gl",
+          "publishedOn": "2021-07-18T04:28:46.000Z",
+          "wordCount": 218,
+          "title": "分布式系统硬件基础之漫谈存储设备"
+        },
+        {
           "id": "https://toutiao.io/k/0gpxviy",
           "author": null,
           "description": "用Kubernetes搭建MongoDB的教程来啦！！！",
@@ -3382,96 +3472,6 @@
           "publishedOn": "2021-07-08T01:06:14.262Z",
           "wordCount": 5,
           "title": "作为程序员，遇到问题时你的解决手段是什么？"
-        },
-        {
-          "id": "https://toutiao.io/k/zm3jxob",
-          "author": null,
-          "description": "在我们详细深入介绍MySQL的方方面面之前，让我们首先来看一下MySQL的总体架构，从总体上对MySQL有所了解，这样我们在后面的具体介绍部分的时候才能够知道这些部分属于哪个模块，大概有什么样的作用。",
-          "link": "https://toutiao.io/k/zm3jxob",
-          "publishedOn": "2021-07-07T04:26:41.000Z",
-          "wordCount": 242,
-          "title": "深入分析 MySQL 系列之总体架构介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/fbscufi",
-          "author": null,
-          "description": "经久不衰的ICF演化史，你了解多少？",
-          "link": "https://toutiao.io/k/fbscufi",
-          "publishedOn": "2021-07-07T01:09:42.518Z",
-          "wordCount": 241,
-          "title": "ItemCF 的演进：狭义 VS 广义"
-        },
-        {
-          "id": "https://toutiao.io/k/1zift50",
-          "author": null,
-          "description": "工厂模式对比。",
-          "link": "https://toutiao.io/k/1zift50",
-          "publishedOn": "2021-07-07T01:09:41.870Z",
-          "wordCount": 692,
-          "title": "重温设计模式之 Factory"
-        },
-        {
-          "id": "https://toutiao.io/k/jotbtu7",
-          "author": null,
-          "description": "RPC 框架来做服务间调用，而选择用 MQ 来代替。是不是很意外？",
-          "link": "https://toutiao.io/k/jotbtu7",
-          "publishedOn": "2021-07-07T01:09:41.764Z",
-          "wordCount": 247,
-          "title": "开发中的坑（二）：MQ 也能做 RPC 调用？"
-        },
-        {
-          "id": "https://toutiao.io/k/00qvkkd",
-          "author": null,
-          "description": "Cobar源码分析系列之抽象语法树",
-          "link": "https://toutiao.io/k/00qvkkd",
-          "publishedOn": "2021-07-07T01:09:41.655Z",
-          "wordCount": 174,
-          "title": "Cobar 源码分析之 AST"
-        },
-        {
-          "id": "https://toutiao.io/k/fcm5li4",
-          "author": null,
-          "description": "干不干 你说了算？",
-          "link": "https://toutiao.io/k/fcm5li4",
-          "publishedOn": "2021-07-07T01:09:41.576Z",
-          "wordCount": 120,
-          "title": "分布式事务如何解决？一次讲清楚"
-        },
-        {
-          "id": "https://toutiao.io/k/yysa8ut",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/yysa8ut",
-          "publishedOn": "2021-07-07T01:09:41.512Z",
-          "wordCount": 598,
-          "title": "中国 39 所 985 工程大学都在哪里？Python 动态图帮你盘点"
-        },
-        {
-          "id": "https://toutiao.io/k/jzi9mfx",
-          "author": null,
-          "description": "本文 9793 字，读完需要 30 分钟左右，适合在早高峰拥挤的地铁中阅读！",
-          "link": "https://toutiao.io/k/jzi9mfx",
-          "publishedOn": "2021-07-07T01:09:41.388Z",
-          "wordCount": 634,
-          "title": "2021 年 5 月大厂面试总结"
-        },
-        {
-          "id": "https://toutiao.io/k/l96isr0",
-          "author": null,
-          "description": "活人还能让尿憋死？",
-          "link": "https://toutiao.io/k/l96isr0",
-          "publishedOn": "2021-07-07T01:09:41.184Z",
-          "wordCount": 88,
-          "title": "没有大厂的命，得了大厂的病"
-        },
-        {
-          "id": "https://toutiao.io/k/f1ktph1",
-          "author": null,
-          "description": "有遇到过么？",
-          "link": "https://toutiao.io/k/f1ktph1",
-          "publishedOn": "2021-07-07T01:09:41.107Z",
-          "wordCount": 96,
-          "title": "面试高频题：讲讲项目中的技术难点？"
         }
       ]
     },
@@ -3480,6 +3480,51 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/477548190/answer/2041170193",
+          "author": "叶子盛",
+          "description": "恭喜中国队3比0战胜日本！\n本届奥运会，中日女子选手仅在女单半决赛上交锋一次，即为经典的孙颖莎伊藤之战：\n叶子盛：2020 东京奥运会乒乓球女单半决赛孙颖莎 4:0 轻取伊藤美诚，如何评价本场比赛？\n中方的陈梦、孙颖莎、王曼昱三位大将，对日本大姐大伊藤的胜率均是极高的。孙颖莎更是刚刚4比0取胜，对于队友的士气是极大鼓舞。平野虽曾17年表现极其亮眼，但自从被国乒研究后，反手长下旋被盯死，后来一直便没有特别出色的战绩。然而，这是日本的主场，且国乒被其研究了许久。伊藤和平野的打法比较看状态，要防止爆发的可能。这次终于在决赛上相遇，尚有不小的悬念。希望中国队可以迅速取胜，消除任何小概率事件发生的土壤。\n\n第一场 双打\n第一场双打，陈梦/王曼昱对战石川/平野。伊藤留作生力军打单打了。日方上来几回合内就锁了个两个直线，对中国队的习惯、跑位是有较深的研究的。日方选手一个左手一个右手，相比中国两个右手还是有一定跑位优势。\n石川打得很凶，能反拉就反拉，能近台加力快带就快带。局初段我方不太适应，速度有点跟不上，再加上日本有两个运气球，比分到了局中有点落后。日本的配合、线路目前而言要比我方强上一些。\n第一局中后段，日方吃了两个发球。再加上我方抡出了几个质量，实力球还是比日方功底深厚，比分一度扳至八平。然而，日方的线路优势再次发挥作用，连续的正手锁直线，把中方攻得有些措手不及。之后虽我方追上一分，但其后仍被逼到远台，尝试反攻失分。\n我方第一局打得还是有点拘谨，起板的落点也没拉开。这样被对方一左一右调动得太被动，质量优势就显现不出来了。看看第二局换发球接发球轮以后会不会有改观，中国队也需要适应对手的时间。\n偶数局上来似乎中国队明显要舒服一些，平野的综合实力相比石川还是差些，中方能给出更多质量来。虽然石川0比4落后时有一个精彩的侧身爆冲，但并不能挽回下风的气势。见形势大比分落后，再加上本轮次日方限制线…",
+          "link": "http://www.zhihu.com/question/477548190/answer/2041170193?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-05T12:52:48.000Z",
+          "wordCount": 50,
+          "title": "2020 东京奥运乒乓球女团中国 3:0 完胜日本夺冠，如何评价本场比赛？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/266492999/answer/309613424",
+          "author": "匿名用户",
+          "description": "不可能破亿的。\n\n\n能过5000万就了不起了。\n\n\n我觉得是过不了5000万这条线的，要是过了的话，每过100万我在这个回答里更新一个任天堂游戏人物的画像。\n\n愿赌服输。\n\n\n5100万突破的马里奥\n\n5200万突破的碧琪公主\n\n财报更新了，目前5577万。\n5300万突破的罗伊·阿夸·库巴\n\n5400万突破的初代林克\n\n5500万突破的小麦克\n\n 任天堂新财报出炉，硬件销量累计6144万台。\n5600万突破的《打鸭子》里的狗。\n\n5700万突破的大库巴。\n\n5800万突破的初代塞尔达公主。\n\n5900万突破的……“公主在另一个城堡”\n\n6000万突破的DONKEY KONG X 凑阿夸\n\n6100万突破的《MOTHER》初代主角：NINTEN\n\n任天堂新财报出炉，硬件销量累计6830万台。\n因为这次有人提醒所以提前几天就画了……到家后传上来吧。\n这次我猜得挺准的……\n6200万突破的卡比（卡比的造型是真好画啊……）\n\n6300万突破的马里奥系列经典家门怪酷栗宝。\n\n6400万突破的塞尔达传说系列人气角色……汀格尔（不过气球装的来源是DS上的汀格尔气球大战）\n\n6500万突破的火焰之纹章初代男主马尔斯。\n\n6600万突破的塞尔达传说风之杖的BOSS加农。\n\n6700万突破的银河战士系列主角萨姆斯。\n\n6800万突破的马里奥系列老二哥路易。\n\n任天堂新财报出炉，硬件销量累计7987万台。\n虽然提前画了些但少估了200万，到家后快点画完补上两张……\n6900万突破的马里奥系列经典怪德哥（其实叫锤子兄弟……）\n\n7000万突破的老娘经典怪星人\n\n7100万突破的纸马折纸王国的炸弹彬\n\n7200万突破的F-ZERO猎鹰队长\n\n7300万突破的口袋妖怪经典PM鲤鱼王\n\n7400万突破的魔法假日女主角\n\n7500万突破的塞尔达时之笛傲娇佐拉小公主露塔\n\n7600万突破的口袋妖怪PM 巨钳螳螂\n\n7700万突破的动物之森恶毒资本家狸克\n\n7800万突破的皮克敏主角奥利马\n\n7900万突破的黄金太阳米雅莉\n\n……躺着也赚爆，ND还会开吗。\n 任天堂财报出炉，截止2021年3月31日：NS硬件销量累计8459万台。\n最近痛风（不是MHR）中只能保持着一个难受的姿势画图，没什么耐心就偷了一些工……\n8000万突破的马里奥系列的黛西公主。\n\n8100万突破的健身环BOSS堕拉贡，顺便庆贺健身环突破1000万销量。\n\n8200万突破的口袋妖怪大朝北鼻\n\n8300万突破的迪迪刚\n\n8400万突破的火纹初代女主希达\n\n该忏悔了……\n任天堂财报出炉，截止2021年6月30日：NS硬件销量累计8904万台。\n这次有之前多画的凑数，倒是省事……\n8500万突破的零装萨姐\n\n8600万突破的马里奥系列炮弹刺客\n\n8700万突破的金属之光主角老妹日向梓\n\n8800万突破的赫拉克罗斯\n\n8900万突破的面具商人（这个角色真是塞尔达系列里最让我感觉渗人的……某种意义上的童年阴影）\n\n这次硬件销量同比缩水，爆杀古川，该来点大的了吧！（但其实是去年动森太猛了，恐怕古川还要继续躺……）\n\n来源：知乎 www.zhihu.com\n匿名用户\n点击下载\n181 个回答，查看全部。\n如何评价switch2019年推出的升级版？\n年龄大了玩 Switch 什么感受？",
+          "link": "http://www.zhihu.com/question/266492999/answer/309613424?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-05T11:30:08.000Z",
+          "wordCount": 414,
+          "title": "SWITCH销量会破亿吗？"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/396372387",
+          "author": "翁昕",
+          "description": "1908年奥运会，沃尔特·威南斯代表美国队出赛，赢得了射击项目金牌。他在1912年又一次参加奥运会，并且除射击之外，还参加了另一个项目，并赢得金牌。\n沃尔特·威南斯\n问：沃尔特·威南斯参加的是什么项目？\n\nA，马术\nB，游泳\nC，唱歌\nD，雕塑\n\n要是按照以往做选择题的经验，我们肯定先排除两个明显和题干奥运会无关的选项唱歌和雕塑，然后再考虑，射击、游泳和马术都包含在现代五项里面，不太好选，但看照片这位老人家颇有一幅西部片里面警长的样子，肯定会骑马，不一定会游泳，所以答案应该是A，马术？\n很遗憾，答案是D。他的金牌的确和马有关，但并不是马术，而是……一件青铜雕塑——《美国快步马》。\n沃尔特·威南斯，《美国快步马》\n是的，当年的奥运会，曾经是比雕塑的。而且不光有雕塑，还有绘画、建筑、音乐和文学，一比就是几十年。\n在奥运会搞艺术大奖赛这事儿确实不是瞎折腾，而是现代奥林匹克运动会的创始人皮埃尔·德·顾拜旦的主意。早在1894年头一回奥运会之后，顾拜旦就觉得不过瘾，不够劲儿。他觉得世界大同光靠体育的交流还是不够，还需要有心灵的交流，心灵交流就要靠艺术。\n顾拜旦男爵皮埃尔·德·弗雷迪顾拜旦的《奥林匹克宣言》手稿于2019年经苏富比拍卖，以6160万元成交。\n于是，当1912年斯德哥尔摩承办奥运会的时候，顾拜旦就说，咱那些体育项目：田径、体操、帆船、马术……照常比，再加几条艺术的呗。斯德哥尔摩一开始是很不情愿的，但是最终还是同意增设绘画、雕塑、建筑、音乐、文学五个领域，各设金银铜牌。舞蹈、电影和摄影等形式一度也被纳入考量范围，但最终没有被采纳。参赛作品的体裁不限，但有一个要求——必须呼应体育运动主题和奥林匹克精神。\n这就有了前面咱们说的双料冠军沃尔特·威南斯，一个人赢下射击和雕塑两项金牌的逸事了。不过，老实说咱们这位奥运金牌得主并不是特别有名的艺术家，他的雕塑作品也是中规中矩。之所以他赢…",
+          "link": "http://zhuanlan.zhihu.com/p/396372387?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-05T09:34:13.000Z",
+          "wordCount": 94,
+          "title": "如果艺术家也能角逐奥运金牌……"
+        },
+        {
+          "id": "http://www.zhihu.com/question/477063063/answer/2039110968",
+          "author": "运动分子",
+          "description": "赛后知道一个小细节，更加理解为何昨天王春雨从赛后直到媒体混采区，一直都在抽泣——她说，自己赛前已经偷偷准备好了领奖服。\n尽管可能没有多少人（哪怕是自己人），会相信她能最终站台。\n带着眼泪的「个人最佳」和「创造历史」，特别令人动容。\n\n\n\n\n\n女子800米决赛的八名选手在昨天都是超水准的发挥，6人创造了PB（个人最佳）、1人创造了SB（赛季最佳）。包括冠军是美国新国家纪录（1分55秒21）、亚军是英国国家纪录（1分55秒88）。\n在这样一场几乎所有选手都拿出自己110%实力的「PB决战」中，王春雨的1分57秒00、第五名的成绩，含金量极高极高。\n对她个人来说，也是继半决赛后三天时间再次大幅PB，很厉害。\n\n\n\n\n\n赛后王春雨说了一番话，\n“（第五）证明了自己是可以的，但还是遗憾没能站上领奖台。也许是自己水平不够，跟她们还有差距。”\n“这个差距是可以训练出来的，我觉得自己有一天会战胜她们。”\n\n复盘一下王春雨的东京奥运会之旅。\n\n\n7月30日第一轮，2分00秒05，小组第三晋级半决赛\n王春雨东京奥运会前表现出的状态非常好，赛前20天曾在杭州跑过一场邀请赛，轻松跑出1分59秒18——这是自1997年上海八运会以来、中国女子800米的最好成绩。\n这场比赛对王春雨来说只是奥运前的最后热身赛，并不算完全展现实力，也可见王春雨当下的状态和能力。\n东京的第一轮和半决赛只相隔一天，王春雨也尽量会以最低的消耗确保自己晋级、并在半决赛发挥。最终2分00秒05，小组第三，顺利晋级半决赛。\n\n\n5年前的里约，王春雨已经晋级过奥运半决赛，当时她的实力和目标就是半决赛，第一轮就得全力输出（1分59秒93），到了半决赛位列小组第八（2分04秒05）。东京奥运会王春雨不管能力和目标显然都要远得多。\n\n\n\n7月31日半决赛，1分59秒14，小组第二晋级决赛\n前400米59秒5（第一）、后400米59秒6（最终…",
+          "link": "http://www.zhihu.com/question/477063063/answer/2039110968?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-05T06:15:55.000Z",
+          "wordCount": 121,
+          "title": "如何评价 2020 东京奥运会田径女子 800 米决赛王春雨创个人最好成绩获第 5 ？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/433842940/answer/2040348123",
+          "author": "梁维",
+          "description": "东京奥运会攀岩预赛结束更新：\n中日韩三国赛果如下：\n男子组：中国的小将潘愚非速度赛排名第20位，抱石赛排名第8位，难度攀登比赛排名第7位，最终总成绩第14位，无缘决赛；\n日本队，一哥Tomoa Narasaki发挥出色，不专攻速度赛的他爬出了5.94秒位居第2，抱石赛也高居第2，在基本已经确保晋级的情况下难度攀登轻松上阵排名第14，总成绩第2位进入决赛。另一名选手Kai Harada总成绩排名第18位，无缘决赛；\n韩国队唯一的入围选手Jongwon Chon排名第十与决赛失之交臂。\n\n女子组：专攻速度的中国小将宋懿龄速度赛爬出了6.46秒的好成绩，位居第3位，但是受到肩伤影响的她抱石赛排名第19位，难度攀登比赛排名第18位，最终总成绩第12位无缘决赛；\n日本队，老将Akiyo Noguchi和中生代选手Miho Nonaka分别以总成绩第4位和第3位晋级，毫无悬念；\n韩国队的天才少女Chae-hyun Seo在速度赛仅仅爬出第17名的情况下，抱石赛取得第5名，难度攀登更是豪取第1名，以总成绩第2名的成绩挺进决赛。\n\n\n\n资格赛，中日韩三方的表现基本在笔者的预测范围内。中国两位小将其实需要发挥出自己的全部实力，加上一些些运气才可以晋级。只不过，潘愚非的速度赛稍微欠缺了一些运气，宋懿龄受到奥运会资格赛期间肩伤的影响并没有完全恢复，在战略性放弃抱石赛保存体力避免受伤的情况下难度攀登还是未能克服伤病影响。但是这一次他们的表现已经足够出色，中国的攀岩水平还在不断上升，让我们期待2024年巴黎奥运会速度攀岩和其他两项分开之后，这两位选手和其他中国选手的表现。\n这次奥运会，大家都是时隔很久看到大多数选手登场，所以也是对他们闭关修炼的一个检验。很明显日本队对于速度攀岩的训练得到了回报，潘愚非和韩国的小将Chae-hyun Seo也加强巩固了自己的抱石水平。\n今明天将是男子组和女子组的决赛，…",
+          "link": "http://www.zhihu.com/question/433842940/answer/2040348123?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-05T06:15:47.000Z",
+          "wordCount": 231,
+          "title": "如何评价街舞（breaking）、滑板、攀岩和冲浪正式成为 2024 年巴黎奥运会比赛正式项目?"
+        },
         {
           "id": "http://www.zhihu.com/question/474850082/answer/2026108063",
           "author": "运动分子",
@@ -3704,24 +3749,6 @@
           "publishedOn": "2021-07-08T11:30:08.000Z",
           "wordCount": 66,
           "title": "如何评价《画江湖之不良人》第四季第十三集？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/470160388/answer/1983181215",
-          "author": "赵禹晴",
-          "description": "大家好，这次非常感谢知乎的邀请，经过深度了解，发现知乎是一群有思想有态度的年轻人经常聚集交流的平台。感觉能让我这个很少上网冲浪的老人家跟年轻人又近了一步~但是初次上来非常非常紧张，为了备稿失眠了，首分享不知道该说啥好，就先跟大家先聊聊最近的心情和感受吧。   \n\n这周一，《眷思量》第五集终于上线，且传来破亿喜讯，恍惚中还是十分开心，其实我从6月14号首播当天，到今天，这段时间仍旧深陷在最后几集高潮戏的紧张赶制中。\n\n和没上线前不一样的就是，每天还需要应对一大堆宣发物料的制作和审核，以及随时会来的合作洽谈和访谈准备等，所以前几周一直没什么时间上线跟观众朋友们多做交流，因为如果在公司见识过我工作状态和排队审核状态的人就知道，小伙伴们很多人加班到很晚，为了每天早点下班回家，排队等反馈的人的眼神能把其他插队的人生吞活剥=v=。\n我就比他们幸运多了～我不用走下班回家这个流程，我就住在公司阁楼，下楼就上班，上楼就躺倒。。。3年来生活就是工作，工作也是生活，无缝衔接。。。。。。嗯，是幸福的！\n\n之前幻想上线的时候应该会轻松些了吧，没想到真的到了这个阶段却是没上线前成倍的忙，以至于最近更晕头转向了，大概是我太吹毛求疵了，很多细节不磨到位就不肯罢休，也许草草收了尾，赶紧杀青，就不会像现在这样连轴转都转不过来了。但……那就不是我了。\n\n前几周赶各环节反馈加上其他方面的工作量爆发，导致睡眠时间严重缩减到破纪录，最夸张的一天，睡了1个半小时爬起来，然后第二天，睡了3个半小时，两天，48小时，睡眠时间5小时，其他时间就像机器一样，白天跟各组人轮番交流推进度，晚上不断处理着各种反馈。第三天实在扛不住，才强制自己切断工作多睡几个小时。我相信自己能扛过去，一如每次遇到制作上的坎坷，都坚持着咬牙扛过来一样，因为我的背后还有很多各环节、各公司的小伙伴们支撑着我，他们都和我一样，想做一部好看的片子，跟有共同的目…",
-          "link": "http://www.zhihu.com/question/470160388/answer/1983181215?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-07-07T04:00:11.000Z",
-          "wordCount": 428,
-          "title": "如何评价动画《眷思量》第五集？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/397486086/answer/1982744764",
-          "author": "呆呆兽星君",
-          "description": "观前提醒：1，本文是以《传武》漫画为基础做的简单猜想；不涉及具体细节，如果对个别人物或剧情感兴趣；希望大家关注原版漫画与官方信息； \n2，文中涉及的历史，神魔以及各门派的简介，都是仅在《传武》世界观的语境下，结合个人浅薄的认识做的片面介绍；带有一定的主观倾向，目的仅是为了更好的解释个人观点，希望大家不要在现实生活中对号入座；\n 3，文中出现的如：详情之类的字眼，目的是为了缩短篇幅，不代表观点一定正确；\n\n目录\n引子\n《传武》中的神话设定\n1.《西游记》观音小分队的细节\n2.《封神演义》红尘仙的世俗依靠\n3.《水浒传》故事背后的故事\n4.漫画背后的微缩历史\n《传武》中的山海经设定\n1.仁兽驺虞的变态之路\n2.雁门关外的火凤燎原\n3.青龙背负的四大灾星\n《传武》中的克苏鲁设定\n1.黄衣之王与他的黄沙眷属\n2.克苏鲁神话外的克苏鲁\n《传武》中的戏剧化设定\n1.二百年一轮的庄周梦蝶\n2.樊家的王之宝库\n3.六道轮回间的相生相克\n个人感想\n\n\n\n\n引子\n无论怎么评价，传武注定是一部难以简单概括的作品，这并不是说传武的故事太过复杂，而是从整体的阅读体验来说的；就我个人而言，我一共系统的阅读过三次《传武》；第一次是跟随连载，大概从第一部的白骨洞剧情线一直跟到现在，回过头来看，中间确实会有出现跳戏或者自以为读懂其实不然的情况出现；不过抛开当时对部分细节的错误理解，《传武》也是一部初体验非常爽快的漫画；\n\n第二次就是走的我个人的拉片流程，建立了Excel表格，对漫画中出现的所有的各大门派，各大势力，绝学，法器，红尘仙，山海种，天灾；都做了简单的归类整理，并标注每件事发生的相关剧情信息；这一次我得出的结论是：传武中的故事和架构是要比我想象的更加严谨合理的；剧情其实也并不是我一开始认为的纯线性平铺直叙；而是不同的线在一开始就交织并行了，虽说不上草蛇灰线，但确实处处有伏笔；所有中期出现的关键剧情其…",
-          "link": "http://www.zhihu.com/question/397486086/answer/1982744764?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-07-07T03:00:11.000Z",
-          "wordCount": 434,
-          "title": "如何评价国产漫画《传武》？"
         }
       ]
     },
@@ -3730,6 +3757,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9738914",
+          "author": null,
+          "description": "张毅非，混音|编曲|作曲|也拍照|也愛棒球\n阅读原文\n\n先说制作人型的歌手（指比较接近一体机型的，周王陶林、李荣浩这类）：\n制作一首歌，从作曲到编曲到录音到混音到母带，需要听至少几千遍，所以制作人显然是对这首歌熟悉到连每一根汗毛在哪里都知道，并且听的目的和歌迷不一样，他们是职责所在，每次听都不是在欣赏，只想挑毛病，越听越痛苦，所以除了录音这一部分会去把注意力放在歌词上之外，其他时候根本就没听歌词（顶多是听个大概，然后想想，这部分这样编或者这样混合不合适）所以当一首歌制作完成后，往往都如释重负，一段时间内都不想听到它，不然就会无休止的想要在某些细节上鬼打墙，这首歌就永远都发行不出来……所以会忘词一点也不意外。\n然后其他全部类型可以一起说（包含写词的、写曲的、只唱的）以个人一点点关于演唱的经验，一方面是想要表达好一首歌，需要对这首歌有一点新鲜感。最完美的状态应当是，非常熟悉，但又能对里面的每一个字、每一个音符由衷的喜欢，有很强烈的演绎这首作品的动力。熟悉程度达不到这个完美状态的时候，会忘词，这不用多说；熟悉程度超过这个的时候，会“皮了”，嘴巴在唱，心里在想今晚要吃什么宵夜，完全是肌肉记忆。但肌肉记忆其实也很危险，一旦卡壳了是回不来的，因为脑子没跟上，而且万一不小心形成错误肌肉记忆（比如跟朋友吃饭喝酒，兴致来了，恶搞了一下自己的一首歌，搞了两三次，闹着玩的，结果下次演唱的时候肌肉记忆起了变化。太过于熟练有时候偶尔也会突然肌肉记忆乱掉，有练过乐器的人或多或少应该都有这样的经验）就会突然忘记这里该怎么唱，一样也会忘词、串词。\n另外，周华健这种歌很多的人，平时演出通常都是唱几首，那往往都是选最知名的几首、或新歌，在这些歌被唱到快吐了之外，还有大量的歌一年唱不了几次（我相信也根本不会去听的）到了个人演唱会就要哭了，背不完啊……这样忘词也是难免的。在没有提词器的时代我记得有人说过周华健演唱会都会在地板上偷写歌词 233\n还有极小概率是突然大脑宕机了……我有过一次，不是自己的歌，是陶喆的《爱，很简单》，当时身为多年的陶喆粉丝，对这首歌熟到不能再熟了，然而音乐一下，也没紧张也没激动，就突然忘了第一句，然后就“哼哼哼嗯嗯嗯嗯~~”的混过去了，从第二句接回来面不改色的唱完，下台后想起来，第一句是“忘了是怎么开始”（真是应景啊……啊就真的忘了怎么开始了咩……）\n所以啊提词器真是相当伟大的发明……可以让歌手不要再为了歌词而苦恼，专心在对歌的演绎上，间接提升了演出的平均品质。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738914",
+          "publishedOn": "2021-08-05T23:08:46.000Z",
+          "wordCount": null,
+          "title": "为什么很多歌手都会有演唱会忘词的情况？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738924",
+          "author": null,
+          "description": "爱整理的方小白，热衷收纳整理/让家变得治愈，分享收纳好物公众号：出圈儿\n阅读原文\n\n之前没事就打开电商平台刷个十几分钟，每次刷就种草一堆收纳神器，价格不贵看起来还贼好用，以为买回来就能把家里收拾得妥妥帖帖。\n然而，用了几天才发现它们不光不好用，还变成了麻烦的元凶。可能有的我勉强还在用看，有的已经扔了。\n这些“收纳神器”，详情页文案天花乱坠，收货后秒变鸡肋，强烈拔草！\n今天，我来把这些“收纳神器”整理出来，下次你们再看到它们，请马上略过！\nNO.1 双层鞋架\n你以为是这样的：\n\n实际上是这样的：\n\n是不是第一次看到这种鞋架的时候觉得非常实用？能放多好几双鞋，解决蜈蚣精的需求？\n然而，这种鞋架看似实用，实际上只适用于尺寸较小的鞋，像高帮鞋或者宽一点的男装鞋根本放不下。\n而且如果你家鞋柜的高度低于 30cm，那就基本上全靠挤才能放得下这玩意儿！当然了，最不方便的还是每次取放鞋子都要来回弄个好几遍才能把鞋子放好…… 对于我们大多数“懒人”来讲，还是乖乖地选择透明抽屉鞋盒更妥当。\nNO.2 立式鞋架\n你以为是这样的：\n\n实际上是这样的：\n\n说到鞋架，不得不提一嘴这个同样难用的立式鞋架，看图片的时候真的心动，一次性放下三双鞋子。当你买回家的时候你就会发现，男装鞋和高帮鞋放不下。\n当你终于找到尺寸对的鞋子支起来，取出一对鞋子的时候，其他鞋子也跟着倒下来，真的欲哭无泪……\n而且这个鞋架根本塞不进一般的鞋柜，除非你家鞋柜的层高有 30cm 以上，不然就别考虑了。\nNO.3 双层鞋托架\n你以为是这样的：\n\n实际上是这样的：\n\n虽然能放得下平底鞋，但是它依旧放不下高帮鞋、高跟鞋、以及男士鞋，而且你家的鞋柜要足够高才能像上图一样放得下两双鞋子，不实用。\nNO.4 S 型裤架\n你以为是这样的：\n\n实际上是这样的：\n\nS 型裤架，官方声称一个裤架能收纳五条裤子，看起来真的美滋滋。\n当我怀揣着美好的幻想尝试把五条裤子放进裤架时，再一次留下悔恨的泪水。\n这裤架根本顶多能塞进三条裤子，如果你的裤子稍微厚实一些，根本放不下好吗！ 说好的方便收纳呢？怒摔！\n而且每次拿取中间的裤子时，其余几条都会被扯出来，然后你就得逐条整理。\n这到底是什么“神仙”鸡肋玩意儿？\nNO.5 九孔衣架 \n你以为是这样的：\n\n实际上是这样的：\n\n这个九孔衣架也是衣架中的垃圾战斗机。\n看图以为它一个顶九个，实际它连一个都不如，别问我怎么知道的。\n冬天厚重的衣服放不了几件，只能放薄如衬衣的衣服。 然而最后你就会发现它跟正常挂放所占的位置是一样的，那买它回来干嘛？ 而且每次拿取衣服都要把整个衣架拿出来，麻烦又费力，还歪在一边，一点儿都不美观！\nNO.6 折衣板\n你以为是这样的：\n\n实际上是这样的：\n\n折衣板，美其名曰能帮你快速叠好衣服，一板一衣。实际上很鸡肋，把衣服放在板子上叠好，还用丝带包住竖放？ 浪费空间且极其不便利。\n而且稍微厚实一点的衣服（如卫衣、外套）根本不适用呀。一旦叠放厚衣服就东倒西歪了，还不如挂起来或者简单叠放好使呢。\nNO.7 包包收纳袋\n你以为是这样的：\n\n实际上是这样的：\n\n当我看到详情页图片时，以为家里那无处安放的包包终于有了好归宿。然而，用了一段时间后发现它不仅占地儿，还把包包挤到变形。\n而且也不是什么包包都能放得下，稍微大一点的包包也只能放在一边，那买它回来的意义是啥？\nNO.8 蜂窝式整理格\n你以为是这样的：\n\n实际上是这样的：\n\n咦，这不就是传说中收纳内裤和袜子的神器吗？\n我用血泪史告诉你，一！点！都！不！好！用！首先，它不一定适合你家的抽屉尺寸，组装麻烦。 当然了，最鸡肋的还是它收纳有限，要么放不下一双袜子，那就放一只袜子或一条内裤吧，然后你就发现它远没有之前收纳得多呀。\nNO.9 圆圈围巾衣架\n你以为是这样的：\n\n实际上是这样的：\n\n这个围巾收纳衣架的鸡肋程度和 S 型衣架是不相上下的，首先并不是每个人都有那么多围巾需要收纳，当你塞满的时候，不美观，还拿取不方便，而且还占地方。\nNO.10 衣柜分层搁板\n你以为是这样的：\n\n实际上是这样的：\n\n我本来以为这个衣柜分隔板起码会比九孔衣架、S 型衣架好用些，然而并没有。\n虽然它能分隔空间，尽可能地利用好空间。 但如果你放比较重的物品，它就很有可能会塌下来，别问我是怎么知道的。\n不知道你家中招了没，反正我对这些所谓的收纳神器真的累爱不觉，其实很多都是所谓的网红家居博主吹嘘出来，商家变着花样玩的噱头。\n任何不为方便实用服务的“家居神器”都是耍流氓呀。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738924",
+          "publishedOn": "2021-08-05T23:08:37.000Z",
+          "wordCount": null,
+          "title": "卧室有哪些听着很有道理，但实际用到时效果很糟糕的收纳建议/物品？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738894",
+          "author": null,
+          "description": "Scotty，我总能找到些被忽视的珍珠\n阅读原文\n\n谢邀，说句老实话，这题问得好刁钻，我尽量答吧，\n我的思路是从我自己积累的图库中搜索色调关键词（我自己分类好的），\n然后从“冷调”和“炽热感”这两个角度入手，\n看看有没有接近或者勉强符合这道题的作品：\n1.作者 Maja Wronska 在冷调中加入点状、线状的暖色\n这个能不能算冷调都两说，这个思路算是勉强切题吧。\n\n2.作者 John Miller 暗示和营造出一股压迫视觉的炙热夏天\n这个我觉得比较厉害，你能透过画面想象到这是一个沉闷到不行的夏日海滩，能感受到一股压抑的热浪；\n\n3.作者 Joaquín Sorolla 冷调海滩\n西班牙的印象派画家，用冷调去烘托海滩的光线，让你回忆起海边的日晒\n\n4.作者 Nicholas Roerich 沙漠风景\n\n题主说例如沙漠，这是我能找到的冷调中最暖的沙漠了....\n5.Bato Bugarzhapov 和 Peter Bezrukov 的风景色彩，刺眼的光\n用光去营造炽热感，描绘出那种刺眼的感受\nBato Bugarzhapov：\n\nPeter Bezrukov：\n\n下面四幅也是靠光感来营造出的感受：\n作者不详作者不详作者不详作者不详\n 6.作者 Hiroshi Matsumoto 热抽象\n这种炽热有点精神层面了，它是由画面视觉暗示出作者的作画状态，你可以感受出作者作画时的一股不安和激情，我个人认为这也算一种炽热感；\n\n7.作者 Allan P Friedlander 的荷塘 和作者 Aaron Morse 的插画\n这二者的思路跟第一幅的 Maja Wronska 很类似，但不同的地方在于局部的暖色使用的非常美妙考究；\n\nAaron Morse 的插画也有色调不统一的问题，所有也有点不切题：\n\n8.作者 Rikka Ayasaki 的天空\nRikka Ayasaki 这位女画家很喜欢绘制天空，她笔下的天空都是丰富且炽烈的色彩，这是一张为数不多的雷雨天；\n\n9.作者 Criss Canning 的静物\nCriss Canning 的静物非常喜欢构成感推敲，在静物的摆放上有一股极致的理性，但是在边缘线和绘画的笔触上，她太像梵高了，这是一股耐心且冲动的细腻，如果你能放大看到她的笔触，你就能感受到一颗炽烈的心；\n\n10.作者不详，笔触营造\n\n这道题其实我自己答得不是很满意，有不同的意见欢迎在评论区指正和讨论；\n\n最近我把我这几年在知乎写的一点关于绘画、艺术的干货做了个汇总，大家有需求的欢迎去看看。\nScotty：连点绘面：近年来写的绘画、艺术干货汇总 持续更新\n以上\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738894",
+          "publishedOn": "2021-08-05T23:08:33.000Z",
+          "wordCount": null,
+          "title": "在绘画中是否有办法用冷色调来表现炽热感的画面，例如沙漠等？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738904",
+          "author": null,
+          "description": "Mr.Bo，爱好科技，航天迷一枚，工科研究僧\n阅读原文\n\n这个问题其实也等价于在计算机中如何表示\n\n，对于半径为 1 的单位圆来说，它的面积就是\n\n。\n那么估计单位圆的面积就转换为了估计\n\n，那么先缩小本问题的目标，如何计算单位圆的面积？\n（1）最基础的方法就是使用几何概率，即蒙特卡罗方法：\n\n即撒点，假设向正方形中均匀撒入 n 个点，共有 m 个点落入圆中，那么落入圆中点的概率就为：\n\n这样很容易就得到了圆的面积为\n\n，发现没有，成功绕开了\n\n算出了圆的面积，并且在单位圆情况下能够成功估计\n\n，对于概率来说，实验次数越多越准，也就意味着撒点数量越多，圆的面积越精准，也意味着\n\n的精度越高。\n（2）第二种方法，就是离散，这是非常重要的思想\n首先就是微积分的思想，即将圆面积拆分成很多微小面积之和，通过对微小面积求和来逼近真实面积。很典型的例子就是将正方形划分为一个一个的小正方形格子，统计落在圆内的所有正方形小格子的比例。高赞回答举得一系列例子，其实也就是这个思想的体现。在高中其实就已经讲过，曲边梯形面积的求法，这就是微积分最核心的思想，无论理论多么高大上，理论基础都是这个：化曲为直，无限逼近。\n图源百度\n其次就是级数的思想，即将对单位圆面积的求解划分为一小块一小块面积的总和，很典型的一个级数就是：\n\n包括传统的割圆法等等，体现的核心思想就是两个字：逼近，无非就在于逼近的精度如何罢了。\n在完成单位圆面积的估算之后，其他所有圆的面积，无非就是单位圆面积的倍数了，这仅仅与圆的直径 / 半径比值相关，那么就简单通过直尺来得到圆的面积，绕开了\n\n。\n在实际使用中，根据所需的精度对\n\n进行估计即可，比如 c 语言的 math 库函数里直接对\n\n值定义，也算典型的直接拿来用（狗头）\n#if defined(_USE_MATH_DEFINES) && !defined(_MATH_DEFIN…",
+          "link": "https://daily.zhihu.com/story/9738904",
+          "publishedOn": "2021-08-05T23:08:24.000Z",
+          "wordCount": null,
+          "title": "能不能绕过π，来计算一个圆的面积?",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9738936",
+          "author": null,
+          "description": "作为医学生你经历过最囧的事是什么？\n\nSarah，中度分裂的双子座女神经。\n阅读原文\n\n \n听诊器听心音，咦？ 咋没声音？ 换个地方，咦，还是没有？再换，啊？还是没有啊。。。\n不会是右位心吧？\n正准备把听诊器胸件移到右边，就听到病人悠悠地说：\n大夫，你没把听诊器挂耳朵上啊？\n……\n \n阅读原文\n\n男朋友嫌弃你长得丑，你会选择整形吗？\n\n喃七大魔王，整形从业者私人号，只科普，不植入，不推荐\n阅读原文\n\n男朋友嫌弃自己丑，先做的是要换个男朋友\n自己觉得自己丑，才需要整形\n阅读原文\n\n十二星座是什么样的？\n\n鹿儿\n阅读原文\n\n都是好样的。\n阅读原文\n\n工作一年，妈年底拿走我所有存款6万，还说结婚彩礼10万也要给她，都替我存着防止对象花我钱，什么心思？\n\n黄瓜蘸酱，无业游民不装逼浑身难受\n阅读原文\n\n哎呀！你一个理财产品竟然有自己的想法了！\n阅读原文\n\n一般被清华北大劝退的都是什么样的学生？\n\n阿娜娜斯小面包\n阅读原文\n\n高中某“传奇”学长。\n成绩超级好，人品极其差。他的很多行为都不能用正常人的逻辑解释，是一个超级大奇葩。\n最有名的一个传说，是他在某废弃教室的门口撒尿，被教导主任抓了个现行。已经不是第一次了，是被主任蹲点抓住的。\n本来还以为他会狡辩什么的，结果人家直接跟主任说：“我能考上北大，你少管我。”\n教导主任气不过，把校长、年级主任、班主任啥的都叫来了。谈到最后的结果是：他确实能考上北大，随他去吧，反正以后总有人能治他。\n我们那小地方多少年也出不来一个清北，这个处理结果并不意外。当时那个教导主任气得不轻，但也无可奈何。\n然后那位学长果然考上了北大。\n紧接着一个月左右就被劝退了。\n具体原因不明。\n不知道是不是在人家北大的废弃教室门口撒尿了。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9738936",
+          "publishedOn": "2021-08-05T23:08:15.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9738880",
           "author": null,
@@ -5306,66 +5383,6 @@
           "description": "送女朋友拼好的乐高城堡算直男行为吗？\n\nJxxxx，大学生\n阅读原文\n\n前天晚上和男朋友一起拼了乐高的迪士尼城堡的一小小小半，然后就让他带回家了，约好下次出来再一起拼。今天打视频电话的时候发现，他自己一个人基本拼完了，留了个副塔尖尖给我，说是防止我生气给我留的......\n看到基本成品的那一刻脑袋真实的嗡嗡响，他送我的时候说的那句「我们一起拼，拼完你就住进去！」一直在脑子里面回荡。我不想要吵架，不想让他觉得我无理取闹，但我实在觉得恶心，甚至整个城堡都不想要了。\n拼都拼完了给我干什么？我顶多算个给城堡打地基的建筑工人，我是个住不进城堡的公主病。对我来说，这个迪士尼城堡是他的又一个乐高玩具，不是我们的城堡。\n阅读原文\n\n敖丙为什么打不赢哪吒？\n\n柒个葫芦，想恋爱\n阅读原文\n\n片名已经告诉你了，叫哪吒之魔童降世，不是叫敖丙之灵珠崛起\n阅读原文\n\n人们平均每洗一次头要掉多少根头发？\n\n稀罕小尤，音乐\n阅读原文\n\n我不清楚这个问题\n因为我已经没有头发了\n阅读原文\n\n如何激怒一个航天爱好者？\n\n昙花再现，昙花一现又再现，此中真意已惘然。\n阅读原文\n\n“你说的不对，大刘是这样说的……”\n阅读原文\n\n如何跟我爸解释刘慈欣不是疯子?\n\n邓cl，药师\n阅读原文\n\n诚恳的对您爸爸说：“您说得对，刘慈欣就是疯子！”\n然后该干嘛干嘛。\n放心，没人找你麻烦的。\n因为：\n\n\n\n阅读原文",
           "link": "https://daily.zhihu.com/story/9737875",
           "publishedOn": "2021-07-07T23:06:15.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737835",
-          "author": null,
-          "description": "鑫波和他的小鱼干，你觉得我是鑫波？ 不，我是他的小鱼干！\n阅读原文\n\n土培条件下，淹水会使土壤通气性下降，根际氧含量降低，土壤氧化还原电位过低。土壤氧化还原电位太低，土壤有机质分解变慢养分供应能力会下降，嫌气分解产生大量有机酸会抑制根系呼吸作用。土壤长期的低氧化还原电位还会使 Fe、Mn 有效性增加造成根系毒害，硫化氢和丁酸积累也会抑制根系生长。根系长期生长受抑制，长期被毒物毒害，就会造成细胞坏死、凋亡，呈现出黑褐色的烂根症状，俗称淹水沤烂。\n水培条件下，营养液的成分通常简单，没有过多复杂的土壤有机物，只有必须的大量、中微量矿质营养。而且水培是要换水的！水培是要换水的！水培是要换水的！水培通常三到五天就要换一次水，不然水会臭，会有藻类和其他微生物滋长。因此，正规的水培条件下来不及积累大量的硫化氢等有害物质，水有一定的氧溶解量，通过换水可以供应植物根系需要的氧气。另外，土壤的成土母质成分并不单一，不同母质差别大，但淹水都会使土壤中的次生黏土矿物中 Fe、Mn 有效性升高甚至过量造成毒性增强，水培条件下的培养液不含镉、砷、铝等毒物，Fe、Mn、Cu、Zn 等微凉元素的含量也控制在适宜水平远不会因为环境变化造成过量或毒害。\n小结：水培条件下，通过换水补充了根系消耗掉的氧气，通常不会缺氧。水培体系成分简单，矿质元素含量精确受控，不会有离子毒害，不会大量积累硫化氢、有机酸等物质，所以水培不烂根。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737835",
-          "publishedOn": "2021-07-06T23:08:02.000Z",
-          "wordCount": null,
-          "title": "为什么植物土培时浇水太多会烂根，而水培了反而就不烂根？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737840",
-          "author": null,
-          "description": "绿影无痕\n阅读原文\n\n2021-06-22：\n根据爱因斯坦广义相对论场方程的史瓦西真空解：\n\n，可以近似推导出空间站与地面的时间差表达式为\n\n，\n取万有引力常数\n\n，地球质量\n\n，光速\n\n，地球赤道半径\n\n，中国空间站高度400~450km，取平均425km，则空间站到地心的距离\n\n，地球赤道线速度\n\n，空间站运行速度\n\n，中国空间站累计时间\n\n（以90天计），得\n\n。\n由\n\n公式可见，方括号中第一项表示的是狭义相对论效应，为正，说明狭相效应使时间流逝变慢，三个月能慢2.6ms；第二项是广义相对论效应，为负，说明广相效应使时间流逝变快，三个月能快0.34ms。综合起来为正，说明整体上空间站时间流逝变慢。\n另外，因为地球为椭球体，赤道相比中高纬度地区虽然线速度更大，但是因为隆起，引力势更小，在计算狭义、广义相对论效应时效果正好抵消，所以采用赤道半径和线速度不影响计算结果，对中国地区同样适用。\n所以，根据相对论，中国空间站三个月比地面能慢2.3ms。\n另外，扩展着说些内容。\n（1）平均下来，中国空间站每天比地面能慢25.4\n\n。别小看这点时间差异，如果不修正，那么理论上基于自身解算的定位误差每天将达到7.6km，3个月误差累计达到686km。因此相对论对时间的修正极其重要。\n（2）相对论修正中狭相占主要成分还是广相占主要成分，要看航天器的运行高度。结合万有引力公式和圆周运动向心力公式，简单推导可得上述二效应相当（时间流逝快慢相抵）的航天器运行半径\n\n，即在距离地面高度约3173km处，时间流逝速度与地面相同。当航天器运行轨道低于此高度时，时间流逝比地球慢，狭义相对论效应占主要成分；当航天器运行轨道高于此高度时，时间流逝比地球快，广义相对论效应占主要成分。运行高度在数万公里的北斗、GPS导航卫星，它们的时间流逝都比地球快。\n\n2021-06-27：\n鉴于@李平 的建议，周末抽空用Kerr解来分析一下。\n因为地球存在自转，有自转角动量，但基本认为整体电荷为0，因此可以用Kerr度规来分析。几何单位制下，以Boyer-Lindquist坐标写出Kerr真空解为\n\n，\n\n，\n\n。\n近似认为空间站在一定高度圆形轨道飞行，地球表面位置也同样为圆形轨道，则\n\n。\n为了便于计算，写出Kerr真空解在\n\n条件下的国际单位制形式：\n\n，\n\n，\n\n。\n当然，如果令地球单位质量角动量\n\n，则Kerr真空解退化为Schwarzschild真空解。Schwarzschild解是静态球对称解，Kerr解是稳态轴对称解。\n我们考虑一般情况：计算地球单位质量角动量\n\n，\n\n为地球自转角速度；中国空间站的轨道倾角为42°~43°，取平均值\n\n，\n\n空间站横向角速度分量\n\n，\n\n纵向角速度分量\n\n（将坐标时t替换成地面固有时\n\n，对速度的影响不到\n\n倍，不会对计算带来超出精度要求的影响。）；\n\n随运行过程均发生变化，\n\n，\n\n。\n则固有时与坐标时比值的平方\n\n。\n则空间站与地面时间差\n\n（因\n\n）。\n因计算过程与空间站的\n\n有关，所以每时每刻空间站时间流逝与地面时间流逝的比值是不断变化的。空间站在赤道与最高能到达的纬度42.5°之间时间流逝速度见下图。\n\n以空间站在赤道上空的时间流逝速度为准，一天下来比地面能慢\n\n；以在（南）北纬42.5°上空的时间流逝速度为准，一天下来比地面能慢\n\n。平均下来，中国空间站一天比地面能慢\n\n，三个月能慢\n\n。\n\n2021-06-28：\n略去高阶小量，可以近似推导出基于Kerr真空解的空间站与地面时间差\n\n。\n与施瓦西解相比，Kerr解除了有狭义相对论效应项和广义相对论效应项以外，还有第3项，为狭相、广相效应耦合项。需要指出的是，由于大量使用略去高阶小量的操作，上式关于\n\n与\n\n的函数关系已与原方程明显不同，但结果近似。\n\n在计算角速度时，如果不直接用\n\n替换\n\n，则应在角速度后配上系数\n\n，即\n\n，\n\n、\n\n为代入地球赤道半径\n\n的值。\n解关于\n\n的二次方程，得\n\n（舍去负值解）。\n求出\n\n后，再带入原方程求出\n\n，便可进一步得到该问题的最终解。可以看到，这样不换元直接求解非常繁琐，而结果的精度并没有显著改变，所以一般采用\n\n替换\n\n的方式求解。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737840",
-          "publishedOn": "2021-07-06T23:07:53.000Z",
-          "wordCount": null,
-          "title": "根据相对论，中国空间站三个月比地面能慢多少时间？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737827",
-          "author": null,
-          "description": "八只包子，有只猫，日系家居爱好者，猫叫伊吹你懂的，很高兴遇见你呀✨\n阅读原文\n\n猫咪介绍：\n\n我家猫伊吹，两岁妹妹，家养已绝育。\n典型母猫性格，胆小敏感且机警。典型加菲猫怂样，遇到不乐意的事情只会默默反抗，不叫不闹不打人。\n一、准备猫包 / 航空箱：\n1.有家长随便抱着猫、用纸箱端着就去看医生了，最好不要，这是有潜在危险的哦。\n2.猫遇到外界刺激可能会剧烈挣扎，甚至伤人逃脱，所以为保安全请务必准备好猫包 / 航空箱。\n3.猫包 / 航空箱最好选透气好的，不要全透明的，结实的，易清洗的，就医完及时清洁消毒。\n【几种常见的猫包 / 航空箱简评】：\n1.全透明猫包（不推荐！）\n这种猫包当时凭借颜值吸引了好多人种草，可是它没有透气孔，全暴露又容易让猫咪没有安全感，所以非常不推荐！\n\n2.最常见的航空箱（自用款性价比高）\n这种款式是最容易买到的航空箱，价格也便宜，性价比很高，塑料材质清洗方便，不会像书包那样粘毛。但就诊时猫咪会不肯出来，铲屎官也难以将猫抱出（比如我），也算是一个缺点吧。\n\n3.可“开口”航空箱\n所以我建议还没买航空箱的家长，可以看看这种中途能打开的款式，个人感觉是最佳就医航空箱。可以折叠便于收纳，平时在家里放着也不会占地方。\n\n二、如何把猫骗进笼子：\n1.平常在家不建议猫包 / 航空箱收起来，放出来提前让猫咪习惯它的存在。\n2.在家看见它进去了就奖励一点零食，让猫知道“进去会有不错的体验”，正所谓 100 次进航空箱，98 次体验都是 good，只有 2 次是 bad，何乐不为呢！\n【我的经历】：平时我的航空箱就摆在客厅，随便伊吹进去玩儿。所以想把猫骗进箱子简直是小菜一碟，我丢了个冻干在里头，伊吹扭着橘色大屁股立马就挤进去了，so easy！\n\n三、辅助安抚用品（从高到低）：\n1.猫咪爱的零食和猫条是必备的，猫在极度压力下可能会不吃。\n2.虽然我们口口声声说猫条都是诱食剂不要喂，但在就医情况下，诱惑最大的猫条才是哄猫王者。\n\n3.充满猫咪气味的毛巾和小毯子可以带一带，必要时候把猫“卷起来”有奇效。\n4.如果猫咪出门极度激动可以问医生是否能使用加巴喷丁（镇静作用），药店可以买到的人用药，亲测有效，但需要掌握好用药剂量。\n5.费利威（安抚效果）喷雾可以来一点，讲到缓解猫咪应激反应宠物医生会推荐的用品，不过安抚效果因猫而异，有可能无效哦。\n辅助安抚用品大合集\n【我的经历 / 用品推荐】：\n1.上面图片大家也能看到，我用猫猫平时最爱的冻干骗伊吹是完全没用的，必须要上诱惑力强的咕噜酱 or 猫条，流体食物想混药也比较方便。\n2.我在就诊前 30 分钟用咕噜酱混了一点加巴喷丁（此处不做医疗建议）给伊吹吃，于是整个就诊过程中异常顺利。其实猫就是蔫巴了，压根无力反抗...\n3.不想喂药的家长我更推荐费利威喷雾，但是它的安抚效果并不稳定，同时价格还不便宜，99 一瓶刷刷刷就没了。\nand 哪怕是国产的小壳费乐舒也要 69/ 只，所以大家根据实际情况酌情购入吧。\n四、路途 / 排队中安抚：\n去医院最好就是私家车自驾啦，其次是滴滴，可以在箱子盖一条充满猫咪气味的毛巾哦，忘带了也可以用铲屎官的衣服代替。\n比如我的衬衫：\n\n五、抱出笼子检查：\n这对我家爱躲猫猫的伊吹来说是个老大难问题，爪爪死死扣住底板，倒也倒不出来，而且航空箱又无法中途打开，就只能温柔温柔再温柔的由主人把它抱出来了...\n六、检查期间安抚：\n1.如果是性格温柔，也就是吓到动都不敢动的猫咪，那主人在场安抚真的会好一点。\n2.如果是性格造孽上蹿下跳嗷嗷叫拆诊疗室的猫咪，那就.......没办法了，听医生的吧！\n3.不过，遇到凡事不要慌，保持冷静，不要焦虑，猫是能察觉到人的心情的哦~\n【我的经历】：伊吹因为吃了药以及本身就很怂的缘故，检查一动不动，超级无敌配合，不过我还是一直都在诊室陪着。\n比如偶尔轻轻叫它名字抱抱它：\n\n比如剃毛的时候撸撸小脑瓜安抚：\n\n七、检查完，麻溜走人（猫）！\n最后？哪还有最后哇。\n认真遵医嘱，该检查该治疗，没事的话结账完赶紧回家，快速回到熟悉的地方就是猫咪缓解压力最好的方式！\n之所以会有这么多图片，原因就是我上周末刚带了猫去检查心脏。个人认为定期体检还是很有必要的，想进一步了解的小伙伴可戳：\n有多少人会每年给猫做体检，甚至做生化和心脏彩超？\n希望去医院的小猫咪都能不用住院，\n身体棒棒，赶紧回家，嗷嗷嗷喵喵喵！\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737827",
-          "publishedOn": "2021-07-06T23:07:50.000Z",
-          "wordCount": null,
-          "title": "想带猫猫去医院，需要做些什么来缓解它的压力，避免应激？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737826",
-          "author": null,
-          "description": "是古米呀，新传考研三跨上岸，懒癌晚期，努力分享ing\n阅读原文\n\n想从新闻史的角度谈谈《觉醒年代》中有哪些考点呢！\n以下知识点按照《觉醒年代》剧集时间线出场或出现的先后顺序排列，图片皆截图自爱奇艺。\n1、癸丑报灾\n重要指数：☆☆☆☆☆\n\n1913 年（癸丑年）袁世凯为达到专制独裁的目的，派人刺杀了宋教仁，以孙中山为首的革命党人为此发动了“二次革命”，各地报纸随即兴起了反袁浪潮。\n在大量的报刊声讨之下，袁世凯开始向新闻界发起大规模的摧残。北京、上海、武汉、长沙等地的国民党报刊和反袁报刊被扣上“乱党报纸”的罪名而遭到查禁。\n袁世凯采取了多种手段压制国民言论，创立了《亚细亚日报》、《金刚报》等报刊为自己的反动舆论喉舌，并用各种方式收买了一些报刊为自己所用，同时制定《出版法》等法令限制新闻自由，并通过残暴的方式大肆打压报业与残害进步报人。（手段）\n在袁世凯的参保镇压下，1913 年的民国报纸由民初的 500 多家锐减到 130 余家，大量报人遭到迫害。（结果）\n1913 年正逢农历癸丑年，当时新闻出版人将这一年报纸遭受的浩劫称为“癸丑报灾”，称袁世凯为“报刊屠夫”。该年同时也被新闻史上认为是 1949 年中华人民共和国成立前新闻史上最为黑暗的一年。\n2、李大钊\n重要指数：☆☆☆\n\n李大钊是我国无产阶级新闻活动的先驱，早期接触的马克思主义宣传家，中国共产党创始人之一。\n1.早年留学日本，1916 年回国后积极参与《新青年》的编撰工作。\n2.1918 年在《新青年》发表了《庶民的胜利》、《布尔什维克的胜利》等文章，是我国最早有关马克思主义的文献。他指导了《晨报》副刊的改革。\n3.1920 年带领观中共北京小组创办了《劳动音》。\n4.中国共产党成立后和大革命时期，指导创办《工人周刊》、《国民新报》等，并为《新青年》季刊、《向导》撰稿。\n3、陈独秀\n重要指数：☆☆☆☆\n\n陈独秀是我国著名的…",
-          "link": "https://daily.zhihu.com/story/9737826",
-          "publishedOn": "2021-07-06T23:07:45.000Z",
-          "wordCount": null,
-          "title": "《觉醒年代》中有哪些知识点？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737829",
-          "author": null,
-          "description": "勃然大怒，只是一名普通的渔民\n阅读原文\n\n看到大家都在谈弱化长兵器，弱化弓弩，过分吹嘘刀剑，以及各种奇怪的盔甲之类的，我来提一嘴传说中的巨剑（比如 Claymore 和 Zweihander）\n（在下第一次写知乎回答，请多多指教啦）\n这是真正的大剑 Claymore\nClaymore\nClaymore（威廉华莱士的那把，不是克蕾亚的那把），也称四环大剑，因为十字护手的尖上有四个环得名。这玩意更像是加长加粗版的长剑，剑长 120 到 140cm，重量一般也就两公斤略重于长剑，剑刃宽阔，技法貌似也接近长剑。和 Zweihander 不同的是它长的还比较正常，没有脱离老祖宗骑士剑的形制太多......\n这是真正的 Zweihander 自慰汉\n一大群外形粗犷的自慰汉\nzweihander 则比较奇怪，长度能干到 160，某些极端的 180 都有，重量范围也很大，2 到 6kg 都有（4kg 以上的那些我认为不实用，更像是礼器），不仅需要怪物级的力量，体格也必须足够高大才能使用。它最大的特点是宽阔的大护手，护手上方一小段不开刃（有些还包了皮革之类的可以手握）这一小段上方是格挡勾，上方的剑刃一般比 claymore 窄厚，可能是为了戳刺性能，但也有一些为了提高劈砍威力把剑刃做成了焰形。技法基本已经失传，但我不认为这把武器适合当作普通的剑去使用，它更像是一把可以顺便砍一砍人，还有一堆护手的长枪......\n现实中的巨剑除了平淡无奇的 Claymore，外形粗犷充满狂野美的 Zweihander，还有外形优美的西班牙巨剑 Montante 等等\n单身久了看把剑都......\n但无论是哪种都坚持了长刃刀剑最基础的几点：剑刃细长，重量也没有特别重，也一样都破不了甲......\n然而这是动漫和游戏里的：\nLevel 1（说的就是你猎魔战记）\n其实我也忘了这是谁...\n其实这在动漫作品里已经算小的了，然而这大铁坨子起码也有二三十公斤重——最强壮的人类勇士也许能挥起来砍一刀？重归重，可是长度上我却感觉连现实中的 Claymore 都不如，做成这么重还舍弃了长度优势是为什么？\n然而我们身材纤细，再瘦一点就可以瘦成鲁鲁修（误）的女主可不管这些，随随便便就是一个单手平握（随随便便哑铃侧平举三四十公斤的水平？）\n顺便吐槽下护手，护手边缘就比剑刃宽了一点点，确定这护手不是装饰品？\n女主\nLevel 2（没错就是你巴隆！）\n\n向门板剑前进了一小步——四五十公斤应该是有了，当然无论如何，应该还是有人类能抬起来砍一刀下去的（然后被对面拿小匕首反杀）\n另外我非常不明白的一点就是，为什么有些日漫里的大剑不做长一点，非要做成这样短粗胖的类型呢？这样搞别提打现实中的巨剑了，我怀疑一米二的 rapier 都能给你戳死......\n顺便提一嘴，这把剑直接连护手都不要了——不过假如真的有人和他粘剑，他的手也不会有事，因为胳膊直接就掉下来了......\n同属这一级别的还有夜刀神十香等等（护手好评）\n\nLevel 3（格斯的大剑）\n假如 Level 2 只是到门板剑的过渡期，格斯的大剑可真就是门板剑了，而且还是最正宗的那种。话不多说先上图\n真的很 man， 属实羡慕了再来张狂战盔甲的，感受下门板的厚度\n帅归帅，man 归 man，这把剑少说也有三四百公斤重，除了极少数几个大力士怕是没人能让这玩意离开地面，更别提挥舞自如了吧......\n一样的没有护手的设计，我怀疑这种设计就是剑风起的头 hhh，但不得不说，这设计看久了其实还挺帅的。\n同属 Level3 级的还有我们的克劳德同学（比起格斯的门板剑还是小巫见大巫了）\n个人认为克劳德最 cool 的一张图\n总之，动漫或者游戏这些作品里我几乎就没见过正常的大剑。然而和比基尼铠甲，被刀剑吊打的长枪，射人像挠痒痒的弓弩一样，绝大多数时候我我们看动漫玩游戏不就是图个乐子吗？人家也没说自己有多“硬核”，他爱扯就扯呗，高达没有坦克实用我们看高达不是一样津津有味吗？比基尼铠甲和超重型板甲没有板甲衣实用我们不是一样看的爽到爆吗？只要大家心里有数，明白现实中是什么样，动漫和游戏里爱咋地咋地，他赤手空拳吊打耍大枪的我也不反对。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737829",
-          "publishedOn": "2021-07-06T23:07:40.000Z",
-          "wordCount": null,
-          "title": "有没有在动漫中被扭曲了形象的兵器？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737847",
-          "author": null,
-          "description": "被长辈看见打《文明》系列游戏是一种什么样的体验？\n\n小枫快跑，愿吾放浪此生之余，形骸之外仍有初心\n阅读原文\n\n一觉睡到中午，被叫醒吃饭\n老妈饭后问“你昨天是不是听了一晚上茉莉花”\n阅读原文\n\n现在的95后指挥不动，下班准时走，活安排不下去只能自己干，怎么办？\n\nAAA巴德，数码爱好者\n阅读原文\n\n下班不走什么时候走？\n阅读原文\n\n你们家宝宝有没有迷之喜爱的东西?\n\n廿六，学生\n阅读原文\n\n\n就喜欢钱。\n阅读原文\n\n当对方说想要星星，如何用化学的方法满足愿望？\n\n500英里，无情的富婆等待者\n阅读原文\n\n强烈推荐——手工电弧焊\n实惠 美丽 到处能找到地方看\n实属最佳星星替代品\n\n找不到地方看就打个出租车，叫师傅给你拉到什么汽配城之类的地方，绝对把你看高兴\n阅读原文\n\n第一次接吻是什么样的感觉?\n\n匿名用户\n阅读原文\n\n我俩牙套卡一块了。\n。。。。。\n最后不得不连着去找老师。\n至今仍记得老师当时震惊愤怒的表情。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737847",
-          "publishedOn": "2021-07-06T23:07:34.000Z",
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
