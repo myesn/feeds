@@ -2,10 +2,357 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-06T01:10:47.093Z</updated>
+    <updated>2021-08-07T01:02:04.478Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[关于闲鱼的 ANR 治理，我有几条心得]]></title>
+        <id>https://toutiao.io/k/us9z78q</id>
+        <link href="https://toutiao.io/k/us9z78q"/>
+        <updated>2021-08-07T01:02:03.182Z</updated>
+        <summary type="html"><![CDATA[闲鱼ANR治理之路]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：小松子来聊一聊内存逃逸]]></title>
+        <id>https://toutiao.io/k/lszkuxv</id>
+        <link href="https://toutiao.io/k/lszkuxv"/>
+        <updated>2021-08-07T01:02:03.114Z</updated>
+        <summary type="html"><![CDATA[保证给面试官聊懵逼它！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解这些软件设计思想，你的思维至少上升一个段位]]></title>
+        <id>https://toutiao.io/k/mjj6g4o</id>
+        <link href="https://toutiao.io/k/mjj6g4o"/>
+        <updated>2021-08-07T01:02:02.957Z</updated>
+        <summary type="html"><![CDATA[每天早上七点三十，准时推送干货一、介绍在 1994 年，由 Erich Gamma、Richard Helm]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第 062 期「码农周刊 VIP 会员专属邮件周报」今晚发送，请查收！]]></title>
+        <id>https://toutiao.io/k/s01gzxl</id>
+        <link href="https://toutiao.io/k/s01gzxl"/>
+        <updated>2021-08-07T01:02:02.609Z</updated>
+        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恐惧和自我偏见：成长的最大障碍]]></title>
+        <id>https://toutiao.io/k/45ae6zg</id>
+        <link href="https://toutiao.io/k/45ae6zg"/>
+        <updated>2021-08-07T01:02:02.549Z</updated>
+        <summary type="html"><![CDATA[我们每个人都有一些害怕的事情，成长就是克服恐惧，做到原来不敢做的事情。如果自己都不相信自己能做到，还有谁会相]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彻底理解粘性定位：position: sticky]]></title>
+        <id>https://toutiao.io/k/p7kb1e2</id>
+        <link href="https://toutiao.io/k/p7kb1e2"/>
+        <updated>2021-08-07T01:02:02.391Z</updated>
+        <summary type="html"><![CDATA[粘性定位看着很简单，但也很容易出现不生效的情况。本文帮大家彻底理解粘性定位。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 刷新页面有哪几种方式]]></title>
+        <id>https://toutiao.io/k/pha8yz4</id>
+        <link href="https://toutiao.io/k/pha8yz4"/>
+        <updated>2021-08-07T01:01:59.781Z</updated>
+        <summary type="html"><![CDATA[在Vue项目中，刷新当前页除了 window.reload()，你还能想到什么办法？而且这种办法会重新加载资源出现短暂的空白页面。体验不是很好。
+
+在某个详情页面的时候，我们经常需要通过路由中的详情 id 去获取内容，当我们在不同的详情页来回切换的时候，打开的页面是同一个，只是需要通过监听路由中的参数 id 的变化去重新请求详情接口。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些值得一看的水彩画？]]></title>
+        <id>https://daily.zhihu.com/story/9738948</id>
+        <link href="https://daily.zhihu.com/story/9738948"/>
+        <updated>2021-08-06T23:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Scotty，我总能找到些被忽视的珍珠
+阅读原文
+
+多图预警，本文共介绍 25 位画家和他们的 232 幅作品；
+这个回答我陆陆续续编写了很久才决定发，
+我个人非常喜欢水彩画，虽然我自己总掌握不好这一材料，
+在大学期间整理电子笔记的过程中，我收集了不少好的水彩作品，
+这些水彩作品是我个人重重筛选之后才保留下来的精华，且风格种类庞杂丰富；
+我从近 500 条笔记中筛选出了 25 位水彩画家和他们的 232 幅作品；
+现在分享给各位，还是老规矩，本回答全篇无水印：
+一、风景类型：1.缅甸水彩画家，Myoe Win Aung（十二幅）
+炫美的光影，透过 Myoe Win Aung 的作品，他的笔下是注入了情感的，通过它的描绘，你能感受到那个国家的风土人情；
+
+2.英国水彩画家 Ella Du Cane 的日本风情（十五幅）
+我每一次看这组作品都会被惊艳到，很难相信这是一位英国游客画出来的作品；
+水彩画家 Ella Du Cane 出生于英国（1874-1943）,1889 年她的父亲过世后，和她身为作家的姐姐 Florence 周游过中国、日本、埃及、冰岛等国。虽然她是英国人，但她笔下的日本真的画出了一种日式文化的神韵，1893 的她的作品展出后，维多利亚女王表示对她的作品相当感兴趣，同时收藏了她 26 幅作品。
+
+3.日本水彩画家 Abe Toshiyuki 的宁静森林（十幅）
+清新、温暖、美好，光感很强 技法细腻到位 整体氛围控制得很好；
+该画家最开始是美术机构的教师，业余时间是一位摄影爱好者，多年的摄影爱好和职业经历使得他沉淀出如此丰硕的成果。
+
+
+4.Naomi Tydeman 的清冷水面（八幅）
+Naomi Tydeman 是一个自学成才的水彩画家，她的作品给我的感觉非常冷寂，我很享受那股沉浸其中的感受，我认为她的作品达到了某种理想化的完美；
+“水彩不断地带给我惊喜。它…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么饭店里的鸡汤很清，而且还特别的好喝？]]></title>
+        <id>https://daily.zhihu.com/story/9738950</id>
+        <link href="https://daily.zhihu.com/story/9738950"/>
+        <updated>2021-08-06T23:06:41.000Z</updated>
+        <summary type="html"><![CDATA[藏在暗处的X先生，讲点干货/公众号：大刘的饭堂/微信：lxh664027519
+阅读原文
+
+首先表明职业身份，我是一名粤菜厨师。
+准备婚宴中
+看到有其他答主说“鸡汤要清澈，油脂就要少”这句话，我可以很负责任的说，鸡汤清澈与否，与鸡本身的油脂并无任何关系。
+并且很有意思的一点是，想要让鸡汤好喝，则少不了油脂的功劳。
+按下鸡汤如何清澈不表，先讲讲为什么饭店的鸡汤很好喝。
+（肯定又会有人说了，无非就是味精味精味精，还有各种添加剂，如果是这样想的，看到这里就可以出去了，也不需要在评论区写下你的高见，因为你绞尽脑汁写的几行字，我连看都不会看，并且会在几秒钟内完成删除拉黑等一系列动作。）
+饭店里炖鸡汤，除了老鸡之外，还需要配上其他的肉类，来填补味道上的空缺。
+如果只是用鸡来炖，在口感上会感觉到很“薄”。
+饭店里最基础的一个炖鸡汤的肉类搭配，除了老鸡，还会有凤爪（鸡爪），赤肉（瘦肉）和龙骨（猪脊骨）。
+凤爪的作用，用来增加鸡汤的胶质感，不至于成汤后仍然像水一样稀稀拉拉。
+赤肉与龙骨，则是增加汤中的肉香，让口感上变“醇厚”。
+而家庭里制作，大多是一只鸡，再扔进去两片姜，这样出来的味道，自然是比不过饭店里用多种肉类混合做出来的味道。
+对于“鸡”的处理，如果去除了鸡身上一些带油脂的地方，则会大大减少鸡汤中鸡的鲜味。
+炖出来的鸡汤，汤面上有油和汤面上无油，两者会有很大的味道上的差距。
+但是鸡汤表面的油总不可能和汤一起喝下去，自然是要想办法去除。所以在粤菜厨房里，“吹汤”是负责炖汤的“上什（za）”部门中人人都要会的基本技能：汤盅捧起，略微向前倾斜，将表面的油脂吹出去。
+这样，即可以在煲汤的过程中保留了鸡的鲜味，也可以在成汤后很好的去除掉表面上的油脂。
+炖好的汤底成品
+说完了如何让鸡汤好喝，再来说一说如何让鸡汤很清。
+其实饭店里的鸡汤，并不是用明火煲，更多的是用蒸箱隔水炖，两者在味道上出来的效果相同。
+但明火煲的话，肉会随着水的沸腾而出现很多碎渣，并且随着水的动作“上下翻飞”，煲出来的效果，就是远看清澈，但近看之下，就会有很多细小的碎渣子在汤中飘舞，破坏了整道汤的形象。
+所以我在家中做的时候，也常常选用隔水炖的方法，除了成品效果好之外，也比较省心，不需要看火，只需要在蒸锅里加足量的水，定好时间即可。
+如果比较偏爱明火煲汤的话，那就要格外注意火的大小，在煲的过程中，要让水处在“似开未开”的状态，如果不注意火的大小而让水一直沸腾的话，那么很快就会得到一锅白色的浓汤……
+明火煲出来之后，又不想有许多碎渣子影响外观，那么可以用密漏过滤一遍，没有密漏的话，也可以用茶袋或者是煲汤袋、纱布等隔渣过滤。
+还有一种会使鸡汤混浊的原因，那便是肉本身的血水和杂质。所以需要提前对肉进行飞水，而飞水也是有一些讲究。
+上什部门炖汤前的飞水与分量工作https://www.zhihu.com/video/1332334239329402880
+还是以前文的几种肉类搭配为例。
+凤爪与龙骨，需要冷水下锅，彻底的焯透，这两者中，有大量的血沫。焯不干净的话，一是会使汤混浊，二是很容易使汤变质发臭。
+而老鸡和赤肉，则是需要水开后再下入，目地是为了去除表面所附着的血沫和杂质。如果老鸡和赤肉也同样冷水下锅彻底从内而外焯透的话，则会损失大量的风味物质。
+只有注意到这些细节，才会使炖出来的汤既好喝，又清澈。
+清汤菜胆炖鱼翅
+藏在暗处的 X 先生：有哪些把凉拌菜做得好吃的秘诀？
+藏在暗处的 X 先生：2021 年春节，你家的年夜饭都有啥？哪道菜你吃得最香？
+藏在暗处的 X 先生：家里老人说「有鸡才算过年」，过年吃鸡都有哪些讲究？
+藏在暗处的 X 先生：炒肉为什么会粘锅脱浆?
+麻婆豆腐的姐妹——麻辣豆腐
+藏在暗处的 X 先生：味精毁了中国的美食吗？
+藏在暗处的 X 先生：你做出过什么特别费时，但却十分好吃的美食？
+藏在暗处的 X 先生：有哪些很重要又被忽视的炒菜技巧？
+开胃小菜——玫瑰萝卜
+藏在暗处的 X 先生：为什么现在做菜基本都把食材的味道去掉了？
+藏在暗处的 X 先生：以更低的价钱吃到肉有什么办法?
+藏在暗处的 X 先生：美食作家王刚售卖 299 的铁锅跟市场卖 30 块的有什么区别？干烧鲈鱼——附煎鱼不破皮的方法
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲各国的代表美食有哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9738947</id>
+        <link href="https://daily.zhihu.com/story/9738947"/>
+        <updated>2021-08-06T23:06:34.000Z</updated>
+        <summary type="html"><![CDATA[ag獭，好奇而无用的獭獭
+阅读原文
+
+*.欧洲国家大大小小，一些大国的代表性食物有不少，比如德国就可以举出香肠、酸菜、大肘子、啤酒、蝴蝶脆饼等，更不用说意大利、法国了，而一些小国，本身就没几个人。这里按照公平原则，一个国家出一个代表，大国可能会有些吃亏。
+*.这里所说的欧洲，范围比地理上的欧洲略广，大致相当于参加欧洲杯预选赛的那些国家。
+东地中海
+地中海东部沿岸，是古典时代最发达、最富庶的地区之一。这些地区从罗马时代到奥斯曼帝国时代，大多数时间处于同一个政权统治之下，地理环境相似，饮食也有很多相似之处。
+东地中海之希腊菜，Gyros 卷饼、烤肉、抓饭、豆泥、葡萄酒及其他
+地中海饮食的特点是以小麦为主食，习惯以橄榄油烹饪，并以葡萄酒佐餐。当地饮食受中东和中亚饮食影响，爱吃酸奶（通常带点咸味）、抓饭和烤肉，起源于罗马时代的果仁蜜饼，以及类似的坚果类甜点在东地中海以及高加索、中东等地非常流行。
+土耳其
+土耳其软糖
+土耳其位于欧亚交界之地，是个饮食文化丰富的国度。土耳其软糖（Lokum）以淀粉和砂糖制作，加入蔷薇水、乳香、柠檬、坚果等调味。类似的软糖最初来自于伊朗或阿拉伯地区，18 世纪后在奥斯曼帝国发扬光大，并传入希腊、巴尔干和东欧各地。
+希腊
+Gyros
+希腊的饮食基本和土耳其爱琴海沿岸相近。Gyros 是土耳其旋转烤肉卷饼的希腊变种，和它的土耳其祖宗相比，希腊烤肉卷饼的关键区别在于——它一般是猪肉或鸡肉馅的。
+塞浦路斯
+高级餐馆的哈罗米干酪
+哈罗米干酪（χαλλούμι）源自塞浦路斯，流行于希腊和东地中海各地。哈罗米干酪一般由山羊或绵羊奶制成，不容易融化，因此可以油炸或者烧烤，以代替肉类。
+高加索
+高加索之亚美尼亚菜，抓饭、酸奶酱、芝士、Samosa、葡萄及其他
+高加索山脉是亚欧的分界线，这片土地连接了欧亚，饮食习俗介于东欧、东地中海和中东之间，总体来说比较接近东地中海地区。…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么现在去医院，不管什么病，都是抽血、拍片？]]></title>
+        <id>https://daily.zhihu.com/story/9738959</id>
+        <link href="https://daily.zhihu.com/story/9738959"/>
+        <updated>2021-08-06T23:06:25.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，医生/爱思考/爱美食
+阅读原文
+
+很多医生们也会觉得，当然要靠检验、检查。没有这些如何诊断疾病？那岂不是瞎猜吗？
+我也是医生。但我却认为，医生如真的依赖检查检验，没有自己的判断力，那真的就是饭桶！
+医生要有自己的判断力
+一，检验检查的正常标准是相对的，而不是绝对的
+任何检验、检查都有「正常参考值」。那「正常参考值」是如何确立的呢？往往采用三个方式确定。
+1，健康人群数值的分布区间法
+如数值的概率密度为正态分布，我们把最低和最高那部分（通常是取 0.5%到 2.5%）去掉，剩下的 95%---99%区间为正常参考值。
+比如，用血红蛋白的数值高低来判断是否贫血。那么「看似健康」的一大群人测血红蛋白数值。去掉数值最低和最高的 1%，剩下的就是正常参考数值区间。
+2，检验数值跟健康的风险关系
+比如，糖尿病诊断的血糖参考阈值。它是根据「血糖对微血管病变影响」的调研结果。调研发现：当超过某个值时，人群的微血管病变风险就显著增加，就此确定了该值为正常参考值。
+又比如，高血压参考值。当血压超某个数值后，数值越高则未来患病风险、死亡风险越高。那么这数值就是正常参考数值。需注意，这个「未来时间段」可能是 20 年，甚至 30 年。
+3，是与否判断的概率密度取舍
+如何用类风湿因子(rheumatoid factor, RF)判断一个人是否有类风湿关节炎(rheumatoid arthritis, RA)？
+我们找出 100 个无类风湿关节炎(RA)的人，同时找出 100 个确定类风湿关节炎(RA)的人。用一个方式测类风湿因子(RF)。看看他们的 RF 的数值分别是多少。结果发现：
+没有 RA 的人有 32 个超数值 4，而有 RA 里有 7 个低于 4。
+没有 RA 的人有 14 个超数值 5，而有 RA 里有 9 个低于 5。
+没有 RA 的人有 6 个超数值 6，而有 RA 里有 …]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诸如大友克洋《大炮之街》，存在“形似现实文字的架空文字”的作品有哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9738939</id>
+        <link href="https://daily.zhihu.com/story/9738939"/>
+        <updated>2021-08-06T23:06:22.000Z</updated>
+        <summary type="html"><![CDATA[疯癫的A兵者，B站空间：https://space.bilibili.com/84785878
+阅读原文
+
+（多图预警~略长～）
+勉强回答一下：
+Pokemon 系列，一共出现了两套不同的“文字体系”，均有完整的语言体系，大致采取现实世界中的“英文”和部分“日语拼写”元素相结合的方式，除部分 Pokemon 世界内专有词汇外，还需要对于英文单词和日文拼写有一定了解，所以如果你想要“穿越”到 Pokemon 世界中，那么请尽快开始“语言学习”的准备工作。
+
+我们都知道，如果想要出国留学，那么“语言能力证明”是申请材料中的重要组成部分之一。那么，如果你想要“穿越”到 Pokemon 世界中，学好语言是必要条件，我们下面就进入 Pokemon 世界的语言学习工作：
+
+Pokemon 世界第一套语言体系
+
+这是 Pokemon 系列中较为基础的语言系统，也是最为常见的语言文字体系，必须牢牢掌握，远远比其他语言文字体系更为常见，是 Pokemon 世界中的语言的基础。
+这套语言文字体系不区分大小写，需要“大写”的时候，字体会变大……
+为了学习和巩固大家关于这套语言体系的学习工作，我们先来做几道简单一些的“练习题”用来逐步接触 Pokemon 的实际用法：
+1.天桐走进的这栋建筑物，上面的匾题写了一个什么词汇？
+
+属于简单题，甚至可以说是“常识题”范畴。根据文字的形状，易知这属于第一套语言文字的范畴，查表可得，拼写的单词为“POKEMON”，即宝可梦的音译。这里实际上对战地铁。
+如果你真的向往那个世界，请记住这个单词，穿越到 Pokemon 世界中，发现你自己不会用那边的文字拼写 Pokemon，那可是“滑天下之大稽”了……
+2.以下大屏幕显示的问题是什么意思?请大致推测这个场景出现的场合?
+
+这属于一般题范畴，主要是文字有些小，需要仔细辨认一下。很快可以判断出，这属于 Pokemon…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Gobbler]]></title>
+        <id>https://css-tricks.com/?p=346259</id>
+        <link href="https://css-tricks.com/svg-gobbler/"/>
+        <updated>2021-08-06T19:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Great little project from Ross Moody: 
+SVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.
+…
+The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc()]]></title>
+        <id>https://css-tricks.com/?p=345467</id>
+        <link href="https://css-tricks.com/efficient-infinite-utility-helpers-using-inline-css-custom-properties-and-calc/"/>
+        <updated>2021-08-06T14:55:06.000Z</updated>
+        <summary type="html"><![CDATA[I recently wrote a very basic Sass loop that outputs several padding and margin utility classes. Nothing fancy, really, just a Sass map with 11 spacing values, looped over to create classes for both padding and margin on each side. …
+The post Efficient Infinite Utility Helpers Using Inline CSS Custom Properties and calc() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andy Ford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gridless.design]]></title>
+        <id>https://css-tricks.com/?p=345878</id>
+        <link href="https://gridless.design/"/>
+        <updated>2021-08-06T14:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Donnie D’Amato built a whole site around the thesis that “digital designers still expect to use the grid while experienced layout engineers have moved beyond it.” The idea isn’t that we should never literally use display: grid; but rather that …
+The post gridless.design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 东京奥运田径男子 4 x 100 米接力决赛中国队夺得第 4，如何评价本场比赛？]]></title>
+        <id>http://www.zhihu.com/question/477844835/answer/2043691123</id>
+        <link href="http://www.zhihu.com/question/477844835/answer/2043691123?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-06T14:33:35.000Z</updated>
+        <summary type="html"><![CDATA[汤星强起跑足够出色、谢震业顺利过渡、苏炳添疯狂的追赶、吴智强全程力压牙买加守住优势——37秒79，追平国家纪录（2019年多哈世锦赛，苏炳添/许周政/吴智强/谢震业）！
+与上一届里约奥运会一样，还是决赛第四——甚至跑赢了牙买加！
+
+
+
+
+
+
+意大利田径队是今夏东京田径赛场上最大的黑马，中国田径队是中国代表队里最让人欣喜的队伍——哪怕他/她们的目标都只是进入决赛、争取名次。
+这些无奖牌的王者，真的是中国体育的骄傲。
+
+
+4x100米可以说的点太多了，往详细了说——
+
+
+「奥运会是国与国之间无硝烟的战争」这句话让顾拜旦（现代奥运会主要倡导者）听到，估计会气的七窍生烟。但说4x100米接力项目，是国与国之间最强速度的PK，这个描述问题就不大——100米/200米项目都是个体天才间的pk，4x100米这样的接力，就完美体现了最强的速度、最高的默契、最完美的/零容忍的技术要求。
+可能是整届奥运会最紧张刺激的项目（之一）。
+
+
+25岁的汤星强、27岁的谢震业、32岁的苏炳添、27岁的吴智强，他们代表的中国速度，真的完全不亚于中国其他领域的速度。
+
+
+
+
+预算回顾：超神的小组第一，力压美加意等短跑强国
+
+
+预赛两组。
+第一组牙买加、英国、日本、特立尼达和多巴哥、法国、南非都算是有进入决赛实力的。最终牙买加（37秒82）、英国（38秒02）、日本（38秒16）晋级；
+我们在第二组，汤星强、谢震业、苏炳添、吴智强跑出37秒92，力压加拿大、意大利等强队，第二组排名第一晋级决赛。
+
+
+
+
+
+预赛中国队发挥并不算完美，交接棒的一些衔接细节可以做得更好些。
+但37秒92本赛季最佳、小组第一晋级的结果，完全不需要吹毛求疵了——汤星强的起跑足够给力、谢震业守住了领先优势、第三棒苏炳添的表现天神下凡生生创造出距离差、而最后一棒吴智强也完全没让加拿大的迫近变成逆转。
+
+
+
+
+
+美国出人意料的小组第六（38…]]></summary>
+        <author>
+            <name>运动分子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
+        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
+        <updated>2021-08-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 项目上 this.$set 的用法]]></title>
         <id>https://toutiao.io/k/62fkj1t</id>
@@ -2170,6 +2517,16 @@ Eveline，学生
 阅读原文]]></summary>
         <author>
             <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给老项目加入 ESLint 的建议]]></title>
+        <id>https://toutiao.io/k/kp9wnt7</id>
+        <link href="https://toutiao.io/k/kp9wnt7"/>
+        <updated>2021-08-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文属于原创文章，转载请注明–来自桃源小盼的博客 前言通常关于eslint的文章是介绍如何使用。这里会假定一个前提，这是一个新项目。今天我们聊聊老项的一些使用建议。 尽快确定一种风格很多团队会陷入一种争论，到底选择哪种风格，通常有airbnb、standard等。也有一些团队会认为这几种风格都不是我想要的，要自己定制。 此时，我们忽略一个问题，我们做这件事最重要的目的是什么？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -11016,373 +11373,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
 The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Fortune Ikechi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价《画江湖之不良人》第四季第十三集？]]></title>
-        <id>http://www.zhihu.com/question/469383435/answer/1985890753</id>
-        <link href="http://www.zhihu.com/question/469383435/answer/1985890753?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-07-08T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[大家好，我是舒，播又来。今天最后一篇，至此12篇知乎的任务完成。
-
-
-先闲聊两句吧！从2015年参与不良人2编剧至今已有六年，做导演这还是头一回。在紧紧巴巴的时间里磕磕碰碰，总算是完成了不良人4的所有内容，虽遗憾颇多，但只能到此为止。
-六年了，今天也该告别了。
-
-
-五、六季的不良人中，我将不会再担任编剧与导演，只是负责与剧本监督一起敲定剧情走向与结局等“大方向”类的内容，剧本层面则由我们的编剧李皖青与李佳炫主笔，再加上导演李帅帅，往后是李家人的天下啦！
-
-
-
-
-虽不再参与制作，但在闲暇时间我和李导偶尔也会交流一些后续内容，还参与了第五季OP画面的构思，我记得那天跟李导听着片头曲聊片头的时候还是很开心的！对了，在这里还要感谢一下不良人第四季的镜头导演由于13集片尾没有放入他们的照片，在这里补上！
-
-
-
- 感谢作曲丁培峰老师和作词海雷老师的付出，创作出了歌曲《蛊》。之前听过他们合作的那首《不染》就很惊艳。在创作这首歌时是先词后曲的，海雷老师一共出了三版词，前两版的词也十分成熟，只是因为我个人喜好因而并未采纳，最终《蛊》的词出来一下子感觉就对了，十分简单明了的歌词，毫不矫情。最终这版词也没有做任何修改，作曲丁老师那边我更是完全没有操过任何心。毕竟有两位大神出马，我就在家乖乖等着发歌了。
-
-还有一个遗憾还是想说一下，最后蚩梦母亲的镜头被不可抗力了，因而替换成了一只手，由于做的仓促效果并不理想，如果有剪辑帝的话，可以尝试把这个镜头放到正片里的位置试试看，效果会完全不同。
-
-第四季最初叫做娆（苗）疆篇，因此会有许多观众认为此剧与不良人并无太大关系。大家不必担心，从第五季开始剧情将会回归主线内容。之前关于蚩梦与尤川的问题没有回复大家，只是因为不想做过多的引导，影响大家的观感。网上各种瞎传也只能当没看见，好家伙星雪凡轩蚩尤六个人死了个遍，连我妈都问我蚩梦是不是要死了……往后还是以看正剧为准…]]></summary>
-        <author>
-            <name>橙子多</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
-        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
-        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
-        <updated>2021-07-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Uma Victor)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工欲善其事，必先利其器之 gdb 五大高级用法]]></title>
-        <id>https://toutiao.io/k/khg0dob</id>
-        <link href="https://toutiao.io/k/khg0dob"/>
-        <updated>2021-07-08T01:06:17.123Z</updated>
-        <summary type="html"><![CDATA[本篇文章讲解gdb的一些高级用法，在我们的开发生涯中，调试是很重要的技能，而在linux下开发，最常用的调试工具就是gdb了，所以这里介绍几种gdb比较高级的用法，助力我们的调试技能。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跳过量变过程的安全质变]]></title>
-        <id>https://toutiao.io/k/fuppjgn</id>
-        <link href="https://toutiao.io/k/fuppjgn"/>
-        <updated>2021-07-08T01:06:16.988Z</updated>
-        <summary type="html"><![CDATA[长在云里的原生“免疫系统”。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 线程池原理及最佳实践（1.5W 字，面试必问）]]></title>
-        <id>https://toutiao.io/k/39edoom</id>
-        <link href="https://toutiao.io/k/39edoom"/>
-        <updated>2021-07-08T01:06:16.874Z</updated>
-        <summary type="html"><![CDATA[肝了一星期]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring 中定义 bean 的 12 种方法，真的绝了]]></title>
-        <id>https://toutiao.io/k/88jw8t4</id>
-        <link href="https://toutiao.io/k/88jw8t4"/>
-        <updated>2021-07-08T01:06:16.576Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微服务入门（一）：使用 go-kit 输出 hello world]]></title>
-        <id>https://toutiao.io/k/6aytfwu</id>
-        <link href="https://toutiao.io/k/6aytfwu"/>
-        <updated>2021-07-08T01:06:16.364Z</updated>
-        <summary type="html"><![CDATA[通过简单例子介绍go-kit三层架构]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工具 | 一款专门为 Mac OSX 系统打造的，集多功能于一身的 SSH 客户端工具]]></title>
-        <id>https://toutiao.io/k/shxvkd4</id>
-        <link href="https://toutiao.io/k/shxvkd4"/>
-        <updated>2021-07-08T01:06:16.142Z</updated>
-        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoderPark 技术直播课第二期：移动端技术新风向]]></title>
-        <id>https://toutiao.io/k/jnonz5v</id>
-        <link href="https://toutiao.io/k/jnonz5v"/>
-        <updated>2021-07-08T01:06:14.408Z</updated>
-        <summary type="html"><![CDATA[MobTech邀您参加CoderPark技术直播课第二期：移动端技术新风向]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES 标准模块化规范]]></title>
-        <id>https://toutiao.io/k/5mtep0b</id>
-        <link href="https://toutiao.io/k/5mtep0b"/>
-        <updated>2021-07-08T01:06:14.300Z</updated>
-        <summary type="html"><![CDATA[ES 标准模块化规范-概述历史上，JavaScript 一直没有模块（module）体系，无法将一个大程序拆分成互相依赖的小文件，再用简单的方法拼装起来。其他语言都有这项功能，比如 Ruby 的require、Python 的 import，甚至…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 Electron 实现 uTools 的超级面板]]></title>
-        <id>https://toutiao.io/k/gpnnwqw</id>
-        <link href="https://toutiao.io/k/gpnnwqw"/>
-        <updated>2021-07-08T01:06:14.291Z</updated>
-        <summary type="html"><![CDATA[前言为了进一步提高开发工作效率，最近我们基于 electron 开发了一款媲美 uTools 的开源工具箱 rubick。该工具箱不仅仅开源，最重要的是可以使用 uTools 生态内所有开源插件！这将是巨大的能力，意味着 uTools 生…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为程序员，遇到问题时你的解决手段是什么？]]></title>
-        <id>https://toutiao.io/k/m768nz2</id>
-        <link href="https://toutiao.io/k/m768nz2"/>
-        <updated>2021-07-08T01:06:14.262Z</updated>
-        <summary type="html"><![CDATA[作为程序员，你遇到问题时会如何去解决，相信大家(也包括...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么马哲没有被西方国家（它的发源地）广泛接受，却在中国、俄国、拉美地区生根发芽？]]></title>
-        <id>https://daily.zhihu.com/story/9737854</id>
-        <link href="https://daily.zhihu.com/story/9737854"/>
-        <updated>2021-07-07T23:06:42.000Z</updated>
-        <summary type="html"><![CDATA[墨子连山，干货在这不受待见，我把他们放在“同名公众号”了……
-阅读原文
-
-因为西方掉进了资本主义这个局部最优陷阱。
-之前回答过一个类似的问题，为什么中国五千年文明，却没有发展出体系化的现代科学？
-答案同样是因为中国掉进了局部最优陷阱。
-欧洲为什么发展出了科学？因为他们一直在低位徘徊，文艺复兴开始触底反弹了。
-秦始皇统一中国，车同轨，书同文，建立了中央集权的统一帝国。在当时的生产力水平下，中央集权的大帝国可以统一调配资源，这些高度集中的资源被用在兴修水利、基础建设、国防安全等方面，其对生产力的促进是那些分散的小国无可企及的。
-从此之后，吃到中央集权甜头的中国人便始终追求着大一统。
-秦朝二世而亡，取而代之的汉朝仍然维持了大一统，经过几代人的摸索，终于由汉武帝找到中央集权的思想理论指导，即外儒内法。
-这种思想在今后的两千年中经受了岁月的考验，自始至终发挥着无与伦比的效用，足见其强大之处。
-隋唐发明的科举制度，可谓中国最伟大的发明，这种制度将外儒内法的思想发挥到了极致，在之后一千多年中的绝大部分时间里，中国始终保持着稳定的统一。
-正是这样的稳定统一，使得中国在两千年时间里屹立于世界之巅。
-然而，也正是由于这种优势，使得中国人的认知出现了局限，大家开始“一心只读圣贤书”，专注于道德修养，关注于人与人的关系。因为历史一再证明，只要能够把人的问题解决好，就可以维持相当优越的生活。于是，中国人开始忽视客观世界，甚至对物质产生了鄙视，更不要说去钻研客观事物了。
-一个典型的例子就是“格物”。既然叫“格物”，而没有叫“格人”，其最初的含义显然包含了客观事物。但是在后来的发展过程中，格的对象逐渐发生了偏移，最终焦点完全转移到了“欲情念”等主观方面。而这种关注自身的倾向并没有阻碍生产力发展，相反的，他造就了一批批的君子，在这些君子的领导之下，这个大一统的帝国得已稳定运行，客观上促进了生产力的发展。
-…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何对知识分类？]]></title>
-        <id>https://daily.zhihu.com/story/9737861</id>
-        <link href="https://daily.zhihu.com/story/9737861"/>
-        <updated>2021-07-07T23:06:35.000Z</updated>
-        <summary type="html"><![CDATA[ag獭，好奇而无用的獭獭
-阅读原文
-
-想做一个按照知识树和标签对内容进行分类，以便采集信息、整理资源、进行讨论的网络平台。之前为了对网络和文献中的信息进行分类，根据中国大百科全书和中图分类法制作了一张分类图——
-
-当然，上图的知识树主要是根据现代的学科设置进行分类的，近期在查找资料，整理古代世界科学发展的过程中，能够很真切地了解到，古人对世界的认识、对学科和事物的分类，与今天人们的观念是非常不同的。
-古代的知识分类
-历史上有哪些全才全能型的人物？
-我们今天说到毕达哥拉斯，会说他是古希腊数学家、哲学家，而在毕达哥拉斯眼中“数即万物”，他的数学观念，其实是和他的哲学观、宗教观一脉相承的，彼此并无明确的界限。今天说到葛洪，我们会说他是魏晋时代的道教学者、炼丹家、医学家，而在葛洪的时代，炼丹和医学，其实也是和他的道教实践融为一体的。可见在古人眼中，学科的界限，往往并没有当下那么明晰，今天所说的物理、化学、哲学，在古人眼中，也许属于同一类认识世界，解释世界的方法，在文艺复兴时的欧洲，大概可以笼统的被归入自然哲学的范畴。
-科学科学，字面上理解，可以看做是分科的学术，细致明确的知识和学科分类，可说是近现代学术的主要特征之一。如何对知识进行分类，体现着对世界的看法，那么在古人眼中，知识和学科的分类又是如何的呢？
-《尔雅》
-为了更好地认识万物，很久以前，先民就开始对事物进行分类。最初的分类，主要是关于平日接触的动植物、矿物等。成书于战国至两汉时代的词典《尔雅》，将动物分为鸟兽鱼虫四大类，这大概是我国最早的动物分类。大约同时代，古希腊哲学家亚里士多德根据动物的性状，将其分为冷血动物、温血动物等类别，并按照其构造完善程度依次排列，形成高低有序的阶梯。
-随着书面著作的增加，以及教育的体系化，为了便于检索收藏，东西方古文明先后发展出了不同的图书编目和学科划分体系，和上面所说的生物分类比较，图书编目和…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些长相比较逆天的昆虫？]]></title>
-        <id>https://daily.zhihu.com/story/9737874</id>
-        <link href="https://daily.zhihu.com/story/9737874"/>
-        <updated>2021-07-07T23:06:27.000Z</updated>
-        <summary type="html"><![CDATA[地平线HOA，简单、有趣、认真的科普。『公众号同名』
-阅读原文
-
-“恐…恐怖机器人？”
-1.“真实的”科普
-前两天在路边一块大石头上，看到这么个玩意儿↓
-
-睿智的我果断求助了朋友圈的大佬：
-——“这啥啊？”
-
-——“小…螃蟹？”
-——“小蜘蛛？”
-——“别瞎说，蜘蛛八条腿！”
-——“看着像个昆虫幼虫？”
-——“某不知名海洋生物？”
-……
-
-——“额，恐怖机器人？”
-
-（别说，还挺像的…）
-2.身背白面馍馍的三角脸星人
-这个东东叫“三角蟹蛛”，拉丁学名Thomisus labefactus，普遍分布于平地至低海拔山区。
-“三角蟹蛛”这个名字取得是相当的传神，把它的两个特点概括得清清楚楚：
-①三角脸↓
-
-不禁让人联想到↓
-
-②远看像个小螃蟹↓
-（尤其是前面两对“胳膊”合起来的时候）
-
-人们对蜘蛛通常有两个印象：有毒、结网。好巧不巧，这俩特征三角蟹蛛都没沾上。
-不过，你要是认为三角蟹蛛性情温顺那就错了，它可是个狠角色。如果说一般的蜘蛛靠毒液和蛛网安静地“务农”，那么三角蟹蛛就是一个四处游荡、以小博大的“猎手”。
-三角蟹蛛长得很“迷你”，最大的个体也就 1 厘米左右。虽然的个头虽然比较捉急，它却能猎捕大自己好几倍的昆虫，比如蝴蝶、飞蛾、蜜蜂等等。
-它们是耐心的猎手，静静在花朵上潜伏着……
-机会来了！
-
-三角蟹蛛的雌雄个体差异很大。
-和雄性相比，雌性三角蟹蛛的体型大得多：成年雌性能长到 12mm，而雄性一般不会超过 5mm。
-除了体型，雌雄个体的颜色差异更明显。雌性以白色为主，而雄性大多以棕褐色为主。
-雄性
-
-雌性
-
-乍一看简直是两个物种……
-其实，抛开那些固有偏见，这些小家伙还是挺可爱的。如果你想知道，它们的确可以做暂时的宠物。
-为什么是暂时的呢？
-因为三角蟹蛛的生命很短暂，大概只有三个多月的时间。
-它们通常在每年的 6 月至 9 月活动，中间的 7 月到 8 月则用来繁衍后代。这个时候，雌蛛会把叶子卷成粽形的巢，然后在里面产卵。
-比较特别的是，小宝宝出生后不会马上开始发育，而是越过冬天后，在次年 6 月开始生长。（这个说法来自拓展阅读 2，但暂时没有找到其他佐证，存疑）
-
-疑似在卿卿我我的雌雄个体↑
-拓展阅读：
-1. 香港常见蜘蛛网，
-https://hkspider.owlhk.org/spider/thomisus-labefactus
-2. ーモアセンスのある顔の蜘蛛！！『アズチグモ』，
-https://konchulivetogether.com/thomisus-labefactus/#toc2
-3. 三角蟹蛛 Thomisus labefactus Karsch, 1881，
-http://gaga.biodiv.tw/new23/9402/36.htm
-©版权所有，转载请后台留言申请
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了《头文字 D》还有哪些经典的汽车题材漫画？]]></title>
-        <id>https://daily.zhihu.com/story/9737865</id>
-        <link href="https://daily.zhihu.com/story/9737865"/>
-        <updated>2021-07-07T23:06:22.000Z</updated>
-        <summary type="html"><![CDATA[彬帝，漫画爱好者，钟爱盘点类回答
-阅读原文
-
-除了 @孟德尔 书记提到的《湾岸竞速 MIDNIGHT》外，我再补充几部我知晓的
-四驱兄弟
-
-赛道之狼
-
-超时空甩尾
-
-极速方程式
-
-关于汽车题材的漫画，之前看过一篇不错的文章分享给大家
-原文链接：不是只有《头文字 D》的秋名山才有老司机_漫画
-·汽车漫画是什么时候兴起的?
-说到漫画中的汽车，要追溯到 20 世纪初。汽车诞生初期它就走进漫画了，不过当时还不是主角，只是在一些描写现实生活、讽刺社会现状的漫画中带有一些有汽车的情节。日本漫画祖师级人物北泽乐天笔下的漫画里就出现过不少汽车相关的故事，应该算是汽车漫画的起源。
-说北泽乐天可能比较陌生，但要是说漫画之神手冢治虫都是受他影响，这个人的地位就清楚了。
-
-20 世纪初北泽的漫画以政治讽刺为主，里面描写过当时权贵有汽车的时代，汽车与庶民间的关系，用一系列小人物的故事来表现平民对汽车的看法与感情，算是最早的汽车相关漫画。
-
-随着时代的发展，漫画在日本形成一种文化，几乎任何东西都可以成为漫画的主题和元素，汽车也不例外。汽车真正成为漫画的主角还要追溯到 20 世纪 60 年代，一些机甲类的科幻作品涌现，同时也有一些描写赛车比赛的漫画出现。1960 年漫画《少年 No.1》开始连载，标志着以汽车作为主题的漫画正式登上历史的舞台。单就日本漫画史来说，这应该是最早的以汽车作为主题的漫画作品。
-这部作品以勒芒赛车、方程式赛车为故事主线，开创了汽车类漫画的先河。当年这部漫画被誉为日本第一的赛车漫画。直至今日，还能购买到复刻版的《少年 No.1》漫画，可见它在漫画历史上也是举足轻重的一部作品。经过它的影响，令其他漫画家也开始创作汽车漫画。
-
-《少年 No.1》不仅是汽车类漫画的启蒙，它也为第一部风靡世界的汽车动画做出了铺垫。经过《少年 No.1》 时代，汽车漫画的情节、画风都得到了肯定。紧随其后漫画…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9737875</id>
-        <link href="https://daily.zhihu.com/story/9737875"/>
-        <updated>2021-07-07T23:06:15.000Z</updated>
-        <summary type="html"><![CDATA[送女朋友拼好的乐高城堡算直男行为吗？
-
-Jxxxx，大学生
-阅读原文
-
-前天晚上和男朋友一起拼了乐高的迪士尼城堡的一小小小半，然后就让他带回家了，约好下次出来再一起拼。今天打视频电话的时候发现，他自己一个人基本拼完了，留了个副塔尖尖给我，说是防止我生气给我留的......
-看到基本成品的那一刻脑袋真实的嗡嗡响，他送我的时候说的那句「我们一起拼，拼完你就住进去！」一直在脑子里面回荡。我不想要吵架，不想让他觉得我无理取闹，但我实在觉得恶心，甚至整个城堡都不想要了。
-拼都拼完了给我干什么？我顶多算个给城堡打地基的建筑工人，我是个住不进城堡的公主病。对我来说，这个迪士尼城堡是他的又一个乐高玩具，不是我们的城堡。
-阅读原文
-
-敖丙为什么打不赢哪吒？
-
-柒个葫芦，想恋爱
-阅读原文
-
-片名已经告诉你了，叫哪吒之魔童降世，不是叫敖丙之灵珠崛起
-阅读原文
-
-人们平均每洗一次头要掉多少根头发？
-
-稀罕小尤，音乐
-阅读原文
-
-我不清楚这个问题
-因为我已经没有头发了
-阅读原文
-
-如何激怒一个航天爱好者？
-
-昙花再现，昙花一现又再现，此中真意已惘然。
-阅读原文
-
-“你说的不对，大刘是这样说的……”
-阅读原文
-
-如何跟我爸解释刘慈欣不是疯子?
-
-邓cl，药师
-阅读原文
-
-诚恳的对您爸爸说：“您说得对，刘慈欣就是疯子！”
-然后该干嘛干嘛。
-放心，没人找你麻烦的。
-因为：
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Look at Building with Astro]]></title>
-        <id>https://css-tricks.com/?p=343495</id>
-        <link href="https://css-tricks.com/a-look-at-building-with-astro/"/>
-        <updated>2021-07-07T21:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …
-The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Web’s Worst Default]]></title>
-        <id>https://css-tricks.com/?p=343388</id>
-        <link href="https://css-tricks.com/the-webs-worst-default/"/>
-        <updated>2021-07-07T14:30:34.000Z</updated>
-        <summary type="html"><![CDATA[There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…
-The post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
         </author>
     </entry>
 </feed>
