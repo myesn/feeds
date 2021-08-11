@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346392",
+          "author": "Chris Coyier",
+          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/view-source-on-mobile/",
+          "publishedOn": "2021-08-10T21:26:34.000Z",
+          "wordCount": 566,
+          "title": "View Source (on Mobile)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345861",
+          "author": "Kitty Giraudel",
+          "description": "Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.\nThat being said: parsing, processing, …\nThe post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/responsible-markdown-in-next-js/",
+          "publishedOn": "2021-08-10T14:55:07.000Z",
+          "wordCount": 1590,
+          "title": "Responsible Markdown in Next.js"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345799",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
+          "publishedOn": "2021-08-10T14:54:56.000Z",
+          "wordCount": 1293,
+          "title": "WooCommerce With Apple Pay and Google Pay"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346355",
+          "author": "Robin Rendle",
+          "description": "Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:\ndiv \n…\nThe post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/",
+          "publishedOn": "2021-08-10T14:51:39.000Z",
+          "wordCount": 2378,
+          "title": "CSS Nesting, specificity, and you"
+        },
+        {
           "id": "https://css-tricks.com/?p=346368",
           "author": "Chris Coyier",
           "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -496,6 +532,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/",
+          "author": "hello@smashingmagazine.com (Henrik Fricke)",
+          "description": "Embedding code examples with third-party scripts often leads to tracking or cookies. We always wanted to have a simple website with a good UX, so setting cookies for no reason wasn’t an option for us. Now, with Indiepen, we are proud to introduce a privacy-friendly alternative.",
+          "link": "https://smashingmagazine.com/2021/08/cookieless-alternative-embed-html-css-js-code-examples/",
+          "publishedOn": "2021-08-10T11:45:00.000Z",
+          "wordCount": 847,
+          "title": "Cookieless Alternative To Embed HTML, CSS And JS Code Snippets",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa2ab15-b98d-48b5-ab26-8a1fde75c13f/cookieless-alternative-embed-html-css-js-code-examples.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about designing for safety. What does it mean to consider vulnerable users in our designs? Drew McLellan talks to expert Eva PenzeyMoog to find out.",
+          "link": "https://smashingmagazine.com/2021/08/smashing-podcast-episode-41/",
+          "publishedOn": "2021-08-10T05:00:00.000Z",
+          "wordCount": 6902,
+          "title": "Smashing Podcast Episode 41 With Eva PenzeyMoog: Designing For Safety",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7449af49-11de-4b63-b8fd-ff823d54b095/smashing-podcast-episode-41.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/http3-core-concepts-part1/",
           "author": "hello@smashingmagazine.com (Robin Marx)",
           "description": "What exactly is HTTP/3? Why was it needed so soon after HTTP/2 (which was only finalized in 2015)? How can or should you use it? And especially, how does this improve web performance? Let’s find out.",
@@ -881,6 +945,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/e7eym01",
+          "author": null,
+          "description": "引用：K. Gharachorloo. Memory consistency models for shared-memory multiprocessors. Stanford University, December 1995.",
+          "link": "https://toutiao.io/k/e7eym01",
+          "publishedOn": "2021-08-11T01:08:00.468Z",
+          "wordCount": 738,
+          "title": "一种形式化地解释内存一致性模型的方法（前篇）"
+        },
+        {
+          "id": "https://toutiao.io/k/q58lu9f",
+          "author": null,
+          "description": "本篇文章我会从内度分配+汇编角度切入 interface，去了解 interface 的原理",
+          "link": "https://toutiao.io/k/q58lu9f",
+          "publishedOn": "2021-08-11T01:07:59.820Z",
+          "wordCount": 552,
+          "title": "Go interface 原理剖析：类型转换"
+        },
+        {
+          "id": "https://toutiao.io/k/f3btssh",
+          "author": null,
+          "description": "前言谈起性能测试，大家经常聊的是高并发、高可用、性能优化、全链路压测等Topic，听起来都挺高大上，但这些概",
+          "link": "https://toutiao.io/k/f3btssh",
+          "publishedOn": "2021-08-11T01:07:59.751Z",
+          "wordCount": 70,
+          "title": "性能测试基础知识体系"
+        },
+        {
+          "id": "https://toutiao.io/k/pp94s1f",
+          "author": null,
+          "description": "前言 之前写过一篇，Java核心书单，里面涵盖了几本主要的Java书籍；后来有朋友反馈说，这几本太少了，没得",
+          "link": "https://toutiao.io/k/pp94s1f",
+          "publishedOn": "2021-08-11T01:07:59.691Z",
+          "wordCount": 179,
+          "title": "Java 书单：比较全的一篇"
+        },
+        {
+          "id": "https://toutiao.io/k/rej9y2m",
+          "author": null,
+          "description": "想象一下，当最后一张火车票同时被两个人购买，去检票口检票时被告知车票无效，这可以接受吗？",
+          "link": "https://toutiao.io/k/rej9y2m",
+          "publishedOn": "2021-08-11T01:07:59.636Z",
+          "wordCount": 103,
+          "title": "关于分布式事务的理解"
+        },
+        {
+          "id": "https://toutiao.io/k/die272y",
+          "author": null,
+          "description": "PC 端自动化之 WinAppDriver",
+          "link": "https://toutiao.io/k/die272y",
+          "publishedOn": "2021-08-11T01:07:59.563Z",
+          "wordCount": 292,
+          "title": "聊聊 PC 端自动化最佳方案：WinAppDriver"
+        },
+        {
+          "id": "https://toutiao.io/k/xxffxp2",
+          "author": null,
+          "description": "Elasticsearch 时区问题，本文说透了\\x26gt;\\x26gt;",
+          "link": "https://toutiao.io/k/xxffxp2",
+          "publishedOn": "2021-08-11T01:07:59.449Z",
+          "wordCount": 339,
+          "title": "Elasticsearch 滞后 8 个小时等时区问题，一网打尽"
+        },
+        {
+          "id": "https://toutiao.io/k/qps3yh2",
+          "author": null,
+          "description": "工作多年，职场经验分享~",
+          "link": "https://toutiao.io/k/qps3yh2",
+          "publishedOn": "2021-08-11T01:07:59.264Z",
+          "wordCount": 55,
+          "title": "工作多年，分享 16 条职场经验给新人朋友"
+        },
+        {
+          "id": "https://toutiao.io/k/d59j3ce",
+          "author": null,
+          "description": "Shreder是一款功能强大的多线程SSH协议密码爆破工具，广大研究人员可以使用Shreder对SSH协议的安全性进行探究。",
+          "link": "https://toutiao.io/k/d59j3ce",
+          "publishedOn": "2021-08-11T01:07:57.215Z",
+          "wordCount": 223,
+          "title": "Shreder：一款功能强大的多线程 SSH 协议密码爆破工具"
+        },
+        {
+          "id": "https://toutiao.io/k/ekc022m",
+          "author": null,
+          "description": "名称分类名称查找 ordinary lookupADL (Argument-Dependent Lookup)官网的例子ADL 的缺点在 C++中，如果编译器遇到一个名称，它会寻找这个名称代表什么。比如 x*y，如果 x 和 y 是变量的名称，那么就是乘法。如果 …",
+          "link": "https://toutiao.io/k/ekc022m",
+          "publishedOn": "2021-08-11T01:07:56.607Z",
+          "wordCount": 732,
+          "title": "C++ 名称查找与 ADL"
+        },
         {
           "id": "https://toutiao.io/k/577hown",
           "author": null,
@@ -1375,6 +1529,15 @@
           "publishedOn": "2021-08-05T01:08:09.439Z",
           "wordCount": 1102,
           "title": "从零开始写一个微前端框架（渲染篇）"
+        },
+        {
+          "id": "https://toutiao.io/k/ypqgfac",
+          "author": null,
+          "description": "今天中午在家吃午饭的时候，孩子妈妈说早上和中午用的筷子比较多，待会吃完可能需要先洗一波筷子，不能直接放到洗碗机里面（我们家基本都是一天开一次洗碗机），否则晚上吃饭筷子就不够了。我最近沉迷于系统设计，于是就和我们家的七岁小朋友聊起了该如何解决这个问题。 需求 功能需求 从妈妈的描述中，我和儿子总结了以下几个功能需求： 家人可以用筷子进行吃饭。 筷子可以被清洗和再利用。 家人可以购买（增加）和淘汰不好的筷子。 家人可以选择不同的筷子进行吃饭。 。。。 非功能需求 需要筷子的时候能够迅速拿到（Low latency） 已经加入的筷子能够一直都在，不会无故发生丢失的情况。（High Reliability） 任何想要筷子的时候，都能够得到筷子的状况。（High Availability） 容量分析 假设家里有三个人，每个人每顿饭需要使用1双筷子，那么每顿饭就需要3双筷子。 妈妈烧菜需要使用一双筷子进行尝菜，所以每顿饭需要的筷子就是3+1=4双。 存储分析（Storage Estimation） 假设我们每天清洗筷子一次，那么筷筒需要能够容纳4双/顿*3顿=12双。考虑到70%的使用率，我们购买的筷筒最好能够容纳12/0.7=18双筷子，如果每双筷子占筷筒的两格，那么筷筒需要有18*2=36个格子。 带宽分析（Bandwidth Estimation） 每顿饭4双筷子，所有QPS就是4双/顿。 API的设计 获取筷子： GetChopsticks(UserToken, chopstickCount = 1, option chopstickType =...",
+          "link": "https://toutiao.io/k/ypqgfac",
+          "publishedOn": "2021-08-04T02:29:28.000Z",
+          "wordCount": 256,
+          "title": "如何让七岁小朋友学会系统设计"
         },
         {
           "id": "https://toutiao.io/k/bbvjfjt",
@@ -3391,96 +3554,6 @@
           "publishedOn": "2021-07-13T01:08:54.547Z",
           "wordCount": 781,
           "title": "TransactionTooLargeException 问题分析与解决"
-        },
-        {
-          "id": "https://toutiao.io/k/pf1xh92",
-          "author": null,
-          "description": "ASSIC中十六进制0为字符NUT，表示为空字符NULL。但这个字符在不同的编程语言、不同的运环境中却有着不一样的呈现，如果换一个角度看，空字符也就是无字符也就能解释ASSIC空字符没有显示了。",
-          "link": "https://toutiao.io/k/pf1xh92",
-          "publishedOn": "2021-07-12T01:06:07.529Z",
-          "wordCount": 97,
-          "title": "Golang 中的空字符，似花不是花"
-        },
-        {
-          "id": "https://toutiao.io/k/6ts3psa",
-          "author": null,
-          "description": "Zookeeper最全面的总结！！！",
-          "link": "https://toutiao.io/k/6ts3psa",
-          "publishedOn": "2021-07-12T01:06:07.459Z",
-          "wordCount": 128,
-          "title": "史上最全 Zookeeper 面试题及答案总结"
-        },
-        {
-          "id": "https://toutiao.io/k/kl90dzl",
-          "author": null,
-          "description": "深入理解C A S的本质",
-          "link": "https://toutiao.io/k/kl90dzl",
-          "publishedOn": "2021-07-12T01:06:07.392Z",
-          "wordCount": 231,
-          "title": "由浅入深 C A S，小白也能与 BAT 面试官对线"
-        },
-        {
-          "id": "https://toutiao.io/k/7ivhfgz",
-          "author": null,
-          "description": "硬核的前端知识！",
-          "link": "https://toutiao.io/k/7ivhfgz",
-          "publishedOn": "2021-07-12T01:06:07.326Z",
-          "wordCount": 791,
-          "title": "JavaScript 函数式编程解析（上）"
-        },
-        {
-          "id": "https://toutiao.io/k/jxe2myw",
-          "author": null,
-          "description": "点击劫持Tapjacking，是一种欺骗用户进行点击的攻击技术，对于普通用户危害却极大，是一种容易忽视的安全威胁。",
-          "link": "https://toutiao.io/k/jxe2myw",
-          "publishedOn": "2021-07-12T01:06:07.247Z",
-          "wordCount": 404,
-          "title": "不可忽视的威胁：Android 中的点击劫持攻击"
-        },
-        {
-          "id": "https://toutiao.io/k/lsz4d8v",
-          "author": null,
-          "description": "微服务，拆就完了？",
-          "link": "https://toutiao.io/k/lsz4d8v",
-          "publishedOn": "2021-07-12T01:06:07.171Z",
-          "wordCount": 116,
-          "title": "微服务的灾难：拆的很爽，但服务太小"
-        },
-        {
-          "id": "https://toutiao.io/k/jghtnwm",
-          "author": null,
-          "description": "重要！收藏",
-          "link": "https://toutiao.io/k/jghtnwm",
-          "publishedOn": "2021-07-12T01:06:07.107Z",
-          "wordCount": 83,
-          "title": "如何写好一份 30K offer 的简历？"
-        },
-        {
-          "id": "https://toutiao.io/k/6b7chfm",
-          "author": null,
-          "description": "加入「码农周刊VIP会员」，一起牛起来！",
-          "link": "https://toutiao.io/k/6b7chfm",
-          "publishedOn": "2021-07-12T01:06:07.020Z",
-          "wordCount": 82,
-          "title": "[推荐] 工具 | 腾讯开源的一套运维脚本管理系统"
-        },
-        {
-          "id": "https://toutiao.io/k/r1udrux",
-          "author": null,
-          "description": "PCIe 是当前使用最广泛的硬件高速总线接口，业界主流的 GPU、网卡、存储等系统几乎都通过 PCIe 总线和 CPU 通信，因此，对于大规模数据中心来说，PCIe 的稳定性和可维护性对整个数据中心的高可靠、高可用性至关重要。",
-          "link": "https://toutiao.io/k/r1udrux",
-          "publishedOn": "2021-07-12T01:06:06.872Z",
-          "wordCount": 107,
-          "title": "Facebook 工程经验：PCIe 故障监控和修复"
-        },
-        {
-          "id": "https://toutiao.io/k/ohwsofq",
-          "author": null,
-          "description": "平时开发中经常需要记录时间，比如用于记录某条记录的创建时间以及修改时间。在数据库中存储时间的方式有很多种，比如 MySQL 本身就提供了日期类型，比如 DATETIME，TIMESTAMEP 等，我们也可以直接存储时间戳为 IN…",
-          "link": "https://toutiao.io/k/ohwsofq",
-          "publishedOn": "2021-07-12T01:06:04.245Z",
-          "wordCount": 166,
-          "title": "MySQL 中存储时间的最佳实践"
         }
       ]
     },
@@ -3489,6 +3562,24 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/478580523/answer/2050928315",
+          "author": "云吞花卷",
+          "description": "暂时没什么人写，我来自问自答一下吧。\n我觉得漫画的绘制过程是比较枯燥和耗费精力的过程，和编辑的洽谈也并不一定会那么有趣。所以搞这么个类似爆漫王的活动，我本来是不特别看好的。而且哪有说刚看个漫画开头，还没开始连载，就决定动画化了？这绝对是最速动画化了吧。所以我对这个综艺其实是有一丝怀疑态度的。\n实际上，这个活动1-6期的油管视频，各话的播放数分别是：第一话：31w；第二话：14w；第三话：43w；第四话：14w；第五话：9.3w；第6话目前：14w。参考，jump油管大概目前300个视频出头，100w以上播放数的13个、50-100w的视频21个、30-50w的视频20个、20-30w的视频24个、10-20w的视频40个，所以算是，马马虎虎吧；或者说，是个“实验性质”的节目。\n不过这个节目还是很有意思的，比如里面提到的水之呼吸名字的由来是编辑的决定；贺来和三浦的对谈；境界触发者短篇的情节拆解；等等等等，从这方面来说，这个节目还是有一些收获的。\n其中1，2期的奖励和2期的辅助，分别是：藤本树的电话，远藤达哉的信件，贺来友志的对谈；而电锯人，间谍过家家，地狱乐这三部漫画，都是将要动画化的作品，所以以jump+为主体的这个节目，明显也承担了部分这三部作品的宣传工作。因此个人推测，第三轮冠军的奖励，大概是怪兽八号的作者：松本直也的解惑，你两周一更，还是有时间搞这个的吧。\n主持人们不说了，樱小姐真可爱。（竟然这么多期节目都没换衣服，出乎我意料，记得我看投石台里面她几乎就没穿过相同的衣服。）\n\n编辑x漫画家阵容，林不用说了，从前面藤本树贺来友志远藤达哉就可以看出来吧，这全是林做的编辑，也是jump+最能打的作品，他明显非常注重漫画家自身的“输入工作”，所以其他人都开始画了，他们组总是：先花一周看各种书籍，漫画，电影，等等，然后再动手，非常稳健。分镜对门开合的修改，对整个剧本的改善，都一语中的，林编辑真是强。搭档的漫画家是个很有意思的人，年龄是六组中最大的，画风我也相当喜欢，有种“魔性”。每轮的故事也都挺有意思，不过第三轮的那个战斗漫画，虽然挺乐呵类似间谍过家家，但真的距离“异能力战斗”差的好远啊...估计真的不擅长这类吧。我个人也是觉得这组是最稳的。\n\n\n玉田个人是觉得真不行...前两轮把小姑娘心理都有点搞崩了，不知道他到底再做些什么，心理起伏太大了。第一轮那个四格，看到第一页就能猜到最后一页。我记得第一轮的标准大概是“反转，震惊感”之类的，这作品怎么拿的出来嘛。第二轮心态完全就崩了，看画面就看的出来。第三轮虽然是她擅长的战斗漫画，但个人觉得那个作品拿前三可以，拿第一还有点牵强...和第一轮一样，这位漫画家对漫画角色的情感拿捏的不太行，情感变化的有些突兀...所以我认为这肯定是有剧本的成分在里面...\n\n对冈本没什么印象...可能是这组的漫画家点子太多了所以忽视了...但是每轮这组呈现出来的作品我都很满意，和林那组并列是我最喜欢的。第三轮的魔法少女回家，虽然故事和怪兽八号有些像，有的地方的分镜我觉得有点问题，但依旧是我最喜欢的作品，第二轮的CO2也不错。\n\n李光良这组，是唯一一组三轮排名前三的，搭档的是“性癖猫”。我认为这个编辑还是很有实力的，比如他对异能力战斗漫画的一些坚持：必须要有必杀技；不过性癖猫真的是个非常“坚持自我”的作者，从第一回的换装play，到第二回的摸胸，第三回的体液交换，她的每部作品都非常有自己个人的风格。不过似乎这组编辑和作者是相对最针锋相对互相争论的。\n\n双女性这组，关系应该是最融洽的，可能是两个人兴趣很相近吧。第二轮编辑帮忙找自己同学进行话剧社的取材这点，可以看出还是很尽职尽责的。其他没有什么特别想说的。\n\n浅井这组，虽然我对浅井还是挺有怨念的...毕竟是马修的编辑，而且还各种破事...但是他的确还是做了些事情的...第一回看了大量的四格漫画总结了经验，第三回拆解了触发的那个迅的短篇，这些我觉得做的都不错。不过第一回的故事怎么说呢，感觉恐怖漫画应该是“细思恐极”的，而不是它那种呈现...第二回的故事不太行不说了...第三回应该说，他们组的漫画反倒是最符合“异能力战斗”的。\n\n总之，这个节目我还是觉得挺有意思的，毕竟漫勉就挺有意思的，这应该是另一种展示漫画家与编辑日常生活的方式了。节目时长一期大概也就半个小时以内吧，不过实际上他们第2，3回漫画评比我记得是绘制时间是3周，剪出半个小时，应该还是富裕的。不过我个人还是对直接动画化的决定抱怀疑态度...这真的能行吗...\n大概就这样，溜了溜了。\n\n来源：知乎 www.zhihu.com\n云吞花卷\n点击下载\n1 个回答，查看全部。\n有哪些极端不以画工见长的漫画/漫画家？\n漫画以后是否会消失，想成为漫画家，很担心？",
+          "link": "http://www.zhihu.com/question/478580523/answer/2050928315?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-10T15:30:09.000Z",
+          "wordCount": 97,
+          "title": "如何评价集英社的编辑X漫画家节目 million tag?"
+        },
+        {
+          "id": "http://www.zhihu.com/question/383497512/answer/2051296175",
+          "author": "AMPLITUDE STUDIOS",
+          "description": "大家好！\n首先感谢知乎团队的邀请入驻。还有八天，我们的游戏《人类（《HUMANKIND™）》就要上线了，今天为大家带来一个有趣的花絮视频~\n《人类（HUMANKIND）》游戏规模\n游戏中共有60种不同的历史文化，你可以把它们结合起来，创造一个与你一般的独特文明。我们进行了简单的计算，推断出这60种文化可以产生超过一百万种不同的最终组合……不过实际上，我们到现在都还没算出最终的数字，我们还提供了近乎无限的虚拟形象自定义选项，可以说是无穷无尽~\n所以说游戏的规模很大，但我们还想用更多的数字来告诉你游戏究竟有多大。 \n在《Humankind》中，你可以看到129种不同的单位，他们将在10种细致精美的生态群落中穿行。这些生态群落中栖息着45种不同的动物物种，它们将在荒野中漫游，而你最终也会在其中繁衍生息。而你借此获得的成就和历史声望时刻，将通过700幅独特插图中的一幅来彰显。 \n随着你不断壮大你的文明，在93种科技中不断发展，你将体验到13个半小时的声响效果，内有超过1300个声音文件。与此同时，Arnaud Roy的280首气势磅礴的曲目将不断穿插其中，总共520分钟的配乐，由63名独立音乐家和20名合唱团歌唱人倾情演绎。 \n你自定义的虚拟形象将随着你的文明而发展，你将能够从超过122件量身定制的服装中为他们选择着装，而这些虚拟形象会通过10000多条配音台词来在游戏中表达他们的赞成或反对意见。你在150个叙述性事件中所做的选择将进一步丰富你和你的文明，而你将与竞争对手显得愈发不同——尤其是在支持10名玩家的多人游戏中！ \n《Humankind》已可在PC和Stadia平台上进行预购。游戏现在还将从8月17日起登陆Microsoft Xbox Game Pass。我们迫不及待地想让你和我们一起玩游戏，分享你的经历。\n- Amplitude团队\n\n来源：知乎 www.zhihu.com\nAMPLITUDE STUDIOS\n点击下载\n8 个回答，查看全部。\n如何评价「怒之铁拳3」这部世嘉MD游戏？\n如何看待索尼官方发布疑似metal max重装机兵(误)新游戏预告？",
+          "link": "http://www.zhihu.com/question/383497512/answer/2051296175?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-10T11:30:08.000Z",
+          "wordCount": 23,
+          "title": "如何评价2021年8月发售的策略游戏新作《HUMANKIND》（人类）？"
+        },
         {
           "id": "http://www.zhihu.com/question/477844835/answer/2043691123",
           "author": "运动分子",
@@ -3722,15 +3813,6 @@
           "publishedOn": "2021-07-13T13:15:08.000Z",
           "wordCount": 21,
           "title": "关于深度学习框架的一些自己见解"
-        },
-        {
-          "id": "http://www.zhihu.com/question/453183108/answer/1988984965",
-          "author": "老叮当",
-          "description": "看到鱼总 @鱼缸里的沫沫鱼 吐槽了，我也忍不住了，来批评两句。\n第一集孤独清冷的氛围感营造的极为出色，修正水平也相当不错，还原了博老师人物原案的魅力，再加上KAI社上一季刚做出了一部无可指摘的《赛马娘 第二季》，所以我起初的期待是放到《摇曳露营》精神续作这一水平线上的。\n最后发现除了在修得烂这一点上堪称青出于蓝而胜于蓝之外，本田小狼和马娘二期完全是两回事。\n一方面是演出手段的贫乏，空气系空气系不是说连演出都空掉了，相反由于空气系作品的故事相对薄弱，其实往往更需要高浓度的演出来保障观感。可惜本田小狼的演出只有三板斧：换滤镜、古典乐、同ポ（与之前的Cut使用同样的镜头位置、构图），而且都在第一集用过了，到中后期明显感到黔驴技穷。\n换滤镜\n当然换滤镜只是个说法，真正想要做到这种滤镜效果也没那么简单，本片监督藤井俊郎4年前在《18IF》演出回里就用过了类似的手法:\n\n\n只是这种手法，讲究一个一击脱离。如果用来展现压抑了一整集后，终于打破了灰暗世界的镜面，从原本黯淡的生活中走出，那是极好的，第一次看到路边的风景染上缤纷的颜色时，我的内心也是被触动了的。但问题在于，你也别十二集全这招啊，在灰暗和彩色的世界进进出出，小熊的生活真是容易褪色啊。\n古典乐\n日常生活细节的原声采样值得表扬，但配乐方面，大量的古典乐又显得喧宾夺主了。亲和力强是古典乐的优势，能够应用于绝大多数场景，但劣势同样明显。\n听到立山秋航木吉他和笛子打底的民乐，一下子就能想到本栖湖的美景，听到加藤达也、藤泽庆昌悠扬的管弦乐，一下子就能“哇嘎里马斯达”，听到日本贝多芬磅礴的管弦乐电子乐混搭，一下子就能“燃起来了”，配乐是决定观众对一部作品的“印象”的隐性的关键因素。很多日本作曲家不仅旋律写得好，编曲水平也很高，擅长在曲子里塞一堆乐器还能协调得很好，大大提高了听感。相比之下，多数为单一配器的古典乐实在是太单薄又缺乏特点了，然而本田小狼使用的古典乐多达15、6首，乃至就算其中混有几首石川智久和ZAQ的配乐，也完全没有感觉。一季度看下来，愣是没有一首抓住我耳朵的配乐，脑子里全是德彪西、德彪西、德彪西、李斯特、肖邦……\n同ポ\n同ポ截取了世界的一个角落不同时间的风景，展现了时间流转，四时之景不同。\n相比之下，同ポ除了用得多也没啥毛病可挑了，而且不得不说草薙的美术是好，一些固定机位空镜头反而能发扬优点。\n\n演出手段过于贫乏，演出意图又显而易见，玩不出新花样后进入了枯燥模式，如果只是无聊也罢，偏偏在于动画对女主角小熊的塑造又出现了问题（其实当我要去讨论人物塑造和故事逻辑的时候，这部作品对我而言已经是失败的了）。\n不止是大家都在吐槽的11集的荒诞营救，前几集就有所体现了，比如ep9收到椎子父亲赠送的贵重毛衣后理所当然地推给椎子去改，ep10打雪仗时用摩托车降维打击，如果到这还能勉强面不改色地说一句“小熊的性格真是糟糕啊“，那到ep11耳光扇醒落水椎子宣扬“小狼精神”的时候就真像邪教组织出来的，让我彻底蚌埠住了。\n\n我能理解制作组想塑造一个文静、孤独、不善表达情绪的少女小熊，但我看到的是一个无力、缺乏常识、唯cub至上的小熊，这其中的落差让摩托车的机油味盖过了少女之间的人情味，离温暖可爱的日常越来越远。\n很可惜的作品。\n————————————————————————————————————————\n我记得19年当初《卡罗尔和星期二》刚上时， @海月的虚空秋凉的时鸟 说：\n\n《本田小狼与我》开播时， @海月的虚空秋凉的时鸟 又说：\n\n不禁想问，真的成功了吗？ =。=\n\n\n\n来源：知乎 www.zhihu.com\n老叮当\n点击下载\n46 个回答，查看全部。\n如何评价2021年4月新番《异世界魔王与召唤少女的奴隶魔术 第2期》？\n2018年4月新番有哪些值得关注？",
-          "link": "http://www.zhihu.com/question/453183108/answer/1988984965?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-07-12T11:30:10.000Z",
-          "wordCount": 83,
-          "title": "如何评价2021年4月动画《本田小狼与我》？"
         }
       ]
     },
@@ -3739,6 +3821,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9739056",
+          "author": null,
+          "description": "Scotty，我总能找到些被忽视的珍珠\n阅读原文\n\n0.写在最前\n在写这篇回答前，我看到有不少答主推荐了培根和梵高，\n我非常喜欢弗朗西斯.培根谈及梵高时提及的一个观念：梵高跟他一样，是具有痛苦意识的人，\n在我看来，压抑画面表现其深层次是痛苦意识传递出的内心挣扎，\n这也是本篇回答的推荐筛选标准，\n本篇回答共推荐 9 位画家和他们的 77 幅作品，\n本来打算是要推荐十五位画家的，\n但是我实在是写不下去了，作品太压抑了，我现在整个人现在都不好了，\n等看什么时候我人缓上来了再继续更新和深入编写；\n1.珂勒惠支的版画和素描（二十二幅）\n一位为无产阶级发声的伟大画家，一位革命者，一位母亲；\n我忘不了我高二时柯勒惠支带给我的震撼，一种压抑到极致的悲鸣，珂勒惠支的作品包含浓郁的人文情怀，她影响了我国的数代版画家，画面张力之深刻，内容之悲泣，每每回顾，不忍猝读。\n《医院就诊》《耕夫》农民战争组画《自愿者》（手稿）1922 – 1923《匮乏》(手稿）《战场》农民战争组画《俘虏》农民战争组画《母亲》《母亲》《纪念逝者 - 悼念卡尔·李卜克内西之死 》1919《突击 》1929《遗孀 I》1922—1923《父母 》为国际工会联盟所作的海报设计《女人和死去的孩子 》1923《死亡和女人》1907《犁夫和女人 》1902《磨镰刀》1905《死亡》《德国的孩子正在挨饿》1924\n凯绥·珂勒惠支（1867-1945）是德国 20 世纪最重要且最具影响力的艺术家之一。她的作品深刻地表现了她对人与社会、人与人之间关系的理解，渗透着浓郁的人文情怀。珂勒惠支的作品题材丰富广泛，对生与死、悲与喜、战争与和平，尤其是对母爱及生命中那些闪烁爱的光芒的瞬间之刻画，可谓主题鲜明而又入木三分。“这是一个无助而彷徨的时代，我承认自己的艺术是有‘目的’的，我要经历这个时代、勾勒这个时代、影响这个时代。”——这便是这位有着使命感的艺术家的创作信条。在德国，众多的学校及马路都以她的名字命名。早在东德、西德统一之前，她对社会时弊的批判、她所秉持的高尚人文情操就已赢得了人民的尊敬和爱戴。\n2.西班牙艺术家 Guim Tio Zarraluki 的风景（九幅）和人像（五幅）\n他的风景画作品和人像作品在我看来视觉上的差异非常大，风景画表现得比较克制，而人像则非常有冲击力，但它们二者想表达的东西在我看来是一致的，一种异化的郁结；\n\n3.波兰女画家 Marta Zamarska 的火车站系列（六幅）\nMarta Zamarska 笔下的车站和人都带着一股离别的忧郁，饱含着一种孤寂和带有末世幻灭的意味，沉焖、忧郁且压抑；\n\n4.意大利画家 Paolo Troilo 的手指画人体（六幅）\nPaolo Troilo 的作品都是用手指涂手蘸丙烯颜料画成的，他的人体绘画极具张力，在我看来，Paolo Troilo 所体现的是某种被压抑到临界点后即将爆发的前夕，通过极致的表现，他将培根的那种画面上的痛苦意识展现地淋漓尽致；\n画家个人网站：Home | ilmiosito\n\n5.Guy Denning 的炭笔人像（七幅）\nGuy Denning 的创作源头主要是源于童年时期对战争印象，虽其本人未亲历过战争，但儿时参观凡尔登战役的纪念墓地的回忆在他的脑海中挥之不去，他的炭笔作品表现力十足，表现出创伤和萧索破败的画面气质；\n画家个人网站：guydenning.org\n\n6.美国加州画家 Kai Samuels-Davis ​​​​的碎片肖像（七幅）\n他的画面中，最打动人的是眼睛，要么低垂眼眸、要么无助凝望、要么痛苦紧闭，搭配上碎片式的笔触，所营造出的氛围不言而喻，让人感受到阴郁、凋零和支离破碎的心。\n画家个人网站：Kai Samuels-Davis\n\n7.Alisher Kushakov 笔下的女性（六幅）\n\n8.Jakub Schikaneder 的被悲哀之痛（八幅）\nJakub Schikaneder（1855-1924），他是我最不忍看的画家，每次看到他的作品，我的内心就忍不住地悲伤；\nJakub Schikaneder 以他对户外的柔和画作而闻名，经常在情绪上感到孤独。他的画常以贫穷和被遗弃的人物为特点。希卡内德喜欢的其他图案还有秋天和冬天，布拉格市和伏尔塔瓦河（Vltava）河岸的角落和小巷——通常是在傍晚的光线下，或是披着薄雾。\n\n9.法国象征主义画家 Odilon Redon病和狂的梦幻曲（十幅）\n奥迪隆·雷东(Odilon Redon,1840--1916)法国画家，印象派的领军人物\n被德尼比作\"画坛的乌拉梅\"。雷东在美学上主张发挥想象而不依靠视觉印象。19 世纪 70 年代末他开始创作石版画，共创作了近 200 幅，总标题为《在梦中》。法国作家于斯曼称雷东的画是\"病和狂的梦幻曲\"。\n\n以上\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739056",
+          "publishedOn": "2021-08-10T23:08:24.000Z",
+          "wordCount": null,
+          "title": "有哪些令人很压抑的画？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739065",
+          "author": null,
+          "description": "chenqin，数据帝\n阅读原文\n\n从有电子计时器开始算起，在有记录且风速不超标的比赛中，全世界共有多少运动员，多少次跑进了 10.2 秒？\n940 人，共 10411 次。即便把阈值拦在 10.2 秒，而非 10 秒，世界上能达到这一速度的人仍然没有达到一千。我们将这 940 人的 10411 次比赛，按照他们的年龄画成一张散点图。\n\n这张图看起来像是一座小山丘。从 17、18 岁开始，速度快速提高；在 26 岁左右，山丘达到顶峰；在 30 岁后，速度逐渐下降。山丘内侧的点非常密集，代表着很多运动员曾经达到过这里，而越外层的点越稀疏，那是最优秀的运动员才能达到的区域。\n我们在这张图上，把除了苏炳添以外，其他所有东亚地区跑进 10.2 秒的比赛（同时去掉了归化运动员和混血儿）数据给高亮出来：\n\n东亚运动员的记录用黄色高亮出来后，给人的第一印象就是，黄色的点缩在蓝色山丘的中间，完全被包围，几乎完全到不了外层。\n当然，你可能会注意到上图的左侧有几个处于外圈的点，尤其是在 17 岁达到 10.01 的那一点，看起来分外出挑。\n这几个成绩来自同一名日本运动员——桐生祥秀。桐生祥秀至今保有着世界青少年 100 米赛跑世界纪录，当时也曾成为希望之星，人们看好他在世锦赛和奥运会上能有上佳表现，突破人种的限制。\n但事与愿违，桐生祥秀后期不仅一到大赛就让人大跌眼镜，还越跑越差，现在连奥运会标准都无法达到了。在一次苏炳添的访谈中还专门提到了桐生祥秀：\n程：明白了，就是说冬训的两三个月，每一个训练单元跑的次数，是阶段性变化的，开始时次数多，速度要求不高；第二、第三阶段后，一个训练单元跑的次数减少，要求运动员上速度。有一个例子，日本短跑运动员桐生祥秀，你跟他多次比赛过的。我在《参考消息》上看到报道，说他是日本第一个进 10 秒的百米跑运动员，是吧？\n苏：对。\n程：桐生祥秀进 10 秒以后呢，他的训…",
+          "link": "https://daily.zhihu.com/story/9739065",
+          "publishedOn": "2021-08-10T23:08:17.000Z",
+          "wordCount": null,
+          "title": "苏炳添和博尔特差距还有多远？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739057",
+          "author": null,
+          "description": "於文漪，中文系毕业的综艺导演 戏剧青年在路上 戏剧合作请私信\n阅读原文\n\n从音乐，空间和视觉语言几个角度来说说为什么“巴黎八分钟”这场秀能表现得又年轻，又酷，又具有浪漫的人文气息。\n音乐与空间的共振\n这次“巴黎八分钟”的音乐总监是我非常喜欢的法国秀导 Woodkid，他非常擅长将音乐视觉化，Katy Perry 的 Teenage Dream，打雷姐的 Born to die，哈卷的 Sign of the times 这些传播度超高的 MV 都是出自他手。\n而这次，他用分布在不同地方的交响乐团来完成的《马赛曲》，不仅将乐感融入视觉语言的表达，也将音乐的空间感做了非常精彩的表达。\n开头女性音乐家在法兰西体育场屋顶吹奏长笛总起，长笛的音色是非常清亮，悠扬的，笛声仿佛从高点绕场一周，尔后一路飘扬向上，飞入云霄。\n\n巴黎中心的塞纳湖畔，一组音色非常接近人声的小提琴随流水的波动奏出赞歌。\n\n回到卢浮宫，两组音色空灵的马林巴琴把整个圣洁博大的空间充满。同时，马林巴琴其实是一种发源于非洲的民族乐器，在近年也有不少当代音乐家会把它和古典乐团编到一起。它的出现也是向法国庞大的非裔族群的一个致意。\n\n乐曲层层递进，一位钢琴家出现在废弃的铁轨前。这个地方其实是巴黎的一处旧城改造项目，从废弃的 Petite Ceinture 内环铁路，（感谢评论区知友 @Enzo Jiang 更正补充：这段内环铁路大概废弃了一百年了，最近十几年确定不会再要之后开始慢慢改造成其他市民项目）改为了以“DIY”为核心的人文艺术中心，这里可以举办各种艺术工作坊，集会，电影放映等。这个场景的出现也是奥委会对“环保”观念的一个考量。\n\n该场地实拍图：\n\n随着打击乐的进入，镜头切换到巴黎著名的滑板公园（The Diderot Skatepark），滑板落地声也组成鼓点的一部分。滑板这种源于街头，现在也被纳入奥运会项目的运动，…",
+          "link": "https://daily.zhihu.com/story/9739057",
+          "publishedOn": "2021-08-10T23:08:09.000Z",
+          "wordCount": null,
+          "title": "如何评价东京奥运会闭幕式上的「巴黎 8 分钟」环节？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739074",
+          "author": null,
+          "description": "Moriarty K，正常合作请私信，洗稿白嫖劝收手。\n阅读原文\n\n或许大家都知道这是一个经久不衰的经典都市传说，但很少有人知道这并非空穴来风，而是经过很多生理学家、法医学家进行的一系列科学实践研究，最终方才被抛弃的。\n首先不得不提一提，“视网膜破案”的影响力确实不小，以至于很多文化程度比较低的凶手真的信以为真，做贼心虚的在杀人后实施附加行为，把受害人眼睛挖去，这种做法的意义只能是强行为自己加上个侮辱尸体的罪名。\n回到问题本身，我们首先必须知道，眼睛是如何正常工作的。\n这是一个眼结构：\n\n如图，光线依次经过角膜、虹膜中央的瞳孔、晶状体、玻璃体，在视网膜上成像，视觉细胞的兴奋经过视神经传递到大脑皮层的视觉中枢，最终形成视觉。\n在这整个过程中，无论是瞳孔还是视网膜，都仅只是一个短暂的中点站，产生影像最为关键的是其过程中产生的电信号传递，没有任何一个单一结构能够做到记录储存画面。\n所以，人死了，这一系列刺激传递过程是被中断的，自然无法达到“记录”的效果。\n\n在基本了解完这些基本点之后，我更想说的是这个都市传说背后一些可信的地方。\n一.在过去，一些法医学家确实研究过这种破案方法\noptography，大致意思是“视网膜图像还原”，在二十世纪初曾经是一个小型学科，研究点就在于通过视网膜来“还原最后一刻看到的事物”，其原理在于视网膜上面的两种感光细胞：\n——视锥细胞（Cone Cell)和视杆细胞(Rod Cell)\n\n简单来说，这两者的工作主要是接受传递过来的光刺激，将其转化为神经冲动，充当光感受器的作用，视杆细胞中有一种视蛋白叫做“视紫质”，在光下起色觉作用，对光极其敏感，遇到光就褪色，而在暗处会慢慢恢复。\n视紫质全称“视网膜紫质”（Rhodopsin)，呈红紫色并因此得名（平行于细胞膜）\n基于这一点，研究者认为虽然视网膜不具备存储的能力，但由于视紫质这种特殊的机制，通过观察其褪色情况，可以对死前一刻的环境情况进行一些基本判断。\n研究者做了三组实验，首先准备三只兔子：A、B、C\n让 A 处于一件小黑屋里，然后杀掉它，并立刻记录视网膜画面。\n让 B 处于一个拱形窗前，然后杀掉它，并立刻记录视网膜画面。\n让 C 处于一个方形窗前，让后杀掉它，并立刻记录视网膜画面。\n这三组实验的效果还不错，因为确实记录下了窗户的轮廓：\n从左到右依次是 A 兔、B 兔、C 兔\n但是研究人员很快就意识到，这个技术有着一些致命的缺陷：\n——视紫质的光感变化过程虽然明显，但是时效太短，若非死后短时间内记录，那就毫无意义。\n——视紫质虽然可以对光暗情况进行反馈，但也局限于此，基于此技术不能做到人们想象中那样的“拍照”水平，只能对环境明暗对比做出提示，作用太过于有限。\n这两个缺陷，让 optography 的实际运用化为泡影，因为警察不可能每次出命案就瞬间移动到案发现场，更别说得到的大概率也不是足够破案的提示信息。\n\n虽然眼睛无法记录下凶手的相貌等细节，但眼睛对于法医学依旧有着极其重要的作用，这也是为什么很多时候能看到法医翻开死者眼睛检查的原因。\n顺手科普一下：\n1.提取玻璃体，判定死者死亡时间\n\n作为人体细胞内液的主要阳离子，其浓度一般较为稳定，人在死亡后细胞通透性改变导致大量钾离子外涌，在眼结构内主要流动方向就是玻璃体。\n于是，死亡时间越长，玻璃体内钾离子浓度就越高，提取死者玻璃体，对其中钾离子浓度进行分析，可以大致判断死亡时间。\n2.角膜混浊度，判定死者死亡时间\n尸体角膜混浊（Postmortem turbidity of cornea）是一种常见尸体现象，人死后粘多糖水和作用受阻，导致角膜透明度下降，变混浊至灰白色。\n通过角膜混浊的程度，可以初步判断死亡时间。\n角膜中度混浊，提示死亡 24 小时左右\n3.提取玻璃体，判断死亡原因\n这个一般情况下不太会用，因为毒物检测可以用的东西很多，但某些“特殊情况”玻璃体也行，能用来做毒物检测。\n4.特征性提示\n眼睑结膜出血点能够提示机械性窒息（70％左右）\n有机磷中毒死亡，一般瞳孔会缩得很小\n巩膜黑斑，提示尸体在干燥环境中存放过一定时间\n巩膜黑斑\n相关：\n死不瞑目从法医学的角度来说应该如何解释？\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739074",
+          "publishedOn": "2021-08-10T23:08:05.000Z",
+          "wordCount": null,
+          "title": "现实中警察真的能通过死者眼球记录下的影像破案吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739079",
+          "author": null,
+          "description": "当着猴群的面把猴王打败，我会成为猴王吗？\n\n沃金，心眼小，报复心强，记性好。\n阅读原文\n\n非本土出生公民无权参选美国总统。\n阅读原文\n\n有哪些送给女朋友又不会显得太直男的七夕礼物推荐？\n\nThinkraft，Obsessive-Compulsive-Personality-Disorde\n阅读原文\n\n一封出柜的信。\n阅读原文\n\n因为文身，你被特殊对待过吗？\n\n要走就别回头丶，时间总会说出再见-\n阅读原文\n\n年纪比我大的叔叔们会主动给我递烟 \n阅读原文\n\n有个玩辩论的情侣，吵架会是一种什么感觉？（我不会辩论）？\n\n知乎用户\n阅读原文\n\n吵完复盘\n阅读原文\n\n有个优秀的前任是种怎样的体验?\n\n荼白大大\n阅读原文\n\n我的前任很优秀，分手后就一直对我设置朋友圈权限。\n我懒得看他动态，也懒得删他，就这样彼此在好友里躺尸。\n某天我刷朋友圈，突然能看到他动态，原来是要结婚了。\n这是想暗示我要份子钱？\n\n \n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739079",
+          "publishedOn": "2021-08-10T23:07:58.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9739041",
           "author": null,
@@ -5328,66 +5460,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737976",
-          "author": null,
-          "description": "李明殊，数码胶片XX法师群群成员(33/79)\n\n​【万字长文，解释你在视频制作时会用到的知识和术语，以及在器材选择时应该注意的问题，有点长，可以先收藏下来，慢慢看】 ​\n\n​\n不可置疑的是，这是一个视频的时代。\n不论是相机还是手机厂商，每次发布会也会用很长的篇幅来解释他们产品的视频能力。 也很有多朋友为了更好的视频质量，不在满足于手机拍摄，开始选择单反或者微单开始自己视频的创作。 选购肯定也会遇到何种乱七八糟的参数，什么 10bit ,什么 422，super35，这是都是什么，又有什么作用？ 今天我们就来认真地讨论一下这些东西。\n​\n4K 即正义？分辨率\n当你在 B 站看小姐姐跳舞的时候，有时候可能会看到这个标志【4k 超清】。\n\n这也许是大家最熟悉的一个的参数——分辨率，不论是视频也好，还是显示器或者电视机都会用到这个，很简单，也很容易理解，分辨率越高，视频画质越好。 ​\n通常上，还会用这样的一张图，来解释不同视频分辨率的效果。我们也会把这个分辨率称为『输出分辨率』。\n\n有聪明的小朋友要问了，我的手机或者显示器不过是 1080P 的，那么还有必要搞 4K 么？ ​\n即使最终都是输出为 1080P 的，拍摄的素材为 4K，会包含更多的色彩信息，感官上会感觉更加的清晰，色彩更加丰富（这个过程就是超采，下文会详细解释），而且也方便你进行画面的裁剪或者稳定。 ​\n拍摄 8K 同理，即使最终输出为 4K 的视频，也会获得更好的画面，但是问题就在于能够拍摄 8K 的设备普遍不便宜，对于存储和处理的要求会更高。除了相机之外，你还得更新电脑，买更贵的显卡和更大的硬盘才行。 ​\n所以目前来讲，4k 无疑更具有实用性，而且几乎每一台手机，哪怕是入门级别的相机，也都开始普及 4K 视频了。 ​\n注： 4K 分辨率其实是一个统称，画面横向像素在 4000 个左右，纵向在 2000 个像素左右…",
-          "link": "https://daily.zhihu.com/story/9737976",
-          "publishedOn": "2021-07-11T23:06:59.000Z",
-          "wordCount": null,
-          "title": "想做视频？这里有一份入门到进阶知识完整指南 ​",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737969",
-          "author": null,
-          "description": "胖博士，懂你皮肤问题的清华胖师兄\n阅读原文\n\n很多博主说，粉底因为氧化所以暗沉。这个观点大概是美妆届流传最广的“伪科学”。\n如果粉底液真的那么容易“被氧化”，为什么在瓶子里放几年一点颜色都不变？\n如果粉底液真的那么容易“被氧化”，为什么品牌不加点抗氧化剂解决问题？\n从最简单的逻辑上来说，粉底液氧化暗沉的说法就不成立。当然，从科学上也可以的出同样的结论。\n暗沉\n粉底液里面没有容易被氧化的成分\n粉底液里最主要的成分是水，油脂，硅油，有机硅乳化剂 / 成膜剂，色粉，色素。\n水自然不必说，从来没听过水会被氧化的。\n某些油脂的确容易被氧化，这些多为含有不饱和脂肪酸的天然油脂。这一类油脂在护肤里面用的比较多，而在粉底里面，用的大部分都是饱和的合成油脂，因此不存在氧化问题。况且油脂氧化之后，除了变色之外，还会酸败，产生俗称的“哈喇”味。你闻到过粉底液里面有这种味道吗？\n硅油，有机硅乳化剂和成膜剂都属于有机硅，他们都是超级稳定的成分。稳定到在自然界里几百万年也不会降解的那种。你觉得这种东西会被氧化吗？\n粉底液里面有不少有机硅成分\n色粉是一些无机颜料。粉底里用的比较多的是钛白粉（二氧化钛），铁黄（一水合三氧化二铁），铁红（三氧化二铁）和铁黑（四氧化三铁）。二氧化钛很多地方都能见到，这玩意放在阳光下晒三年都不会变色。三氧化二铁本身就是铁的氧化形态，无从氧化。四氧化三铁是磁铁，你见过哪个吸铁石被氧化吗？\n稳定的色粉\n色素都是大分子有机物，大概是唯一有可能被“氧化”的成分。然而这玩意的稳定性也不是大家想象的那么脆弱。放在水里分散好，不加稳定剂和抗氧化剂，保持个几年也没问题。很重要的是，这一类色素，即使被氧化，也不是颜色变暗，而是变成白色！\n粉底液涂到脸上到底发生了哪些变化？\n粉底液的成分非常稳定。既然粉底液暗沉和氧化没关系，那么这个锅应该由物理变化来背。我们不妨分析一下，粉底液涂到脸上的过程中，到底发生了什么。\n把粉底液在脸上均匀涂开，里面的水分会首先挥发掉。这个过程很短，大概也就几分钟。\n随后是里面的成膜剂成膜。这个时间从几分钟到十几分钟不等。成膜之后，粉底可以牢牢的把色粉抓住，形成一张坚韧的网络。避免浮粉，脱妆等问题。\n成膜剂的原理\n然后是挥发性硅油挥发。为了缓解配方的油腻，粉底液配方里面一般都会加入轻质硅油，或者会挥发的硅油，保证轻盈的触感。这个过程从半个小时到几个小时不等。\n硅油挥发完之后，上脸的粉底液本身已经不会发生变化了，理论上，如果没有外界变量，也不会出现任何外观的变化。\n当然这只是理论，实际上，粉底液涂在脸上，周边环境一直都在变化。最明显的就是出油和出汗。\n出油\n出汗对粉底液的影响不大，因为粉底上脸之后，剩下的都是不亲水的成分，因此汗水也就没法影响粉底液。\n然而出油就不一样了。因为色粉，油脂，成膜剂这些成分都是油溶性的。面部出油之后，会改变脸上粉底的结构。而这就是粉底液暗沉的罪魁祸首。\n粉底液暗沉两部曲\n绝大部分粉底液暗沉都是在使用一天之后，到了下午，显得尤其暗沉。当然，也有一些奇葩粉底液，使用半个小时或者一个小时之后就开始暗沉。粉底液里面除了前面提到的那些成分之外，品牌还会在里面加入一些控油粉体。在这些粉体吸收油脂饱和之前，脸上出油都不会对面部的粉底产生影响，于是可以保持完美的妆容。\n多孔微球可以吸油\n但是如果控油粉体的吸油能力不足，或者根本没加吸油粉体。再搭配质量很差的成膜剂，粉底液暗沉就恐怖到天际了。\n出油之后，毛孔分泌的油脂把服帖的粉底液膜顶起。这时候如果成膜剂的能力很强，而且柔韧十足，不会带来太大的问题。然而如果成膜剂质量太差，那么成膜剂本身就会破损，带来不一致的视觉效果。此外，抓取不同色粉的能力不一样，不同颜色色粉因为质地不一样，有可能让颜色更深的铁黄铁黑脱离成膜剂的束缚，跑到表面来。于是看起来颜色就更深了。\n出油让成膜剂破损\n另外，服帖的粉底上完之后因为里面的粉体，会有很好的柔焦雾面效果。然而出油之后，皮脂填充在粉底表面的凹凸不平处，让柔焦雾面效果消失的同时，浸润表面，改变光学效果，让颜色变暗。生活中这种现象很常见，衣服上滴上油滴，颜色就会显得暗。\n滴在衣服上的油让衣服暗沉\n所以粉底液暗沉和广为流传的氧化真的一毛钱关系也没有。最大的原因还是出油之后成膜剂没法牢牢抓住色粉，以及皮脂浸润粉底，带来光学效应的改变造成的，原理和衣服上滴了油差不多。\n（图片来自网络，侵删）\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737969",
-          "publishedOn": "2021-07-11T23:06:51.000Z",
-          "wordCount": null,
-          "title": "粉底液为什么会暗沉？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737966",
-          "author": null,
-          "description": "博物致知沈梦溪，某青少年科普杂志编辑一枚~\n阅读原文\n\n一、比较对象就是错的瑞士的山和中国五岳地貌成因和海拔完全不同。\n瑞士的山主要是阿尔卑斯山，“国外的亲戚”所说的好看的山应该也就是阿尔卑斯山。\n阿尔卑斯山位于北纬 49°，加上山体海拔高，所以发育了大量的冰川——而冰川是造成阿尔卑斯山美丽风景的主要因素。\n瑞士的阿尔卑斯景观 图 /wiki\n我们看山上的冰川，都是白白的一片，但是这些其实并不是雪，而是冰，非常厚实的冰，一年一年的积雪堆积压实后形成的冰。这些冰层会沿着山坡向下滑动，由于它们又厚又坚硬地，所以会刮削沿途的山壁的岩石，就好像一个刨子一样将山坡上的岩石一层层刮掉，这样就会导致冰川过处山壁陡峭，形成典型的 U 型谷。\n近处就看的很清楚，这是极为厚实的冰层 图 /pxhere\n但是如果一座山山峰上有多条冰川会怎么样呢？会把山脊和山峰刮得特别尖锐，形成突兀、陡峭的山体。所以我们看到的带冰川的山峰，都是棱角分明的，这种鲜明的特色自然比较显眼（我没学过美学或者是绘画之类，但是这应该是有一种说法的，希望得到该领域人士的解答）\n图 / 见水印航拍的冰川，看到了吗，都很有棱角的感觉 图 /USGS\n而且，这种山峰由于比较陡峭，所以很容易出现植被的垂直分带性来：山顶是雪白的冰川，向下是裸露的灰色基岩，再向下是低矮草丛、灌木、森林，如果再加上近处看到的各色花朵，以及天空中的蓝天和白云，这就形成了一幅色彩丰富的画面。\n图 /naturetrek\n所以，形体鲜明，颜色艳丽，这种风景能不好看吗？\n但是中国五岳在哪里呢？最北的恒山在北纬 39°，比阿尔卑斯低了 10°，气候上完全不同。五岳没有一个是冰川地貌，它们的形态来自于风化。风的吹蚀、雨水的侵蚀、动植物的破坏等，是塑造这些山峰形态的主要因素。它们的作用会让一个山峰越来越浑圆，而不是像冰川那样让山峰变得棱角分明。\n泰山，看到了吗，没有棱角，整个山体是一个浑圆的状态 图 /wiki华山，虽然陡峭，山脊也貌似锋利，但这种山形来自于华山花岗岩岩体内本身的裂隙，风霜雨雪沿着这些裂隙向下侵蚀，因此像是将华山劈开一样，不过从照片近处我们依然可以看出山脊是浑圆的 图 /wiki衡山 图 / 马蜂窝@私享世界恒山 图 / 大同市人民政府嵩山 图 / 见水印\n而且五岳相对来说都是山里面的小弟弟（泰山 1545，华山 2154，恒山 2016，衡山 1290，嵩山 1512），从海拔来说都跟阿尔卑斯山（瑞士境内有 100 座山海拔接近或超过 4000 米）不在一个层级的。\n鄙视某 * 图帝，拿着国外的免费图当自己的图，从来不标来源，还经常对着图瞎讲 图 /https://maps-for-free.com/\n所以，选择五岳跟瑞士的山比，这是完全不公平的，它们不在一个量级上，要比就找中国的，海拔 4000 米左右的冰川地貌的山跟瑞士比！\n这些山在哪里呢？我用软件做了一个海拔在 3000-4000 米之间的地区分布图，大家可以在这里面随便找：\n中国海拔 3000-4000 米左右的地区，其中横断山、昆仑山、天山、阿尔泰山、喜马拉雅山南麓都是热门备选区我自己在 Shutterstock 随便就能找一张天山的照片，完全不逊于瑞士的山啊。其他答主也有很多美景的照片，大家可以看他们的，也可以根据我上面给的范围自己寻找\n二、五岳更多地是文化和历史的意义\n上面有一张五岳的分布图不知道大家注意到没有，大家仔细看看，就会发现五岳都有一个共同点：它们都在平原或是盆地边上。\n中国的古人很早就开拓了平原（毕竟农耕民族……），而由于平原本身海拔低，对比之下平原周边的山就容易显得高大了，而由于平原上容易聚集大量人口和大型城市，所以文化也就很容易诞生。在这种背景下，这些古老的文化自然就会选择周边高山作为祭祀或者是与天地沟通的地点——毕竟这是离得近的最高点了。\n举个例子，比如泰山，这是广袤的华北平原上的最高突起了。\n泰山周边全是平原，这时候认为泰山高大不是很正常的？用骨骼地球看泰山及其周边地貌，是不是一下子理解什么叫做一览众山小了？\n所以从秦汉时期开始，各个帝王就不断封禅泰山，将泰山捧上神位。这种几千年来的文化积淀才是五岳“好看”的内涵。\n如果要从文化上比，那五岳不是碾压瑞士的山？你让亲戚找个历代教皇爬过十几次的高山来？（欧洲那地方太小，国王管的面积跟咱的省差不多，只能找教皇了······）\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737966",
-          "publishedOn": "2021-07-11T23:06:47.000Z",
-          "wordCount": null,
-          "title": "该如何反驳「国外的亲戚说瑞士的山比中国的五岳好看」？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737962",
-          "author": null,
-          "description": "王豆皮，「动物行为学」爱好者｜兴趣是观察猫咪行为\n阅读原文\n\n除了「乳糖不耐受」，\n猫喝牛奶还可能存在另一种风险。\n两月龄以上的猫在断奶后，体内乳糖酶的活性往往会下降，就可能会有乳糖不耐受的问题[1][2]。\n进而导致有些猫不能喝未经处理的牛奶，否则可能会导致腹泻、涨肚等症状，严重者可导致去世[3]；但通常可以喝舒化奶（无乳糖牛奶）。\n尽管其实没有证据表明，猫体内乳糖酶的活性会完全丧失[4]；但出于安全考虑，还是不建议给两月龄以上的猫贸然喂食未经处理的普通牛奶，以避免不必要的风险和医疗开销。\n但除了乳糖不耐受，\n牛奶还可能带给猫另一种风险：\n那就是「酪蛋白（casein）过敏」[4]。\n（该图片由 Jagoda Kondratiuk 在 Unsplash 上发布）\n无论对于人还是猫，酪蛋白都是牛奶中一种主要的过敏原；它在牛奶中占有较大比重，约占牛奶中蛋白质总量的 86%[5]。\n甚至！\n牛自己乳汁中的酪蛋白，\n都可能让牛自己过敏[6]！\n这种蛋白正常情况下合成于牛的乳房中，如果挤奶不及时，随着乳腺内压力增加，牛乳中的蛋白质会返回到血流中，就可能会导致牛自己被自己所产出的牛乳给搞过敏了[6]！真是令牛语塞。\n（该图片中的马部分由 Sarah Olive 在 Unsplash 上发布；背景及盒子部分由 Kelli McClintock 在 Unsplash 上发布；知乎 @王豆皮 合成制作）\n所以，当猫表现出诸如腹泻、涨肚等类似乳糖不耐受的症状时，也有可能并不是乳糖的锅，而是猫咪对牛奶中的酪蛋白过敏[4]。有案例表明，严重时，牛奶可能引起猫的过敏性休克[7]。\n在某项针对猫食物过敏的研究中发现，由牛肉、乳制品和鱼类引起的食物过敏反应，约占研究中全部病例报告的 90%[8]。\n关于猫食物过敏的研究目前还不够充分，但一般认为Ⅰ型超敏反应（type Ⅰ hypersensitivity）、Ⅲ型超敏反应（type Ⅲ hypersensitivity）和Ⅳ型超敏反应（type Ⅳ hypersensitivity）都参与了这一过程[9]。\n食物过敏可能引起猫从局部到全身性的皮肤瘙痒，严重的猫可能会由于强烈的瘙痒而伤害到自身。猫食物过敏还可能出现红斑、丘疹等病变，以及腹泻、涨肚、肠炎等胃肠道症状[9]；有时皮肤症状还会和肠道症状同时出现[8][9]。\n除了食物中的过敏原，猫咪自身的健康状况也影响着食物过敏的发生；研究表明，当猫的肠道感染了某些寄生虫，会对食物过敏反应起促进作用[6]。\n（该图片由 Kate Stone Matheson 在 Unsplash 上发布）\n值得注意的一点是，「食物过敏」与「食物不耐受」是两个不同的问题。\n「食物过敏」，本质上是机体免疫系统对特定物质产生了过度或不适当的反应；\n而「食物不耐受」则并不由免疫系统介导[6][10]。\n（该图片由 Fernando Jorge 在 Unsplash 上发布）\n如果你第一次给猫尝试某种新猫粮，而没有控制喂食量，导致猫出现了腹泻症状，这种情况通常就属于食物不耐受；因此在尝试给猫提供新食物时，一定要注意循序渐进，以避免食物不耐受、进而避免不必要的医疗开销。\n可以参照下面这个示意图，灵活运用：\n\n在给幼猫喂奶时，温度也是一个需要考虑的因素。相对于较热和较冷的食物，温度适中的食物更受猫的喜爱[11]。\n在喂养幼猫时，如果得不到猫的母乳，也找不到代理猫妈，可以将用于替代母乳的食品加温后，待温度达到 30 度上下时再喂给幼猫[12]，以增加适口性和安全性。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737962",
-          "publishedOn": "2021-07-11T23:06:42.000Z",
-          "wordCount": null,
-          "title": "猫咪真的不能喝牛奶吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737970",
-          "author": null,
-          "description": "Neo，汽车行业摸打滚爬～突突突，转摇杆，响起来，启动！\n阅读原文\n\n爷爷辈的人，年轻的时候，基本上没有遇到过汽车，最多的是拉板砖的拖拉机。到了父辈这一代，汽车也并不多见，仍然是拖拉机，不同的是拖拉机多了。\n父辈以上的人，大多见过拖拉机，很多也会开拖拉机。当时，开拖拉机算一门手艺活，谁会开拖拉机也算是稀奇。但是拖拉机并不好开，而且还很闹腾。需要你先用摇杆把拖拉机先摇响，然后手扶拖拉机上路。遇到寒冷天气，还要在拖拉机发动机下，烧一把火，否则根本打不着火。打火也是门技术活，需要你先缓慢转动摇杆，然后慢慢加速，最后到最大转速，如果一次摇不响，就再来一次。\n\n叔叔会开，但是曾经在下坡的时候，因为没有掌握好速度，拖拉机车头没听使唤，左右晃动，于是叔叔被拖拉机甩了出去。\n但是彼时的父辈们，走在路上，根本不需要担心身后有车经过。因为老式手扶式拖拉机的两个特点，让人大老远就能“闻声识车”。\n\n1、声音特别大，一台柴油机直接架在车头，启动了就“咔咔咔”响个不停，几百米外就能听到。\n2、速度特别慢，走在马路中央，如果脚步快些，说不定拖拉机还追不上。最高时速二十几公里，和现在的低速电瓶车差不多。\n\n所以他们大胆得走在路上，毫无顾忌。即便拖拉机靠近了，一是声音大到受不了，赶紧让路；二是有足够的反应时间来避让。于是，老人们大多有不让路的习惯。\n而到了我这一辈，开始有明显的变化，分界线是从一条马路开始。自记事开始，老家的路开始变化。先由土路变成煤渣路，再变成石子路，再过一段时间，石子路被压路机反复碾压，再铺上几层沥青，一条宽阔的柏油马路出现。直到今天，时隔 20 年有余，这条路仍然非常完好。再后来，公路逐渐造起来，公路上跑的汽车也越来越多。\n随着城市化水平日渐提高，新农村建设也马不停蹄。乡村小路越来越少，马路也越来越宽。较早的公路，是没有给非机动车太多空间的，非机动车道很窄的一排，只能容纳一辆电动车通…",
-          "link": "https://daily.zhihu.com/story/9737970",
-          "publishedOn": "2021-07-11T23:06:36.000Z",
-          "wordCount": null,
-          "title": "为什么大部分骑自行车的人在身后有汽车时都不靠边，不紧不慢地继续骑？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9737979",
-          "author": null,
-          "description": "你是通过什么事情才知道自己丑的？\n\n苍樵\n阅读原文\n\n当我自嘲时，我的朋友们不是反驳我，而是开始安慰我的时候…\n\n\n\n阅读原文\n\n你在闲鱼最亏的一单是什么？\n\n强悍果壳，广告导演/摄影指导\n阅读原文\n\n\n\n\n阅读原文\n\n为什么公鸡早上要打鸣？\n\n知乎用户，时代周刊06年度风云人物，曾获08年感动中国组委会特别大奖。\n阅读原文\n\n\n\n\n阅读原文\n\n有没有人装逼正好撞到你擅长的领域上的？\n\nSoulmate，苦逼嗑盐狗\n阅读原文\n\n审论文时候吧 \n阅读原文\n\n有没有类似“duck不必”的谐音梗？\n\n刘泽坤，1/2电影特效师，1/2电子工程师\n阅读原文\n\n知己知彼，百战不 die\n——《孙子·谋攻篇》\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9737979",
-          "publishedOn": "2021-07-11T23:06:33.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5494,15 +5566,6 @@
           "publishedOn": "2021-07-13T12:29:39.000Z",
           "wordCount": 85,
           "title": "2021.07.14 今天是每日时报陪伴您的第 589 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/07/12.html",
-          "author": null,
-          "description": "2021.07.12 今天是每日时报陪伴您的第 588 天\n[文章] 如何设计和架构渐进式微前端：https://mp.weixin.qq.com/s/P9oUh3gbxiS7DbgF4798iQ\n[工具] 一种用于构建微前端应用的极简方案 🚀 -- micro-app：https://github.com/micro-zoe/micro-app\n[文章] Time to say goodbye - Enzyme.js ：https://www.piotrstaniow.pl/goodbye-enzyme\n[工具] google/zx 发布 2.0 支持 fs-extra：https://github.com/google/zx/releases/tag/2.0.0",
-          "link": "https://wubaiqing.github.io/zaobao/2021/07/12.html",
-          "publishedOn": "2021-07-12T12:39:14.000Z",
-          "wordCount": 104,
-          "title": "2021.07.12 今天是每日时报陪伴您的第 588 天"
         }
       ]
     }
