@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T00:59:39.072Z</updated>
+    <updated>2021-08-19T05:40:34.120Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[教女朋友学前端之深入理解 JS 引擎]]></title>
+        <id>https://toutiao.io/k/19x4z5r</id>
+        <link href="https://toutiao.io/k/19x4z5r"/>
+        <updated>2021-08-19T05:40:33.284Z</updated>
+        <summary type="html"><![CDATA[食堂老板娘：老板，Chrome V8 引擎工作原理面试会问吗？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特征工程：缺失值的类型介绍和 N+1 种解决办法]]></title>
+        <id>https://toutiao.io/k/jqmjy2m</id>
+        <link href="https://toutiao.io/k/jqmjy2m"/>
+        <updated>2021-08-19T05:40:33.194Z</updated>
+        <summary type="html"><![CDATA[介绍特征工程中数据缺失值产生的原因、类型和处理办法！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 设计模式之适配器模式和应用场景详解]]></title>
+        <id>https://toutiao.io/k/1mwl62i</id>
+        <link href="https://toutiao.io/k/1mwl62i"/>
+        <updated>2021-08-19T05:40:32.558Z</updated>
+        <summary type="html"><![CDATA[从源码中学习适配器模式]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] Vue 中使用 defineAsyncComponent 延迟加载组件]]></title>
+        <id>https://toutiao.io/k/c0rwo1y</id>
+        <link href="https://toutiao.io/k/c0rwo1y"/>
+        <updated>2021-08-19T05:40:32.450Z</updated>
+        <summary type="html"><![CDATA[使用 Vue 3 的 defineAsyncComponent 特性可以让我们延迟加载组件。这意味着它们仅在]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斗鱼风控算法体系建设]]></title>
+        <id>https://toutiao.io/k/dhlvub0</id>
+        <link href="https://toutiao.io/k/dhlvub0"/>
+        <updated>2021-08-19T05:40:32.350Z</updated>
+        <summary type="html"><![CDATA[直播行业在业务上面临运营安全、活动安全、流量安全、账号安全、交易安全、内容安全等风险问题，智能风控在技术方面主要有高频对抗、场景繁多、解释性弱等挑战。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tcpdump 流量自动化测试（下）]]></title>
+        <id>https://toutiao.io/k/hc4xh13</id>
+        <link href="https://toutiao.io/k/hc4xh13"/>
+        <updated>2021-08-19T05:40:32.130Z</updated>
+        <summary type="html"><![CDATA[利用tshark自动化分析流量数据及相关Linux命令讲解]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nest 教程：为项目增加个自定义过滤器]]></title>
+        <id>https://toutiao.io/k/mrf9p9r</id>
+        <link href="https://toutiao.io/k/mrf9p9r"/>
+        <updated>2021-08-19T05:40:31.703Z</updated>
+        <summary type="html"><![CDATA[在接收一个接口请求与响应的整个过程中，由于不确定因素太多，必定会遇到各种异常的状况，但凡使用throw 抛出的异常都可以通过异常过滤器来获取到其异常内容然后可以自定义修改返回给前端。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动端 CPU 的深度学习模型推理性能优化：NCHW44 和 Record 原理方法详解]]></title>
+        <id>https://toutiao.io/k/e5qf7mn</id>
+        <link href="https://toutiao.io/k/e5qf7mn"/>
+        <updated>2021-08-19T05:40:29.294Z</updated>
+        <summary type="html"><![CDATA[用户实践系列，将收录 MegEngine 用户在框架实践过程中的心得体会文章，希望能够帮助有同样使用场景的小伙伴，更好地了解和使用 MegEngine ~ 本文作者：王雷 | 旷视科技 研发工程师背景随着人工智能技术的发展及应…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[攻防思路及实践（二）]]></title>
         <id>https://toutiao.io/k/k38270g</id>
@@ -3359,6 +3439,20 @@ div
 The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gateway Pattern]]></title>
+        <id>https://martinfowler.com/articles/gateway-pattern.html</id>
+        <link href="https://martinfowler.com/articles/gateway-pattern.html"/>
+        <updated>2021-08-10T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[We often need to access APIs from foreign codebases, and these foreign
+      codebases usually have different vocabularies to ours. I've found it
+      useful to encapsulate this interaction with a gateway that
+      translates between our code and foreign code.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
@@ -8125,6 +8219,23 @@ The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An example: Integration Middleware Removal]]></title>
+        <id>https://martinfowler.com/articles/patterns-legacy-displacement/#AnExampleIntegrationMiddlewareRemoval</id>
+        <link href="https://martinfowler.com/articles/patterns-legacy-displacement/#AnExampleIntegrationMiddlewareRemoval"/>
+        <updated>2021-07-29T13:49:00.000Z</updated>
+        <summary type="html"><![CDATA[To illustrate how these patterns work in practice, Ian, Rob, and James
+      describe an example of how one of our teams used a number of Legacy
+      Modernization Patterns to successfully replace integration middleware
+      critical to the operation of their client's business as part of a larger
+      legacy modernization programme. They combined patterns and refactorings to
+      successfully manage risk to the business, and facilitate eating this
+      particularly gristly part of the elephant.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何评价玄机出品的动画《武庚纪》第四季第一集，如何看待逆天而行之死？]]></title>
         <id>http://www.zhihu.com/question/475547867/answer/2027215850</id>
         <link href="http://www.zhihu.com/question/475547867/answer/2027215850?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
@@ -8842,6 +8953,29 @@ Phenomenon
 The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature Parity]]></title>
+        <id>https://martinfowler.com/articles/patterns-legacy-displacement/feature-parity.html</id>
+        <link href="https://martinfowler.com/articles/patterns-legacy-displacement/feature-parity.html"/>
+        <updated>2021-07-27T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[On many occasions when my colleagues find themselves talking to IT
+      executives they hear how the executives have a suite of aging applications
+      built using soon to be, if not already end of life technologies. More
+      often that not these systems are hosted in costly data centers managed by
+      3rd parties and with inflexible contracts. These applications are critical
+      to the successful operation of the business, while at the same time being
+      one of the largest sources of business and operational risk.
+One approach in this situation is to try to minimize the impact of
+      replacement on the broader organization by 'simply' replacing the
+      technology while leaving everything else 'as is'. Whilst Feature Parity
+      often sounds like a reasonable proposition, we have learnt the hard way
+      that people greatly underestimate the effort required, and thus misjudge
+      the choice between this and the other alternatives.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
@@ -10831,6 +10965,19 @@ The post A Step-By-Step Process for Turning Designs Into Code appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Extract Product Lines]]></title>
+        <id>https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html</id>
+        <link href="https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html"/>
+        <updated>2021-07-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To do effective legacy displacement, we need to figure out how to break
+      down the problem into manageable pieces. Extract Product Lines does this
+      by identifying product lines and using them as the basis for migration.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Color Tools And Resources]]></title>
         <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
         <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
@@ -11181,37 +11328,6 @@ In modern web design and development, displaying an image is a highly intentiona
 The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
-        <id>https://css-tricks.com/?p=344497</id>
-        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
-        <updated>2021-07-20T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
-The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Murtuzaali Surti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓相机完全操作指南]]></title>
-        <id>http://zhuanlan.zhihu.com/p/391495508</id>
-        <link href="http://zhuanlan.zhihu.com/p/391495508?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-07-20T14:15:08.000Z</updated>
-        <summary type="html"><![CDATA[写在前面
-现在是北京时间的 2021 年 6 月 18 日晚上 11 点 24 分，我正坐在新疆夏塔的温泉酒店里。今天的拍摄很不顺利，天空阴气沉沉，而且时不时落着小雨。而我刚刚得到消息，明早的日出拍摄也落空了，因为几乎不会有日出的可能。
-所以，现在我突然有了一块很完整的时间，我想这是一个很好的机会，让我整理一下心情，开始这一篇长篇文章的写作。
-
-如你所见，这篇文章的名字叫做《安卓相机操作指南》。这也就意味着还有一篇《iPhone 相机操作指南》，而我相信其实很多人之所以能够了解我就是因为那篇文章。最近的《iPhone 相机操作指南 3.0》目前在各个社交网络平台总的阅读量已经超过了 1000 万。一想到每 140 个人中，就有一个人阅读过我的文章，心里还是有一点骄傲。
-但正是这篇文章的火爆，越来越多的读者通过各种方式询问，什么时候可以有一个《安卓相机操作指南》。一开始我都会用「本质上都是相通，安卓用户阅读一样有收获」来回答，但其实归根到底是因为「心虚」。因为在当时，我并没有长时间大批量使用安卓手机的经历，我很清楚，我还没有能力完成这样的写作。并且当时 iPhone 相机在手机摄影领域也是一枝独秀，我也认为安卓手机还「不值得认真」。
-
-但是时间过得很快，这两年里我自己发生了很多变化，由于工作的原因，我开始接触大量的安卓旗舰影像手机，甚至是在过去的两年里，为不同的安卓机型进行过深度测试，或者是完成样片拍摄。而与此同时，这两年里国产安卓的影像能力突飞猛进，甚至还演绎出了自己的不同特色。
-所以，我想现在是一个很好的时机，完成这一篇《安卓相机操作指南》。
-
-但是想要完这样一篇文章，不仅仅是对我有难度，我相信对于在座的各位也有难度，因为不出意外，这篇文章的字数将会达到 30000 字以上，堪比一篇论文。不过事实已经证明，只要你拿出诚意写作，就会获得诚意的回响。我在写《iPhone相机操…]]></summary>
-        <author>
-            <name>Derrick Zhang</name>
         </author>
     </entry>
 </feed>
