@@ -2,10 +2,683 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-19T05:40:34.120Z</updated>
+    <updated>2021-08-20T01:04:21.217Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 的 CoreData 技术笔记]]></title>
+        <id>https://toutiao.io/k/y8aumqg</id>
+        <link href="https://toutiao.io/k/y8aumqg"/>
+        <updated>2021-08-20T01:04:20.283Z</updated>
+        <summary type="html"><![CDATA[最近因为新项目想用到数据持久化，本来这是很简单的事情，复杂数据一般直接SQLite就可以解决了。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[认认真真的聊聊中断]]></title>
+        <id>https://toutiao.io/k/twp8m3c</id>
+        <link href="https://toutiao.io/k/twp8m3c"/>
+        <updated>2021-08-20T01:04:20.053Z</updated>
+        <summary type="html"><![CDATA[就单单是中断如何分类，网上的文章就五花八门]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里二面 InnoDB 行记录存储结构]]></title>
+        <id>https://toutiao.io/k/9szkcx1</id>
+        <link href="https://toutiao.io/k/9szkcx1"/>
+        <updated>2021-08-20T01:04:19.685Z</updated>
+        <summary type="html"><![CDATA[实际数据是以行记录的格式存储在磁盘上的，了解MySQL的行记录格式，理解了行记录的格式有助于我们后面了解MySQL如何快速在页中定位出行记录，以及MySQL的版本控制链，事务隔离级别等等，行记录格式是许多MySQL核心知识的基础]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小团队敏捷实践 2.0]]></title>
+        <id>https://toutiao.io/k/6dxv9h5</id>
+        <link href="https://toutiao.io/k/6dxv9h5"/>
+        <updated>2021-08-20T01:04:19.570Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度学习的三个主要步骤]]></title>
+        <id>https://toutiao.io/k/w7gldru</id>
+        <link href="https://toutiao.io/k/w7gldru"/>
+        <updated>2021-08-20T01:04:19.457Z</updated>
+        <summary type="html"><![CDATA[把大象装进冰箱]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yarn.lock 你锁明白了吗？]]></title>
+        <id>https://toutiao.io/k/682nc98</id>
+        <link href="https://toutiao.io/k/682nc98"/>
+        <updated>2021-08-20T01:04:19.367Z</updated>
+        <summary type="html"><![CDATA[前言你是否遇到过这种场景，项目拉下来后执行yarn install安装依赖，yarn.lock 却提示有变更]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇葩面试题，O(logn) 的底数是多少？]]></title>
+        <id>https://toutiao.io/k/wxvr8pu</id>
+        <link href="https://toutiao.io/k/wxvr8pu"/>
+        <updated>2021-08-20T01:04:19.171Z</updated>
+        <summary type="html"><![CDATA[一个没有注意到的点，懵了……]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何让 Emacs 使用 Firefox 的 Cookie 文件]]></title>
+        <id>https://toutiao.io/k/54ib2qu</id>
+        <link href="https://toutiao.io/k/54ib2qu"/>
+        <updated>2021-08-20T01:04:18.635Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术面试最后反问面试官的话]]></title>
+        <id>https://toutiao.io/k/do55tqr</id>
+        <link href="https://toutiao.io/k/do55tqr"/>
+        <updated>2021-08-20T01:04:15.791Z</updated>
+        <summary type="html"><![CDATA[技术面试最后反问面试官的话. Contribute to yifeikong/reverse-interview-zh development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html"/>
+        <updated>2021-08-20T00:36:06.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+今年4月，西宁野生动物园成功地人工孵化了一个高山兀鹫的鸟蛋。目前，这只雏鸟已经达到了四月龄，生长得非常良好，成为中国首只人工养活的高山兀鹫雏鸟。（via）
+本周话题：我们会死于气候灾难吗？
+上周，联合国发布了一份《气候问题评估报告》，供各国政府参考。
+
+国内媒体没怎么报道这件事，但在国际上，它都是各国的头版新闻。
+一般来说，政府单位的报告都写得四平八稳、滴水不漏。但是，这份报告是罕见的例外，它写得非常明确尖锐，结论就是四个字："大难临头"。
+报告认为，根据各种科学研究和观测结果，可以认定 气候灾难已经发生了，并将继续加剧。 人类现在所做的种种减碳努力，并不能避免灾难，只是为了不让最糟糕的结果发生。
+
+报告描绘了非常可怕的全球变暖进程，地球的平均气温，目前比工业革命前上升了1.2度，估计未来一两年内就会上升1.5度。如果温室气体排放量继续增加，2050年前将会上升2度，本世纪末之前达到3度。
+
+有的朋友可能觉得，两三度不算什么。但这是全球平均气温，包括海洋和陆地，由于海洋的温度波动远远小于陆地，这意味着陆地的温度上升，可能是四五度。
+以上海为例，七月的平均气温，现在是28度到35度。如果到了2050年上升三度，就变成31度到38度，如果更高，最高气温的平均值就会达到40度。这住起来就太痛苦了。
+
+我们会遭遇什么样的灾难？联合国报告是这样描述的：
+"地球将变得干燥许多，整个生态系统被破坏，导致大规模物种灭绝，并使全球的粮食保障面临巨大风险。
+以下五种灾难现象将会越来越严重：（1）高温，（2）干旱，（3）洪水，（4）飓风，（5）海平面上升。…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么夏天可以配小裙子穿的鞋子吗？]]></title>
+        <id>https://daily.zhihu.com/story/9739343</id>
+        <link href="https://daily.zhihu.com/story/9739343"/>
+        <updated>2021-08-19T23:07:52.000Z</updated>
+        <summary type="html"><![CDATA[女巫，品牌咨询/中年妇女/穿搭博主 公众号：witch0001
+阅读原文
+
+分享下 40＋知性女性夏天穿的鞋子。
+我觉得关键词就是 4 个：舒服、优雅、凉爽感、别致之美。
+1, 到这个年龄，无论如何也不愿意自己的脚再受任何委屈，所以舒适一定是排在首位的，羊皮质感、鞋身各个部位的板型与工艺、鞋跟高度等等纬度都是支持舒适的必要元素。
+2, 优雅必须由质感和款式联袂完成，然后再由穿着者使用到整身的搭配与步伐优美去完整表达。
+3, 夏日鞋子需要具备一定的露肤度，其次是色调柔和。
+4, 别致之美非常重要，是始终都买都穿不会出错的鞋子，令鞋柜陷入沉闷，还是使用高审美的眼光，去买去搭配一双出乎意料却在情理之中的神仙鞋子，是 40＋女性穿鞋的终极艺术。
+现在就来分享我在夏日常穿的 8 双鞋子吧！
+
+1. 复古方头粗跟凉鞋
+我偏爱穿着不露脚趾的皮质凉鞋，既有后跟清凉露肤感，又具备淑女矜持。这双干净温润奶油白色夏日皮凉鞋就是如此。
+因为颜色的包容性强，它跟我的整个夏日衣橱都很搭调，不论是深色系还是浅色系，似乎不管身穿什么都可以随心所欲将脚伸进这双奶油白色粗跟小凉鞋中。
+
+LOOK01：咖色针织背心 + 黑色拼色半裙
+
+LOOK02：蓝色系碎花连衣裙
+
+2.象牙白穆勒拖鞋
+夏日不可缺少的鞋子品类还有拖鞋，这双象牙白穆勒拖鞋就特别夏天。穿拖鞋最担心不跟脚，但这种包裹感很强的穆勒拖鞋，又姿态古典，又好走路，5.5 公分高度木纹鞋跟格外有建筑感，也减弱一份女性意味，表达出身为一双鞋的独立力量。
+象牙色鞋履特别容易融入夏日穿搭，和各种色系都相处甚欢。不管是颜色明媚的真丝连衣裙，还是书香气十足的暗色系格纹裙，它都有一种本事，令柔美更柔美，令古典更古典。
+
+LOOK01：法式柠檬黄连衣裙 + 黑西装
+
+LOOK02：复古格纹手绘真丝衬衫裙
+
+3.复古蝴蝶结缎面凉鞋
+这大概是今年夏天我最爱的鞋履，喜欢到什么程…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么感觉现在的西红柿吃不出「小时候的味道」了？]]></title>
+        <id>https://daily.zhihu.com/story/9739352</id>
+        <link href="https://daily.zhihu.com/story/9739352"/>
+        <updated>2021-08-19T23:07:44.000Z</updated>
+        <summary type="html"><![CDATA[芝麻酱，这个营养师天天喝奶茶
+阅读原文
+
+小时候的「西红柿味」，到底哪去了？
+
+在谈及原因之前，我们先来了解一下西红柿的风味构成，主要可以分为两部分：
+一是尝起来的味道，它由可溶性固形物决定。
+可溶性固形物，也就是把西红柿的水分全部去掉后剩下的总固体物质里可溶于水的部分。能溶于水，也就意味着能溶解在我们舌头上被味蕾感知。甜味来自于可溶性糖，如蔗糖、果糖、葡萄糖等；酸味来自于有机酸提供，如柠檬酸、苹果酸等；鲜味则来自于游离氨基酸。甜味、酸味和鲜味三个维度的强弱和比例，综合构成了西红柿在我们舌头上呈现的整体味道。
+二是闻起来的香气，它由挥发性化合物决定。
+任何水果蔬菜，闻起来都会各有各的香味，这是因为水果蔬菜中存在一些挥发性化合物，它们会不停的从蔬菜水果表面挥发到空气中，这些分子进入鼻腔，被嗅觉捕捉到，于是我们就感知到了香味，当然，有时候也可能是臭味。
+人们目前从西红柿中鉴定出的挥发性化合物包括醛、醇、烯、酚、醚、酯等不同种类的化合物高达 400 多种。它们的含量和比例构成了西红柿的复杂香味。
+好了，现在我们了解所谓的「西红柿味」到底是怎么来的了：无非就是其中各种化学元素的多寡和比例，糖酸比、香气物质的含量等等。
+
+下面我们来分析，西红柿变得难吃的原因有哪些。
+原因一：西红柿种植方式变了
+西红柿起源于南美洲的安第斯山脉，之后逐渐传播到各地，如今已经是世界上广泛种植的蔬菜品种。
+80 、90 后应该还记得，在我们小的时候，吃到的西红柿大多是自家菜园子里种的。我还记得外婆家的菜园角落，总有那么一两株西红柿，结满了成串的果实，果实不大，每次去菜园里，看到有成熟的，可以顺手摘下来，不用洗就吃。那味道，就是记忆中的浓郁的西红柿味。
+菜农等待客商前来收购西红柿。© People.cn
+而现在，市场上卖的，绝大多数是职业农民规模化种植的西红柿，生产方式和以前大不一样。
+规模化种植追求更短的种…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[准备去户外野营，需要提前做哪些准备？]]></title>
+        <id>https://daily.zhihu.com/story/9739367</id>
+        <link href="https://daily.zhihu.com/story/9739367"/>
+        <updated>2021-08-19T23:07:34.000Z</updated>
+        <summary type="html"><![CDATA[户外探险OUTDOOR，户外不是探险，人生才是！
+阅读原文
+
+1.行前准备
+无论是长距离行走需要，还是只是想单纯地远离喧嚣，回归山野，在决定露营前，都需要充分了解所选的线路。在进行准备工作时，建议关照以下几方面：
+睡眠系统——一次露营所需的基本睡眠系统包括但不限于以下几件：
+
+帐篷：在户外过夜，帐篷就是临时的“家”。一顶出色的帐篷要空间充足、人性化设计、外形美观且耐候性强（即帐篷对环境的抵抗能力，大致包括防风、防雨雪、防蚊虫、通风等性能）。选购帐篷通常从人数、季节、结构三个方面考量。
+
+对一般性的海边露营或普通山野露营，最常见的是两人双层帐。
+
+双层帐结构。无论是哪类帐篷，基本由帐杆、篷布、地钉、风绳等（以上配件的必要性根据不同类型帐篷有所区别）组成。帐篷图片来源：kelty，制作：户外探险 Outdoor
+
+睡袋：无论是山区还是海边，露营地一般早晚温差均较大。此时，睡袋就是保障露营者温暖睡眠的“被子”。它最重要的功能是保暖，避免使用者在户外失温而影响睡眠甚至危及生命。
+
+选购睡袋，应结合环境湿度、环境温度、睡袋体积、睡袋重量几方面综合考虑，以下规律可供参考——
+
+在暖和的潮湿地区露营，可考虑棉睡袋或抓绒睡袋；
+到夜晚温度较低的地区选用羽绒睡袋；
+要求睡袋体积小或重量轻时，也可考虑羽绒睡袋；
+舒适环境露营选信封式睡袋，严苛环境露营选择木乃伊式睡袋保温性好。
+
+衡量睡袋保暖能力的指标称为“温标”：舒适温标为正常睡眠的温度，极限温标为睡袋能够保证不失温的最低环境温度。在准备阶段应携带舒适温标符合露营环境的睡袋。图片来源：Chinabrands 和 academy，制图：户外探险 Outdoor
+
+防潮垫：野外露营千万不能小看了薄薄的防潮垫，它相当于压缩的“床”，作用有三：防硌、保暖和防潮。常见的防潮垫有发泡式和充气式两种，搭配地席使用更佳。
+
+在沙地和草地露营用泡沫型防潮垫即可…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你有哪些推荐的历史科普书？你在书中学到了哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9739361</id>
+        <link href="https://daily.zhihu.com/story/9739361"/>
+        <updated>2021-08-19T23:07:25.000Z</updated>
+        <summary type="html"><![CDATA[翼犀稀，教师/直播/书评人，阿德勒忠实信仰者。叫我小稀就好！
+阅读原文
+
+其实我很少做关于历史学的推荐，主要我看的书偏理论性，这次我将在这里为大家安利当时将我带入历史学的重要作品。
+一、中国通史类科普
+⭐吕思勉《中国通史》，上海古籍出版社 2009 年。
+
+虽说此书完成于 1939 年，但其价值只高不低，大多数历史老师在推荐时都会放上吕思勉先生的这部书籍。难读的地方在于很多地方的白话与我们现在有所不同，可能在读的过程中有些吃力，但总体来说还是好读的。
+那么推荐上海古籍出版社的原因如下：本书此次列入《吕思勉文集》出版，以上海开明书店的初版为底本，吸收了杨宽、吕翼仁先生的校订成果，将原书的繁体直排夹注，改为繁体横排夹注，同时尽量保留了著作的原貌。
+接受不了繁体的话，可以购买群言出版社的版本。
+⭐吕思勉《白话本国史》，上海古籍出版社 2005 年。
+
+本书初版于 1923 年 9 月，是第一部用白话文写成的中国通史。虽是一部学术性的专著但预设的读者对象却是青年学生，史识丰富，笔调流畅，数年内不断重印再版，是二三十年代发行量最大的一部中国通史。
+这本书的规模比较大，厚度也较《中国通史》更厚，不过这不影响其可读性，因为是面向青年学生，所以难度不高，非常适合初学者阅读。
+⭐宫崎市定《宫崎市定中国史》，民主与建设出版社 2019 年。
+
+作为日本研究中国史的泰斗，宫崎市定为中国史研究做出了巨大贡献：包括近两年再版了其著作《科举史》以及《九品中正制研究》都是扛鼎之作，非常推荐大家阅读。
+那么这部《宫崎市定中国史》则是面向普通大众的科普性书籍，其严谨性与可读性高于其他日本学者所撰的中国史（个人觉得比堀敏一写得好）。
+⭐钱穆《国史大纲》，商务印书馆 2013 年。
+
+《国史大纲》毋庸置疑是中国通史类的最佳读物之一，但是我不推荐大家无脑选择这部，原因就在于全篇繁体竖版会给大家造成很大的负担。若是…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[项目经理如何提高工作效率和做好时间管理？]]></title>
+        <id>https://daily.zhihu.com/story/9739372</id>
+        <link href="https://daily.zhihu.com/story/9739372"/>
+        <updated>2021-08-19T23:07:19.000Z</updated>
+        <summary type="html"><![CDATA[PM研究社，公众号：项目经理老原 | 提供更多项目管理模板和工具
+阅读原文
+
+题主的这个问题，大家应该都经历过。其实我觉得根本的原因，是没有建立底层框架和思维。导致你在实际工作的时候不知道从哪里抓起。
+做技术管好自己的事就好，但做项目经理，会发现你突然多了很多杂事，感觉每一件都非常重要。
+这个时候该怎么办？
+问度娘收集一些零散的问题，发现下次换一个问题又不知道怎么做。其实和技术一样，管理也有属于自己的知识体系，会出现混乱低效的情况，就是因为你对要做的事没有一点概念。
+就好比小时候妈妈叫你去买酱油，可你连酱油长啥样都不认识，只能买回来你爱吃的零食。
+而且我相信大家都看到很多时间管理的文章，但大部分人在做时间管理的时候，都是在用“番茄时间管理法”等方法努力提高单位时间的使用效率，以达到在同等时间内聚集更多注意力的结果。
+但事实上，如果你方向错了，盲目追求单位时间的效率，但还是没找到解决问题的本质。忽略了提高「效能」一味追求「效率」，结果往往跑的越快，错的越远。
+正如我的偶像管理学之父彼得·德鲁克所说：“没有比高效率做无用功更无用的事了。”
+所以解决问题的第一步，先提升时间效能（构建底层知识体系）；第二步再提高时间效率。
+你一定会在任何领域快速成长！
+
+一、什么是知识体系？01 为什么要建立知识体系？
+小原是一名施工企业老板的司机，找领导争取机会，申请上工地去学习适应两天；
+在此之前他没有经历任何现场的施工和项目经验，但回来后他很开心的发现现场的一些问题其实自己有很多都懂，也上手很快！
+这是为啥？
+首先是因为他是个积极的人，自己考了二建，后来又向领导争取到了机会去现场评标化，把备考二建的那些知识在现场看的时候都得到验证，想象中的知识，结合现场实践吸收。
+如果只停留在考证理论上，他对工地的具体工作不会有概念；
+如果没有理论，对于行业新人而言，他也只能站在边上干看，专业名词听不懂，技…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9739380</id>
+        <link href="https://daily.zhihu.com/story/9739380"/>
+        <updated>2021-08-19T23:07:10.000Z</updated>
+        <summary type="html"><![CDATA[上厕所没纸能报警吗?
+
+故事小王钱哲文，我的故事，猜到结局算你输
+阅读原文
+
+相信我，别报警求助，他们不会管你的。
+正确的方式是自首，你还没拉完，警察叔叔就已经现在你的面前了。
+阅读原文
+
+人民银行、银保监会约谈恒大集团，有哪些值得关注的信息？
+
+Jimmy Chen，个人公众号：JimmyandCriSReadingClub
+阅读原文
+
+我翻译一下是：请安静地、低调地、不要挡道地死在角落里。办理财产移交手续后，不必再见面。
+阅读原文
+
+有哪些被用滥了却仍有效的经典情节桥段/套路/老梗？
+
+momo是只球，留学狗 人文＆女性＆个人＆存在＆AR主义 文学 LGBTQ
+阅读原文
+
+​“开口便是书香门第，父亲不是尚书就是宰相，生一个小姐必是爱如珍宝。这小姐必是通文知礼，无所不晓，竟是个绝代佳人。只一见了一个清俊的男人，不管是亲是友，便想起终身大事来，父母也忘了，书礼也忘了，鬼不成鬼，贼不成贼，那一点儿是佳人？再者，既说是世宦书香大家小姐都知礼读书，连夫人都知书识礼，便是告老还家，自然这样大家人口不少，奶母丫鬟伏侍小姐的人也不少，怎么这些书上，凡有这样的事，就只小姐和紧跟的一个丫鬟？”
+——《红楼梦》第五十四回 史太君破陈腐旧套 王熙凤效戏彩斑衣
+阅读原文
+
+旧 T 恤当睡衣的危害有哪些？
+
+匿名用户
+阅读原文
+
+我的睡衣是一件穿了十几年的旧 T 恤。虽然破的惨不忍睹，但是真的和轻薄柔软又宽松，穿在身上几乎没有穿着衣服的束缚感。非要说危害的话，emmmm 太过破旧，大多数地方已经洗成了半透明的状态，每次洗的时候根本不敢用洗衣机，只能小心翼翼的手洗，比较浪费时间，能算危害么。。。另外时常穿着这件千疮百孔破烂到看不出形状的衣服见各种外卖，快递小哥可能比失礼也算一点吧。
+
+
+
+阅读原文
+
+你曾经跟你的同性朋友发生过最暧昧的事情是什么？
+
+椰汁渍菠萝，我比流言蜚语更早认识他
+阅读原文
+
+高中
+感觉自己有点发烧，把闺蜜拉到教室后面
+我背对着门，她正对着门
+我把我的额头贴到她的额头上试体温
+班主任从后门进来了
+非常大声的问
+你们俩在干嘛
+
+场面一度非常尴尬
+后来高中三年
+我和我的闺蜜
+再也没有过女同桌！
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Gotcha With Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=350054</id>
+        <link href="https://css-tricks.com/the-big-gotcha-with-custom-properties/"/>
+        <updated>2021-08-19T19:04:48.000Z</updated>
+        <summary type="html"><![CDATA[I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.
+Let’s chuck a couple of custom properties into CSS:
+html {
+  --color-1: red;
+  --color-2: blue;
+}
+Let’s use them right …
+The post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Nuxt and Supabase for  a Multi-User Blogging App]]></title>
+        <id>https://css-tricks.com/?p=346563</id>
+        <link href="https://css-tricks.com/using-nuxt-and-supabase-for-a-multi-user-blogging-app/"/>
+        <updated>2021-08-19T14:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Nuxt is a JavaScript framework that extends the existing functionality of Vue.js with features like server-side rendering, static page generation, file-based routing, and automatic code splitting among other things.
+I’ve been enjoying using frameworks like Nuxt and Next because they …
+The post Using Nuxt and Supabase for  a Multi-User Blogging App appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a single GraphQL across multiple data sources]]></title>
+        <id>https://css-tricks.com/?p=350035</id>
+        <link href="https://css-tricks.com/implementing-a-single-graphql-across-multiple-data-sources/"/>
+        <updated>2021-08-19T14:30:41.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In this article, we will discuss how we can apply schema stitching across multiple Fauna instances. We will also discuss how to combine other GraphQL services and data sources with Fauna in one graph.…
+The post Implementing a single GraphQL across multiple data sources appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Shadid Haque</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
+        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
+        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
+        <updated>2021-08-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devin Harold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些事是你到广西才知道的？]]></title>
+        <id>http://www.zhihu.com/question/339131125/answer/2008546912</id>
+        <link href="http://www.zhihu.com/question/339131125/answer/2008546912?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-19T08:04:23.000Z</updated>
+        <summary type="html"><![CDATA[知乎对广西这宝藏地的讨论还有点少诶，给大家安利一下他们的水果。
+
+
+10块钱以上的水果，滚出广西！(不是)
+
+
+之前向大家安利徐闻菠萝的时候，我也曾怀着一颗虔诚的吃货之心搜刮了国内各个地方好吃的水果代表
+比如川渝地区的丑柑耙耙柑，东北地区的草莓，新疆的香梨大枣葡萄，陕西的苹果猕猴桃等等
+
+在此过程中，我有一个惊奇的发现，那就是只要提到水果，广西的呼声真的惊人的高
+没别的原因，实在是广西的水果种类也太多了
+
+
+你能想到的日常的不日常的见过的没见过的水果，从地里挖的到树上结的到藤上挂的，广西好像都有
+最关键的是，人家不仅多，还贼便宜
+红心火龙果10块钱9个
+
+2.5一斤的这大芒果！
+
+1.5一斤的这大香蕉！
+
+一块钱一斤的这是李还是别的什么玩意儿我也不敢瞎说
+
+甚至连以娇气难伺候著称的奢侈杨梅也罕见的卖出了个位数的价格
+
+据凡尔赛协会广西分会的朋友介绍：
+图上这价算贵的，9毛一斤的大桃你见过吗？
+
+毕竟，在广西除了榴莲以外，不配有水果10元以上
+听到高于10元的水果我转身就走，因为它下个礼拜就10元3斤了
+
+众所周知，夏天正是吃水果的季节
+所以这两天，一场以【水果自由】为主题的凡尔赛大会正在如火如荼的进行
+
+当然了，参赛者大部分来自广西
+发言内容包括但不局限于：
+不都这个价？
+这还便宜？
+我都当饭吃！
+我都快吃腻了~
+广西人：为什们你们会觉得便宜，全国水果不都是这个价吗？
+外省网友：真不是这个价
+
+
+广西人：讲真的在钦州荔枝一般俩三块一斤，杨梅也是俩三块，8块太贵了，不吃
+外省网友：之前宿舍里的广西同学从老家拿了荔枝和杨梅跟大家分享
+我们都很有默契的一人只拿了一个
+因为感觉但凡多拿一个都破费了，坐标北京
+
+广西人：10块钱9个不够拿出来说，上次10块钱买了12个火龙果，我当饭吃
+外省网友：一点都不羡慕，因为他会窜稀
+
+外省网友：上次去浦北县，路边遇到一个卖香蕉的老奶奶，我问怎么…]]></summary>
+        <author>
+            <name>王尼玛</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪些让你觉得「这是我尊贵的盐选会员该看的文」？]]></title>
+        <id>http://www.zhihu.com/question/469477579/answer/1974710668</id>
+        <link href="http://www.zhihu.com/question/469477579/answer/1974710668?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-19T07:50:19.000Z</updated>
+        <summary type="html"><![CDATA[我追了她 15 年，为了让我死心，他把朋友介绍给我相亲。
+如他所愿，我们在一起了，他又狠狠地冲出来揍了他朋友一拳……
+——
+最近有篇叫《小青梅与白月光》的盐选文火了：
+你身边有比较虐心的爱情故事吗?
+知友们纷纷为作者 @魏满十四碎 打 call，并实名表示：「这才是我一个尊贵的盐选会员该看的文」！
+
+于是小盐我突发奇想，决定给大家张罗一批「尊贵的盐选会员」必看文！
+继上一篇《小青梅与白月光》之后，我们又在海量盐选文章中扒出了 8 篇知友最推荐的「尊贵的盐选会员必看文」，现双手奉上，请尊贵的你查收～
+（排名不分先后）
+1、女生如果主动点，男生真的容易心动吗？
+我男朋友，是当年把我的脑袋从地铁扶手里解救出来的消防员。
+为了勾搭他，我送锦旗！上书四个大字——「救我狗命」，然后成功要到了他的微信。
+有些缘分，一开始就「沙雕」无比。
+选自《鉴爱高手，热血出击》，作者 @鹅子
+女生如果主动点，男生真的容易心动吗？
+
+2、当霸道总裁文里的男主和女主都是沙雕，会是怎样的情景？
+我万万没想到，有一天我竟然能和我妈一起穿越，成了霸道总裁的女儿和老婆。
+刺激吧？我也觉得！
+这事儿说来话不长，只因为我前一晚熬夜看小说，第二天我妈叫了我无数遍我还赖床不起，惹得正在做午饭的她，系着围裙右手拿着铲子就来打我，我一急，脑子还没反应过来，就先跳起来跑，然后就直直地撞在了我妈额头上……
+选自《沙雕女孩最好命：爆笑无厘头的女追男故事》，作者 @凯瑟琳一世 
+当霸道总裁文里的男主和女主都是沙雕，会是怎样的情景？
+3、有哪些追妻火葬场或女主被男主伤透了跟男二在一起的小说？
+他红着眼说：「你再给我服个软，最后一次了。」
+我嗤笑一声：「哥哥，这话得跪着说，才有说服力。」
+然后，席渊真给我跪下了。
+高大挺拔的男人，直挺挺跪在我面前时，脊梁也不肯弯下去半分。
+那时候，我真觉得，只要席渊能爱我，我愿意一寸寸放低身段，抽去傲骨，把命搭进去也没什么要紧……
+选自《万里江山亦如君：搞事业女主的绝美爱情》，作者 @巧克力阿华甜 
+有哪些很短的追妻火葬场或女主被男主伤透了跟男二在一起的小说?
+4、男生真的不懂什么是绿茶吗？
+我的男朋友有一个很要好的兄弟，是一个浑身绿茶味的女汉子，俗称「红茶」。
+男朋友池也是一个玩得比较开的男生，他很幽默，长相也不差，又会打篮球，在系里比较受欢迎。
+我问过他为什么会看上我，他摸着头笑：「就是觉得，你很对我胃口。」
+选自《红酥手：女主她超凶的！》，作者 @是玉子耶 
+知乎盐选 | 前任兄弟是绿茶
+5、如何以「娘娘，其实奴才不是真正的太监」为开头，写一个故事？
+「娘娘，其实奴才不是真正的太监。」
+「娘娘要借种，还不如找奴才。」
+ 夏侯离擎住我的手腕，把我抵在宫墙上，在东宫外的苍树下。
+ 他的目光阴森寒冷，似陵墓鬼火。
+ 他是个可怕的家伙……
+选自《西陵有美人：我被病娇看上的日子》，作者 @十具 
+如何以「娘娘，其实奴才不是真正的太监」为开头，写一个故事？
+6、有没有什么短篇言情小说把你虐哭了？
+他出征的前一晚我有了身孕，但这不妨碍他将我绑上祭台。他是高高在上的佛子，而我，区区妖女，染指神明，定会落得抽筋拔骨的下场。
+选自《夫君修炼指南：宠妻的一百种方式》，作者 @小柒崽子 
+有没有什么短篇言情小说把你虐哭了？
+7、男生眼里的白月光是一个怎么样的存在？
+深夜，枕头旁的手机突然亮了一下。 迷迷糊糊打开对话框：「我回来了，出来聊聊？」
+选自《欲望都市：情场玩家的真爱与反杀》，作者 @小呀小猫咪 
+男生眼里的白月光是一个怎么样的存在？
+8、你看过最爽的爽文有多爽？
+老公背叛了我，这个消息是他最好的异性好友告诉我的。
+我以为她告诉我这件事，要么是真心为我好，要么是想看我的笑话。
+可我万万没想到，她也喜欢我老公……
+选自《我的爱情，人满为患》，作者 @浮生半日 
+你看过最爽的爽文有多爽？
+尊贵的盐选会员们，请享用吧！
+如果喜欢，请点赞关注，为尊贵的您服务，小盐感到万分荣幸[嘿哈]
+
+来源：知乎 www.zhihu.com
+盐选作者小助手
+点击下载
+241 个回答，查看全部。
+这个小说开头你能看得下去吗？
+如何评价本人最近写的小说?]]></summary>
+        <author>
+            <name>盐选作者小助手</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内有哪些经典的火车旅行路线？]]></title>
+        <id>http://www.zhihu.com/question/469093965/answer/1974550047</id>
+        <link href="http://www.zhihu.com/question/469093965/answer/1974550047?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-19T07:48:08.000Z</updated>
+        <summary type="html"><![CDATA[今年是中国共产党成立100周年，在此推荐一条江浙沪皖红色之旅。
+Day1：中共一大会址——嘉兴南湖
+交通：上海虹桥站出发乘坐地铁10号线至一大会址·新天地站。上海站出发乘坐地铁1号线至一大会址·黄陂南路站。
+中共一大会址
+
+推荐理由：这里是中国共产党的诞生地。中国共产党第一次全国代表大会在此召开，中国共产党的历史从此开始。
+旅游攻略：独具上海特色的石库门楼房，在四周茂密梧桐的掩映下，别有一番特色，值得“打卡”。
+交通：上海虹桥站坐高铁出发，30分钟左右到达嘉兴南站，乘坐71路、95路、游8路公交到达南湖景区站。
+
+嘉兴南湖
+
+推荐理由：这里是“红船精神”诞生地。1921年8月，中国共产党第一次全国代表大会在此闭幕，庄严宣告中国共产党诞生。
+旅游攻略：需提前实名预约购买渡船票。主要景点有烟雨楼、湖心岛、小瀛洲等。
+小贴士：嘉兴站新建站房将使用南湖湖心取土制作的“建党百年砖”，红砖用1921块，青砖用2021块，取中国共产党建党100周年的寓意。
+交通：嘉兴南站坐高铁出发，2个多小时到达南京南站。（建议住宿南京）
+
+Day2：雨花台烈士陵园——淮海战役纪念馆
+交通：南京南站出发乘坐地铁1号线至中华门站。
+雨花台烈士陵园
+
+推荐理由：这是国内规模最大的纪念性陵园，建在高约60米、长约1000米的山岗上，非常宏伟壮观。
+旅游攻略：需要提前预约，关注“中国雨花台”微信公众号，在下方菜单栏中点击“预约服务”，选择入园时间。
+交通：南京南站坐高铁出发，1个半小时左右到达徐州东站。徐州东站出发乘坐地铁1号线换乘地铁2号线至淮塔站。
+
+徐州淮海战役纪念馆
+
+
+推荐理由：这是解放战争时期三大战役之一淮海战役纪念馆，具有较高的史料意义及观赏价值。
+旅游攻略：需要提前预约，关注“淮海战役纪念馆”微信公众号，在下方菜单栏中点击“参观预约”，选择入馆时间。
+交通：徐州东站坐高铁出发，1个多小时到达合肥南站。（建议住宿合肥）
+
+Day3：渡江战役纪念馆——安徽省金寨县
+交通：合肥南站出发乘坐轨道交通5号线至渡江纪念馆站。
+渡江战役纪念馆
+
+推荐理由：渡江战役是继三大战役后决定解放战争胜负的战略性战役，馆内基本陈列《百万雄师过大江》，全景式描绘了400万军民奋勇向前的壮阔场景。
+旅游攻略：需提前预约，关注“渡江战役纪念馆”微信公众号，在下方菜单栏中点击“预约参观”，渡江战役纪念馆和安徽名人馆同时间预约。
+交通：合肥南站坐高铁出发，50分钟左右到达金寨站。
+
+安徽金寨县
+
+推荐理由：金寨是中国革命的重要策源地、人民军队的重要发源地，地处大别山腹地，自然风光优美，是一座“天然氧吧”。
+旅游攻略：到了金寨后可去天堂寨、红军广场、梅山水库、金寨革命博物馆等景点。
+这条经典火车旅行线路，带你重温革命历史，感受红色经典，一起去打卡吧。
+（为保证您的出行顺利，请提前查询当日车次信息。）
+
+
+
+
+来源：“中国铁路”微信公众号
+
+来源：知乎 www.zhihu.com
+中国铁路
+点击下载
+59 个回答，查看全部。
+中国有什么经典的火车旅行路线？
+国内适合两个人毕业旅行的地方或路线(想多去几个地方)?]]></summary>
+        <author>
+            <name>中国铁路</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写给新手父母、奶爸、奶妈的一份生产指南。]]></title>
+        <id>http://zhuanlan.zhihu.com/p/379385438</id>
+        <link href="http://zhuanlan.zhihu.com/p/379385438?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-19T07:36:59.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章我还没有写完。本人性别为男性，写得不好请多见谅，也可以在评论区帮忙补充。
+这篇文章我尽量写得客观清晰，避免了一些太过主观的问题。
+本篇文章适合新手阅读。
+1、备孕
+代补充。
+
+注意怀孕的时间，以上海的气候条件为例，建议你在上一年的6～8月份怀孕，下一年的3～5月份生孩子，气温不会很低。之后产后护理较为方便。
+怀孕之前可以去社区医院领取叶酸和免费体检。
+怀孕之前多锻炼。
+
+
+2、怀孕
+
+在家里呆着，没问题别去医院或诊所。
+少吃糖。
+多休息，适当轻微运动。
+补充铁、钙。
+
+3、孕期（前中后期）
+
+孕妇注意多休息，多睡觉。到了后期更要小心谨慎，非必要不要外出走动。如果是自己一个人的话建议雇佣保姆清洁工之类的。保持怀孕的环境卫生洁净。后期请必须减少过量的运动（少爬楼梯）。
+孕期适当补充营养，注意饮食。
+调整好自己的心态。
+不管是前期还是早期后期，怀孕期间最好不要为爱鼓掌，特别是后期。中后期也不要自慰。不要贪图一时之快而去挑战自己的身体。
+少接触电子设备或呆在辐射较大的地方，你所处的环境应当安静卫生。
+
+4、分娩
+
+去大医院分娩，请提前做好准备。（注：如果你一个人，请务必提前准备好所有事物，委托可靠的人在当天帮你处置一切（叫车、备药等）。如果身边没有人，最好在身体不良反应开始前提前去医院。）
+顺产或剖腹产看你老婆（或自己）的体质，其后才参考医生的建议。记住不要迷信和去冒险。顺产不建议上麻醉，最终看你老婆（或自己）的选择。（注：顺产可能会导致阴道松弛。）
+（陪从者）是否需要陪产？最好需要。你的陪伴会在心理层面给予你的老婆（生产者）一定的安慰，分娩的过程你需要去注意一些细节 ，如观察医生的行动和注意工具材料，避免意外发生。
+分娩过程安慰老婆（生产者），这个过程很痛苦。作为生产者，你需要稳定自己的情绪，做好迎接痛苦的准备。过程中，可以和医务人员或者陪产者交流，分散注意力使自己不要太紧张。
+需要准备食物和水（能量饮料）。
+
+5、产后
+
+无论是身体素质再好的人，产后都是其身体最虚弱的时候，务必做好最好的调养，避免高强度运动。必须有更多休息的时间。
+无论是生产者还是陪产人，请调理好心态。不要发怒。生产者由于生理上的不适会多少影响到心理，情绪上表现出浮躁、易怒、不安等，作为生产者，你需要稳定自己的情绪保持良好心态；作为陪产者，你需要扛住压力给予生产者最好的心理安慰和照顾。
+
+
+6、月子
+
+一般没有什么太大问题，月子前几天需要多注意。一切饮食以清淡为主不要吃刺激性太大的食物（可以喝红豆薏米粥、枸杞红枣炖鸡汤等）。来不喝碳酸饮料（可乐雪碧）。适当饮食补品但是切忌无脑补充补品。多喝热水。多吃水果。这里建议的食物稍后我查资料科普后补充。
+尽量洗热水澡，可以适当按摩或者泡脚。
+最好不要做太用力的事情（搬东西）。如果你是单独一人的话如有必要请雇佣他人。
+适量补充维生素。
+月子内尽量不要为爱鼓掌或自我满足，除非你身体素质实在是够硬。
+
+7、减肥
+8、女性健康
+（略，后续补充）
+9、育儿
+
+避免与人亲密接触。
+宝宝啼叫代表饥饿，请及时喂养。母乳哺育不是必须，虽然一般使用母乳喂养。如果你的老婆（生产者）或自己先天奶水不足（几近无奶水的情况下），不需要使用任何方法去催乳，这时候可以用牛乳（上等质量）哺育新生儿。不要去强求身体。如果只是奶水少的情况下可以让医生帮你催乳。
+宝宝出生不需要洗澡。不需要绑腿。
+涨奶的时候需要把奶挤出来，可以暂时存放在冰箱。涨奶会很痛苦。
+宝宝出生需要多休息，避免强光照射。
+如果宝宝出现微小问题（如黄疸偏高），请及时咨询医生。
+
+
+小攻
+点击下载]]></summary>
+        <author>
+            <name>小攻</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教女朋友学前端之深入理解 JS 引擎]]></title>
         <id>https://toutiao.io/k/19x4z5r</id>
@@ -10975,359 +11648,6 @@ The post A Step-By-Step Process for Turning Designs Into Code appeared first on 
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Tools And Resources]]></title>
-        <id>https://smashingmagazine.com/2021/07/color-tools-resources/</id>
-        <link href="https://smashingmagazine.com/2021/07/color-tools-resources/"/>
-        <updated>2021-07-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? We’ve collected some useful color tools and resources that we’ve discovered lately — to help you get the most out of your creativity. We’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.07.22 今天是每日时报陪伴您的第 594 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/07/22.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/07/22.html"/>
-        <updated>2021-07-21T10:56:12.000Z</updated>
-        <summary type="html"><![CDATA[2021.07.22 今天是每日时报陪伴您的第 594 天
-[文章] 谷歌工程师的代码审核最佳实践：https://google.github.io/eng-practices/review/reviewer/
-[文章] 如何搭建适合自己团队的构建部署平台：https://juejin.cn/post/6987140782595506189]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于开源工具的人生管理]]></title>
-        <id>https://toutiao.io/k/e2ie57j</id>
-        <link href="https://toutiao.io/k/e2ie57j"/>
-        <updated>2021-07-21T06:39:30.000Z</updated>
-        <summary type="html"><![CDATA[虽然我做了大量的时间与资金开销记录，但我也很难评估这些开销对实现长期目标有何影响。这种困扰可以看作个人时间管理的哥德巴赫猜想：我知道我的时间有一半都被浪费掉，但就是不知道哪一半。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爬虫入门到放弃（三）：爬虫如何模拟人的浏览行为]]></title>
-        <id>https://toutiao.io/k/868e4od</id>
-        <link href="https://toutiao.io/k/868e4od"/>
-        <updated>2021-07-21T01:09:28.511Z</updated>
-        <summary type="html"><![CDATA[接一个刻骨铭心的吻，献给我注定孤独的余生。\x0a纹一个触目惊心的身，致我们终将逝去的青春。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆解一个 Elasticsearch Nested 类型复杂查询问题]]></title>
-        <id>https://toutiao.io/k/0l1fca4</id>
-        <link href="https://toutiao.io/k/0l1fca4"/>
-        <updated>2021-07-21T01:09:28.462Z</updated>
-        <summary type="html"><![CDATA[一个线上 Nested 实战问题，三种实战方案探讨 \x26gt;\x26gt;]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅谈 Hbase 在用户画像上的应用]]></title>
-        <id>https://toutiao.io/k/1fn2tc3</id>
-        <link href="https://toutiao.io/k/1fn2tc3"/>
-        <updated>2021-07-21T01:09:28.362Z</updated>
-        <summary type="html"><![CDATA[背景用户画像，即用户信息标签化，是大数据精细化运营和精准营销服务的基础。设计从基础设施建设到应用层面，主要有]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DistSQL：像数据库一样使用 Apache ShardingSphere]]></title>
-        <id>https://toutiao.io/k/nv2t7y3</id>
-        <link href="https://toutiao.io/k/nv2t7y3"/>
-        <updated>2021-07-21T01:09:28.296Z</updated>
-        <summary type="html"><![CDATA[Apache ShardingSphere 5.0.0-beta 新特性之 DistSQL 解读\x26amp;实战]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：小松子知道什么是内联函数吗？]]></title>
-        <id>https://toutiao.io/k/6t9xola</id>
-        <link href="https://toutiao.io/k/6t9xola"/>
-        <updated>2021-07-21T01:09:28.221Z</updated>
-        <summary type="html"><![CDATA[啥是内联优化呀！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工具 | 一款 Golang 实现的分布式事务管理器]]></title>
-        <id>https://toutiao.io/k/curakqj</id>
-        <link href="https://toutiao.io/k/curakqj"/>
-        <updated>2021-07-21T01:09:28.101Z</updated>
-        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梅开二度：PancakeBunny 被黑分析]]></title>
-        <id>https://toutiao.io/k/gbxug5p</id>
-        <link href="https://toutiao.io/k/gbxug5p"/>
-        <updated>2021-07-21T01:09:28.031Z</updated>
-        <summary type="html"><![CDATA[DeFi 收益聚合器 PancakeBunny 再次被攻击。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫画：要不是因为家庭困难，谁会选择干程序员？]]></title>
-        <id>https://toutiao.io/k/qd3xnuw</id>
-        <link href="https://toutiao.io/k/qd3xnuw"/>
-        <updated>2021-07-21T01:09:27.801Z</updated>
-        <summary type="html"><![CDATA[你为什么当了程序员？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你觉得我的这段 Java 代码还有优化的空间吗？]]></title>
-        <id>https://toutiao.io/k/lqm7cmx</id>
-        <link href="https://toutiao.io/k/lqm7cmx"/>
-        <updated>2021-07-21T01:09:26.536Z</updated>
-        <summary type="html"><![CDATA[上周，因为要测试一个方法的在并发场景下的结果是不是符合预期，我写了一段单元测试的代码。写完之后截了个图发了一个朋友圈，很多人表示短短的几行代码，涉及到好几个知识点。  还有人给出了一些优化的建议。那么，这是怎样的一段代码呢？涉及到哪些知识，又有哪些可以优化的点呢？  让我们来看一下。  背景  先说一下背景，也就是要知道我们单元测试要测的这个方法具体是什么样的功能。我们要测试的服务是AssetSe]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nine States of Design]]></title>
-        <id>https://css-tricks.com/?p=345062</id>
-        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
-        <updated>2021-07-20T23:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
-Modern UI teams are designing components 
-…
-The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何控制负面情绪？]]></title>
-        <id>https://daily.zhihu.com/story/9738314</id>
-        <link href="https://daily.zhihu.com/story/9738314"/>
-        <updated>2021-07-20T23:07:40.000Z</updated>
-        <summary type="html"><![CDATA[壹心理，专业而有趣的心理服务平台，为大众心理健康提供解决方案。
-阅读原文
-
-陷入负面情绪，很像掉入泥沼，难免想控制与挣脱。
-想象一下，负面情绪就像又湿又脏，沾满你的身体，你想不想挣脱？
-是的，你想，你烦死各种负面情绪了。
-可你有没有发现，当你试图控制、对抗各种负面情绪时，就像在泥沼中挣扎一样，你陷得更深了、更痛苦了。
-高考前两个月，我总失眠。
-晚上看到床，上眼皮和下眼皮就不停打架，可手和身体却在抖，心里想着 “绝不能再失眠了，不然明天上课，更听不进去了。”
-关灯后，身体僵直地平躺，手放一会放在肚皮，一会又放到床边，期间脑子安了发电机似的，一直转不个停。
-等头皮发麻时，深深叹一口气，接着坐到床边，用一只手拄着下巴，凝视地上的月光。同时听力变得格外敏感，楼道外的任何声响，都能被轻易捕捉。
-待眼睛自然合上，我才准备躺下。可一挨上枕头，脑子就又变得清醒了，然后攥起拳头轻轻砸墙。
-直到折腾了 5、6 轮，我放弃挣扎，只静静观察呼吸时，不一会儿就睡着了……
-在失眠的这个过程中，我发现自己越试图控制自己不焦虑、要求自己睡觉，结果就更睡不着了，可当我折腾累了，不想着再控制了，焦虑似乎就不可怕了。这是为什么呢？
-控制负面情绪会带来什么？
-“控制情绪”这个词，从本质上就不太可能实现。例如，在高考前两个月，我焦虑是很正常的，基本每个同学都很焦虑。
-控制负面情绪的目的，其实是防止焦虑影响自己的学习与考试。
-而对于当时焦虑我的来说，包括很多试图控制负面情绪的人，其实是在逃避各种负面情绪与感受。
-而逃避痛苦的感受，往往会放大眼前的痛苦，从而陷入越逃避——越痛苦——越逃避——越痛苦的负向循环之中。
-
-因为逃避意味着，我们把痛苦的负面情绪放到了心上，从而使这种感觉更真实、更让人难以摆脱。结果就是，“眼前的痛苦”加剧了。而我们内心苦苦挣扎的同时，生活也就被忽略了，又出现了新的现实问题。结果就是，中间黑点正常…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刑法中的“不能犯”是什么意思？]]></title>
-        <id>https://daily.zhihu.com/story/9738286</id>
-        <link href="https://daily.zhihu.com/story/9738286"/>
-        <updated>2021-07-20T23:07:30.000Z</updated>
-        <summary type="html"><![CDATA[从八品盛京游牧副尉，略懂法术
-阅读原文
-
-学习过刑法的老铁都知道，一旦着手开始实行犯罪行为，后续可能的犯罪形态就是，中止、既遂和未遂。其实还有一种发展方向，就是不能犯。
-不能犯是指：以行为当时存在的客观事实作为判断依据，从具有科学常识的一般人的立场进行判断，没有发生结果的现实可能性。
-简要来说就是：正常来讲，干的这事没有危险。或者说，不具备驾驭这次犯罪的条件。
-根据定义，我们把不能犯所需要的考虑条件提炼出来，逐条阐述一下：
-第一，判断素材：行为时存在的客观事实。这个客观事实根据我国司法实践，采用的观点是“具体危险说”，就是以行为当时一般人能够认识到的事实为基础（站在行为当时预测该行为事后发生结果的可能性），如果没有发生结果的可能性，就是不能犯。来一个直观点的例子，《我开始摇滚了》里面有句歌词，非常好的描述了什么叫行为时存在的客观事实，如果歌词里的这位爸爸，误以为自己是国家工作人员而收受了他人财务，就是受贿罪的不能犯。
-客观事实：没职位，无犯罪
-再比如说，《功夫》里面周星驰假扮黑社会，他以为自己是黑社会，认为理应得到的罪名是成立组织领导黑社会罪，但事实上高估了自己的黑社会属性，顶多构成诈骗罪。从后续效果来看，还是诈骗罪未遂。
-
-第二，判断立场：具有科学常识的一般公众。一个很好的例子来自于电影《背靠背脸对脸》，里面爷爷为了让自己孙女变哑巴，给孙女喝烟油水，即使大部分观众认为这种行为具有危险性，但是由于投入的量少，从科学常识的一般公众来看，并没有变哑巴或者发生其他伤害的可能性，成立不能犯。
-
-第三，危险性：行为当时具有发生结果的可能性。举个美队的例子吧：九头蛇想要弄美队，挺会挑地方，一个电梯间满满登登站了一堆杀手。以为这下稳了。
-
-没想到对于美队来说，人还是不够多。
-
-虽然美队有特殊体质不死光环，但从一般公众的角度认为，这满满一电梯人仍然具有杀伤美队的可能性。所以不成立不能犯，成立未遂。
-第四，危险性的判断，既要看具体对象，也要看周遭的环境。引用一个楼主老铁 @奇昊楷 的例子，在一个月黑风高夜，抱住一个身影就是一顿艹，最后发现是哈士奇，成立强奸罪不能犯。但如果加入了环境因素，比如月黑风高夜，在一个经常有人走夜路的巷子里，或者是站街女聚集地，抱住一个身影一顿艹，即便是哈士奇，但从周围环境来看，仍有强奸到他人的危险性，如果他想强奸的是女的，构成强奸罪未遂，如果想强奸男的，构成强制猥亵罪未遂。
-最后，举一个不能犯的例子：
-隔壁有个 80 多岁的大爷在小区树下发现了一条黑色的蛇，纹理来看属于国家二级保护动物，都冻僵了，大爷就把他揣在怀里，想温暖过来当宠物。该行为已经涉嫌非法猎捕野生动物罪。但是经过公安机关侦查发现，大爷属于不能犯，当场释放。
-回到家后，大爷就在小区树下挂了一块牌子：禁止随地大小便。
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代人会穿更古代的衣服吗?]]></title>
-        <id>https://daily.zhihu.com/story/9738295</id>
-        <link href="https://daily.zhihu.com/story/9738295"/>
-        <updated>2021-07-20T23:07:20.000Z</updated>
-        <summary type="html"><![CDATA[綾音Ayane，三坑少女/妆娘/中国古代史/汉语言文学/女性向消费数码
-阅读原文
-
-岂止是会，有些古代人简直会把穿更古代的衣服当做一种值得炫耀的事情，如果他们生活在现代，一定会被某些人批判为“莫名其妙的优越感”
-不管是古画里面常见的穿着各种古代衣服的路人，还是宫廷里不知道什么时候刮起来的复古风——其实古代女性除了礼服之外并没有固定的什么朝代穿什么衣服，除了清朝的“剃发易服”，古时候很少有规定百姓日常穿什么衣服，每次改动的礼制也仅仅是“礼制”而已。
-古代人会不会考据更古代的衣服呢
-关于这个问题，我们就拿著名的深衣举例子吧。
-深衣这种东西，《礼记》的记载是起源于有虞氏。
-“有虞氏皇而祭．深衣而养老。”——《礼记·王制》
-有虞氏，也就是虞舜的氏族，看这个名字就知道了，比《礼记》写成的时间早得多。
-也许深衣就是周朝人崇尚三皇五帝时期才这么穿也说不准呢（x）
-当然，深衣这种形制简直贯穿了中国上下五千年。现在的汉服也会大体分为通裁制和深衣制。
-简单说深衣的形制就是衣裳连在一起，分开剪裁但是缝在一起的袍服。
-在这个回答里，我们着重来说直裾深衣，毕竟后世复原的深衣也以直裾为主。
-《礼记》是这样记载的
-古者深衣盖有制度，以应规、矩、绳、权、衡。短毋见肤， 长毋被土。续衽钩边．要缝半下．袼之高下．可以运肘．袂之长短．反诎之及肘．带．下毋厌髀．上毋厌胁．当无骨者．
-制十有二幅．以应十有二月．袂圜以应规．曲袷如矩以应方．负绳及踝以应直．下齐如权衡以应平．故规者．行举手以为容．负绳抱方者．以直其政．方其义也．故易曰．坤六二之动．直以方也．下齐如权衡者．以安志而平心也．五法已施．故圣人服之．故规矩取其无私．绳取其直．权衡取其平．故先王贵之．故可以为文．可以为武．可以摈相．可以治军旅．完且弗费．善衣之次也．
-具父母．大父母．衣纯以缋．具父母．衣纯以青．如孤子．衣纯以素．纯袂．缘．纯边．广各寸半。
-当然，…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古代平民说话也用文言文吗？]]></title>
-        <id>https://daily.zhihu.com/story/9738304</id>
-        <link href="https://daily.zhihu.com/story/9738304"/>
-        <updated>2021-07-20T23:07:11.000Z</updated>
-        <summary type="html"><![CDATA[墨子连山，干货在这不受待见，我把他们放在“同名公众号”了……
-阅读原文
-
-先别说古代平民说话用不用文言文，就说现在的高级知识分子，教授、院士们讲课或者公开演讲有没有用书面语的？
-没有吧？因为根本没法用，如果一位教授开口就是，“今日，我将与诸位同学一道，共同对《组合数学》进行初步的研究与探讨，以期达到运用自如之效果……”，咱们会不会觉得他是精神病？
-放到古代，假如老子给关令尹喜讲道，张口就是“道可道，非常道，名可名，非常名……”，你觉得关令尹喜同志能听得明白？
-大宗师都没法用书面语说话，平民有几个认识字的？还用文言文说话？
-古代文字最早刻在甲骨上，就是甲骨文，后来刻在青铜器上，叫金文，再后来写在竹简上，那之后文字和书籍才能开始流传，否则只能在贵族圈子里面小范围使用。为什么呢？因为文字不论刻在哪里，其雕刻成本是极高的，所以古人用文言文，现实原因就是为了降低刻字成本，否则像我现在这样啰里八嗦、不加节制地说起来没完，一本书刻出来估计要等个十年八年，成本嘛，可真的要一字千金了。
-既要节约成本，又要把话说明白，怎么办？古人有办法，他们从用字上面下功夫。
-首先尽量不要出现废字，这就跟当年拍电报是一个意思，按字收费，所以大家都斟酌再三，力求用最简单的几个字把事情说清楚，例如：父亲生病快不行了，你快点回来。转化成电报就是：父危速回。
-其次是要把每一个字用精，最大程度地挖掘单个汉字的潜能，那时候才真的是咬文嚼字。所以，文言文里面的任何一个字都不是随便用的，用口语解释恐怕有的字能写一句话，有的字可以写篇文章，甚至有的字都够写一部书了，例如这个“道”字，已经不止写了一部书，古往今来注疏无数，可现在看来还是没写清楚。
-最后，古人发现篇幅资源实在太受局限，就算把单个字的潜力发挥到极致也还是写不清楚，那怎么办？于是，他们创造出了一种叫“意境”的东西，就是通过文字给我们以想象空间，方法可以是比喻，可以是寓言，总之虽然说得没那么严谨，甚至也不那么清楚，但是我可以给你指个方向，你自己往那个方向走，边走边看，走得远了看得多了，自己就明白了。明白之后，这些文字也就不再重要，这叫“得意忘言”。
-这是中国人极高明的地方，通过“意境”试图把自然语言的能力压榨干净，以至于中国的文学、历史、哲学、艺术自古就分不了家，诗词歌赋、议论文章，他们就是哲学的载体，同时又是文学艺术，其本身就是对美的追求。
-当然，有优势就必然有劣势。
-优势是有深度，甚至使人常读常新，也可以让人遐想连篇，随着阅历的增加，领悟也就增加了。所以，理解《道德经》主要靠的不是“学”，而是“习”，也就是实践。好比咱们《篮球理论》看得再多，也学不会打球，对不对？怎么才能学会呢？要去球场打才行。打一场再去对照理论复盘，看看问题在哪，带着答案回去打，把毛病改掉，如此往复，就可以成为高手。也正是因为这个特点，理论上面的一些文字、语句有些出入就没必要吹毛求疵了，这些偏差在实践之后都会自然而然地被校正过来。管他写的是分解训练、还是协调发力呢？总之我们最后把标准动作做熟练、变成了肌肉记忆，自然就成了高手，谁在场上打球还会想着“哎哟，我这个动作不标准吧”？
-劣势也同样明显，就是牺牲了精度。西方以他们的语言为原型，提取出了形式逻辑，进而有了数学语言，这就是语言应用的另一个极端，追求精确。数学对模糊是零容忍的，必须清晰地定义每一个概念，每一个数字和符号的定义都不能变，变了就是错误。而数学之美也正在于此，基于几个直观的公理就可以建构出一栋摩天大楼，而且整个系统之精密与优雅，足矣让人产生美的享受。只不过，这种精密必然地牺牲了深度，他将客观世界做了高度抽象，高度之高以至于当我们把他还原到客观世界时已经找不到完美的对应物，例如最简单的射线在客观世界中就找不到，连光线都是弯曲的，还有什么事物可以是平直的呢？这种高度抽象使得数学在描述复杂系统时捉襟见肘，例如我们甚至没办法预测任何一个人的行为，哪怕自己的都不行，因为那背后是一个混沌系统。
-所以，人类在未来很长一段时间的探索中，自然语言与数学语言必然缺一不可。而汉语系统在目前看来，是最完善的自然语言系统，因为每一个文字都可以追溯到甲骨文，再到金文、小篆、隶属、楷书、简体字，这就把每一个文字变成了一部电影，其信息量远超字母语言，甚至在维度上都是碾压。
-所谓文言，就是经过“文饰”之后的语言，是精加工的语言，是凝练深邃的语言，出口成章那是在特定情境下的夸张修辞，就算有也是很费脑子的，日常想出口成章，恐怕脑子会过载吧？
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些容易被忽视但又极为重要的护肤知识？]]></title>
-        <id>https://daily.zhihu.com/story/9738319</id>
-        <link href="https://daily.zhihu.com/story/9738319"/>
-        <updated>2021-07-20T23:07:05.000Z</updated>
-        <summary type="html"><![CDATA[倩Sur，医学博士、里根医院访问学者、赫尔辛基大学中心医院Fellow
-阅读原文
-
-聊一聊这几年比较新的一个进展——肠子好，皮肤才会好
-皮肤不仅是我们的的第一道“防护墙”，也是肠道微生物健康状况的晴雨表。
-我们的肠道（菌群）作为消化和吸收的工厂，承担着机体能量调转中心的工作。这类定植于人体胃肠道的所有细菌，其种类超过 500 种，总数约百万亿个，被称为人体的“第二基因组”。它如此重要，以至于它的一点不适，都会在情绪或皮肤上反应出来。我们习惯于把这种影响途径叫做“肠 - 脑 - 皮轴”。
-痘痘总是不好，是肠子在作怪？
-我们国家的科学家们曾经做过一个大数据的统计，去证实胃肠道功能障碍是皮脂腺疾病的重要危险因素，与皮脂腺疾病的发生发展密切相关。实验招募了 13215 名 12~20 岁的汉族青少年，他们脂溢性皮炎、痤疮和酒渣鼻的患病率分别为 28.27%、51.03%和 0.97%。这些人与未患皮肤病的青少年相比，发生便秘、口臭、胃反流等胃肠道症状显著偏高【1】。
-拿常见的黑头、青春痘举例子。它们的形成其实是有“潜伏期”的。雄激素作用下的皮脂腺快速发育和脂质大量分泌是痤疮发生的病理生理基础。接下来会发生毛囊皮脂腺导管堵塞、皮脂排出障碍, 形成粉刺。粉刺的形成为具有厌氧生长特性的痤疮丙酸杆菌增殖创造了良好的局部环境。这种杆菌会让粉刺变成黑头或者闭口进而变成丘疹或者脓疱（就是我们看见的又大又红的青春痘）总结就是“微粉刺→黑头 / 闭口→丘疹 / 脓疱→痘印”。而肠道菌群可以参与到每个发展步骤中去。肠道菌群失调可导致雄激素过高，还会导致胰岛素抵抗，进而通过高胰岛素的水平刺激卵泡膜细胞产生过多雄激素【2】。
-
-皮肤与肠道健康相关的最极端代表是一种叫肠病性肢端皮炎的皮肤病，病因是肠道对锌的吸收异常。这类患者皮肤和肠道都会表现症状, 会出现肢端皮炎、脱发和腹泻。
-肠 - 脑 - 皮肤轴
-肠道…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9738328</id>
-        <link href="https://daily.zhihu.com/story/9738328"/>
-        <updated>2021-07-20T23:06:59.000Z</updated>
-        <summary type="html"><![CDATA[化学实验用的烧杯能不能平时喝水用？
-
-杨疯疯，摄影爱好者
-阅读原文
-
-阅读原文
-
-作为医学生你经历过最囧的事是什么？
-
-Pirarubicin-木木，一个大夫＋心理咨询师小司机，有需要加关
-阅读原文
-
-第一次给病人做穿刺抽胸水，病人有帕金森。。。
-可我抖的比他还厉害。。。
-阅读原文
-
-北京大学和清华大学的学生是怎么「互损」的？
-
-云和极光，某乎一号辩手
-阅读原文
-
-记得有一年女生节，清华和北大好像有个什么女生节活动。主要是清华男生和北大女生参加活动，看电影还是什么记不清了。
-然后我看到有个北大的男生发朋友圈说：“又到了一年一度隔壁男生假装喜欢女生的日子了。”
-阅读原文
-
-为什么我写代码时总是手滑把main打成mian？
-
-魔某人，游戏工程师，魔幻小说家
-阅读原文
-
-你的大脑：
-#include#includevoid左手(){putchar('a');}void右手(){putchar('m');putchar('i');putchar('n');}intmain(){std::thread左手线程(左手);std::thread右手线程(右手);左手线程.join();右手线程.join();return0;}
-你的手：
-mian 
-阅读原文
-
-学生会主席在开会，我公开怼了他，目前还想在学生会待，对外宣布已经开除了，我有什么好的办法力挽狂澜吗？
-
-小宝，法律、游戏、电影
-阅读原文
-
-你完了，你彻底完了
-参加公务员、事业单位考试，政审将无法通过
-不得购买超过 40 平方的房产和 2 座以上的机动车，电瓶车每次充电只允许充 40%
-银行不向你发放任何性质的贷款、信用卡，储蓄卡一旦超过 500 块直接强制扣划并充公
-出门不得乘坐高铁、动车、飞机，连硬卧和汽车卧铺都不准，坐公交地铁只能站，有座也不行
-国企别想了，私企上班工资减半，加班时间翻倍，无绩效奖金
-怼主席的记录将会计入档案，并在档案封面盖章“无组织无纪律小能手”，跟随终身
-手机入网永远 1 格信号，且不得使用 3G 及以上通讯网络
-所有网游、手游、steam、epic、育碧反正各种，一旦发现立刻销号，好友账号一并消除，连坐
-还有结婚和子女方面的限制我就不说了，因为基本上就告别传宗接代了
-公开场合硬怼学生会主席，奥斯卡编剧都不敢这么打草稿，我打字手都在抖
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://css-tricks.com/?p=344944</id>
-        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-07-20T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
-In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
-…
-The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
