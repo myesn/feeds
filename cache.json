@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350186",
+          "author": "Chris Coyier",
+          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/disambiguating-tailwind/",
+          "publishedOn": "2021-08-20T19:59:47.000Z",
+          "wordCount": 585,
+          "title": "“Disambiguating Tailwind”"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346702",
+          "author": "Ganesh Dahal",
+          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
+          "publishedOn": "2021-08-20T14:59:30.000Z",
+          "wordCount": 2966,
+          "title": "Creating a Headless WordPress Site With Frontity"
+        },
+        {
           "id": "https://css-tricks.com/?p=350054",
           "author": "Chris Coyier",
           "description": "I’ve seen this confuse more than a handful of people recently, including myself, so I’m making sure it’s written down.\nLet’s chuck a couple of custom properties into CSS:\nhtml {\n  --color-1: red;\n  --color-2: blue;\n}\nLet’s use them right …\nThe post The Big Gotcha With Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -514,33 +532,6 @@
           "publishedOn": "2021-07-22T14:39:09.000Z",
           "wordCount": 967,
           "title": "Hashnode: A Blogging Platform for Developers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344950",
-          "author": "Chris Coyier",
-          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
-          "publishedOn": "2021-07-21T21:08:17.000Z",
-          "wordCount": 513,
-          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344948",
-          "author": "Chris Coyier",
-          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://2ality.com/2021/06/json-modules.html",
-          "publishedOn": "2021-07-21T21:08:08.000Z",
-          "wordCount": 634,
-          "title": "ECMAScript proposal: JSON modules"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344337",
-          "author": "Mark Noonan",
-          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
-          "publishedOn": "2021-07-21T14:37:07.000Z",
-          "wordCount": 4131,
-          "title": "A Step-By-Step Process for Turning Designs Into Code"
         }
       ]
     },
@@ -549,6 +540,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
+          "author": "hello@smashingmagazine.com (Mike Neumegen)",
+          "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
+          "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
+          "publishedOn": "2021-08-20T08:00:00.000Z",
+          "wordCount": 4612,
+          "title": "Jamstack CMS: The Past, The Present and The Future",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/08/ethical-user-research-practice/",
           "author": "hello@smashingmagazine.com (Devin Harold)",
@@ -855,20 +860,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1d72d311-2839-48d2-8d23-dbe8951c4ab5/guide-attracting-clients-agency.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
-          "author": "hello@smashingmagazine.com (Matthew Talebi)",
-          "description": "Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.",
-          "link": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
-          "publishedOn": "2021-07-22T12:30:00.000Z",
-          "wordCount": 2582,
-          "title": "Adding Time To Your Schedule As A Professional",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/75bfca56-7f2b-488f-b9eb-7fa00d930444/5-time-scheduling.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -3395,105 +3386,6 @@
           "publishedOn": "2021-07-23T01:08:16.405Z",
           "wordCount": 471,
           "title": "Fast Run：提高 MegEngine 模型推理性能的神奇功能"
-        },
-        {
-          "id": "https://toutiao.io/k/xbnvrk9",
-          "author": null,
-          "description": "Kubernetes 下的选型参考。",
-          "link": "https://toutiao.io/k/xbnvrk9",
-          "publishedOn": "2021-07-22T01:09:54.030Z",
-          "wordCount": 920,
-          "title": "[推荐] [译] Kubernetes 必备工具：2021"
-        },
-        {
-          "id": "https://toutiao.io/k/4w7lenh",
-          "author": null,
-          "description": "成也萧何，败也萧何，虚拟化也有其代价。",
-          "link": "https://toutiao.io/k/4w7lenh",
-          "publishedOn": "2021-07-22T01:09:53.373Z",
-          "wordCount": 138,
-          "title": "再谈 “去虚拟化” 对深度学习系统的必要性"
-        },
-        {
-          "id": "https://toutiao.io/k/3x8f51r",
-          "author": null,
-          "description": "dubbo-go泛化调用调研",
-          "link": "https://toutiao.io/k/3x8f51r",
-          "publishedOn": "2021-07-22T01:09:53.000Z",
-          "wordCount": 231,
-          "title": "使用 dubbo-go 搭建 dubbo 接口测试平台"
-        },
-        {
-          "id": "https://toutiao.io/k/1bkc3dq",
-          "author": null,
-          "description": "微服务的测试可太难了...",
-          "link": "https://toutiao.io/k/1bkc3dq",
-          "publishedOn": "2021-07-22T01:09:52.922Z",
-          "wordCount": 95,
-          "title": "微服务的灾难：我做测试的时候越来越痛苦了"
-        },
-        {
-          "id": "https://toutiao.io/k/px7wtvd",
-          "author": null,
-          "description": "用休眠做并发数控制也太不负责任了吧！",
-          "link": "https://toutiao.io/k/px7wtvd",
-          "publishedOn": "2021-07-22T01:09:52.842Z",
-          "wordCount": 115,
-          "title": "我用休眠做并发控制，搞垮了下游服务"
-        },
-        {
-          "id": "https://toutiao.io/k/jnm3g0l",
-          "author": null,
-          "description": "典型而有趣",
-          "link": "https://toutiao.io/k/jnm3g0l",
-          "publishedOn": "2021-07-22T01:09:52.707Z",
-          "wordCount": 178,
-          "title": "阿里面试：三个臭皮匠，顶个诸葛亮"
-        },
-        {
-          "id": "https://toutiao.io/k/3ybk9zj",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/3ybk9zj",
-          "publishedOn": "2021-07-22T01:09:52.617Z",
-          "wordCount": 141,
-          "title": "最近 GitHub 上很火的 7 个项目"
-        },
-        {
-          "id": "https://toutiao.io/k/ntld12n",
-          "author": null,
-          "description": "罪与罚，以及它的温柔",
-          "link": "https://toutiao.io/k/ntld12n",
-          "publishedOn": "2021-07-22T01:09:52.530Z",
-          "wordCount": 154,
-          "title": "OkHttp 透明压缩，收获性能 10 倍，外加故障一枚"
-        },
-        {
-          "id": "https://toutiao.io/k/ndp470q",
-          "author": null,
-          "description": "背景：由于 历史原因 ，uid 定义为 int ，现在由于 业务扩展 ，int已经不能满足 了，需要将int 转给 long并且内部接口是通过thrift + TBinaryProtocol 来...",
-          "link": "https://toutiao.io/k/ndp470q",
-          "publishedOn": "2021-07-22T01:09:50.690Z",
-          "wordCount": 259,
-          "title": "thrift int 转 long 的坑总结"
-        },
-        {
-          "id": "https://toutiao.io/k/tfkp07d",
-          "author": null,
-          "description": "【导语】：把 Web 页面变成本地应用的命令行工具。 简介Nativefier 是一个命令行工具，可以以最少的配置轻松地为任何网站创建桌面应用程序，把 Web 页面变成本地应用的命令行工具。通过 Electron + Chromium 把网…",
-          "link": "https://toutiao.io/k/tfkp07d",
-          "publishedOn": "2021-07-22T01:09:50.568Z",
-          "wordCount": 356,
-          "title": "[推荐] 2.7 万 Star！这个开源工具把网页变成本地应用程序"
-        },
-        {
-          "id": "https://toutiao.io/k/2fstxk5",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/2fstxk5",
-          "publishedOn": "2021-07-22T01:09:45.901Z",
-          "wordCount": 139,
-          "title": "程序员可能必读书单推荐（一）"
         }
       ]
     },
@@ -3502,6 +3394,24 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/481112589/answer/2072119480",
+          "author": "招招",
+          "description": "大家好，游科小码农又来了~\n\n\n离《黑神话：悟空》的首部视频发布刚好过去了一年。\n这365日，每日都在思考，怎么为这款东方写实画风的作品，带来尽可能高质量的画面，从技术层面排除一切障碍。\n就以首发视频来说，其实当时是留了一些遗憾的。\n例如，我们之前使用1080p而不是4k分辨率录制，另一方面看到了惊艳的UE5发布视频之后，也苦于没有办法渲染出同等高精细度的画面。\n\n\n所以这次的视频，我们尝试追求两个目标：\n挑战更高的场景品质\n向4k60帧做一次冲刺\n\n\n而这次的视频，有两个关键词：UE5  &  DLSS\n相信有些玩家朋友们已经get到，我们在这次实机录制中，借助Epic最新的UE5引擎，搭配Nvidia的DLSS技术，在画质和性能这两个本来是矛盾的维度上，同时获得了非常大的提升。\n我们一起来看看，这些新技术给这次的实机视频带来了怎样的提升。\n\n-Nanite\nUE5发布时展示了非常惊艳的Nanite技术，使用Nanite之后可以高性能渲染出面数以亿计的超高精度场景。这意味着我们可以使用精度非常高的模型去制作我们的场景。\n结合UE5的新阴影渲染技术virtual shadow map（虚拟阴影），还可以渲染非常高细节度的阴影。\n\n\n\n\n有了Nanite之后我们遇到的最大问题反而是：我们之前很多的资产精度反而变得偏低了。后续一个很关键的工作，就是提升资产的质量。大家可以对比一下我们之前用的石头和现在用的石头。\n（左为新模型，右边是旧模型，每个颜色块都是一个三角形，越密代表面数越高）\n\n很多朋友可能会想，Nanite带来那么高精度的画面，是不是我的电脑更加带不动了。\n事实上刚好相反。\nNanite本身的作用是优化性能。正是因为性能优化了，才有能力渲染更高精度的模型。\n相同精度的模型，基本上在Nanite下渲染都能获得比以前好得多的性能。\n实际上Nanite才是拯救显卡的神器。\n…",
+          "link": "http://www.zhihu.com/question/481112589/answer/2072119480?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-20T04:00:11.000Z",
+          "wordCount": 140,
+          "title": "8 月 20 日游戏科学放出《黑神话：悟空》 UE5 实机内容演示，有哪些新信息？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/481112589/answer/2072044600",
+          "author": "冯骥",
+          "description": "视频集锦，莫要轻信。蒙君垂目，砥砺前行。\n\n\n上一年曾祝大家睡到自然醒，结果从去年的820到今天，我自己这一年的睡眠反而不太行……\n非要形容这个状态的话，大概就是战战兢兢，如履薄冰，才不配位，强装镇定。\n不仅因为第一部视频发布后的关注度与期待值，远远超越我们最乐观的预期。\n更因为做游戏视频，比做游戏简单得多；而做游戏，又比做一个好玩的游戏简单得多。\n关注越大，责任越大。\n中途的调整、失误与花边，也越容易被放大。\n\n\n哪怕时隔了整整一年，我依然不时产生如“为啥有这么多人在看着”的不真实感，以及两种之前不曾有过的情绪。\n一是恐惧。一边频繁感受到大家热切而真诚的期望，一边深知自己的能力短板与实力局限。正如庄子说“水之积也不厚，则其负大舟也无力”。在动作角色扮演的大方向上，我们的研发积累刚刚起步，用户理解严重不足，纵然竭尽全力，又岂能尽如人意？\n二是焦虑。团队每天实际要面对的，永远是庞杂而具体的开发工作，其中不乏两难选择与细节魔鬼。比如：\n如何最大程度保留西游经典的精气神，又创作出耳目一新的故事与设定？\n动作乐趣的核心是什么？战斗难度的上下限在哪里？首领是更多考核肌肉反应还是规则理解？\n无比渴望使用最前沿的引擎技术与图形学成果，又疯狂担心变成显卡危机与煎蛋利器\n猴子本身作为一个神通广大的神话英雄，在还原招牌能力与法术时，怎样才能不破坏关卡体验的稳定与量产？\n所谓“史诗感”，“大作气质”，“次世代范儿”到底重点是啥？不计成本的细节堆砌？超高的内容完成度？数百分钟的剧情表演与数百万字的配音文本？\n每加入一个自以为牛逼的新特性与新技术，距离项目全局进度失控的开发地狱便更进一步。而且由于大多数时候都在无人区摸索，所有的坑都得亲自趟过一次，或者好几次……\n所以昨日预告站的几个小视频，绝非刻意调侃的事后玩笑，而是漫长研发历程中苦中作乐的无奈自嘲。这些看似荒诞的BUG与困局，只是这几年层出不穷奇…",
+          "link": "http://www.zhihu.com/question/481112589/answer/2072044600?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-20T03:00:10.000Z",
+          "wordCount": 28,
+          "title": "8 月 20 日游戏科学放出《黑神话：悟空》 UE5 实机内容演示，有哪些新信息？"
+        },
         {
           "id": "http://www.zhihu.com/question/339131125/answer/2008546912",
           "author": "王尼玛",
@@ -3815,6 +3725,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9739425",
+          "author": null,
+          "description": "瞻云，科普人，公众号「瞻云」\n阅读原文\n\n大脑的演化就是一部波澜壮阔的史诗。\n你这颗头颅有多发达，祖先就有多辛酸。\n5.4 亿年前，当我们的祖先还是冠状皱囊动物这种原始后口动物时。\n\n节肢动物在链状神经系统的基础上，率先发展出了较为复杂的大脑。\n不仅缔造了寒武纪泛甲壳类动物的繁荣，也诞生了海洋的第一任霸主——奇虾。\n\n作为节肢动物，相对于环节动物（蚯蚓等）的链状神经系统，奇虾头部的 3 对神经节，愈合成了前脑、中脑，以及后脑。\n\n早先研究以为奇虾是叶足动物，后来发现它与真节肢动物的关系更近。\n发达的前脑控制着奇虾的行为，以及一对发达的眼睛。它们的眼睛已经非常接近现代昆虫的复眼，单个眼睛拥有 16000 个晶状体，比苍蝇的 5 倍还多一些。\n\n非凡的视力，助力它们俯视一切猎物。\n\n中脑掌管奇虾的触觉，两根触角上布满了倒钩。\n后脑发出的神经控制着下唇和消化管。\n\n寒武纪时期节肢动物的神经系统，和现代甲壳类动物只是大同小异：\n5.2 亿年前的延长抚仙湖虫（左）；现代甲壳类神经系统（右）\n虽然后来的研究证明奇虾的猎物可能并不是三叶虫，但他们吃的微生物，以及泥里的虫状生物，可能正是我们的远祖近亲。\n节肢动物空前发达的大脑，相对于前寒武纪的生物，无异于降维打击。\n前寒武纪时代的大量水母类生物，仅仅只是网状神经系统，甚至连大脑都没有。刺激某一个点，全身都会出现神经反射。\n\n随着神经系统的集中，扁形虫有了中枢神经，出现了原始大脑，但仅仅只有两根神经索。具有的眼点，也只有最基本的感光能力。\n虽然环节动物率先有了链状神经系统，但相比节肢动物也原始很多，没有足够发达的运动器官和眼睛。\n演化出节肢动物时，发达的大脑才足以支持足够发达的运动器官和感觉器官。\n人类的远祖冠状皱囊动物，神经系统应该比扁形虫神经更复杂，但又比蚯蚓神经更简单。或许和线虫神经系统复杂度相当，由几条神经索构成。\n随着不断演化，神…",
+          "link": "https://daily.zhihu.com/story/9739425",
+          "publishedOn": "2021-08-20T23:08:13.000Z",
+          "wordCount": null,
+          "title": "为什么只有人类进化出高度发达的大脑？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739398",
+          "author": null,
+          "description": "星球研究所，一群国家地理控，专注于探索极致世界\n阅读原文\n\n8 亿亩梯田——中国最美的山岭雕刻，请查收！\n\n你也许无法想象，在中国约 20 亿亩的总耕地面积中，居然超过 1/4 都是梯田。\n中国不仅是全球梯田面积最大的国家，还是全球梯田类型最多、分布区域最广的国家。\n▼\n不同口径下统计我国梯田面积数据存在差异，本文依据清华大学地球系统科学系俞乐课题组遥感测量数据，即 8 亿亩左右，图为中国梯田分布示意，制图@郑艺 / 星球研究所\n尽管梯田的踪影遍布全球，但中国千百年来的农耕智慧，把梯田发挥到了极致。\n著名的广西龙脊梯田，层级最多达 1100 余级，最大垂直落差 860 余米。从远处眺望，密密麻麻的曲线令人震撼。\n▼请横屏观看\n广西龙胜龙脊梯田，摄影师@何旭龙\n但这还不是最震撼的。\n位于云南的哈尼梯田，总面积更是夸张到超过 100 万亩，层级从上到下多达 3000 余级，最大垂直落差 2000 余米。\n如果游客想从山脚的梯田走到最高处的梯田，几乎相当于攀爬一次华山。\n▼请横屏观看\n云南红河哈尼梯田，摄影师@嘉楠\n我们的祖先为什么要建设如此壮观的梯田？其中隐藏着怎样的生存智慧？\n在星球研究所看来，这些梯田既是绵延起伏的风景，是重塑山地的艺术，更是山地之中无数族群奋斗上千年的史册，是改变族群命运的层层阶梯。\n\n01 诞生\n早在西周时期，随着平原上人口增加，一部分人便开始开垦丘陵坡地。\n在都城镐（hào）京（今西安）周边，人们清除坡地上原有的植被，种植果树和作物。《诗经·正月》唱道：「瞻彼阪（bǎn）田，有菀（wǎn）其特」，即「看山坡的田地里，禾苗长得多茂盛」。\n不过，这时的坡地种植更多的是顺坡就势，并没有形成一层层上下分割明显的台阶。\n▼\n新疆江布拉克山坡上的麦田，仅作示意，摄影师@飞翔\n到了汉代，随着牛耕和铁器的普及，人们拥有了可以改造山地丘陵的更大力量。\n在黄土高原的南部山…",
+          "link": "https://daily.zhihu.com/story/9739398",
+          "publishedOn": "2021-08-20T23:08:05.000Z",
+          "wordCount": null,
+          "title": "中国有哪些很美的梯田？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739401",
+          "author": null,
+          "description": "恋山堂掌柜，公众号（恋山）TB：恋山堂 交流VX:wangleikkb\n阅读原文\n\n首先，我对很多习惯喜欢用低温泡绿茶的习惯，在文化上表示尊重和理解。\n其次，在专业上，没有绿茶所谓泡熟的做法，如果要讨论所谓的绿茶泡熟，要先清楚的解释跑熟的定义。\n最后，如果你认同主流的茶叶审美逻辑，以及茶叶没有明显品质弊病的情况下，一定是沸水冲泡更好。\n本人的绿茶，欢迎在合适茶水比情况下，沸水闷泡品鉴。\n上述观点的理由如下：\n一、前提\n审美认同\n如果你喜欢喝的就是跟甜水一般的茶，比如冷泡，冰萃等方式萃取茶汤，喝的哪种淡淡的甜、鲜感觉。那么这篇文章你没有看下去的意义。\n二、搬小板凳来听课\n关于茶汤风味物质的底层逻辑的架构\n茶叶里面有着不同的呈味物质主要如下：\n1、茶多酚——苦涩，简单儿茶素苦涩度不高甚至还带有甜味（参考上表），但其中 EGCG 为代表的酯型儿茶素苦涩度很重。花青素苦涩度也很重。\n\n2、咖啡碱——爽度，微苦\n\n3、单糖、双糖类——甜，此外注意多糖是没有甜味的\n4、氨基酸——鲜，部分鲜甜，极少部分呈现酸\n发酵类别茶中还有——少量不稳定的邻醌、茶黄素（收敛性爽度）、茶红素（茶汤浓度）、茶褐素。\n主要呈味物质之间的协调关系：\n\n多酚类物质虽然是苦涩的，但同时会给茶汤带来结构强度的滋味，例如收敛性等，过少的话茶汤会变得比较粗淡。在一定限度下，茶多酚跟咖啡碱还能形成氢键结合，降低茶汤苦涩度，增加茶汤的醇厚感。（一般茶汤含量在 12%-24%时候风味比较好）\n糖类含量高，不仅能够增加茶汤的甜度，还能够一定程度掩盖主茶汤的苦味。\n氨基酸类含量高，也能跟咖啡碱结合提高鲜爽度，同时也能一定程度掩盖茶汤的苦涩。\n茶多酚和有机酸，当茶多酚能够和舌头表面的粘蛋白结合失水，形成不透水的薄膜，当薄膜破裂后能够尝到茶汤的甜味，同时有机酸刺激唾液分泌。形成回甘和松弛感觉。\n\n所以茶叶的苦，涩，鲜是能够增加茶汤的…",
+          "link": "https://daily.zhihu.com/story/9739401",
+          "publishedOn": "2021-08-20T23:07:57.000Z",
+          "wordCount": null,
+          "title": "如何冲泡绿茶才能避免嫩茶泡熟？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739395",
+          "author": null,
+          "description": "Anka Lau，服装设计/艺术留学/公众号：ELEVENTEN\n阅读原文\n\nGap\n十年前，Gap 就断言致力于销售价格低廉的高质量牛仔裤，一些 Gap 粉会称它家的牛仔裤就是 Levi's 的平替。Gap 的牛仔裤偏美式休闲风，牛仔裤起家的 Gap 在款式上也有非常多的选择，像休闲直筒裤，弹力紧身裤、休闲喇叭裤等。\n\nUniqlo\n以质量和基本款取胜的快时尚品牌 Uniqlo，它家的牛仔裤是毋庸置疑可以列为高性价比的选项当中，作为一个亚洲品牌在版型上更加贴近亚洲人的身材。\n\nEverlane\n在国内大家可能对这个品牌比较陌生，Everlane 是美国主打基本款的电商服装品牌。而牛仔系列是他们的王牌产品系列，它开发牛仔系列的时候宣言要为各种身材的人打造完美符合自己身形的牛仔裤。而 Everlane 虽然注重质量，但是在价格上真的是非常的亲民。\n\nLee\nLee 也是一个致力于牛仔的美国品牌，它家的牛仔在世界可以说是有口碑的，然而大家可能觉得这个作为牛仔王者的品牌价格应该会很贵，但是 Lee 其实在国内是经常做折扣的，所以想买到一款 Lee 的牛仔裤并不难，喜欢的可以留意他们家的折扣。\n\nStan Ray\n1970 年以来，Stan Ray 致力于销售质量坚硬的美国服饰，而它家的牛仔裤作为基本款式之一，被大家评价为经久耐用。\n\nWrangler Cowboy\nWrangler ，Levi's 和 Lee 并称为世界三大牛仔品牌，Wrangler 与其他两个品牌相比没有那么的年轻，但是质量也是毋庸置疑的，它之所以没有其他两个品牌有名是因为比较晚进驻到中国市场，但是其实它在欧美口碑还是非常好的，但是作为著名牛仔品牌它的价格并不贵。\n\nCheap Monday\nCheap Monday 这个品牌是这些品牌里面我最喜欢的一个，它家的裤子是真的好穿，而且真的好看不贵！Cheap Monday 的历史比较短，起源于 2000 年，也是致力于牛仔裤的瑞典品牌。它家最有名的是修身的款式，穿上真的非常修腿型。\n\nTopman\nTopman 是 Topshop 的品牌，专注于男士的服饰，而 Topman 的牛仔裤就被明星带火过一段时间。价格上的话就是快时尚的价格，不贵！但是时髦年轻好看。\n\nDr. Denim\nDr. Denim 这个品牌比较小众冷门，它是来自于瑞典的一个牛仔品牌，也是历史不久但是一推出就很抢手的品牌，在欧洲它是年轻时尚人士的前三选择。\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739395",
+          "publishedOn": "2021-08-20T23:07:52.000Z",
+          "wordCount": null,
+          "title": "有哪些好看不贵的适合学生党的牛仔裤？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739406",
+          "author": null,
+          "description": "胖博士，懂你皮肤问题的清华胖师兄\n阅读原文\n\n大家常说的成分，只是活性成分。事实上，构成配方的油脂，乳化剂，防腐剂这些都是成分。\n而配方则是整个护肤品的基础，也是活性成分的载体。皮之不存，毛将焉附？只不过大部分情况下，配方没啥卖点，讲出来消费者也听不懂。活性成分的功效和故事则吸引人的多。\n在面霜，精华这些品类，大家都会讲活性成分。但是在洗面奶，洗发水，卸妆这些品类，活性物效果不强，品牌就会突出配方了。\n\n配方是活性成分的载体\n有些活性成分容易溶解在水中。很好添加也很好使用，比如烟酰胺，多肽，直接扔到水里就好。所以市面上有不少烟酰胺原液，多肽原液。\n但是也有很多成分不溶于水，在油里面的溶解性也不好。于是我们就需要一些独特的配方，作为载体，让这些活性物溶解。这样涂抹在皮肤上，才能发挥功效。\n举个例子，美白的 377，苯乙基间苯二酚。它不溶于水，只能溶解在部分油脂中。所以我们需要特定的配方组合，让 377 发挥功效。否则固体的 377，洒在皮肤上，一点用也没有。\n再举个例子，修复屏障的神经酰胺，不溶于水也不溶于绝大部分油脂。于是我们需要一个具有层状液晶结构的配方，把神经酰胺镶嵌在油脂中，才能保证它不析出。否则神经酰胺砂子涂在脸上，不仅不能修复屏障，还会破坏屏障。\n\n配方搭配活性成分\n一个主打控油的活性成分，我们不会把它放到油腻的面霜中。\n同样，一个主打抗衰老的成分，我们也不会把它放到化妆水中。\n所以配方能增进消费者的使用体验，让消费者更开心的接收活性成分的主打功效。\n在一些美白的产品中，品牌会加入一些钛白粉，让料体看起来亮白。\n在一些主打天然的产品中，品牌会选择透明配方，再放入一些花瓣。\n在精华中，为了实现精华的感觉，品牌会用增溶剂增溶活性成分，让配方看起来更通透。\n\n配方增强活性成分的功效\n有些活性成分本身不稳定，需要配方来保证它的长期稳定性来保证功效。\n有些活性成分的吸收效果不好，需要配方来保证它的渗透效果。\n举个例子，修丽可的 CE 精华，就是通过阿魏酸，维 E 的辅助，来稳定维 C。\n而乐敦 CC 则使用多元醇，减少配方中的水分，最大化保证维 C 的稳定性。\n维 A 酯的透皮吸收效果一般，因此用了之后，不少维 A 酯只是停留在皮肤表面。通过特殊的成分复配，可以把维 A 酯的吸收率从 10%提升到 40%。\n甚至还有一些包裹的 A 醇，能让 A 醇穿透角质层，定向释放到基底层，促进那里的细胞增殖和胶原蛋白生成。\n还有一类最广的例子就是防晒。同样的防晒剂含量，通过成膜剂和乳化剂的复配，不同配方的 SPF 值也许能差一倍。\n\n特殊的配方本身也是卖点\n很多时候，特殊的配方也会被商家拿出来做宣称。比如著名的氨基酸洁面和皂基洁面之争。\n除此之外，类似的例子还有很多，不过大多都限于洗去型产品。因为这一类产品最重要的就是清洁能力和使用感受，这正是配方擅长的。\n无硅油洗发水现在已经成为很多消费者的首选。然而它并不是简单的不添加硅油，而是要通过配方，达到无硅胜有硅的效果。这时候就需要油脂，表面活性剂，阳离子调理剂等一系列成分复配。反正我一个研究成分的，这种配方是做不来。\n卸妆水也是个很好的例子。卸妆水学名胶束水。它通过特定表面活性剂的组合，在配方中形成一种叫胶束的结构。一旦使用卸妆棉，胶束破裂，表面活性剂重新组合，就能起到卸妆的效果。\n类似的例子还有双连续相卸妆油，沐浴身体乳。\n\n所以总结起来，配方和活性成分一样重要。但是因为它要么故事性不强，要么原理太深奥，无法呈现给消费者。最后只能变成幕后英雄。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739406",
+          "publishedOn": "2021-08-20T23:07:42.000Z",
+          "wordCount": null,
+          "title": "现在护肤品都在宣传「成分」，但很少会强调「配方」，配方在化妆品中很重要么，有哪些作用？",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9739343",
           "author": null,
@@ -5404,66 +5364,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738344",
-          "author": null,
-          "description": "甄昊元，油管“甄的秀”\n阅读原文\n\n暴雨自救手册\n极端天气现象频发情况下，暴雨天气出现概率提高，尤其是一些传统降水较少的地区，突然出现历史性超量降水。\n短时间的超量降水和持续不断降水，会在局部地区乃至更广阔的地区造成洪涝，既有的水利设施、防汛设施和防汛手段，以及援救手段不足以立刻生效或者立刻实现全面救援。因此在灾害性暴雨情况下，应采取全面公共预警、救援和自我救助结合的方式。\n个人户外和城乡公共区域的自救：\n当视线可及区域出现较强流水，则应立即判断是否已经形成洪涝灾害，在判断出现洪涝天气的情况下，立即进行避险：\n1、寻找稳固的高地：\na) 地势较高的广场、坚固的多层高层公共建筑的 2 楼以上区域（高于水面）\nb) 在可能的情况下，避免在桥梁尤其是河道上的桥梁上避险。因为河道形成洪涝可能会冲垮桥梁；\n2、避免进入危险区域\na) 避免登上河堤等防汛设施，超强洪水有可能冲垮堤防或者漫过堤防。\nb) 避免进入建筑物的地下部分，以免水漫入地下部分\nc) 避免进入地铁等设施。虽然地铁普遍有防水防汛设计，但是超大洪涝灾害下，地铁排水能力有限，也存在一定的危险\nd) 不要进入地下涵洞、过街隧道等地\ne) 不要进入地下人防工程中\nf) 不要进入地下商街\ng) ……\nh) 总之水往低处去人往高处走，要避开低地\ni) 避免靠近老旧建筑物\nj）远离山坡，雨太大可能会造成次生灾害如泥石流等等。离坡地远点。\nk）不要站在树下和树旁。不要靠近广告牌、牌匾。\nl）不要站在下坡道路上，不要站在汽车后面。水冲下来的时候，连车带水撞到，会很危险。\nm）评论区 @仲夏莎莎 ：转移的时候千万别穿拖鞋凉鞋，更不要光脚，涉水会很危险，容易受伤滑倒。\nn）知友 @德风 ：如果必须在路上走：不要走人行道，很多地方已塌陷，但是你看不到；沿着路中间的绿化带走，一是因为路中间地势最高，二是因为绿化带旁没有窨井盖。建议带个棍子，摸索…",
-          "link": "https://daily.zhihu.com/story/9738344",
-          "publishedOn": "2021-07-21T23:06:56.000Z",
-          "wordCount": null,
-          "title": "河南多地降雨突破历史极值，当地情况如何？需要采取哪些防洪措施？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738340",
-          "author": null,
-          "description": "牛正蓝，地理老师+两娃奶爸/和这回答一样好的，我还有410个•ᴗ•\n阅读原文\n\n我国气象部门规定， 24 小时降水量达 50 毫米以上称为“暴雨”，100～250 毫米为“大暴雨”，250 毫米以上为“特大暴雨”，这还是 24 小时。\n看一下昨天郑州降水情况\n一小时降水 200mm，有的人可能没概念，感觉没有这么多。可以这么算，郑州市 7500 平方千米左右 X 降水 0.2/1000 千米高，得 1.5 立方千米的水量。换算成立方米为 15 亿立方米，约为太湖水量的三分之一，约为杭州西湖水量的 150 倍，相当于一小时之内，三分之一个太湖或者 150 个西湖的水灌进郑州。\n当前\n学过高中地理都知道，我国季风区气候特征之一：降水变率大。由于季风强弱和进退的时间早晚变数大，导致雨带在某一地区滞留的时间长短不一，各地每年的降水量差异都比较大。另外，台风的多少和强度及移动路径，也是不稳定因素。而且，总的来说，降水少的地方，年际变化大，北方大于南方。\n毕竟是地理高中地理老师，用高中地理难度讲一下洪涝的成因。\n\n1.季风。每年七八月份，副热带高压北上，锋面雨带北移，夏季风强，北涝南旱。\n\n今年的特殊之处是，副热带高压加强并提前大幅北抬，目前中心脊线位于东北地区。这使得从南部沿海一直到华北平原，都是充满太平洋水汽的东南风，同时形成了“黄淮气旋”，即温带气旋，就像陆地上的台风一样，副热带高压边缘对流强烈，加上西南暖湿气流不断输送水汽，这是大背景。\n黄淮气旋示意图，虽然不是今年的，但其实原理差不多\n2.台风！双台风共舞，西北太平洋上有台风“烟花”，广东省在登陆的有台风“查帕卡“。当然造成此次暴雨的主要是台风“烟花”，”查帕卡“也助纣为虐，帮助西南季风输送水汽。大量的水汽通过偏东风源源不断北输送到河南。\n中部大的气旋为烟花，西部为查帕卡\n3.地形。河南地势自西向东倾斜，西部为太行山、伏牛山，暖湿气流遇到山地阻挡，在迎风坡收到地形台生，形成地形雨，加剧了锋面雨和对流雨。而中部东部又太平，排水不畅。\n\n不知道有没有河南的朋友，能说一下是不是雨停了？我还担心山区的泥石流、滑坡、洪水等次生灾害，毕竟住在山区的人也难以在网上发声，城市还是能集中更大救援力量的。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738340",
-          "publishedOn": "2021-07-21T23:06:52.000Z",
-          "wordCount": null,
-          "title": "河南今年为什么会下那么大的暴雨？形成的原因是什么？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738341",
-          "author": null,
-          "description": "刘志泉，教师\n阅读原文\n\n我记得 19 年参加一个海绵城市会议的时候，忘了当时哪个设计院总工在做分组报告的时候直接说：“从某种程度上讲，城市内涝是不可避免的，无论我们采用什么样的技术手段，内涝都可能发生”。\n别忘了会议主题是海绵城市，讨论的就是洪涝问题，这位的言论可以说是当着几百号专家的面打脸，隐含的意思是做啥的都白费，肯定会涝，那么这几百人在这干嘛，喝茶吗？\n可是会场上大部分人的反应却是忍不住笑了，然后窃窃私语，甚至有人鼓掌的，说明大家对比心知肚明，只是没人像这位专家那么直白，把底都揭开摆台面上罢了。而事实上城市内涝确实屡屡发生，这次郑州的情况也印证了人家的观点。\n内涝无法根本解决我想主要有三点原因：\n1 城市面积增加，导致排水压力不断增加。降雨量是单位面积上降雨的深度，也就是降雨量一定的情况下，一根管道负责的排水区域越大，所需要的排水量就会越多，管道就要越粗。当然，这并不是成比例增加，因为区域越大，汇水时间也就越久，使得最大流量被一定程度上削减了，但是总体上仍然是增加的趋势。\n我国目前除了几个一线城市之外，仍然处于快速城市化阶段，意味着人口不断向城市流动，城市化面积不断增加，大量自然垫面被改造成硬化路面，屋面，一些河流被改直，天然洼地，池塘被填平，大量原来能够通过自然下渗的雨量也需要被排水系统转运到最终受纳水体中。客观上，随着城市化进行，排水系统就不得不增加泄洪能力以满足不断提升的排水需求。越大的城市需要排掉的雨水就越多，最终所有压力都汇集到几条主干管上。\n2 管道的管径不可能无限增大。首先，管道强度不支持无限放大管径。蚂蚁能举起自身几十倍重量的物体，可是蚂蚁放大到人这么大的时候，它还能做到吗？它身体的强度已经不足以支持自身体重几十倍重量所产生的压力，自然没办法继续当大力士！对管道也是如此，常见的混凝土管越大，需要的强度就越高以便承担上覆土和道路车辆产生的荷载，总会有个…",
-          "link": "https://daily.zhihu.com/story/9738341",
-          "publishedOn": "2021-07-21T23:06:46.000Z",
-          "wordCount": null,
-          "title": "河南降雨引发的一系列问题是否可以通过提高给排水系统合理规避？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738335",
-          "author": null,
-          "description": "元宿six，专注医学干货和病房故事写作，有事联系微信songs233\n阅读原文\n\n关于传染病传播的风险，这一点确实很容易被人所忽略。\n为什么我们需要预防传染病呢？\n郑州的暴雨已经造成严重的洪涝灾害，在这种情况下，内涝导致地下管道发生堵塞，垃圾大量堆积，严重污染环境水源，环境与卫生条件的恶化，较容易形成病菌生长繁殖的理想场所，使得菌源产生，形成传染源；\n恶劣的环境也导致人的精神紧绷，饮食不规律，容易导致人体抵抗力下降，特别是对已经生病的人或免疫系统衰弱的儿童和老年人而言，环境恶劣会进一步促进易感人群的形成；\n此外此时的空气和水体流动性较强，也使得病菌传播途径广泛，传播速度快；\n因此，在传染源，传播途径，易感人群三者都已潜在的情况下，暴雨中和暴雨后都需要格外警惕。\n我们需要预防哪些疾病？\n接触受污染的洪水可能会导致[1]：\n\n伤口感染（若本身无伤口的也要小心锐物造成破伤风）\n经胃肠道感染的传染病：这点最常见，可分成两类：（1）细菌性的有痢疾、伤寒副伤寒、霍乱、食物中毒等;（2）病毒性的有甲型肝炎、手足口病(其中儿童需要重视，多发生于 5 岁以下儿童，表现口痛、厌食、低热、手、足、口腔等部位出现小疱疹或小溃疡，多数患儿一周左右自愈，少数患儿可引起心肌炎、肺水肿等并发症，严重可危及生命)。\n经皮肤感染的传染病：钩端螺旋体病（在市区不常见），一种人畜共患细菌性疾病，传播通过皮肤和粘膜接触水、潮湿的土壤或植被（如甘蔗）或被啮齿动物尿液污染的泥浆而发生。虽然是洪灾后需要重点防范的传染病之一，发病者以青壮年、有接触疫水者为主，但是由于猪是洪水型钩体病流行的主要传染源，家畜和鼠类、蛙类等是次要传染源，在市区这些家畜较少[2]。相比这些，过敏性皮炎等一些皮疹更常见。\n虫媒传染病如流行性出血热，又称肾综合征出血热，以鼠类为主要传染源的自然疫源性疾病。以发热、出血、充血、低血压休克及肾脏损害为主要临床表现，此外还存在血吸虫某些线虫等传染病，但这些在内陆城市较少见。\n\n如何预防这些疾病？1.当你身处在暴雨或洪涝中：远离水源\n无论污染源如何，保护自己免于暴露在洪水中是很重要的。保护自己的最好方法是远离水。\n如果你接触到洪水：\n\n尽快用肥皂和清水清洗受伤的地方。如果你没有肥皂或水，请使用含酒精的湿巾或消毒剂。\n照顾好伤口，必要时就医。\n在重新使用之前，先用热水和洗涤剂清洗被洪水或污水污染的衣服[3]。\n\n如果你必须进入洪水，请穿上橡胶靴、橡胶手套和护目镜。\n尽量避免受伤\n洪涝中可能含有锋利的物体，例如玻璃或金属碎片，可能会造成伤害并导致感染。及时的急救可以帮助治愈小伤口并防止感染。\n如果你有刺伤或被粪便、土壤或唾液污染的伤口，请让医务人员根据个人记录确定是否需要注射破伤风抗毒素或其他免疫剂[4]\n防止开放性伤口感染：\n暴露在洪水中的开放性伤口可能会被感染[5]。\n\n如果你有开放性伤口，请避免接触洪水。\n用防水绷带覆盖干净、开放的伤口，以减少感染的机会。\n用肥皂和清水彻底清洗，尽可能保持开放的伤口清洁。\n如果伤口发红、肿胀或渗出，请立即就医。\n\n如果出现以下情况，请尽快就医：\n\n伤口内嵌有异物（泥土、木头、金属或其他物体）；\n伤口有特别的感染风险（例如被狗咬伤或被脏物刺伤）；\n旧伤口显示出被感染的迹象（疼痛和酸痛加剧、肿胀、发红、渗液或发烧）。\n\n保护自己和家人免受腹泻病的侵害。\n请注意，洪水中可能含有污水，食用或饮用被洪水污染的任何东西都可能导致腹泻病（例如大肠杆菌或沙门氏菌感染）。为了保护自己和家人：\n\n接触洪水后要洗手。还要确保经常在饭前用肥皂和水清洗儿童的手。\n不要让儿童在洪水区玩耍。\n不要让孩子玩被洪水污染和没有消毒的玩具。\n\n2.当灾情过后\n灾情过后，需要从传染源、传染途径、易感人群三个途径入手。\n洪涝后，预防传染病的重要措施，对任何患有传染病的人和动物要尽可能做到早发现、早诊断、早报告、早治疗、早隔离，以防传染病蔓延。\n对于传染途径，尽快做好个人卫生和环境卫生，空气、水、饮食、微生物都属于传播媒介，粪 - 口途径是用于水源性疾病的疾病的传递路径，社区管理应尽快检查卫生设施。\n对于易感人群，特别是老、弱、幼以及病人，如果感觉身体不适时，要及时找医生诊治。特别是发热、腹泻病人，要尽快寻求医生帮助，对于普通人，灾情后，应保持皮肤清洁干燥，随身用毛巾等擦汗，做好个人卫生。\n导致新冠病毒能否通过洪水传播给人类？\n目前没有证据表明新冠病毒可通过水传播的人，虽然洪涝会与废水混合，但目前没有任何关于病毒通过吞咽或接触被感染者粪便污染的水传播的科学报告，更别说在疫情防控完好的地区。\n我们广大的医护人员和政府已经在救援的路上，如果出现文中类似的问题，请注意及时求助。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738335",
-          "publishedOn": "2021-07-21T23:06:42.000Z",
-          "wordCount": null,
-          "title": "河南多地暴雨致灾，灾后是否有传染病传播的风险，如何防范？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738350",
-          "author": null,
-          "description": "木棉959，中小学心理老师，北师大心理学本硕。微信、微博：心理学生看点啥\n阅读原文\n\n河南省心理援助热线：0373-7095888河南省直第三人民医院心理热线：13503863658／0371-86590506\n希望所有的救援人员也平安，身心健康地归来！\n一早看到了许多驰援河南的新闻，也看到了许多群众自救互助的视频，而自己除了转赞信息、捐点小钱，也没法帮上什么忙。\n\n现在郑州已经雨过天晴，其它地区的救援工作也在有序进行，想从心理角度提醒一下大家，保证身体安全的同时，也要关照自己的心理健康。\n在救援期间，人们（尤其是救援人员）可能会面临很大的压力，进而出现一些常见的压力反应。压力反应包括睡眠和食欲问题、身体反应（如头痛、胃痛）、思想混乱、集中力下降、决策困难、情感麻木、易怒、愤怒、恐惧、焦虑、抑郁、无助、挫折感、社交意愿减少等。\n这些反应都是常见的，并不意味着个人能力存在问题，救援人员也无需为了这些反应而感到惊慌、自责或愧疚。\n但如果事后，大家无论是救援人员还是群众，出现下列极端的压力反应时，就要去寻求专业支持了[1]：\n\n持续地出现以上提及的生理、情绪、思想和行为反应，而没有改善的趋势；\n过分地回忆或持续不由自主地想起在洪水期间遇见的创伤性画面或体验；\n试图对事物或别人作出过分的控制；\n过分地投入工作，而忽略休息、饮食等个人基本需要；\n与同事、朋友、家人疏离，甚至出现严重的人际关系困难，包括因暴躁或愤怒而引起或加剧家庭纠纷；\n依赖药物或酒精；\n出现伤害自己（高自杀风险）或别人的想法或举动；\n出现不必要的冒险行为。\n\n如何调节压力？\n抓紧间隙时间放松，尽量维持自己的状态平衡。\n抓紧一切不需要工作的时间进行放松，尽快地让自己得到调整，比如通过调整呼吸，让自己的吸气和呼气深而长，来让自己从紧张焦虑的状态中恢复。如果休息的时间长，也可以坐下来，闭上眼睛，通过想象、冥想，来让自己得到放松和休息。\n有效地利用社会支持系统。\n良好的社会支持系统可以使压力的强度相对降低。敞开心扉向朋友或亲人倾诉，共同策划积极的应对方式，或者仅仅是让他们陪着你，也能让压力的感受降低。\n寻求专业力量的帮助。\n再放一遍：\n河南省心理援助热线：0373-7095888\n河南省直第三人民医院心理热线：13503863658／0371-86590506\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738350",
-          "publishedOn": "2021-07-21T23:06:36.000Z",
-          "wordCount": null,
-          "title": "郑州暴雨停了，经过 48 小时终于雨过天晴，你有什么想说的？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738356",
-          "author": null,
-          "description": "你见过最蠢的婚礼司仪说过什么话？\n\n陈修竹\n阅读原文\n\n司仪找的歌手给我们唱了一首《阴天》，“总之那几年，你们两个没有缘…”\n阅读原文\n\n有什么食物是你一直不看好，真的吃到却很惊艳的？\n\n土豆土豆\n阅读原文\n\n小时候我妈煮了一锅青菜汤，稀汤寡水的，打死我都不喝。\n我妈不住地跟我叨叨，说不要拒绝没尝试过的食物。\n我喝了一口，好好喝，可是当时只剩下一点汤了。\n从那以后天天吵着我妈煮青菜汤，后来我妈又煮了一次，又回到了清汤寡水一股青菜味儿。\n我说为什么和上次不一样了，我妈说上次她放了一包方便面调料……\n阅读原文\n\n养了一年的小猫咪，我想放回大自然怎么办？\n\n王豆皮，「动物行为学」爱好者｜兴趣是观察猫咪行为\n阅读原文\n\n不应在市内「放生」，\n可以放归非洲的「大自然」，\n非洲是家猫发源地之一。\n但长途运输有可能会直接导致猫的去世。\n如放归非洲，需注意防范疫情，\n供参考。\n阅读原文\n\n你们偷看过老公和婆婆的聊天记录吗？\n\n林掌柜，努力学习\n阅读原文\n\n男朋友和他麻麻的算嘛……\n\n\n\n阅读原文\n\n谁能给我安利一个爱豆，又好看业务能力又好，而且永不会塌房的，集美们有这样的爱豆吗？\n\n知子之来之\n阅读原文\n\n直接上图\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738356",
-          "publishedOn": "2021-07-21T23:06:30.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5561,15 +5461,6 @@
           "publishedOn": "2021-07-26T11:42:10.000Z",
           "wordCount": 117,
           "title": "2021.07.27 今天是每日时报陪伴您的第 596 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/07/23.html",
-          "author": null,
-          "description": "2021.07.23 今天是每日时报陪伴您的第 595 天\n[类库] 令人惊叹的 Windows 11 克隆版 -web 版本，底层是 vite：https://github.com/PiyushSuthar/Windows-11-Web",
-          "link": "https://wubaiqing.github.io/zaobao/2021/07/23.html",
-          "publishedOn": "2021-07-22T12:00:13.000Z",
-          "wordCount": 82,
-          "title": "2021.07.23 今天是每日时报陪伴您的第 595 天"
         }
       ]
     },
@@ -5604,15 +5495,6 @@
           "publishedOn": "2021-07-27T13:08:00.000Z",
           "wordCount": 3652,
           "title": "Feature Parity"
-        },
-        {
-          "id": "https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html",
-          "author": null,
-          "description": "To do effective legacy displacement, we need to figure out how to break\n      down the problem into manageable pieces. Extract Product Lines does this\n      by identifying product lines and using them as the basis for migration.\nmore…",
-          "link": "https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html",
-          "publishedOn": "2021-07-21T14:00:00.000Z",
-          "wordCount": 2261,
-          "title": "Extract Product Lines"
         }
       ]
     }
