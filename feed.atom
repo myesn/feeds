@@ -2,10 +2,371 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-25T01:05:31.050Z</updated>
+    <updated>2021-08-26T01:03:15.632Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最简单的人工神经网络]]></title>
+        <id>https://toutiao.io/k/vjkzyrz</id>
+        <link href="https://toutiao.io/k/vjkzyrz"/>
+        <updated>2021-08-26T01:03:13.838Z</updated>
+        <summary type="html"><![CDATA[帮你敲开 AI 大门的开源项目]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 进阶之深入理解 Activity 生命周期源码]]></title>
+        <id>https://toutiao.io/k/1o227mh</id>
+        <link href="https://toutiao.io/k/1o227mh"/>
+        <updated>2021-08-26T01:03:13.301Z</updated>
+        <summary type="html"><![CDATA[Activity生命周期源码分析详解]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka 与 RabbitMQ 如何选择使用哪个？]]></title>
+        <id>https://toutiao.io/k/n42mae8</id>
+        <link href="https://toutiao.io/k/n42mae8"/>
+        <updated>2021-08-26T01:03:12.716Z</updated>
+        <summary type="html"><![CDATA[在什么样的场景下适合使用 Kafka，什么场景下适合使用 RabbitMQ ？你是否有这样的疑惑？希望这篇文章能够帮助到你。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万字长文说透分布式锁]]></title>
+        <id>https://toutiao.io/k/zlvt91d</id>
+        <link href="https://toutiao.io/k/zlvt91d"/>
+        <updated>2021-08-26T01:03:12.395Z</updated>
+        <summary type="html"><![CDATA[分布式锁有正解吗？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈订单重构之路]]></title>
+        <id>https://toutiao.io/k/cz5lqu8</id>
+        <link href="https://toutiao.io/k/cz5lqu8"/>
+        <updated>2021-08-26T01:03:12.279Z</updated>
+        <summary type="html"><![CDATA[前言最近负责了订单重构项目，从技术方案设计，到最终落地，项目圆满完成，此文章特此记录一下。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于推荐系统中产品经理如何定位的问题]]></title>
+        <id>https://toutiao.io/k/sbuphpf</id>
+        <link href="https://toutiao.io/k/sbuphpf"/>
+        <updated>2021-08-26T01:03:12.160Z</updated>
+        <summary type="html"><![CDATA[推荐系统看着是一个偏技术的问题，但实际上少不了产品逻辑的赋能，很多时候产品逻辑能起到的是四两拨千斤的作用。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个后端朋友面试一个月的经验总结]]></title>
+        <id>https://toutiao.io/k/ldwacnk</id>
+        <link href="https://toutiao.io/k/ldwacnk"/>
+        <updated>2021-08-26T01:03:12.084Z</updated>
+        <summary type="html"><![CDATA[分享一个后端朋友最近面试的经验总结，希望能对你有启发。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个测试工程师的成长复盘]]></title>
+        <id>https://toutiao.io/k/7ipk4t7</id>
+        <link href="https://toutiao.io/k/7ipk4t7"/>
+        <updated>2021-08-26T01:03:11.963Z</updated>
+        <summary type="html"><![CDATA[成年人，最重要的是获取知识的方式和思维逻辑，而不是只追求知识量的增加，提升增量，而不是存量。学习，永远是学习能快速变现的，对现在的工作生活能带来帮助的，而思维逻辑能力和学习能力的提升，需要长期坚持的刻意练习来习得。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.2 万 Star！功能丰富的开源笔记手绘工具]]></title>
+        <id>https://toutiao.io/k/gitnd13</id>
+        <link href="https://toutiao.io/k/gitnd13"/>
+        <updated>2021-08-26T01:03:09.037Z</updated>
+        <summary type="html"><![CDATA[【导语】：支持端到端加密和团队协作的开源笔记手绘工具。 简介excalidraw 是一个支持端到端加密和团队协作的开源笔记手绘工具，支持 Excel 表格导入、内容翻译、图形绘制、加密协作等功能。 项目地址是： https:/…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最适合程序员的笔记软件]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html"/>
+        <updated>2021-08-26T00:42:33.000Z</updated>
+        <summary type="html"><![CDATA[程序员的笔记软件，应该满足下面几个条件。
+
+（1）跨平台，同时支持桌面电脑（Windows，Mac，Linux）和手机（Android，iOS）。
+（2）随时同步，打开任何一台机器，都能接着上一次的工作继续写。
+（3）实时存储，如果软件突然关闭，也不会丢失内容。
+（4）支持 Markdown 格式，便于后期直接发布。
+（5）支持推送到远程 Git 仓库，产生历史版本，同时作为远程备份。
+我一直在寻找符合这些条件的工具，但是市场上大部分的笔记软件，都不支持上面的第5点，Git 集成要么没有，要么很弱。
+我用过 Stackedit.io 和 HackMD.io，都不是很理想。
+
+最近，我终于找到了最佳方案，那就是 GitHub 官方推出的 github.dev。
+只要访问下面的网址，你就能在浏览器里面，使用 VS Code 编辑指定仓库。可以点击这里体验一下。
+
+https://github.dev/[用户名]/[仓库名]
+
+它实际上就是 VS Code 编辑器的 Web 版，并且与 Git 高度集成。这种组合，还有什么笔记软件会比它更强！
+
+使用时，首先在 GitHub 上面新建一个笔记仓库，公开或私密都可以。然后使用 github.dev 编辑完，再推送回仓库。换到其它机器时，就先从仓库获取文档的最新版本，简直是完美的解决方案。
+更棒的是，GitHub 提供了一个快捷入口。 打开 GitHub 仓库主页，按一下小数点（.）这个键， 页面就会自动跳转到 VS Code 编辑环境，真是太方便了。
+
+另外，还有一个非官方的 github1s.com，也提供类似功能。只要在仓库域名的里面，加上"1s"就可以了。但毕竟是非官方工具，这里就不推荐了。
+
+https://github1s.com/[用户名]/[仓库名]
+
+github.dev 针对的是桌面的"键盘 + 鼠标"环境，手机触摸屏可以使用，但终归很笨拙。
+如果你更希望使用手机原生 App，我推荐 Obsidian。它有全平台的客户端，并且可以参考这篇文章设置 Git 集成。
+
+另外，FSNotes 也不错，可惜只支持苹果设备。
+
+如果你不需要 Git 集成和 Markdown 支持，那就最简单了，几大软件巨头的官方笔记 App，就非常好用：Google keep、Apple Notes（只支持苹果设备）和微软 OneNote。
+
+它们都是自动多端同步，缺点是不便于编写大型文档，以及导出数据很麻烦。
+（完）
+文档信息
+版权声明：自由转载-非商用-非衍生-保持署名（创意共享3.0许可证）
+发表日期： 2021年8月26日]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死亡是一瞬间的事吗？]]></title>
+        <id>https://daily.zhihu.com/story/9739561</id>
+        <link href="https://daily.zhihu.com/story/9739561"/>
+        <updated>2021-08-25T23:08:27.000Z</updated>
+        <summary type="html"><![CDATA[菲利普医生，医学科普作者/美短饲养者
+阅读原文
+
+不是。
+目前医学上对死亡有两个定义——临床死亡和生物学死亡。
+临床死亡是指心跳和呼吸停止。一般在心跳停止 5～8 分钟内，称临床死亡期，从外表看，人体生命活动已经消失，但组织内微弱的代谢过程仍在进行；脑中枢功能活动不正常，但是尚未进入不可逆转的状态。处于临床死亡期的病员是可能复苏的。
+若心跳停止超过 8 分钟，则病人进入生物学死亡期，此时机体细胞已发生退行性变化，病人是无法被复苏的。
+因为大脑被默认为人体最重要的器官，它控制着呼吸、心跳这一类最基础的生命活动，同时又对缺血缺氧的耐受力极度低下。所以血液和氧气供应都紧着保障它。
+一般而言，如果大脑缺氧 3 分钟，对于大脑造成的损伤依旧可逆；如果缺氧 5 分钟，还有部分损伤是可逆的；如果大脑整体缺氧在 8 分钟以上，基本上就会造成永久性不可逆损伤；缺血缺氧 10-15 分钟，则可以导致脑死亡。
+请大家记住这几个残酷的时间点。
+病人因为大脑的急性缺血缺氧导致丧失意识可以是一瞬间的，死亡会来得比较慢。但是人体在设计的时候安排了很多冗余量，从致死性创伤或者疾病的发生到意识丧失，中间还会经过代偿期。这时候机体所有的器官都会做出最后一搏，努力维持大脑的血液供应。这个过程中大脑的轻度缺氧、机体其他器官衰竭释放的内分泌因子会让大脑产生濒死感。
+这里给大家分析一快一慢两种死亡过程的内在逻辑，同时还会提到我经手过的一些病例。
+先是“一快”，即大出血的患者：
+随着血液的流失，血压开始下降。循环系统的信号反馈给大脑，通过神经反射的调节动员贮血系统中的血液，比如全身各处皮下的静脉系统。这些静脉收缩，让贮存的血液快速回到核心血管，保障各个重要器官的血液供应。此时如果及时止血（出血量不超过 10%，即 400-500ml），病人不会出现明显的临床症状，也不会影响身体健康。这个 10% 也是我国法定单次献血的…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么星系大多是盘形的，而不是球形的？]]></title>
+        <id>https://daily.zhihu.com/story/9739555</id>
+        <link href="https://daily.zhihu.com/story/9739555"/>
+        <updated>2021-08-25T23:08:22.000Z</updated>
+        <summary type="html"><![CDATA[和尚洗头用飘柔，太空梦患者
+阅读原文
+
+当你读到"星系"这个词时，你的脑中第一个跳出来的形状应该就是银河系那种的螺旋盘子状：
+
+但很多人没见过像两个回旋镖的星系 PKS 2014-55：
+南非 MeerKAT 射电望远镜中的 PKS 2014-55 星系。这张距地球 8 亿光年的射电图像提供的细节表明，在中央双黑洞的引力下形成两股强大的射电波喷流，每一个都有十个星河系那么长。
+或者是下面这样长得像个蜂鸟，但名字叫“小叮当仙女”的星系 ESO 593-IG 008 ：
+ESO 593-IG 008 三个星系在合并中
+（后来我在看《彼得潘》的时候，才知道为什么它会叫“小叮当仙子”。。真的像啊）
+彼得潘里的叮当小仙女（还是叫奇妙仙子她到底叫什么。。）
+或者有点像大鹏展翅或者大海龟的 NGC 6240 星系：
+NGC6240 的中心由三个黑洞组成，猜测是由三个星系碰撞形成
+还有像发光的鸡蛋一样的椭圆形星系，下图是哈勃拍到的 M60 星系和 NGC 4647 螺旋星系的合影：
+
+或者长得像个逗号或蠕虫的触须星系：
+其不规则形状是 NGC 4038 和 NGC 4039 相撞的结果。
+（注：以上我特意举了几个正在合并中的星系的例子，另外，我们现有的星系分类是基于可见光观测。当在其他波长下观察时，星系结构看起来会非常不同。）
+哈勃序列
+著名天文学家埃德温·哈勃在 1926 年提出的被称为“哈勃序列”的分类方案中[1]，基于照相底片上星系图像光学外观的不同，把星系分为四种[2]形状类型：
+1.螺旋星系（代号 S，原来 S 是象形文(大误)）：
+
+看起来像巨大的旋转着的拖布头或风车，有几条弯曲的“臂”在漩涡四周。根据哈勃太空望远镜项目在 2010 年的一项统计[3]，这个类型的星系约占研究人员观测到的星系总量的 72%。
+螺旋星系通常是由“热”的年轻恒星们组成的扭曲气体和恒星的集合。与椭圆和…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京奥运会蹦床冠军朱雪莹的金牌可以抠掉一层皮，这是质量有问题吗？]]></title>
+        <id>https://daily.zhihu.com/story/9739566</id>
+        <link href="https://daily.zhihu.com/story/9739566"/>
+        <updated>2021-08-25T23:08:16.000Z</updated>
+        <summary type="html"><![CDATA[运动分子，体育科普/运动知识/装备测评/赛事报道/选手故事/
+阅读原文
+
+其实，奥运奖牌本身的价值远没有多数人想象中那么高，制作工艺也是相当的成（低）熟（廉）——不要把它们当成什么名贵的工艺品。
+每届奥运会奖牌的残损 / 瑕疵 / 掉色 / 生锈…都是常态，奥委会也早已见怪不怪了。要么送修，要么换新。奖牌生产商都会留有不少余量，奥运结束后数年里都会承担修复的工作。
+唯一的例外，可能就是 2008 年北京奥运会的金镶玉了。
+成本和工艺水准都极高。
+青海昆仑玉 + 金属两种材质的组合，在整个奥运奖牌史上都很少见
+东京奥运会毕竟刚刚结束不到一个月，目前出现问题的奖牌还不多。再过几年，剥落、生锈、掉色、起泡……大概率是常见情况。
+说一个数字。
+五年前的里约奥运会，一共发出 2200 多枚金银铜奖牌，结果不到一年时间，就有多达 137 枚送修。
+下面的这三块铜牌，就是比赛刚结束半年，出现的状况（漆面起泡、镀层褪色脱落）：
+
+国际奥委会的解决方案很简单，选手寄回来送修，或者直接给换个新的。
+并且奥委会对此也见怪不怪，因为奖牌有瑕疵、有质量问题才是奥运会的常态。
+——可预见的，接下来更长时间，有瑕疵的东京奥运会奖牌只会更多。
+该修修，该换换，倒也不是什么大事（不然还能怎么办呢……）。
+——但其实更多选手并不愿意更换。因为觉得现场拿到的奖牌更有纪念意义，忽然换了块全新的，反而不想要。
+这也是多数选手的心态。
+所以很多节目里，往届选手拿出往届奖牌，锈迹斑斑或者残破不堪，还都挺正常的。下面悉尼的金银牌和雅典铜牌，过去只有十几年（拍摄时），已经像文物了……
+戴安娜·蒙兹 (Diana Munz) 的悉尼金银牌和雅典的铜牌，都已经有明显的褪色和掉漆
+甚至于，看起来很厚实的奥运奖牌并没有很多人想象中坚固。
+下面这哥们，巴西柔道选手菲利普·基塔代（Felipe Kitadai），2012 年伦敦奥运会…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共情能力太强是一种什么样的体验？]]></title>
+        <id>https://daily.zhihu.com/story/9739552</id>
+        <link href="https://daily.zhihu.com/story/9739552"/>
+        <updated>2021-08-25T23:08:09.000Z</updated>
+        <summary type="html"><![CDATA[简单心理，心里有事，来简单心理
+阅读原文
+
+抱抱你。
+根据你的描述，感觉你可能陷入了一种“共情疲劳”（compassion fatigue)。
+这是一个心理学上的概念，共情能力太强，可能就会陷入这种“共情疲劳”。
+
+今天就从心理学的角度回答一下你的问题，希望对你有所帮助呀。
+
+“共情”使人身心俱疲，可能跟这些因素有关
+我们的共情能力，跟体力、精力、自制力一样，本身就是有限的。但我们常常忽视这一点。
+英国临床心理学家西蒙·巴伦·科恩爵士（Simon Baron-Cohen）在《恶的科学》一书中，从神经科学的角度分析了共情。他发现，人类的共情能力，就像身高和其他特征一样呈正态分布。
+这意味着在人类社会，有少数人的共情能力极强，“大爱无疆”说的就是这种人；
+有少数人的共情能力极弱，比如自恋人格障碍患者。
+而我们大多数普通人，共情能力都处于一个中等水平。
+这就意味着我们不可能每时每刻都能对别人感同身受。
+当人共情能力有限，却又总是过度使用这些有限的能力，就会把自己搞得身心俱疲。
+人们之所以会过度使用自己的共情能力，可能跟以下几种情况有关：
+1.特定职业和生活环境
+长期处在需要高共情环境的人，会把共情内化成自己的责任。
+有些职业本身就对共情能力有更多的需求：比如医务工作者、社会工作者、记者、警察、消防员、律师、学校辅导员。
+生活环境也是一样：如果你在生活中需要长期担任一个照顾者的角色，比如家里有需要照顾的病人、精神疾病患者、遭遇过严重创伤的人，这种环境本身会让你把”共情“内化为自己的责任，认为自己需要无条件地服务和帮助别人，这会带来共情上的倦怠感。
+2.高敏感
+同理心强是高敏感的突出特征之一，高敏感者倾向于吸收、共情他人的感觉，对人际关系中的细节更加敏感，也更易受冲突和他人负面情绪的影响。
+而这往往会带给他们更大的压力，同样强度的社交活动，高敏感者会因为感知到更多的信息和情绪压力而选…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国动画现在的发展如何？]]></title>
+        <id>https://daily.zhihu.com/story/9739576</id>
+        <link href="https://daily.zhihu.com/story/9739576"/>
+        <updated>2021-08-25T23:08:05.000Z</updated>
+        <summary type="html"><![CDATA[次元研究，次元观测者，知性中二病。微信公众号“次元研究”，全网同名。
+阅读原文
+
+如今的国产动画电影在创作风格上普遍呈现“日美中”三国的混搭，刻薄地说，就是“用中国题材，以美国形式，讲日式二次元故事”。
+《大圣归来》在 2015 年暑期档斩获的 9.54 亿元票房和因该片而流行开的“自来水”概念，被认为是“国漫崛起”的重要标志（“国漫”这个词将动画与漫画混为一谈，但作为一个已经在大众媒体流传开来的经典误用，本文仅在此使用一次，特此注明）。相比于“昙花一现”的“国产科幻崛起”，仅针对成年观众的国产三维动画长片这一细分门类来说，这六年来创作者与市场给予了一定的持续性正向反馈。如今的大陆电影市场上，国产动画电影是一条热门赛道，不仅是每个档期必备的重要种子选手，催生了如《哪吒：魔童降世》50.35 亿元的票房奇迹，甚至已经在特殊档期能够承载“救市”的期待（如今年 7 月上映的《白蛇 2：青蛇劫起》），制片方借助 IP 实现“电影宇宙”的构建也不再是空谈。
+可以说，国产动画电影这一类型片种在大陆市场上的持续性输出和商业成功是具有开创性的，无论是从横向还是纵向观察，在任何一个电影市场上都是少见的——完全可以说，国产动画电影的发展，正是近年来“讲述中国故事”这一文化路线的实操成果。
+然而，这条赛道越发热门，竞争就越发激烈，每年试图分一杯羹的“炮灰”数不胜数。即使是在市场上得到良好反馈的作品，也不一定满足了创作者和观众热情饱满的期待；对国产动画电影的火爆现状终究会归于沉寂的担忧声音，在每一部“出圈”的动画电影上映时都会响起。实际上，当初业界惊呼“产业崛起”时的高涨情绪，经过六年之后，逐渐被某种流于日常的平庸感所攫取：这一行业和类型到了现在，已经没什么“惊奇”可言。
+虽然作品还在持续不断地推出，票房也都基本达到预期，然而国产动画电影在翻过高山之后，似乎进入到一个波澜不惊的平庸期：目所能及的尝…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9739583</id>
+        <link href="https://daily.zhihu.com/story/9739583"/>
+        <updated>2021-08-25T23:08:01.000Z</updated>
+        <summary type="html"><![CDATA[有哪些快速洗袜子的神技/神器？
+
+陈平安
+阅读原文
+
+冬天泡脚的时候穿着袜子泡 然后两只脚相互搓 我室友就是这么干的
+阅读原文
+
+如果你穿越了，最不想听见什么话？
+
+郭从骢，平面设计师
+阅读原文
+
+大郎，该吃药了
+阅读原文
+
+为什么飞机商务舱一直拉着帘子？
+
+月之，城南小墓又逢春 只见僵尸不见人
+阅读原文
+
+挡住无产阶级探寻的目光。
+阅读原文
+
+为什么有人天天耳朵上戴着 AirPods？
+
+许小然，- Prodesse Quam Conspici -
+阅读原文
+
+首先是因为我有，
+而且也不知道为什么，这东西恰好能卡在我的耳朵上，还挺神奇的。
+（而且我还有耳朵，太神奇了！
+（而且我还有两个耳朵，神奇翻倍！
+阅读原文
+
+《明星大侦探》有哪些暖心瞬间？
+
+春眠没有玫瑰
+阅读原文
+
+我发现每次明侦有个什么暗室啊什么都是何老师或者撒撒走在前面，我还在想啊，明明个子也不高，力气又不多大，年纪不小了，偏偏每次都往前走。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Way to Convert Code Indentation]]></title>
+        <id>https://css-tricks.com/?p=350311</id>
+        <link href="https://css-tricks.com/one-way-to-convert-code-indentation/"/>
+        <updated>2021-08-25T22:34:04.000Z</updated>
+        <summary type="html"><![CDATA[A question:
+If you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?
+Matt Stauffer, Twitter
+
+I wrote about doing this in Sublime Text a …
+The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stealing Game Animation Techniques to Engage Users]]></title>
+        <id>https://css-tricks.com/?p=346612</id>
+        <link href="https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/"/>
+        <updated>2021-08-25T14:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …
+The post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Eli Penner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
+        <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
+        <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
+        <updated>2021-08-25T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android 模块化开发实践]]></title>
         <id>https://toutiao.io/k/v7cew96</id>
@@ -5878,6 +6239,16 @@ AMPLITUDE STUDIOS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前端性能优化：preload,prefetch,preconnect]]></title>
+        <id>https://toutiao.io/k/5kbom1j</id>
+        <link href="https://toutiao.io/k/5kbom1j"/>
+        <updated>2021-08-10T03:41:32.000Z</updated>
+        <summary type="html"><![CDATA[在页面生命周期中提前加载你指定的资源，同时确保在浏览器的主要渲染机制启动之前。这样就可以保证了其不会阻止浏览器的渲染并提前加载资源以此来提高性能。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[四种引用类型在 Spring Boot 中的使用]]></title>
         <id>https://toutiao.io/k/577hown</id>
         <link href="https://toutiao.io/k/577hown"/>
@@ -11352,337 +11723,6 @@ One approach in this situation is to try to minimize the impact of
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.07.28 今天是每日时报陪伴您的第 597 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/07/28.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/07/28.html"/>
-        <updated>2021-07-27T12:45:57.000Z</updated>
-        <summary type="html"><![CDATA[2021.07.28 今天是每日时报陪伴您的第 597 天
-[模板] 基于 Vite 浏览器插件模板：https://github.com/antfu/vitesse-webext
-[类库] 一个基于 react 非常简单的项目标记组件：https://github.com/react-tags/react-tags
-[文章] 简单用 monorepos 和 TypeScript 开发 npm 库：https://2ality.com/2021/07/simple-monorepos.html
-monorepo 是一个用于管理多个项目的单一存储库。在这篇博文中，我们将探讨如何为两个 npm 包建立一个简单的 monorepo。我们所需要的已经内置到 npm 和 TypeScript 中了。]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
-        <updated>2021-07-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动图图解！代码执行 send 成功后，数据就发出去了吗？]]></title>
-        <id>https://toutiao.io/k/bhf2ggb</id>
-        <link href="https://toutiao.io/k/bhf2ggb"/>
-        <updated>2021-07-27T01:09:46.942Z</updated>
-        <summary type="html"><![CDATA[动图图解！如果socket缓冲区还有数据，执行close了，会怎么样？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手把手教你搭建 Kubeflow：基于 K8s 的机器学习平台]]></title>
-        <id>https://toutiao.io/k/jipoqwu</id>
-        <link href="https://toutiao.io/k/jipoqwu"/>
-        <updated>2021-07-27T01:09:46.864Z</updated>
-        <summary type="html"><![CDATA[Kubeflow安装起来真心麻烦]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 分钟入门响应式：Spring Boot 整合 Kafka 实现 Reactive]]></title>
-        <id>https://toutiao.io/k/m6vnj5r</id>
-        <link href="https://toutiao.io/k/m6vnj5r"/>
-        <updated>2021-07-27T01:09:46.789Z</updated>
-        <summary type="html"><![CDATA[笔者潜伏在各种技术群里暗中观察发现，好像scala圈子的同仁们，似乎对响应式更热衷一点。也许是因为他们对fp理解的更深吧，所以领悟起来障碍性更少一些的原因吧。尽管webflux对于数据库的支持，还不那么完善，也不妨我们试上一试。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用 DDD 指导微服务拆分？]]></title>
-        <id>https://toutiao.io/k/3yzh7i0</id>
-        <link href="https://toutiao.io/k/3yzh7i0"/>
-        <updated>2021-07-27T01:09:46.687Z</updated>
-        <summary type="html"><![CDATA[干货总结，建议收藏！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爬虫入门到放弃（四）：爬虫=犯罪？对不起，我对钱没有兴趣]]></title>
-        <id>https://toutiao.io/k/h29pigo</id>
-        <link href="https://toutiao.io/k/h29pigo"/>
-        <updated>2021-07-27T01:09:46.625Z</updated>
-        <summary type="html"><![CDATA[可惜我们终于来到，一个句号。\x0a窗外不愿飞的蜂鸟，也在哀悼。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抢红包接口出现严重性能问题，竟然是因为使用了这个类]]></title>
-        <id>https://toutiao.io/k/to6pqyg</id>
-        <link href="https://toutiao.io/k/to6pqyg"/>
-        <updated>2021-07-27T01:09:46.556Z</updated>
-        <summary type="html"><![CDATA[抢红包接口出现严重性能问题，竟然是因为使用了这个类！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 Huawei + Gitee 看开源软件协作模式]]></title>
-        <id>https://toutiao.io/k/c8083xf</id>
-        <link href="https://toutiao.io/k/c8083xf"/>
-        <updated>2021-07-27T01:09:46.486Z</updated>
-        <summary type="html"><![CDATA[本文是基于我对 Huawei 在 Gitee 上开源项目协作方式的观察，来分享下开源软件协作上的一些优秀实践。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL 8.0 Server 层最新架构详解]]></title>
-        <id>https://toutiao.io/k/p5bya5q</id>
-        <link href="https://toutiao.io/k/p5bya5q"/>
-        <updated>2021-07-27T01:09:46.414Z</updated>
-        <summary type="html"><![CDATA[源码分析和总结。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] SRE 与 DevOps 的 10 大开源项目]]></title>
-        <id>https://toutiao.io/k/vefi9c5</id>
-        <link href="https://toutiao.io/k/vefi9c5"/>
-        <updated>2021-07-27T01:09:46.308Z</updated>
-        <summary type="html"><![CDATA[祝坤荣读完需要7分钟速读仅需 3 分钟原文 ( https://dzone.com/articles/top]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5000 字长文解析：带你解读阿里大数据建设方法论 OneData]]></title>
-        <id>https://toutiao.io/k/oyyyjrr</id>
-        <link href="https://toutiao.io/k/oyyyjrr"/>
-        <updated>2021-07-27T01:09:46.234Z</updated>
-        <summary type="html"><![CDATA[onedata 是通过完善的规范定义，同时结合数据中台产品，进行指标的统一定义及梳理，进一步标准化建模，从而保证数据只加工一次的目标实现。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 语言到底有没有引用？]]></title>
-        <id>https://toutiao.io/k/pmn4eg8</id>
-        <link href="https://toutiao.io/k/pmn4eg8"/>
-        <updated>2021-07-27T01:09:46.160Z</updated>
-        <summary type="html"><![CDATA[你确定Go中有引用？得了吧~]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[项目中的富文本编辑器该如何选择？]]></title>
-        <id>https://toutiao.io/k/zqg9cdo</id>
-        <link href="https://toutiao.io/k/zqg9cdo"/>
-        <updated>2021-07-27T01:09:43.796Z</updated>
-        <summary type="html"><![CDATA[项目中经常需要用到富文本编辑器的时候，而常见的富文本编辑器都有哪些？该如何选择？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying styled-components]]></title>
-        <id>https://css-tricks.com/?p=345297</id>
-        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
-        <updated>2021-07-27T00:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. 
-styled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …
-The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美食视频中怎么那么多「给它」？]]></title>
-        <id>https://daily.zhihu.com/story/9738499</id>
-        <link href="https://daily.zhihu.com/story/9738499"/>
-        <updated>2021-07-26T23:06:20.000Z</updated>
-        <summary type="html"><![CDATA[未命名-ICARUS，未命名
-阅读原文
-
-1.是什么？
-这不算什么特殊用法，而是一些方言中出现的新（算是比较新了）用法，而且并没有被新华字典收录（我仅仅在网上未知版本的字典里收录了“给门关上”这个义项）。
-从用法上来讲，这种用法中“给”后的名词短语基本上都可以还原到后面的动词后，作后面动词的宾语。比如说：
-
-（我们）用刀拍它一下
-（我们）拌匀它（似乎不是特别通顺，但勉强能够接受）
-（我们）煎一下它
-
-这个结构可以写成“给 +NP+V”，其中大多数情况下，NP 充当 V 的受事。
-不过并不是所有情况下还原都能顺利进行，比如题主提到的：
-
-给它切成丝
-* 切成丝它
-？切它成丝
-
-“切它成丝”很可能是合语法，但接受度比较低的句子，这有可能是音韵上不通顺，也有可能是我们一般习惯“胡萝卜切丝”、“土豆切丝”这类的类似于 anti-causative 的结构。不过总而言之，“给”后紧接的 NP 是受到后面紧随的动词影响的，因此本质上，这个结构只是汉语处置式的一个变体。
-最为人熟知的处置式结构，是“把”字引导的，所以也一般叫做“把字句”。不过“把”在不同的方言中有不同的替代形式，“给”就是其中一个。
-“给”是什么成分，想要解决这个问题，有一个偷懒的办法——如果我们在这里同意题目中提到的“给 +NP+V”（当然，这个结构还有别的含义，我在下面会讨论）是处置式的一种变体，那么只要查阅“把”字处置式的讨论，看看学者们怎么看待把字句中的“把”就可以了。
-这个问题对于汉语母语者来说看起来比较简陋，不少人会断言“把”在把字句中是一个介词。实际上上个世纪的一些比较早的文献中，也都一般是这么认为的，比如 Chao (1968)，Travis (1984)等。但黄正德（2009）在著名的《汉语语法学》里质疑：如果“把”是介词，那么很显然它和后面紧跟的 NP 应当构成一个 PP，但实际上，“把”后的 NP …]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在中国都发现过哪些「独特的古生物」?]]></title>
-        <id>https://daily.zhihu.com/story/9738522</id>
-        <link href="https://daily.zhihu.com/story/9738522"/>
-        <updated>2021-07-26T23:06:15.000Z</updated>
-        <summary type="html"><![CDATA[铁馆哈士奇，爱健身的古生物怪蜀黍
-阅读原文
-
-中国有一种奇怪的恐龙叫奇异辽宁龙。这是一种非常特别的小型甲龙类，科学家发现这种小型甲龙作为一个高等级的鸟臀类恐龙，在吃斋念佛的大家族里居然贪起荤腥吃起了鱼肉，如此“酒肉和尚”就难怪练就一身铁布衫了。
-奇异辽宁龙（Liaoningosaurus paradox）。是一种非常特别的小型甲龙类。化石由中科院古脊椎所的徐星等老师命名，之所以叫奇异是因为这种恐龙身上具有结节龙类（nodosaurid）和甲龙类（ankylosaurid）的特征，科学家对其系统分类位置表示迷惑。而更加奇异的是在后续新标本的研究中，科学家发现这种小型甲龙作为一个高等级的鸟臀类恐龙，在吃斋念佛的大家族里却是个另类，居然贪起荤腥吃起了鱼肉，如此“酒肉和尚”就难怪练就一身铁布衫了。其发现地点是有名的热河生物群所在地之一：辽宁义县，化石层位是早白垩世义县组。距今约 1.3 亿年左右。
-
-义县地图（图片来源：百度地图）
-
-甲龙下目是鸟臀类恐龙的一个演化分枝，其种类多，分布广，作为恐龙界的装甲车，最为人熟知的就是那逆天的防御能力。粗短的四肢，宽阔的身躯和武装到牙齿的装甲，有的还加装了一个尾部大摆锤，走起路来摇头晃脑极为迟缓呆萌，这就是大部分人对于甲龙的印象了。
-
-甲龙（图片来源：视觉中国）
-然而我们的辽宁龙和传统的甲龙还是有点外形上的区别的，首先大小上就相当迷你，其正模标本 （IVPP V12560）全长仅有 34 厘米，而新标本（xhpm-1206）则更小，体重还不足一公斤，如此迷你的体型和那些庞大的同胞相比完全不值得一提，加上最初发现的标本脊椎和骨盆骨骼存在很多不愈合的情况，使得早期的发现者猜测这是一只未成年的个体，然而新的标本研究发现其神经弓与椎体之间缝合线开阔，证实辽宁龙就是这么小。从而坐实了当时辽宁龙最小甲龙甚至最小鸟臀类恐龙的名号。同时四肢相对其它甲龙而言更为…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么化妆会导致闷痘和长闭口？]]></title>
-        <id>https://daily.zhihu.com/story/9738491</id>
-        <link href="https://daily.zhihu.com/story/9738491"/>
-        <updated>2021-07-26T23:06:07.000Z</updated>
-        <summary type="html"><![CDATA[卷福酱，阿福在知乎，公众号：福心研究所
-阅读原文
-
-关于用了化妆品长痘的传闻很多，其中有些是实实在在的风险，有些则是危言耸听贩卖焦虑，要分开来看。
-
-使用化妆品不当真的会诱发痘痘吗？
-确定真的会。化妆品致痘是个历史悠久的话题，早在 1972 年，美国的 Kligman 医生就发表了论文分析化妆品里的致痘成分，并给这种痘取名为“化妆品痘”（Acne Cosmetica）。
-
-
-化妆品是如何致痘的
-用化妆品导致痘痘都是因为毛孔被厚重的油脂或是固体颗粒堵塞，排汗不畅，闷出来的的痘痘？
-真相：
-毛孔被堵塞是没错，但并不是传说中直接被化妆皮中的成分堵塞，而是化妆品造成毛囊皮脂腺内过度角化，或是延缓角质脱落，从而堵塞毛囊皮脂腺导管，造成的粉刺。
-简单来说，我们的汗腺和皮脂腺都是活的，自然不会被流动性的油脂，或是细小的颗粒憋死。然而也正因为是活的，所以当正常的代谢过程受到干扰时，就会出现堵塞的现象。
-
-皮肤医生和配方师们研究化妆品致痘已经快半个世纪了，虽然还有些具体的机理有待解释，但主流观点从不赞同毛孔会直接被化妆品堵塞。化妆品诱发痘痘主要有两种途径，第一种是刺激毛囊皮脂腺内的角化异常加快，也就是加速产生凋亡的角质；第二种是延缓角质的正常剥落，两种情况下都会导致角质在毛囊皮脂腺导管里越堆越多，把导管堵住。
-多余的油脂排不出去，就会形成粉刺，如果表面皮肤没有破，那就是我们常说的白头或是闭口，如果破了，里面的皮脂被氧化，外界灰尘进入，就成了黑头，如果被爱吃皮脂和角质的微生物附着了，那粉刺就成了它们的美食乐园，大量繁殖，最终可能会发炎，进一步演化为痤疮。
-所以说，第一个传说有一半是正确的，有的化妆品的确会“闷痘”，但致痘成分并不会直接去堵住毛孔，而是扰乱毛囊的角质代谢，造成皮脂腺堵塞，皮脂和角质堆积，形成粉刺，如果再雪上加霜被感染发炎，就成了痤疮。
-油皮更容易长痘？
-显而易见是真的。本身皮脂分…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清华经管里的牛人都是怎样的存在?]]></title>
-        <id>https://daily.zhihu.com/story/9738507</id>
-        <link href="https://daily.zhihu.com/story/9738507"/>
-        <updated>2021-07-26T23:06:02.000Z</updated>
-        <summary type="html"><![CDATA[王煜，THU pbcsf
-阅读原文
-
-曾经的经体班学生，专项短跑，就体育特长生的问题来答一下
-经体班是清华大学体育代表队集中班，主要是 A 类队队员（目前是男女篮 + 田径 + 射击，过去有一段时间是男篮 + 田径 + 射击 + 赛艇），这部分同学会被集中编班到经管学院工商管理专业。
-虽让我们名义上属于经管学院，但我们其实是处在校团委、体育部以及经管学院多重管辖下的，在我的印象里，校团委和体育部对我们的管理优先于经管学院。我们这个群体在一开始就被赋予了为校争光、塑造清华体育精神的使命，其中部分优秀的同学还承担着为国争光的任务。
-下面说一下我们的入学方式，理解了这一层，可能就方便理解我们之间的“差距”。
-高水平运动员是我们主要的入学渠道，即在入学前一年参加清华大学高水平运动员冬令营测试，获得高水平运动员认证后即可享受降分录取的优惠，一般分为两类：二本线和二本线 65%。
-因为测试成绩基本都是一级运动员以上的水平，大多数考生都会拿到 65%的降分优惠。这是个什么概念呢，如果当地二本线是 500 分，那么你只需要考到 325 即可上清华。记得当年我高考的时候，理综选择题做完我就知道我分数差不多够了。
-另外，如果测试成绩特别优秀，比如接近运动健将水平，考生还可以享受免试入学的优惠，类似于“保送”，不过要参加另外的考试，过去这个考试是清华自己组织，现在是国家体育总局出题，具体考核标准我不太清楚，但不会很难，只要满足“高中同等学力”的标准即可。
-叶诗文和柯洁和我们是完全不一样的渠道，他们享受的是国家体育总局的 “优秀运动员免试就读高校” 的政策，这个要单拿出来说，不是高水平运动员的升学渠道。
-所以，我们这个群体，以高考分数为标准来评价的话，差异性特别大，其中不乏高考成绩非常优异的， @Richard Xu 嘉神已经在回答中列举了好几位，比如胡凯高考 580+，11 级周文师兄 600+…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9738531</id>
-        <link href="https://daily.zhihu.com/story/9738531"/>
-        <updated>2021-07-26T23:05:54.000Z</updated>
-        <summary type="html"><![CDATA[你有过哪些难以选择的时刻？
-
-濒死男孩，也该我火了吧？
-阅读原文
-
-在公司熬夜加班
-还是回家熬夜加班
-阅读原文
-
-我爱你，后面加什么最虐心？
-
-Zorrot Chen，人
-阅读原文
-
-我爱你，能不能把垃圾倒一下？
-阅读原文
-
-得知自己的答案上了知乎日报，会有怎么样的一种心理？
-
-知乎用户，平凡得可怕
-阅读原文
-
-“这 TM 也能上日报？”
-阅读原文
-
-有哪些有名的，想讽刺他人无能，却暴露自己无知的段子？
-
-飞天小胖子，设计，人资，保险运营
-阅读原文
-
-阅读原文
-
-程序员忙起来的时候，是不是不喜欢理人？
-
-暗灭，无人教学-IT修真院创始人
-阅读原文
-
-不是，是他不喜欢你。
-我见过太多为了陪女朋友整天聊天的程序员了。
-还有很多程序员回家之后就忙着给女朋友做饭洗衣服，根本不管项目进度的延误。
-这些程序员都是把女朋友放到代码前面的，值得敬佩，所以后来我把他们都辞退了。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust]]></title>
-        <id>https://css-tricks.com/?p=344653</id>
-        <link href="https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/"/>
-        <updated>2021-07-26T14:36:13.000Z</updated>
-        <summary type="html"><![CDATA[At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …
-The post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Luke Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slinkity]]></title>
-        <id>https://css-tricks.com/?p=345288</id>
-        <link href="https://slinkity.dev/"/>
-        <updated>2021-07-26T14:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …
-The post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
