@@ -2,10 +2,289 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-27T01:11:16.645Z</updated>
+    <updated>2021-08-28T01:02:38.086Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 关于存储技术的最强入门科普]]></title>
+        <id>https://toutiao.io/k/xy8d9s9</id>
+        <link href="https://toutiao.io/k/xy8d9s9"/>
+        <updated>2021-08-28T01:02:37.025Z</updated>
+        <summary type="html"><![CDATA[都是基础，入门必看。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建项目统一依赖]]></title>
+        <id>https://toutiao.io/k/f79afkf</id>
+        <link href="https://toutiao.io/k/f79afkf"/>
+        <updated>2021-08-28T01:02:36.903Z</updated>
+        <summary type="html"><![CDATA[一、概述 为了统一管理项目的依赖库，我们现在的做法基本都是自定义一个config.gradle文件，把所有的]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从2004第一届《超级女声》到爱奇艺宣布取消选秀，过去 17 年间中国选秀和娱乐行业经历了怎样的变迁？]]></title>
+        <id>https://daily.zhihu.com/story/9739645</id>
+        <link href="https://daily.zhihu.com/story/9739645"/>
+        <updated>2021-08-27T23:07:47.000Z</updated>
+        <summary type="html"><![CDATA[海尔凯特，知乎专栏《偶像大历史》作者。原游戏杂志编辑，原少女组合运营
+阅读原文
+
+谢邀。
+这个问题真够大，成体系完整答完的话，博士不好说，捞个硕士绰绰有余了。
+碎碎念讲几个碎片吧。
+
+1 教育
+04 超女季军张含韵，05 超女第六名黄雅莉，当时都是在读高中生。那个时侯她们就面临着一个现实而严峻的问题：怎样平衡学校课业和演艺事业？
+04 超女张含韵
+遗憾的是，面对这个问题，无论 2004 年，还是 2021 年，我们都拿不出靠谱的解决方案。
+结果就是大批有才华的少年少女们被迫地，或放弃学业，或荒废特长，残留遗憾。
+没必要责怪今天的年轻艺人胸无点墨。大人们营造的教育环境不到位，大人们的资本还对他们有所求，这本就是一道连成年人都束手无策的选择题，你让孩子们怎么选？
+好歹人家还有资格读毛概
+国情不同，我们不一定需要堀越高中那样的派遣制学校，但我们也必须能拿得出自己的、行之有效的解决方案。
+
+2 龙门
+以人气最旺的 05 超女为代表，那一波选秀几乎可以看作学院派与驻唱派的大 PK。
+学院派代表包括川音的李宇春、谭维维、魏晨、何洁，星海的周笔畅，北影的叶一茜、厉娜，军艺的许飞，留学生苏醒等；驻唱派代表主要有张靓颖、陈楚生、张杰等等。
+05 超女五强
+无论哪一派，他们参加节目前都面临着相同的困境：象牙塔和酒吧都是四四方方一片小天地，里面能看见外面的世界，外面却看不到里面的精彩。
+那是智能手机还没诞生的互联网 1.0 时代，想鲤鱼跳龙门，只有上电视这一条路。
+
+3 收视率
+网络时代叫流量，电视时代叫收视率。
+从湖南卫视到爱奇艺，选秀无外乎是一种综艺节目，也就注定了，它的商业模式是面向赞助商的。
+综艺节目是从哪儿来的？
+1948 年美国诞生了第一批商业电视频道，它们都是从广播转型而来。很快，这批最早的电视人悲催地发现，电视的运营成本远远超过了广播，必须想办法多挣钱，否则早晚破产。
+多挣钱的方…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咖啡里真的有蟑螂吗？]]></title>
+        <id>https://daily.zhihu.com/story/9739633</id>
+        <link href="https://daily.zhihu.com/story/9739633"/>
+        <updated>2021-08-27T23:07:40.000Z</updated>
+        <summary type="html"><![CDATA[博物杂志
+阅读原文
+
+真的有~而且你想得没错，它们主要存在于预磨咖啡粉里，自己磨的话，只要你的咖啡研磨机里没有蟑螂......
+ 
+很多人每天都要来一杯咖啡提提神，我们办公室就有好多同事爱喝咖啡。直到有一天，我和同事一起去拿外卖，看到她刚拿到的咖啡，我没忍住，说：
+“其实，你的咖啡里，可能有……蟑螂。”
+然后，就没有然后了，同事已经不叫我一起拿外卖了。
+
+但咖啡里有蟑螂这事，不是我瞎说的，是一位英国国民保健署（NHS）的医生 Karan Raj 说的。
+图片来源网络
+咖啡烘焙，加上蟑螂才倍儿香
+Karan Raj 说，预磨咖啡粉里可能存在蟑螂。如果你的咖啡是用咖啡豆现磨的，那出现蟑螂的概率可能会小一点。
+而大部分预磨咖啡粉，都是由存放在仓库里的咖啡豆直接磨成的。你想想，都放仓库了，如果管理不善，里面有个蟑螂大虫子什么的，很正常。
+再说了，蟑螂和咖啡豆颜色都差不多，呲溜一钻就找不到了。
+都磨成粉了，谁还知道这里有蟑螂 图片来源：gopests.com
+你可能会说，有就有吧，要是蟑螂挑出来，不和咖啡豆一起磨碎，也能接受。
+但问题就在这里，现有的咖啡加工工艺没办法将蟑螂和咖啡豆完全分开。而且，美国食品药品监督管理局（FDA）和英国药品与保健品管理局（MHRA）都声称，只要不超过一定百分比，都允许食物中含有一定数量的虫子。
+早上来杯咖啡提提神？也可能是被蟑螂吓醒的 图片来源：portumen Shutterstock
+美国《食品缺陷水平手册》表明，平均约 10% 的生咖啡豆会受到昆虫侵染，或者被霉菌损坏。
+好家伙，这还是合法蟑螂
+这些数据听着可能没有什么概念，那再来看看昆虫控制公司 Terro 发布在《赫芬顿邮报》的数据，“在最坏的情况下，你每年可以在咖啡中摄取 136080 个蟑螂碎片。”
+怎么样，这回有画面了吧？
+
+巧克力的顺滑，有蟑螂一份力
+你以为到这就完了吗？再告诉你一个噩耗：
+你吃的巧克力里也可能有蟑螂！！
+
+美国 FDA 对巧克力中异物的规定是：取 6 个 100 克的样品检查，如果平均每个样品的昆虫碎片少于 60 个，而且每个样品中都不超过 90 个，就算合格；如果平均每个样品中的老鼠毛不超过 1 根，而且每个样品都不超过 3 根，也算合格。
+这也就意味着，无论你吃的巧克力多么高级，其中也可能含有几个蟑螂腿或者几根老鼠毛。
+
+那我们来看看巧克力的生产过程，看看蟑螂是什么时候爬进巧克力里的，反正吃都吃了，必须得吃个明白！
+巧克力的主要成分是可可豆，而可可豆藏在可可树的果实中。待果实成熟后，果农会将果肉全部掏出来，将果肉和可可豆一起发酵，然后晾晒干燥。
+可可果和发酵后的可可豆 图片来源：纪录片《水果传》
+就是在发酵和晾晒这两个步骤，很可能混进很多昆虫，蟑螂可能也会被香味吸引而来，谁不爱吃甜甜的食物呢！
+晾晒后的可可豆，还要经过烘焙、磨碎、精炼，混入其中的大虫子们也就跟着一起被烤熟了、搅碎了，变得更加丝滑了呢。
+巧克力这么香，是有原因的 图片来源：纪录片《水果传》
+再提醒你一下，有些人会对巧克力过敏，其实可能不是对可可豆过敏，而是对巧克力里的蟑螂屑过敏……
+
+吃了也没啥，补充蛋白质
+既然躲不过，那就别挣扎了，就当吃点蛋白质了。
+而且，虽然听起来恶心，其实蟑螂也是可以入药的。或许，你听说过“康复新液”这种药吗？来，仔细看看成分表，是不是有点熟悉？
+康复新液成分表 图片来源网络
+康复新液是把美洲大蠊干燥粉碎后的粗提取液加工得到的，这美洲大蠊就是一种常见的“会飞的大蟑螂”。
+
+康复新液经常用在治疗口腔溃疡、胃溃疡等各种溃疡上，但对于它的作用机理的研究还不太深入，有没有效不好说，但难喝倒是真的。
+对了，还有复方大蠊沐浴露、美洲大蠊防脱洗发露，要不要勇敢一试？
+走过路过不要错过，蟑螂洗护产品了解一下 图片来源网络
+而且，你也不用担心供不应求。美洲大蠊的寿命虽然不超过一年，但一生能产 10~40 个卵鞘，每个 16 枚卵，一共才 640 只小蟑螂而已嘛！
+更绝的是，即使没有受精，雌蟑螂也能孤雌生殖，没异性也能哇哇地生，就问你怕不怕！
+
+考虑到有些读者可能会害怕蟑螂，我把《博物》祖传灭蟑配方给你准备好了。
+《博物》祖传灭蟑配方
+
+一个土豆煮熟捣成泥，加两勺硼酸粉（药店有卖）和一勺糖，分成小份放在角落，一个月蟑螂就会消失。注意要避免儿童和宠物误食。
+胆大的朋友，我已经帮你把一整天都安排好了：
+早上来一杯纯正的咖啡，中午喝几口康复新液，下午来一块丝滑巧克力，晚上再用复方大蠊洗发露和沐浴露洗洗头、洗洗澡……
+真是舒服的一天呢！
+
+撰文 | 喜鹅
+编辑 | 阿什么爽
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初次养猫有哪些建议?]]></title>
+        <id>https://daily.zhihu.com/story/9739635</id>
+        <link href="https://daily.zhihu.com/story/9739635"/>
+        <updated>2021-08-27T23:07:31.000Z</updated>
+        <summary type="html"><![CDATA[边牧，伏特加，哌替啶，罐装猫咪和一点点汪。
+阅读原文
+
+近万字保姆级养猫攻略，手把手教你从喵喵坠地开始养好一只猫。本文章不接受任何形式的赞助，文中提及的每款产品都经过我这个前动物营养行业从业者亲自测比，好物推荐一单给个块八毛不至于恰饭...
+一、心理准备：养猫并不是一件小事儿
+“养猫前看网上的猫咪一个比一个可爱，真轮到自己养时才发现，这玩意儿满世界掉毛不说，既乱抓咬又能折腾，每天还要铲屎——猫粑粑真臭！”作为十里八乡著名的猫咪接盘侠，这样的声音我听到过无数次，我自家的胖猫灰灰也是从一个准大学生的手中接过的，她之于猫的热情持续了还不够一个暑假。当然，抛弃一只猫的理由有很多种：男女朋友分手、备孕、房东或室友的不支持、经济状况不允许、自己都收拾不好更别谈照顾一只猫、养了猫才发现自己过敏...
+作为纯肉食动物，猫粑粑的臭味是猫咪自己都无法忍受的
+小猫咪共同的祖先是非洲野猫（F.s.Lybica），一种在非洲大地上茹毛饮血的轻盈猎手。随着与人类的长久接触，它们已是新的物种——家猫（Felis catus）。
+非洲野猫是野猫（F.silvestris）的一个亚种，它们似乎于 13.1 万年前，从另一个亚种分枝出来，进入人类社会
+家猫是人类的伴生物种，它的“大自然”就是人类身边，自幼被人类抚养大的家猫不具有独立在野外求生的能力，所以当你开始养猫时，请不要抛弃这只寿命短则 10 年长则 20 余年的小生命。
+你的一生中可以遇到很多形形色色的人，它并不漫长的一生只有你可以依靠。
+在决定养一只猫前，你要做好面对这些的准备：每年 4500 元左右的开销[1]、偶尔的患病就医大额开销、每天至少 30 分钟的陪伴时间、每天 1 次的猫砂盆及水碗清理、每周至少 3 次的毛发梳理、习惯每天 1 次的周边环境清理及床上 4 件套的洗晒更换、习惯家居被抓挠零散物件被推倒以及下班回家后面对一只脚滑摔进马桶里然…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉他恒温柜到底有没有必要？]]></title>
+        <id>https://daily.zhihu.com/story/9739640</id>
+        <link href="https://daily.zhihu.com/story/9739640"/>
+        <updated>2021-08-27T23:07:21.000Z</updated>
+        <summary type="html"><![CDATA[弹吉他的张阿姨，反正我就是一个了解乐器的阿姨，我想我可以帮到你。
+阅读原文
+
+感谢邀请~
+随着大家对吉他的品质越来越有追求，购买的吉他更贵更好，如何存储吉他，也日益被重视了起来。所以，就有不少客户问过阿姨这个问题，我到底要不要买恒湿柜呢？
+其他的回答阿姨也大致看了一下，多多少少都有点跑偏，并不是只有特别贵的吉他才“配”用恒湿柜，这个虽然和吉他的价值有些关系，但也不是那么大，只要你的吉他是实木制造的，都需要采取一定的保养措施。
+当然，恒湿柜这种养护手段，也不是适合所有的用户。如果你通过采取简单的控制措施，就可以确保合适的温湿度，那恒湿柜对你来说，也就没什么用。从阿姨的在琴行工作小二十年的经验来看，9 成的用户都不太会使用到吧，大概只有 1 成的客户是需要购买恒湿柜。
+我们存储吉他，无外乎控制 2 个环境：大环境，和小环境。
+通常来说，最好是放置在合适的大环境下。整个大环境的温湿度都控制在合适的范围，你的琴就是最安全的。
+咱们居住的环境一般都是可以控制温湿度的：北方在秋冬季节室内放置一台足够加湿量的加湿器，南方购买一台抽湿机。在相对密闭的环境，湿度很容易控制在 50%左右。只要开着机器，避免强通风就可以，加湿器每天加水，抽湿机每天倒水，这样大环境都是好的，人呆着也舒服，琴呆着也舒服。
+但是，有一些环境是没有办法采取这样的办法进行大环境加湿的。西北很多地方会非常干燥，南方很多区域会极度潮湿，在用上面的方法不奏效，不能有效控制通风，大环境湿度始终上不去或下不来的情况下，你就要采取其他措施了——
+在此种情况下，你需要大部分时间把琴放置在琴箱或密闭的琴包里面，在琴包内，在琴包 / 琴箱内采取加湿 / 干燥措施，短时间拿出来弹奏没什么影响，但一定切记，大部分时间要呆在吉他舒适的小环境，也就是阿姨刚才说的——相对密闭的有加湿 / 干燥措施的琴包或者琴箱内。
+原则就是：最好大环境温湿度都合适，琴只要在这个大环境下，就是绝对安全的；如果大环境不是很理想，能控制小环境也可。
+那什么样的用户适合买恒湿柜呢？总结下来，如下的这部分人群以及所处的环境，是需要购买的：
+1，处在无法通过常规手段控制室内温湿度，不能通过一般手段控制小环境湿度的极干燥极潮的地区的用户。
+如果你大环境很难控制，小环境也控制的不理想，你或许就需要一台恒湿柜了。
+2，自己经常出差或者留学，拜托家人照顾乐器，不想给家人增添麻烦。
+阿姨身边经常有这样的朋友——学生住校，只有假期回家；上班族经常出差，在固定居所时间不长。他们的吉他也需要温湿度控制，拜托家人来操作吧，始终觉得有些繁琐，不还好交代，也觉得麻烦家人有点过意不去。
+那购买一个恒湿柜还是比较好操作的，只要密闭，保持不断电，里面的水瓶总是有水的，放个几个月都不是事儿。
+3，经济条件还可以的喜欢省事儿的人。
+如果你的经济条件还可以，琴也蛮爱惜的，希望省事儿，那买个恒湿柜也还是可以的。
+通过阿姨以上的讲解，你应该就明白了，说到底，这个恒湿柜其实就是一个温湿度的小环境。如果你的大环境可控，或者琴箱或琴包这样的小环境已经可以满足存储需求的话，就不需要买了。
+当然，也并不是购买了恒湿柜就一劳永逸了，也要人为的经常观测，至少一天一次，检查电源和温湿度以及水瓶，在恒湿柜内，还要放置一个精准度高的温湿度计，辅助观测。因为电子的东西不是百分百牢靠，质量也有优劣之分，运输偶有造成密闭性破坏等因素也说不定。
+那关于恒湿柜阿姨就讲解这么多吧~再有不懂的地方私信或者评论就可以。
+感谢朋友们的信任和支持~
+以上❀
+
+
+
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价第 74 届戛纳电影节开幕片《安妮特》？]]></title>
+        <id>https://daily.zhihu.com/story/9739637</id>
+        <link href="https://daily.zhihu.com/story/9739637"/>
+        <updated>2021-08-27T23:07:14.000Z</updated>
+        <summary type="html"><![CDATA[麋鹿先生，公众号：麋鹿先生(CARPE-DIEM-WINGS)
+阅读原文
+
+先谈谈卡拉克斯
+等待九年之后，卡拉克斯终于把他的长片新作《安妮特》带来了。
+作为后新浪潮的代表人物，卡拉克斯从来不是一个高产的导演，即便算上这部《安妮特》，37 年间也只拍了 6 部长片（电影《东京！ 》是 3 个导演合拍，故未统计入内）。
+
+卡拉克斯是个人风格很强烈的作者型导演，从来不去讨好观众，甚至乐于去冒犯观众，这一点在《神圣车行》里达到了极致。甚至拍《新桥恋人》这样颠狂的爱情故事，都算他对观众大发慈悲了。
+他的御用演员是德尼·拉旺，这个矮个子、大鼻子、很难称得上英俊的演员，出演了他绝大多数影片，而与拉旺搭配的往往是天使般的美人，他们的相爱有一种美女与野兽的奇异感。
+
+卡拉克斯喜欢讲爱情故事，而且是在变着叙事方法讲痛苦的、扭曲的、畸形的爱情。在《男孩遇到女孩》中，两个失意少男少女的致命私语，在《坏血》中是一段美而扭曲的四角恋爱，在《宝拉 X》中是一段乱伦，而在《新桥恋人》是流浪汉爱上落魄富家女。这让我很期待这次《安妮特》，他会讲什么爱情故事？
+但卡拉克斯不只是讲爱情故事，故事只是一个载体，或者说是实验的一部分，通过他的电影，我们可以看到他颠覆电影的雄心。从第一部电影《男孩遇到女孩》开始，他就不是一个按套路讲故事的导演，他习惯在天马行空的故事中糅杂很多个性鲜明的元素：卡在手指根部的烟、拳击动作练习、配着音乐狂奔的少年、御风而行的摩托车、明暗光影快速切换……最极致的还是《神圣车行》，这部电影如同把所有试管里的试剂倒入了同一个烧杯中，让卡拉克斯实验室里出现了一次大爆炸，电影中德尼·拉旺饰演了 11 个完全不同的角色，在虚幻与现实之间，在理智与疯狂之间，不断求索。
+
+很难去定义《神圣车行》是什么电影，就像很难定义卡拉克斯是什么导演。而这次卡拉克斯花了 4 年时间，拍了一部歌舞电影——《安妮特》。很想知…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My tiny side project has had more impact than my decade in the software industry]]></title>
+        <id>https://css-tricks.com/?p=350782</id>
+        <link href="https://mike.zwobble.org/2021/08/side-projects-vs-industry/"/>
+        <updated>2021-08-27T19:14:10.000Z</updated>
+        <summary type="html"><![CDATA[That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …
+The post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fixed Background Attachment Hack]]></title>
+        <id>https://css-tricks.com/?p=350201</id>
+        <link href="https://css-tricks.com/the-fixed-background-attachment-hack/"/>
+        <updated>2021-08-27T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …
+The post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound Components In React]]></title>
+        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
+        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
+        <updated>2021-08-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.08.27 今天是每日时报陪伴您的第 611 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/08/27.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/08/27.html"/>
+        <updated>2021-08-27T06:42:44.000Z</updated>
+        <summary type="html"><![CDATA[2021.08.27 今天是每日时报陪伴您的第 611 天
+[文章] 从零开发一款基于 WebView 的 VSCode 扩展：https://juejin.cn/post/7000589186898231333
+[类库] Rollup 扩展，支持生成 d.ts 的汇总文件：https://github.com/Swatinem/rollup-plugin-dts
+[类库] AnyMatch 是一个匹配字符串的工具，它的使用场景如，有一组目录，判断这个文件、文件类型是否包含在目录中：https://github.com/micromatch/anymatch
+[类库] 可以让 URL 正常的解析，可作为反爬虫/扫描工具的解析器：https://github.com/sindresorhus/normalize-url]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你认为《真三国无双》系列游戏未来系统革新的方向是什么？]]></title>
+        <id>http://www.zhihu.com/question/358836472/answer/2083788287</id>
+        <link href="http://www.zhihu.com/question/358836472/answer/2083788287?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-08-27T03:04:46.000Z</updated>
+        <summary type="html"><![CDATA[分两个方面谈，先说动作。
+直接抛出论点，无双系列现在要考虑的不是如何让自己进化，而是怎么合理地完成退化。近些年许多成功的游戏都在向过去的类型回归，甚至是想方设法给自己套上枷锁，因为技术虽然可以不断提升，但开发人员的精力和玩家的注意力都是有限的，设计者需要把控好其中的平衡点。无双系列之所以变成现在这个样子，很大原因是设计者失去了节制。
+现在的无双被称为“割草”游戏，割草和无脑甚至成为了玩家口中的卖点，而老玩家又会告诉你最初的无双其实是相当硬核的游戏，打击感很强，敌人的攻击意识和招式性能都很高，玩起来并不简单。这些都是事实，但我最近又重新观察了一下无双的旧作和新作，发现无双系列过去的优秀打击感和高对抗性实际上都是缘于巧合，它们产生于PS2初期的低性能，而游戏机性能的进步反而毁掉了这种体验。
+如果我们追溯到FC时代，当时由于游戏机性能不足，同屏通常只会出现4个以内的敌人，外加游戏容量有限，必须以提升难度的方式来增加游玩时长。因而这个时期的敌人攻击欲望极高，性能强度也总是超过玩家所操控的角色，往往同屏出现两个以上的敌人就能给玩家带来很大压力。
+
+
+这一点在街机和PS1上的动作游戏里也没有太大变化，同屏基本只能支撑六个以内的计算单位，因而需要调高单个敌人的性能强度来维持难度。
+
+但PS2上的初代真三国无双打破了这种传统，其整个战场是联通的，并没有分离区域并为同屏出现的敌人设置上限，理论上玩家可以将尽量多的敌人集中在同一地点。但事实上根本这不可能办到，因为机能达不到要求使得玩家视野只有十来步的距离，脱离开这个范围就是雾茫茫的一片，而且同屏人数一旦超过十几人就会因为运算速度跟不上而出现严重的拖慢现象，身边的敌人甚至会消失或者闪现。
+
+
+这个问题直到2004年9月的战国无双猛将传里也没有得到完全解决，该作视野范围狭小和动作拖慢现象都比较明显，但等到2005年2月（记住这个时间点）的真三国无…]]></summary>
+        <author>
+            <name>FFF团长</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端设计稿转代码现状，会不会失业？]]></title>
         <id>https://toutiao.io/k/5i6iwz2</id>
@@ -11659,371 +11938,6 @@ The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You 
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价玄机出品的动画《武庚纪》第四季第一集，如何看待逆天而行之死？]]></title>
-        <id>http://www.zhihu.com/question/475547867/answer/2027215850</id>
-        <link href="http://www.zhihu.com/question/475547867/answer/2027215850?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-07-29T11:30:09.000Z</updated>
-        <summary type="html"><![CDATA[古有王婆卖瓜，今有我们武庚纪编剧组来回答这个问题——如何评价国产动画《武庚纪》第四季第一集。
-先为动画做个简单的科普，《武庚纪》的故事则是由商王之子武庚为起点的，衍生至三界万年的传说。在故事的发展中，人族不屈于神的奴役，追求独立自由的生活；冥族为生存为荣耀而战；人、神、冥三大种族纷争不断，不断有新的人物登场，追求他们心中的信念，完成他们命定的使命，在挑战与被挑战的路上，让人感受热血沸腾的力量。
-本次《武庚纪》新篇章《问天之战》，人、神、冥三大种族的战斗将迎来高潮，逆天而行、子羽以及武庚都将对战力天花板“天”发出挑战，尘封在时间长河中的远古旧神之战将再次展开，武庚在本季也会面对更强的对手，不得不更快地成长！
-我相信，只要是《武庚纪》的粉丝，一定都很期待这部分内容。第一集的标题就叫《终点》，暗示冥族大元帅“逆天而行”走到了他生命的尽头，但这也是神权瓦解的开始，三界格局变化的开始，当然还是第四季精彩故事的开始。编剧在写逆天而行最后一战时，也有万般不舍，不过更多的是触动。他是十万年冥族战士的缩影，也是散落三界火种的象征。我们不禁问道：有些事明知是对的，却又明知不可为，还会有奋力为之、奔向终点的勇气吗？是啊，就像逆天而行说的“很多事并非尽力就可以成功”，“但会在‘ 我们’手中完成”。
-所以第一集讲了一个“死亡”的故事，希望给观众展现“生命”的光芒。这种光芒不只属于主角光环，而是每个角色的内心力量。之后集数，还会有形形色色的新角色——旧神登场，他们不仅有传奇色彩的名字，更有因绽放各自生命而迥异的魅力。
-在第一集播出后，我们也收到了众多粉丝恭送大元帅的真心。看到逆天而行的人物塑造能收获大家的认同，非常开心，正所谓一千个观众心里有一千个哈姆雷特，在逆天而行踏上他命运的同时，我们也将这部分的评价权交由一直以来支持我们的观众，期待你们说出对这个悲壮角色的感受。
-回归这个故事，说是一场人类自救之旅也不过。当商王焚毁“天”之神谕，举旗逆天，人类的自我觉醒和为自由独立而战的决心已然萌芽。后面又遇到同样去推翻神权的盟友，冒出来一个又一个的厉害角色，我们想要展现的和观众想要看到的，就是如神挡，则可以杀神；如天挡，也逆天而行的决心和快意。
-最后，《武庚纪之问天之战》究竟会有什么新故事？目前动画也有了更新，还是希望大家去观看、去感受，有关于剧集的任何问题，都欢迎大家在评论区和我们探讨。
-感谢大家对《武庚纪》动画的支持！
-
-来源：知乎 www.zhihu.com
-武庚纪动画
-点击下载
-1 个回答，查看全部。
-如何评价动画《天行九歌》第二季预告?
-为什么动漫《武庚纪》播放量那么高，讨论度却那么低？]]></summary>
-        <author>
-            <name>武庚纪动画</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021.07.30 今天是每日时报陪伴您的第 598 天]]></title>
-        <id>https://wubaiqing.github.io/zaobao/2021/07/30.html</id>
-        <link href="https://wubaiqing.github.io/zaobao/2021/07/30.html"/>
-        <updated>2021-07-29T11:26:57.000Z</updated>
-        <summary type="html"><![CDATA[2021.07.30 今天是每日时报陪伴您的第 598 天
-[工具] AlloyTeam 的渐进式 eslint 配置适用于 React / Vue / TypeScript 项目：https://github.com/AlloyTeam/eslint-config-alloy
-[工具] 技术面试最后反问面试官的话：https://github.com/yifeikong/reverse-interview-zh
-不仅仅面试者要看，面试官更要看]]></summary>
-        <author>
-            <name>每日时报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讲一讲 Hive 的自定义函数 UDF, 顺便聊聊 Hive 中 AES 加解密的代码实现]]></title>
-        <id>https://toutiao.io/k/6xvua0u</id>
-        <link href="https://toutiao.io/k/6xvua0u"/>
-        <updated>2021-07-29T10:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Hive的内置函数虽然提供了很对常用的方法，但面对多样的需求，还是有无法满足的情况，针对这种情况，Hive提供了自定义函数的功能。正好这段时间，有AES加解密的需求，用到了Hive的UDF自定义函数，所以也回顾了下之前的自定义函数，这里做下整理和讲解，希望帮助到大家。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
-        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
-        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
-        <updated>2021-07-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Elad Shechter)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心理学家阿尔伯特·班杜拉（Albert Bandura）2021.7.28 逝世，如何评价他的一生？]]></title>
-        <id>http://www.zhihu.com/question/475684348/answer/2026194701</id>
-        <link href="http://www.zhihu.com/question/475684348/answer/2026194701?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-07-29T08:30:10.000Z</updated>
-        <summary type="html"><![CDATA[今天我才知道班杜拉老师跟我们是同一时代的人，可悲的是我一直以为他已经去世了。作为一名老师，大学当中对于班杜拉的“交互决定论”、“自我调节机制”以及社会学习理论非常感兴趣，可以说他的很多理论指导了我论文的撰写。
-一、班杜拉的一生
-1925年，班杜拉出生于加拿大阿尔伯塔省的一个小农场社区，他的家庭来自东欧，移民至加拿大。他的父母没有正式读过书，但是他们非常看重孩子的教育。班杜拉在加拿大拿到本科文凭后，1949年在不列颠哥伦比亚大学获生物学学士学位。
-在这之后，班杜拉攻读艾奥瓦大学研究生（因为这个大学在学习理论方面传统颇深），在这里他遇到了一位对他产生深刻影响的人——肯尼斯·斯宾塞。在艾奥瓦大学的学习过程中，班杜拉逐渐坚信，心理学者应该“以经得起试验检验的方式把临床现象概念化”。于1952年获得博士学位。
-班杜拉于1953年来到斯坦福大学，继续在传统学习理论和认知人格理论之间、在临床心理学和人格研究的实证取向之间架设桥梁。于1974年当选为美国心理学协会主席，并在1980年获得美国心理学会颁发的杰出科学贡献奖。
-二、核心理论
-1.社会认知理论
-由于人总是生活在一定的社会条件下的,所以班杜拉主张要在自然的社会情境中而不是在实验室里研究人的行为。事实上,人们在社会情境中,通过观察和模仿,学到很多行为。
-班杜拉不同意其他行为主义者对人的描述——外界刺激无论以怎样的方式施加于人，人都是被动接受者，这忽视了人类行为的一些重要原因。由于这些被忽视的东西一般都与思维和信息符号加工有关，所以班杜拉称自己的理论为社会认知理论。
-□交互决定论
-班杜拉认为行为是由内因和外因共同决定，但是并非是由二者的简单结合来决定，在此基础上他提出了交互决定论的概念：即外因和内因是一个相互作用的影响系统中的一部分，它不仅影响行为，也影响系统中的其他部分。
-我们举一个例子：加入有个你不喜欢的人找你玩游戏，但是你觉得与他…]]></summary>
-        <author>
-            <name>翼犀稀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASP.NET Core 使用 HostingStartup 增强启动操作]]></title>
-        <id>https://toutiao.io/k/gdk5cis</id>
-        <link href="https://toutiao.io/k/gdk5cis"/>
-        <updated>2021-07-29T01:06:29.868Z</updated>
-        <summary type="html"><![CDATA[概念 在ASP.NET Core中我们可以使用一种机制来增强启动时的操作，它就是HostingStartup。如何叫"增强"操作，相信了解过AOP概念的同学应该都非常的熟悉。我们常]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手把手构建基于 GBase8s 的 Flink connector]]></title>
-        <id>https://toutiao.io/k/ktfm5ki</id>
-        <link href="https://toutiao.io/k/ktfm5ki"/>
-        <updated>2021-07-29T01:06:23.572Z</updated>
-        <summary type="html"><![CDATA[本文向大家阐述什么是Flink connector和CDC，然后构建一个简单的GBase8s的Flink connector,并完成实践项目，即通过Mysql CDC实时通过connector同步数据到GBase8s中。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软大佬 cabbage 分享算法面试心得]]></title>
-        <id>https://toutiao.io/k/ehdtxr0</id>
-        <link href="https://toutiao.io/k/ehdtxr0"/>
-        <updated>2021-07-29T01:06:23.140Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 0 到 1，使用 OpenPPL 实现一个 AI 推理应用]]></title>
-        <id>https://toutiao.io/k/u8ktct0</id>
-        <link href="https://toutiao.io/k/u8ktct0"/>
-        <updated>2021-07-29T01:06:23.056Z</updated>
-        <summary type="html"><![CDATA[还不快来拿 OpenPPL 试试你家猫主子~]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 代码中，如何监控 MySQL 的 Binlog？]]></title>
-        <id>https://toutiao.io/k/dg2ld8v</id>
-        <link href="https://toutiao.io/k/dg2ld8v"/>
-        <updated>2021-07-29T01:06:22.890Z</updated>
-        <summary type="html"><![CDATA[实用小技巧，binlog还能这么玩？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微服务入门（二）：使用 go-kit 实现简易 user 服务]]></title>
-        <id>https://toutiao.io/k/0dxcg8d</id>
-        <link href="https://toutiao.io/k/0dxcg8d"/>
-        <updated>2021-07-29T01:06:22.831Z</updated>
-        <summary type="html"><![CDATA[使用go-kit实现简易获取用户名和更改用户名的服务。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高并发服务优化篇：从 RPC 预热转发看服务端性能调优]]></title>
-        <id>https://toutiao.io/k/vatr36l</id>
-        <link href="https://toutiao.io/k/vatr36l"/>
-        <updated>2021-07-29T01:06:22.641Z</updated>
-        <summary type="html"><![CDATA[本篇从RPC的预热转发功能，引出了其背后的理论依据--JIT优化。阐述了JIT的基本概念，并用一个实例说明了代码编写风格对JIT优化的实际影响。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离职期员工的信息安全管控实践]]></title>
-        <id>https://toutiao.io/k/h6lpu4v</id>
-        <link href="https://toutiao.io/k/h6lpu4v"/>
-        <updated>2021-07-29T01:06:22.553Z</updated>
-        <summary type="html"><![CDATA[送您一份《预离职员工的信息安全管控举措清单》供各个企业信息安全团队读者交流和学习分享。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脚本获取 TLS/SSL 证书失效日期]]></title>
-        <id>https://toutiao.io/k/m7t6q4i</id>
-        <link href="https://toutiao.io/k/m7t6q4i"/>
-        <updated>2021-07-29T01:06:21.608Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何基于磁盘 KV 实现 Bitmap]]></title>
-        <id>https://toutiao.io/k/s0t6ch5</id>
-        <link href="https://toutiao.io/k/s0t6ch5"/>
-        <updated>2021-07-29T01:06:19.961Z</updated>
-        <summary type="html"><![CDATA[大部分开发对 Bitmap 应该都不陌生，除了作为 Bloom Filter 实现的存储之外，许多数据库也有提供 Bitmap 类型的索引。对于内存型的存储来说，Bitmap 只是一个特殊类型(bit)的稀疏数组，操作内存不会带来读写放大问题(指的是物理读写的数据量远大于逻辑的数据量), Redis 就是在字符串...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥奥运会射击只有十米？]]></title>
-        <id>https://daily.zhihu.com/story/9738583</id>
-        <link href="https://daily.zhihu.com/story/9738583"/>
-        <updated>2021-07-28T23:06:59.000Z</updated>
-        <summary type="html"><![CDATA[知乎用户，医生、射击爱好者、冰火迷
-阅读原文
-
-国际射联（包括奥运会）的气枪射击距离是 10 米，是因为 20 世纪初设立这个项目时，受当时的气枪技术所限，动力组功率太低，15 米以外就很难保证高精度了。而且当年使用的还是弹簧活塞枪，那个枪内主弹簧的震动不可预测不说，还在粒弹被射出前就叠加在枪管上，一不小心就是天女散花的精度。不受弹簧震动干扰的单次泵压式气枪于 70 年代开始在比赛中普及后，才彻底淘汰了弹簧枪。而预压式气枪（PCP）开始垄断赛场，是 90 年代才开始的。
-而气枪的功率有限，也影响了可以使用的弹粒口径，口径大了弹重就会高，功率不够的话就会限制初速让有效射程缩短，甚至产生“尿弹”式的弹道。传统的.177（4.5 毫米）口径，其实就是延续了 19 世纪末弹簧气枪的“BB”号铅弹的口径，那是当时实用性最为平衡的口径。直到后来更加强劲可靠的动力组设计出现，.22（5.5 毫米）口径的粒弹才开始在一些领域替换了.177 口径。
-而 ISSF 和奥运气枪赛多年来定了死规矩，只允许使用.177 口径，而且只能用平头弹（wadcutter），因为平头弹击中靶纸后戳出的弹孔边缘比较平滑，易于裁判分数。但是只要看过那个平头粒弹的形状，就知道气动性有多差。气动性能差也限制了最大膛速，基本上超过 600fps，平头弹就会因为紊流失稳，弹粒会开始翻滚偏离预定弹道，砸出的也不是圆孔而是钥匙孔。
-其实现在的气枪技术其实早就克服了这些局限，枪弹的种类和外弹道性能也日新月异，在 50 米、甚至 100 米以外用气枪打小目标一点问题都没有。但奥运会架不住 ISSF 的规则传统，只允许用低功率（<7.5 焦耳）的气枪打.177 平头弹，枪长也受限，还只能用机械瞄具。有这些技术参数上的硬限制，不要说打超过 10 米的距离，只要稍微让射击场所内刮阵风，对外弹道的影响就足以能让所有参赛选手抓狂。所以奥运会气枪比赛定为 10 米，允许使用支撑性服装和眼遮，而且都是室内赛。
-而那些国际射联规则外的气枪比赛，基本上没有一个是使用低功率气枪的，30 焦耳以上的功率输出是最低标准，高的可以达到 100 焦耳，初速媲美.22LR。而使用的枪弹口径也越来越大，甚至连.22 口径都不吃香了，基本上.25（6.35 毫米）口径的圆头弹（domed pellet）是最低标配，低于这个别想拿名次。更不要说近年来飞速发展的块弹（slug pellet），其实就是一种米涅弹，从.22 口径起步，最高出现过 20 毫米口径，用氦气驱动可以用来干死野猪。
-其实国外射击群体早就不满足奥运会的那套单调的玩法了，现在国外气枪运动发展最迅速的是各种打铁靶的速射比赛，比如 field target 和 benchrest airgun，而且基本上是光瞄一统天下。除了这些正式赛事，就是各种狩猎和休闲射击，能翻墙的话还可以搜到某老外吃饱了撑的跑到盐湖上用气枪打 200 码外高尔夫球玩的视频。
-至于说 10 米气枪赛事的靶子小，那是因为射击距离已经那么近，不小就更没挑战性了。是因为距离短才需要小靶子，不是因为靶子小才距离近。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《请回答1988》为什么最后是阿泽呀？]]></title>
-        <id>https://daily.zhihu.com/story/9738591</id>
-        <link href="https://daily.zhihu.com/story/9738591"/>
-        <updated>2021-07-28T23:06:55.000Z</updated>
-        <summary type="html"><![CDATA[文小宁，十八线心理学科普博主兼业余萌宠博主
-阅读原文
-
-因为阿泽身上有一股治愈的力量。
-他无条件地接纳德善、设身处地对她共情、给她百分百确定的安全感。而阿泽和德善两个人本身，也是需要和被需要的互补角色。
-01 无条件的接纳和爱，让你充分成为你自己
-在剧中，阿泽和正焕都喜欢德善。
-十八岁的少女德善是一个非常平凡普通的女孩子，她身上有很多特点，包括但不限于吃得多、性格莽撞、喜欢做鬼脸扮“丑”。
-在正焕看来，这些特点都是缺点，因此他形容德善是猪、男人婆、村姑、大鼻妹。
-但阿泽眼里，这些却都是：可爱、好看。
-有一次德善涂了一个很难看的橘色口红，大家都吐槽：“太难看了吧”，阿泽却坚持说：“好看，比李英爱还好看。”
-社会心理学家 Cooley 在他的自我理论中提到：我们的自我概念是由他人如何对自己及对自己的行为进行评价的知觉构成的。也就是说，周围的人如何评价、看待我们会影响到我们对“我是谁？”“我好吗？”这些问题的判断。
-发展心理学研究发现，在自我认知脆弱且不稳定的成年早期，亲密同伴对于我们的自我概念形成起着关键作用。
-如果我们有着能充分接纳我们的亲密伙伴，我们就能形成健康、积极的自我认知，觉得自己是好的、有价值的。反之，我们可能会怀疑自身价值甚至自我贬低。
-虽然正焕对德善的否定打击肯定不属于 pua 的范畴，但他的这些话却很可能会让本就有些自卑的德善更加沮丧。
-而相比之下，阿泽对德善则是一种无条件的接纳和喜爱，他爱着德善最真实的样子，笨手笨脚跳舞的德善是可爱的，满嘴都是食物还在说话的德善是可爱的，甚至抓着老鼠兴奋大叫的德善都是可爱的。他爱德善，只是因为她是她。
-在这种无条件积极关注的关系里，德善不用刻意去讨好、伪装，可以放松自由的做自己，也会获得前所未有的自我认同感。因为，她只需要作为自己本身，就能被喜欢和欣赏。
-就像维克多 · 弗兰克在《人类寻找意义》一书中写的那样: “给予爱的人…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么高铁上的蚊子不会被甩到车尾？你也许懂了，但并没有完全懂……]]></title>
-        <id>https://daily.zhihu.com/story/9738596</id>
-        <link href="https://daily.zhihu.com/story/9738596"/>
-        <updated>2021-07-28T23:06:49.000Z</updated>
-        <summary type="html"><![CDATA[中科院物理所，没错，我就是那个物理所。
-
-看似简单的问题其实里面其实包含了非惯性参考系、流体力学等方面的知识。
-
-在开始正式推导之前，先摆出我们的结论。在一直加速的列车厢内，蚊子只保持悬浮状态的话确实是会甩到车后！只要车厢够长，蚊子就会相对车厢向车厢后做匀速运动。
-具体的约束条件还有一些推论，比如：“蚊子的受力是怎样的？”、“蚊子什么情况下会撞在车厢前壁？”、“如果车厢被我们抽成真空，会有什么不同？”等，我们会在后续的推导中进行阐述。
-问题背景（Background）
-这不放暑假了，当各位小伙伴搭上回家的公交车、地铁甚至高铁，拿出手机，开始安心的进入坐享行程模式时。有可能你会遇到这种情况，我的天，高铁上竟然也有蚊子？你会不会瞬间带上痛苦面具，露出下面的表情？
-
-不过速度为
-
-的高铁上的蚊子，此时岂不是正在以
-
-的速度相对于地面运动？
-了解相对性原理的同学，肯定能知道这只是参考系的问题。车厢，车厢内的空气和蚊子，相对静止，以车厢为参考系，蚊子在车厢内就如“飞”平地。匀速阶段也不用解释太多。
-好奇的同学就问了，蚊子从一开始相对地面静止是如何加速到
-
-的速度呢？（虽然这个速度很大，但是实际上在加速阶段，高铁的平均加速度只有约
-
-，并不算很大）
-在加速阶段，如果蚊子是在车厢内部固定表面作以停留，摩擦力做功，蚊子跟着高铁一起加速，也就和高铁轻松地达到相同的速度，就和坐在列车上的乘客一样。
-
-猜大家点进来也不是只想看这样的结论，老师说过“做物理题一定要揣摩出题人的意图。”大家想知道的肯定是下面的内容——车厢内悬空的蚊子是如何加速到和高铁相同速度的？接下来，我们主要从定性的角度出发来解释这些问题。
-NO. 1 车厢内悬空的蚊子是如何加速到和高铁相同速度的？
-为了阻止可恨的蚊子和我们保持同样的速度。假设我们在车厢内部的每个角落都抹上了一种超润滑的物质，让蚊子根本不能“搭便车”，否则就要在车…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样写一封得体的电子邮件？]]></title>
-        <id>https://daily.zhihu.com/story/9738575</id>
-        <link href="https://daily.zhihu.com/story/9738575"/>
-        <updated>2021-07-28T23:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Doktor Helios，瑞士ETH博士 | 新能源 | 玩过科研/混过券商/爱过猹
-阅读原文
-
-算起来从本科毕设开始到博士毕业，混迹学术圈也有 8 年了，感觉国内大家一般对邮件礼仪都不太重视。当大家开始有出国，陶瓷教授，去外企工作等等的需求，一封得体的邮件，能大大增加回复的概率，写的乱七八糟不知所云看的生气的，要是谁看到，一般大家也懒得回复。
-读博，出国，外企工作的同学都可以参考。废话不多说，直接上干货！
-得体的邮箱选择 & 邮箱命名规则
-之前的回答已经非常详细了，戳这里：
-什么样的邮箱名才是最主流，最正式的？
-英文邮件抄送和密送的礼仪：
-正规来说，一般邮件如果涉及到多人，在沟通中需要把直接沟通对象放在收件人一栏，然后相关人放在 cc 一栏里。在后面的沟通中，回复的时候仍然要 cc 给大家，keep everyone on the same page 很重要。
-案例：比如申请时，写给大教授的邮件，有的时候网站会说请先联系秘书，这样有需要可以抄送给秘书一份。或者跟秘书沟通一些需要教授确认的信息时，抄送给教授一份。
-英文邮件标题：
-这是最容易被忽略的，很多人发的邮件忘记标题，整个一个大无语给到懵逼收件人。好的标题应该写清楚邮件内容到底是什么，或者目的是什么。（法外狂徒张三又来角色扮演了！
-询问有没有 PhD 职位开放: 
-"San Zhang | Inquiry of PhD position in Computer Science at ETH Zürich "
-直接提交材料申请 PhD:
-"San Zhang | Application for PhD position in Computer Science at ETH Zürich "
-如果是有 open position 的，一般网页上会有个职位的 Reference Number，请放进来便于沟通：
-"San …]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9738603</id>
-        <link href="https://daily.zhihu.com/story/9738603"/>
-        <updated>2021-07-28T23:06:36.000Z</updated>
-        <summary type="html"><![CDATA[女生貌美家穷是种怎样的体验？
-
-Mr.Le，当过律师的程序员
-阅读原文
-
-你农村的亲戚每年过年都会过来都会把他们那些没有本事的儿子介绍给你
-阅读原文
-
-有哪些信号表明女生对你没意思？
-
-麻雀之歌，一切有相，皆是虚妄
-阅读原文
-
-只要没有明确地叫我滚就是对我有意思。
-阅读原文
-
-你会相信前世今生吗？
-
-狍儿扎
-阅读原文
-
-我妈一直坚信我的前世是我姥爷养的一头猪。因为我姥爷有一天晚上做了一个梦，梦里他在杀猪，然后有一头猪就哭着说别杀我，我要去找我妈妈，然后他就醒了，一醒就接到电话说我妈送产房里去了，然后就有了我，从此他们都深信不疑我前世是猪
-
-
-
-阅读原文
-
-遇到插队怎么办?
-
-知乎用户
-阅读原文
-
-有次买奶茶，玩着手机，忽然跑来一女生排我前面。
-我：“诶 这么巧啊，你也来买东西 ，对了 这些年...你过的还好吗 和他...快结婚了吧，以后记得照顾好自己哦~”
- 
-我：“不认识你插什么队，滚后面去！”
-阅读原文
-
-如何看待俄罗斯女运动员戴游戏《巫师》猫学派项链夺得奥运会女子十米气手枪金牌，曾带狼学派项链夺亚军？
-
-willbemyrewarder，留学狗ing数学物理major日语minor，兼职画画
-阅读原文
-
-维塔琳娜沉默地盯着不远处的靶心，指尖轻轻搭在板机上。对上身旁另一双闪烁却无情的眼睛，她回忆起曾经一次次把靶子一枪蹦飞的场景，那漫长而艰苦的日子，十几个冬天十几个夏天，对精灵来说也不算很长，对人类而言却是冗长而枯燥的岁月。维塔琳娜·巴萨拉什基娜 - 这位预言中的气枪之女 - 微微点了点头，她不记得这是多少次她即将扣动扳机，但至少几十年后她依旧记得今天的这发子弹。
-现在在这张年轻的脸上，焰火在她眼中燃烧着。Va'esse deireadh aep eigean……有些事情即将结束。昨夜梦中的人对她这么说道。如果，如果我成功了，我会立刻回到原本那个地方，打几局昆特牌，然后瘫倒在床上，他们会为我欢呼，吟游诗人也会为我而唱，我也再也不用为了五十克朗发愁。而现在，该死的，我得集中精神。
-她扣动了扳机。
-“要杀死自己，你需要个性、力量、决心和勇气。”
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
-        <id>https://css-tricks.com/?p=345404</id>
-        <link href="https://css-tricks.com/safari-15-opinions/"/>
-        <updated>2021-07-28T20:21:55.000Z</updated>
-        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
-The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
-        <id>https://css-tricks.com/?p=320544</id>
-        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
-        <updated>2021-07-28T14:37:34.000Z</updated>
-        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
-The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ana Tudor</name>
         </author>
     </entry>
 </feed>
