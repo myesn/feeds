@@ -2,10 +2,305 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-29T01:09:43.605Z</updated>
+    <updated>2021-08-30T01:06:16.696Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MySQL 各大版本新特性一览]]></title>
+        <id>https://toutiao.io/k/zwdkifq</id>
+        <link href="https://toutiao.io/k/zwdkifq"/>
+        <updated>2021-08-30T01:06:16.661Z</updated>
+        <summary type="html"><![CDATA[面试翻一翻，和面试官就有更多话聊了~]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回炉重铸， 91 天见证不一样的自己（第五期）]]></title>
+        <id>https://toutiao.io/k/7m3snpp</id>
+        <link href="https://toutiao.io/k/7m3snpp"/>
+        <updated>2021-08-30T01:06:14.628Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Go 整洁架构模版，建议收藏]]></title>
+        <id>https://toutiao.io/k/e4uv4is</id>
+        <link href="https://toutiao.io/k/e4uv4is"/>
+        <updated>2021-08-30T01:06:14.536Z</updated>
+        <summary type="html"><![CDATA[我是一只可爱的土拨鼠，专注于分享 Go 职场、招聘和求职，解 Gopher 之忧！欢迎关注我。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编程是门手艺，手写解析器：提升编程能力]]></title>
+        <id>https://toutiao.io/k/ovm7z66</id>
+        <link href="https://toutiao.io/k/ovm7z66"/>
+        <updated>2021-08-30T01:06:14.374Z</updated>
+        <summary type="html"><![CDATA[什么是解析解析是将输入根据要求运算出结果。比如将四则表达式\x26quot;1 + 2\x26quot;运算出3。解析是很常见的需求，特别是]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 学习之路上的 “路障” 太坑了]]></title>
+        <id>https://toutiao.io/k/sai5fa1</id>
+        <link href="https://toutiao.io/k/sai5fa1"/>
+        <updated>2021-08-30T01:06:14.268Z</updated>
+        <summary type="html"><![CDATA[选对方向，少走弯路]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈工作中常用应用软件本地 docker 化，一键部署它不香吗？]]></title>
+        <id>https://toutiao.io/k/epu1m0p</id>
+        <link href="https://toutiao.io/k/epu1m0p"/>
+        <updated>2021-08-30T01:06:13.960Z</updated>
+        <summary type="html"><![CDATA[工欲善其事必先利其器，本地服务一键启动部署方案。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成为高效工程师的四步法则]]></title>
+        <id>https://toutiao.io/k/1xldt8h</id>
+        <link href="https://toutiao.io/k/1xldt8h"/>
+        <updated>2021-08-30T01:06:13.870Z</updated>
+        <summary type="html"><![CDATA[成为高效工程师并不只是具有很好的代码和架构能力，而是要能够站在业务、用户的角度理解自己所做的产品，让技术成为业务价值的基石，并能够不断扩大自己的影响力，通过撬动更多的资源提升整个团队的效能。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 2.3 万 Star 的国产装机神器，制作可启动 U 盘]]></title>
+        <id>https://toutiao.io/k/oloat5s</id>
+        <link href="https://toutiao.io/k/oloat5s"/>
+        <updated>2021-08-30T01:06:11.934Z</updated>
+        <summary type="html"><![CDATA[简介通过可启动的 U 盘装机，是一部分人喜欢纯净部署新系统熟悉的方法。 此类工具主要包括借助 WinPE、老毛桃、UltraISO 等软件，或者专门的 U 盘量产工具。 今天给大家介绍一款同类新工具 Ventoy，是国内开发者 l…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mdebug 基于 React 开发的 web 调试工具]]></title>
+        <id>https://toutiao.io/k/rlcbuqs</id>
+        <link href="https://toutiao.io/k/rlcbuqs"/>
+        <updated>2021-08-30T01:06:10.896Z</updated>
+        <summary type="html"><![CDATA[基于React开发的移动web调试工具项目地址:https://github.com/tnfe/mdebug      简单易用    功能全面    易扩展    高性能        使用cdn方式,一键接入    类Chrome devtools, 支持日志,网络,存储,性能等, 具有更好的网络捕获能力和丰富的日志展现形式    暴露内部丰富的事件, ...]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何知道谁在 ping 我？]]></title>
+        <id>https://toutiao.io/k/jz7xdhl</id>
+        <link href="https://toutiao.io/k/jz7xdhl"/>
+        <updated>2021-08-30T01:06:10.509Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸡蛋有哪些方便又好吃的做法？]]></title>
+        <id>https://daily.zhihu.com/story/9739716</id>
+        <link href="https://daily.zhihu.com/story/9739716"/>
+        <updated>2021-08-29T23:08:55.000Z</updated>
+        <summary type="html"><![CDATA[菜菜美食日记，江湖人称“菜三碗” ，三碗，不是饭量，是态度呐~
+阅读原文
+
+小时候被蛋黄噎到，导致我从此水煮蛋 PTSD。
+再度打开这个结界，是在日料店吃拉面时，吃到的一枚溏心蛋。
+软嫩的蛋白里，兜满了绵软香滑的溏心，在凝固和流体之间还附上了一层胶质，又嫩又滑又有滋味。
+啊，这是什么梦幻水煮蛋！
+
+后来，水煮蛋终于再度回归我的餐桌。
+其实水煮蛋算是鸡蛋的最佳烹饪方法，可以保持 99%以上的营养成分。
+而且，它的做法极简单，不同的熟度，会呈现出截然不同的风味。
+
+多做一两步，早餐里最暗淡不起眼的它，还能一秒变身为餐桌上的主角。
+能搞定挑食的小朋友，也是你减脂路上的好帮手。
+
+为了吃到一枚合我心意的水煮蛋，我曾经认真研究过煮鸡蛋的各个环节；
+为了让水煮蛋更好吃，我还研究过不少进阶吃法。
+今天就给大家奉上我的研究成果，觉得有用，记得点赞、收藏、关注哦～
+
+01 如何煮出一枚完美的水煮蛋？
+煮蛋说起来还是挺简单的，放水、放蛋，开火、关火——可以说有手就会做。
+但妙就妙在，不同的时间，煮出来的蛋，口感是完全不同的。
+请看我的最新实验结果（水沸后，置入常温蛋，开始计时）：
+
+一般来说，5-6 分钟大概是溏心蛋，蛋白柔软有弹性，蛋黄流心；
+7-8 分钟，蛋黄已经基本凝固，带一点柔软的芯，吃起来不干不噎；
+9 分钟蛋黄就有点干了，吃起来可能会有点噎。
+
+一个小技巧：煮好的鸡蛋在冷水里浸泡一下，蛋白遇冷收缩，会更容易剥壳哦。
+
+至于熟度的选择，主要是看个人选择了。
+煮蛋时间的长短，对于鸡蛋营养成分的影响不大。
+之前看到有人说，鸡蛋煮太久，蛋黄外层颜色会变深发青，这样的鸡蛋会影响消化、造成肠炎之类的。
+
+其实并不会！
+这是鸡蛋在高温烹煮下，产生的硫化亚铁，并不会对人体产生有害影响。
+
+不过有一点还是要格外注意，普通鸡蛋，尤其是受大家追捧的“土鸡蛋”，因为饲养方式的原因，可能存在沙门氏菌，吃的时…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文静女生如何通过校招的无领导小组？]]></title>
+        <id>https://daily.zhihu.com/story/9739701</id>
+        <link href="https://daily.zhihu.com/story/9739701"/>
+        <updated>2021-08-29T23:08:45.000Z</updated>
+        <summary type="html"><![CDATA[二船，不断拓宽自我边界
+阅读原文
+
+无领导小组并不是要你把组员和伙伴当做对手，而是大家作为一个 team 完成面试官给的任务。无领导小组有时真的需要点运气，要看你和你的队友气场和不和。气场不和，小组时间把控不到位、没有形成解决方案，整个小组团灭也非常有可能。
+切记：你们是一个团队，团结协作解决问题才最重要，不需要过于纠结谁承担了什么角色。
+今天这篇主要想分享一些我个人看来的“误区”。
+无领导小组一般有以下角色：
+领导者：把握讨论方向、促进有效讨论；
+计时：调整分配时间、提醒时间进度；
+总结：总结小组讨论成果，清晰流畅的阐述结论；
+观点提供：有比较丰富的经验或是创意，提出关键性方法；
+协调：组内意见不统一时协调双方矛盾，促进形成统一结论；
+首个发言：破冰，敢于表达想法。
+01 计时就是最好的选择吗？
+我看到的一些经验贴会建议：无领导小组最妥帖的角色就是计时员，既能合情合理的说上话，又不至于当最出风头的那一个。以至于一场群面刚开始，发下题目后组内几个人争着要当 time keeper。甚至有建议会说，参加群面时一定要戴手表。
+在我看来真的没有必要，在群面管理要求不太严格的情况下，带手机也没问题，用 siri 就能计时，为什么一定要耗费团队的人力专门有人去计时？在讨论中大家多多贡献想法、推动解决方案形成，才是最重要的。
+02 如果小组其他人过于强势，就索性放弃？
+我想题主就遇到了类似的情况，无领导小组讨论时其他人过于强势，自己发言被打断，说话声音又比较小，无法引起注意。如果是多次在表达观点时被打断，可以举手向面试官示意，引起大家的注意。只要你的发言时有理有据的，有助于问题解决的，完全可以义正言辞、理直气壮请大家听你说完。
+无领导小组讨论也是在模拟实际工作中的场景，在职场中我们不能因为自己声音小、没有被注意到就索性放弃自己表达的权利。在群面中，不怕一位同学过于自信说话太多，而是怕没有存在感。不仅面试官对你没有印象，自己面试结束后也会不甘心。
+03 不要做第一个发言的人？
+一般计时同学会在一开始说：我们话 x 分钟读题，然后从 xx 开始，每人 x 分钟轮流简述自己的想法。
+这样的计时员一般是比较靠谱的，但不保证组内会有比较跳的同学，几秒钟就看完题开始大波输出。这样的输出虽然很快，但并不代表就是逻辑清晰、表达准确的。（往往会是比较啰嗦的车轱辘话）。这时候如果组内能有人出来一两句话总结了观点，并点到请其他人轮流发言，那么基本是会被认为承担了 leader 角色。
+04 不要当那个总结的人？非常容易丢人？
+根据我的观察，组内贡献点子、组织大家发言的人，往往是没什么时间好好记笔记的，而讨论中话不太多的人往往都在花时间记笔记。对于总结者而言，有一个发言大纲是非常必要的辅助工具。所以如果你在讨论时没怎么说话，可以选择踏实记笔记，争取做最后总结发言。
+当然，如果你觉得自己表达能力不太好，你们推举了小组 leader 总结，你也可以大方的提出：我地笔记记得很全，你可以参考。
+还是那句话，你们小组是一个团队，大家在各自擅长的部分作出贡献，保证最终有一个好的结果呈现时最重要的。
+这样一个和谐的小组，整组晋级也不是没可能。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汉藏语系各大分支的类型学特点有哪些？]]></title>
+        <id>https://daily.zhihu.com/story/9739699</id>
+        <link href="https://daily.zhihu.com/story/9739699"/>
+        <updated>2021-08-29T23:08:39.000Z</updated>
+        <summary type="html"><![CDATA[小云哥哥，语言学男博士，专门研究汉藏语系的语言
+阅读原文
+
+这个问题有点儿大，真正要介绍可能得好几本书才能说完 。从科普的角度，我希望可以既不泛泛而谈，又不进入太多无聊的细节。我先从概貌说起吧。
+汉藏语系的语言确实在类型学上非常丰富。实际上我们只要比较两个极端，就可以看出同为汉藏语系的语言，在类型学上有多么不同。
+嘉绒语茶堡话的前缀系统相当复杂（可以在这篇文章中进一步了解）。比如说，我们在茶堡话中可以得到带有八个甚至更多前缀的动词[1]：
+a-mɤ-ɕ-tɤ-tɯ́-wɣ-z-nɯ-snɯ-ɲaʁ ra
+IRR-NEG-TRANSLOC-PFV-2-INV-CAUS-DENOM- 心 - 黑 需要
+但愿不要让他跑去对你不安好心！
+茶堡话的例子中，除了我们能用汉语翻译出的词素，如否定，关联位移（“去”），人称等等，还有一些必须存在的，但汉语不一定需要翻译的词素，比如 IRR（未然）、PFV（完整体）、INV（反向）等词素。这些都是汉语母语人学习茶堡话时的难点。
+我们再看一下典型的孤立语，缅语的例子[2]。
+hsaya pyoː h̠t̠a hman me
+老师 说 NOM 真 RLS
+老师所说的应该是真的。
+缅语的例子中，基本上所有的词素都有汉语的对应。跟汉语一样，它不需要再动词上加任何时体态标记。
+除了肉眼能从句子上看出的形态区别，我们也要注意到缅语是有词汇声调（lexical tone）语言，跟汉语一样，它的音节有预先设定好的、可以区别意义的声调。然而茶堡话却是一个没有声调的语言，只在偶尔的情况下有语法上的重音。
+我们可以发现， 茶堡话和缅语分别在形态句法上和声调系统上走了两个极端，一个形态极其复杂， 另一个几乎没有形态；一个不具备声调，另一个声调系统完备。然而就是这两种极端不同的语言，居然在汉藏语的分支上有着较为相近的发生学关系。按照 Sagart et al (201…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待《扫黑风暴》大江的结局？]]></title>
+        <id>https://daily.zhihu.com/story/9739706</id>
+        <link href="https://daily.zhihu.com/story/9739706"/>
+        <updated>2021-08-29T23:08:29.000Z</updated>
+        <summary type="html"><![CDATA[苏可
+阅读原文
+
+哈喽！我是《扫黑风暴》大江的扮演者苏可，绿藤市民请多指教！
+《扫黑风暴》已经接近尾声了，感谢大家对于我们这部剧集的喜欢和厚爱，感谢大家喜欢大江的人物，很开心看到大家对于大江这个角色有一些讨论，看着大家的评价，作为演员很开心。Thank you!
+这次来到知乎，也希望跟大家交流一下我对大江结局和大江这个人物的解读！希望可以跟绿藤市民们 talk 起来！
+【如何看待大江的结局】
+大江的结局很凄美，但是也是重于泰山，他在最后一刻在保护着邢凡自己心爱的女孩，也牢记着阳阳交给他的使命，虽然说有些遗憾，但是也算是大江这个人物的圆满。
+【怎么接触到的大江这个角色】
+能出演这个角色，首先要感谢我的“阳阳”红雷哥，我跟红雷哥是中戏的校友，私底下关系也很好。在《扫黑风暴》筹拍的时候，红雷哥给我打电话说，他要参与《扫黑风暴》有个角色很适合我，我愿不愿愿意来，没看剧本我就答应了，一是我也希望能为扫黑除恶贡献自己的一份力量；另外就是红雷哥自己都演了，他对剧本要求很严格，能够参与这样的项目，也是我自己的荣幸。
+在此之前，我们两个还合作过《一代枭雄》，那部剧我们是相爱相杀的关系，但这部剧就是兄弟情，大江愿意为阳阳两肋插刀。也是多年之后我们再次携手演戏，很感谢红雷哥的推荐。
+【大江为什么喊李成阳“阳阳”】
+很多网友对于我喊李成阳“阳阳”一直很疑惑，这个其实也是我们在片场交流出来，后来演戏的时候就自然也喊出来了。
+首先，李成阳和大江是多年的兄弟，两个人很早就认识，大江跟着李成阳闯江湖，一起同甘共苦，如果喊他成阳的话，显得很生疏，后来我们两个在片场就商量了下，说就喊阳阳吧，这种亲昵的称呼，也是为了丰富大江这个人物，同时也能使大江这个人性格更立体感一些，这个称呼加上大江的塑料英语还有每次见到邢凡就跑这样的设定，使得大江这个人物外在看起来很憨厚很可爱。
+【大江为什么要学英语】
+现在观众提起来大江就会想到他的英语，甚至现在跟朋友见面他们都会让我展示下大江塑料英语，也正是因为英语让更多的人能够喜欢大江这个角色。
+刚播前几集的时候，还有网友说，大江说英语不会是为了靠近马帅一家人吧，因为马帅的女儿一直在缠着李成阳讲英文故事，其实不是。因为剧集的原因其实大江的身世大家不太知道，他是一个孤儿，没怎么上过学，没什么文化，但他也在考虑自己的未来，他其实是一个很上进心的人，他对自己的未来抱有很高的期望，他希望学英语对未来有帮助，他甚至在展望有了孩子之后，自己也可以较孩子英语，这个其实也是大江看到马帅家女儿学英语之后的启发，这些都是剧集里的细节，需要大家不断去看才会发现的。
+【大江保温杯 CP 的设定】
+大江的爱情线和邢凡这个人物都是后来现加入的。剧中是一种倒序的方式。其实大江和邢凡几年前在一起谈恋爱了，是一对甜蜜的情侣，有一次邢凡买情侣保温杯，给大江寄错了颜色，大江开始还挺高兴，收到打开一看是粉色的，但邢凡说：你就凑合用吧。
+碰巧这个时候黑社会找上门，因为大江举报了他们在歌厅卖摇头丸的事情，大江的脸也是那个时候被黑社会用酒瓶划花的。从那天开始大江再也没联系过邢凡，邢凡也找不到大江了。大江这样做，一是因为自己破相了，二是担心连累邢凡。
+这也是为什么李成阳和大江第一次碰见邢凡的时候，大江落荒而逃的原因。而那个保温杯就成了大江对邢凡的念想，走到哪都不离手，想邢凡的时候，他就看那个保温杯。
+但是随着李成阳的撮合和与邢凡的再次相遇，大江也开始慢慢放下自己心中的芥蒂，大江后来又开始犯欠，一会送个暖宝宝，一会抛个媚眼，最后还在人家脑门上亲了一口。其实他俩本身就是相爱的。
+并且这个保温杯上有很多坑，其实也是为了凸显，大江这个保温杯有些年头的故事了。
+【用几个词形容大江】
+重情、钟情吧。
+希望大家能够继续喜欢《扫黑风暴》多多支持我们这部剧！虽然大江下线了，但是我还会继续陪绿藤市民们一起追剧！
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9739723</id>
+        <link href="https://daily.zhihu.com/story/9739723"/>
+        <updated>2021-08-29T23:08:21.000Z</updated>
+        <summary type="html"><![CDATA[谁能受得了不做家务不做饭不洗碗的女生？
+
+孙承志，影视工作者
+阅读原文
+
+她的家人
+阅读原文
+
+为什么Windows系统没有9却有11？
+
+Haswell丶
+阅读原文
+
+因为 win9 斩华雄去了
+阅读原文
+
+郑爽偷税事件后，郑爽公司的财务或会计有参与吗，他们会进监狱吗?
+
+诗与星空，以财报为核心的上市公司分析及商业研究
+阅读原文
+
+这个人这么抠门
+我都怀疑她没请会计
+阅读原文
+
+曼联官宣 36 岁的 C 罗回归球队，如何评价这次转会？他会在曼联退役吗？
+
+啊啥都去弄，我
+阅读原文
+
+一觉醒来，C 罗还在曼联，梅西还陪着内马尔，卢卡库还待在切尔西，安切洛蒂还执教皇马，阿森纳还排名……哦，倒数第 2 了。 ​​​
+阅读原文
+
+考上协和是一种怎样的体验？
+
+KellyWeaver，公共卫生 / 心血管流行病学
+阅读原文
+
+以前本科还在华西的时候，我坐在电脑面前工作，我妈也不会看我在干嘛，就直接说：「一天到晚不好好学习！就晓得耍！」，我爸还会附和说：「就不该给你买这么好的电脑，荒废学习！」
+今年我考上协和的博士了，培养单位是阜外医院这个世界一流的心血管病研究机构。我坐在电脑面前刷知乎，我妈也不会看我在干嘛，就直接说：「哎呀，科研还是辛苦哒，喝不喝热蜂蜜水？妈妈给你兑一杯～」，我爸还会附和说：「电脑慢不慢？我看 xx 新出的那款三万块的电脑好像还有点安逸诶，要不要老汉儿给你买一个？」
+以上，这就是考上协和的体验(´▽｀)
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Flink Hudi 构建流式数据湖]]></title>
         <id>https://toutiao.io/k/y1h8d0o</id>
@@ -332,6 +627,15 @@
 如果你喜欢红色，那就去大肆喜欢红色，并且向全世界宣传红颜色的好就 OK。而不是选择一个自己十分讨厌的蓝色，整天花费时间去辱骂蓝色的不好，攻击那些喜欢蓝色的人，还发誓要让天下人都知道自己不…]]></summary>
         <author>
             <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 实现并发的几种方式]]></title>
+        <id>https://toutiao.io/k/2vm24gc</id>
+        <link href="https://toutiao.io/k/2vm24gc"/>
+        <updated>2021-08-28T15:26:09.000Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
         </author>
     </entry>
     <entry>
@@ -11530,282 +11834,6 @@ Seeker：跑鞋博主整理万字跑鞋选购攻略（2021 年 7 月更新）
 第一个版本是在开发几个月时候在tap上测试的，这是一个完全创新，又有些“放飞自我“的版本。我记得几个月前和模电一起吃饭，临走时候他和我说，第一个版本是他最喜欢的版本。我不想对此发表我的想法，但是我理解他的意思。那是一个纯粹的tetis粉丝版本，那个版本有点小众。我记得当时每天都在看玩家的反馈，每晚到凌晨还在看玩家在世界频道说什么。总结来说，那个版本偏难。手感也有很多问题，如果是经常接触现代俄罗斯方块的玩家会觉得难度刚刚好，且他们对我们游戏当时的操作有很高的包容性。但是对于绝大多数新玩家来说，游戏的关卡设计太偏向解密性质了，而且那个版本当时还没来及做充足的新手指引。这让很多玩家在前期关卡卡住而消失。测试…]]></summary>
         <author>
             <name>Poly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Vibes In August (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/</id>
-        <link href="https://smashingmagazine.com/2021/07/desktop-wallpaper-calendars-august-2021/"/>
-        <updated>2021-07-31T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[New month, new wallpapers! In this post, you’ll find unique and inspiring wallpapers for August 2021. Created with love by the community for the community, they come in versions with and without a calendar for the month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020 东京奥运田径男子 10000 米埃塞俄比亚选手巴雷加夺得田径首金，如何评价本场比赛？]]></title>
-        <id>http://www.zhihu.com/question/476149568/answer/2029677017</id>
-        <link href="http://www.zhihu.com/question/476149568/answer/2029677017?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-07-31T06:30:08.000Z</updated>
-        <summary type="html"><![CDATA[21岁的塞勒蒙·巴雷加（Selemon BAREGA）捍卫了曾经格布雷塞拉西耶、贝克勒的荣耀！
-27分43秒22的冠军成绩成绩并不算快，但对很多赛前预估者来说，当打之年的切普特盖的落败，还是算得上是一个小冷门？
-埃塞俄比亚队最后几百米的战术相当成功。
-万米世界纪录保持者，24岁的约书亚·切普特盖27分43秒6拿到银牌，其实他今年万米跑的并不多（也不算太亮眼），这个成绩依然SB（赛季最佳）了，只可惜他今天在埃塞军团的夹击下最后也是无力反超。
-
-
-
-
-
-
-长跑算是比较垂直关注的领域了，就多说说——
-
-东京奥运会万米前瞻
-万米决赛现场回顾
-赛后复盘
-
-
-
-
-
-东京奥运会万米前瞻
-10000米在奥运会的径赛里一直是非常重要且传奇的项目——历史上几乎所有长跑领域的传奇选手，都拿到过奥运会万米的金牌。
-其中最为传奇的几位，还都拿到过至少两次。
-
-
-比如上古时期的“芬兰飞人” 帕沃·努尔米（1920/1928）和拉瑟维纶（1972/1976）、上古传奇纳米尔·扎托佩克（1948/1952）、“长跑皇帝”格布雷塞拉西耶（1996/2000）、肯尼萨·贝克勒（2004/2008）、莫法拉（2012/2016）——努尔米、扎托佩克、老格、贝克勒等，几乎都是长跑领域某段时期GOAT的人选。
-所以奥运会的万米比赛，和历史级的长跑超级巨星，某种程度上相互成就。
-这是最耀眼的舞台，也有着最耀眼的选手。
- 最近几年冒出来的约书亚·切普特盖（Joshua Cheptegei）势头很猛，也几乎把长跑径赛和路跑的各种纪录拿到手软，很多人都把他当做老格和贝克勒的接班人（想一想这是怎样的褒奖）。
-
-
-2016年里约奥运会切普特盖才19岁毕竟太年轻，当时5000米第8、10000米第6，只能算少年初体验。当时比赛中有几个细节，包括莫法拉的反超，相信对切普特盖来说是很生动的现场教学了…… 然后今年莫法拉廉颇老矣，虽然…]]></summary>
-        <author>
-            <name>运动分子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端单元测试技术方案总结]]></title>
-        <id>https://toutiao.io/k/7iqle6u</id>
-        <link href="https://toutiao.io/k/7iqle6u"/>
-        <updated>2021-07-31T01:07:19.642Z</updated>
-        <summary type="html"><![CDATA[单元测试的技术方案很多，不同工具之间有互相协同，也存在功能重合，给我们搭配测试方案带来不小的困难，而且随着 ES6, TypeScript 的出现，单元测试又增加了很多其他步骤，完整配置起来往往需要很大的时间成本。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高 iOS 云真机稳定性的方法（二）]]></title>
-        <id>https://toutiao.io/k/qn9b3pi</id>
-        <link href="https://toutiao.io/k/qn9b3pi"/>
-        <updated>2021-07-31T01:07:19.203Z</updated>
-        <summary type="html"><![CDATA[提高iOS云真机的稳定性方法之手机环境设置篇]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.17 新特性之切片变数组]]></title>
-        <id>https://toutiao.io/k/1vbt1bz</id>
-        <link href="https://toutiao.io/k/1vbt1bz"/>
-        <updated>2021-07-31T01:07:19.120Z</updated>
-        <summary type="html"><![CDATA[按计划，Go 1.17 会在 2021 年 8 月发布]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了不起的 Chrome 浏览器（四）：Chrome 92 新增 at 和 randomUUID 方法，Canvas 支持 Display P3 色域]]></title>
-        <id>https://toutiao.io/k/a333hks</id>
-        <link href="https://toutiao.io/k/a333hks"/>
-        <updated>2021-07-31T01:07:19.046Z</updated>
-        <summary type="html"><![CDATA[Chrome 92有哪些新特性？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactive Spring 实战：响应式 MySQL 交互]]></title>
-        <id>https://toutiao.io/k/eqigqry</id>
-        <link href="https://toutiao.io/k/eqigqry"/>
-        <updated>2021-07-31T01:07:18.967Z</updated>
-        <summary type="html"><![CDATA[本文与大家探讨Spring中如何实现MySql响应式交互。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FPGA 双向口的使用及 Verilog 实现]]></title>
-        <id>https://toutiao.io/k/khm01t3</id>
-        <link href="https://toutiao.io/k/khm01t3"/>
-        <updated>2021-07-31T01:07:15.927Z</updated>
-        <summary type="html"><![CDATA[FPGA的双向口在FPGA的设计应用中使用及其广泛，如I2C接口中的SDA，3线制的SPI接口中的数据线，传统控制总线中的数据总线，以及内存的访问DDR3/DDR4的数据总线等都是双向访问的。双向访问涉及到的概念比较多，如三…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uni-app 踩坑小记]]></title>
-        <id>https://toutiao.io/k/n9nwipg</id>
-        <link href="https://toutiao.io/k/n9nwipg"/>
-        <updated>2021-07-31T01:07:15.667Z</updated>
-        <summary type="html"><![CDATA[这里记录一些使用 uni-app 和 uView 开发时踩过的坑，希望能对后来者有所帮助。
-
-1. 微信开发者工具关闭 ES6 转 ES5
-如果微信开发者工具开启了 ES6 转 ES5 的功能，会导致引入的 uView 组件无法正常使用，会报类似于下面这样的错：
-
-![](https://gd4ark-1258805822.cos.ap-guangzhou.myqcloud.com/im ...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么蛇要把腿进化掉，用肚子行走？]]></title>
-        <id>https://daily.zhihu.com/story/9738668</id>
-        <link href="https://daily.zhihu.com/story/9738668"/>
-        <updated>2021-07-30T23:07:10.000Z</updated>
-        <summary type="html"><![CDATA[博物杂志
-阅读原文
-
-蛇：没腿的蜥蜴
-在全球大约 1.1 万种现存爬行动物中，蛇的种类约占 1/3，和蜥蜴联手则可砍下超过 95%的物种——这个“联手”可不是乱联的，蛇和蜥蜴关系很密切。它们俩同属于“鳞龙类”，在 2 亿多年前的三叠纪有共同祖先。
-而按照如今分类，蛇和蜥蜴不是并列的两个类群，而应该说蛇就是一类没有腿的蜥蜴！
-鳞龙类大致分类树，蛇类属于蜥蜴中的一支
-但不能说，没有四肢的蜥蜴就是蛇——蜥蜴里面也有没腿的，比如某些种类的蛇蜥。区分蛇和其他蜥蜴的关键，不是看腿，而是蜥蜴有眼睑、能眨眼，蛇却不行（具体原因后面说）。
-既然蛇是一类蜥蜴，就说明它们原本有四肢，只是由于某种原因退化掉了。那么，会是什么原因呢？
-水里游，还是地里钻？
-由于长期缺乏原始蛇类化石，对于蛇类为何失去四肢，古生物学家曾提出两种假说：
-水生说：认为蛇类的祖先有过一个水生阶段，在水里游泳四肢用不上，就退化了。有些身体细长的水栖蝾螈没有腿，另外蛇类的近亲——白垩纪海洋霸主沧龙也是水生，可作为佐证。
-地生说：认为蛇类的祖先曾像蚯蚓一样在地下打洞生活，从而失去四肢。今天的蚓蜥、盲蛇等就有类似习性，在地下掘土捕虫为生。
-钩盲蛇（Ramphotyphlops braminus）主要在森林落叶层和地下生活，外表和大小都像蚯蚓，眼睛隐于鳞片之下。
-所幸 20 世纪末以来，越来越多的原始蛇类化石出土，逐步揭晓了蛇类起源的秘密。已知最早的蛇类，是距今 1.67 亿年前（中侏罗世）的黎明蛇（Eophis）。它的头骨、牙齿结构已大致具备了蛇的特征，但由于化石不完整，还不能确认它有没有腿。
-侏罗纪原始蛇类——小盗蛇（Parviraptor，上）、葡萄牙蛇（Portugalophis，中）以及现代蟒（下）的颌骨对比。原始四腿蛇吃小兽的模拟图
-2015 年，科学家发表了第一种能确认的四条腿古蛇——就叫“四足蛇”（Tetrapodop…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么抖音上红的大多数是口水歌？]]></title>
-        <id>https://daily.zhihu.com/story/9738681</id>
-        <link href="https://daily.zhihu.com/story/9738681"/>
-        <updated>2021-07-30T23:07:01.000Z</updated>
-        <summary type="html"><![CDATA[周雨思Yusi，知名音乐博主；音乐审美通识教育践行者
-阅读原文
-
-生活在网络时代，大概没有人能躲得过抖音上的“洗脑神曲”。即便很多歌曲欣赏不来，但这样的旋律像有魔性一样，总会往脑海里钻。随着短视频平台的普及，这样红起来的洗脑口水歌确实越来越多，不禁让人们产生好奇：这些洗脑神曲是不是像“爽文套路”一样可以省力地批量复制？
-先来说明，“洗脑”其实并非是一个贬义词，而是一个非常常见的现象。
-在科学上，“洗脑”有一个相对应的词叫做：耳虫。就是指歌曲或其他音乐作品的某个片段不由自主地反复在脑子里出现的情况。
-耳虫现象的发生，通常是在经过高频率的信息刺激与被动记忆之后，一旦有一些提取的线索出现，就会自动触发相关信息，旋律不受控制地在脑海里重复。
-比如国庆期间，大家频繁地听到《我和我的祖国》，于是也被这首歌的旋律深深洗脑。
-
-发现没有？并非只有神曲才有洗脑效果，其他音乐作品中的旋律同样能有让人上瘾的可能性。
-Justin Bieber 这首《baby》一度风靡全球，很多人完全不懂英文，但副歌的几句“baby”也都能口口传唱。
-包括在很多人认为特别高大上的古典音乐中，也有这样抓耳的旋律。比如大家可以去听一下贝多芬的奏鸣曲，也能听到洗脑的旋律。
-所以，“洗脑”并不是网络神曲的代名词，也并不代表音乐作品一定很 low，很多优秀的作品同样可以洗脑。
-至于可以产生洗脑效果的音乐和旋律是否有可以复制的套路？当然是有的。
-可以引发“耳虫”现象，产生洗脑效果的音乐，通常有三个非常明显且简单的共同点：旋律简单、节奏轻快、不断重复。
-一首网络神曲，通常是副歌的几句最为洗脑。这些旋律使用到的音域很窄，往往只在 3-5 个音之间产生，非常简单；节奏也朗朗上口；再加上不断重复，基本上听几遍就会令人记忆深刻了。
-《卡路里》副歌旋律，基本只用了三个音▲
-所以，想要写出一段洗脑的旋律，其实很简单，按照上面的三个标准来创作，哪怕写出的是古典音乐，一样可以很抓耳。
-说到这里，可能就有小伙伴疑惑了：既然在网络神曲和优秀作品中，都有“洗脑”旋律的存在，为什么网络神曲就更低俗，更不堪呢？
-事实上，这是由网络神曲的创作动机与目的决定的。
-在真正优秀的音乐作品中，这些洗脑旋律的诞生，是为作品的音乐性而服务的，是音乐需要它的旋律变成这样，而不是为了可以让大家听了上瘾而这么写。
-譬如贝多芬的奏鸣曲，整部作品非常长，那些洗脑的旋律只占极小的一部分，并且其他的部分同样经典，都是经过用心打磨的。
-而网络神曲、口水歌在创作时，明显就是在走捷径了。
-跟文学上的爽文套路一样，网络神曲利用人类的“耳虫”现象，目的是打造出一段令人上瘾的副歌旋律。先是在主歌部分蓄势，然后在副歌部分用简单、轻快、重复的旋律去戳人们的听觉 G 点，达到极其抓耳的效果。
-这种方法创作出来的作品，乍一听确实令人上头，但这种刺激永远只能停留在耳朵上、停留在生理层面上，根本没有办法触达内心。
-对于这些爆红的神曲，往往只需要花费极少的精力在创作上，却用大量的包装推广来进行营销。很多网络神曲，例如《小苹果》、《卡路里》都是营销出来的产物，它们作为电影推广曲，诞生的目的就是为了宣传与传播。
-所以，更确切地来说，网络神曲应该被称为营销品，而非真正的音乐作品。
-有件很有意思的事，我们之前也提到过，《卡路里》的作曲人 Akiyama Sayuri，乍一看是个日本名，但是在日本根本查无此人。根据推算，他很可能就是国内非常优秀的音乐人彭飞。彭飞为什么写这样的曲子时，要披上一个马甲？相信大家也能从中体会出一些深意吧。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么冯小刚首次执导的电视剧《北辙南辕》这么不接地气？反映了什么问题？]]></title>
-        <id>https://daily.zhihu.com/story/9738658</id>
-        <link href="https://daily.zhihu.com/story/9738658"/>
-        <updated>2021-07-30T23:06:56.000Z</updated>
-        <summary type="html"><![CDATA[人物
-阅读原文
-
-
-一部剧想要获得认可，先需准确辨识出观众的隐痛，而后才是理解与抚慰。《北辙南辕》的观众当然与剧中人面临着相似的困境，但像剧中人那样，经济基础建立得如此轻描淡写，随随便便就有资格坐而论道，维修上层建筑，则是对她们的生活的背叛和嘲讽——谈恋爱和归纳人生谁不会？安身立命才难。
-文｜叶三
-1
-2015 年《欢乐颂》大火，意味着当代都市女子群像剧建模成功。之后几年，《二十不惑》、《三十而已》等剧无不在顺延余波，瓜分红利。大城市中女性抱团成长的故事，成为现实主义题材剧集中最易出爆款的类别之一。
-于是 2021 年 7 月，《北辙南辕》开播。这是冯小刚阔别电视剧界几十年后的首次回归，选择了这样一个题材，乍看突兀，却也符合冯导的一贯行事风格。
-《北辙南辕》以五名女性角色为主要人物：十八线演员鲍雪（蓝盈莹饰演）；海归美女戴小雨（金晨饰演）；陪读北漂的大龄未婚女冯希（隋源饰演）；热爱写作的全职太太司梦（啜妮饰演）及仗义疏财的女成功人士尤珊珊（王珞丹饰演）。
-剧情以长居欧洲的戴小雨忽然发现未婚夫其实乃已婚之身，愤而独自回国为开端。五名女性电光石火地在北京这座大城市中找到了彼此，而后一拍即合，合办了高档餐厅北辙南辕，在互助互爱中一一解决了各自的难题，也完成了各自的蜕变。
-依照类型模板，《北辙南辕》剧中的女性人物涵括不同阶层，剧情也围绕着种种常年热议的社会问题展开，如育儿过程中父亲的缺位、女性如何平衡家庭事业、剩女如何择偶、放弃自己成就伴侣是否可行……制作层面，冯小刚以其电影级别的圈内资源向下兼容，客串嘉宾甚至配角都是黄渤、张一山和刘晓庆这样的咖位（第一次见到刘晓庆心甘情愿地出演奶奶辈），加之摇滚老炮（刘效松、捞仔、马上又等）凭添文艺气质，再辅以《唐山大地震》开创的硬广插入技术。单就模板应用而言，《北辙南辕》先天很足。
-然而自开播始，《北辙南辕》便争议不断。其间最常出现的批评字眼，…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有哪些以为是重罪，其实是轻罪，判刑很轻的案例？]]></title>
-        <id>https://daily.zhihu.com/story/9738699</id>
-        <link href="https://daily.zhihu.com/story/9738699"/>
-        <updated>2021-07-30T23:06:52.000Z</updated>
-        <summary type="html"><![CDATA[金律小叔，公众号“金律小叔”
-阅读原文
-
-惠州许霆案。
-当年轰动一时的“许霆案”大家应该还有印象，广州青年许霆利用 ATM 机漏洞取款 17.5 万元，被认定为盗窃罪，且数额巨大，一审被法院判处无期徒刑，后改判 5 年有期徒刑。许霆案发生的六年后，广东惠州发生了一起跟“许霆案”非常类似的案件：
-1. 2013 年 10 月，刚到广东惠州市惠阳区一家建筑工地上干活的于德水遇到了一次“天降横财”的机会。这位只有初中文化的 25 岁湖北小伙，此前在上海打工挣钱，其父母先后病忘给他留下两个弟弟，全靠他来供养。
-2013 年 10 月 30 日晚上 8 点半左右，于德水用邮储银行卡到惠阳区新圩镇某邮储银行 ATM 存款，他先后几次存入 300 元，均被 ATM 机退回。于德水发现 ATM 机屏幕显示“系统故障”，但是其手机信息却显示每次所存的钱已到账，账户余额也相应增加。于是他尝试从旁边农业银行的 ATM 机支取该邮政储蓄账户的 2000 元和 1000 元，不料获得成功。于德水遂产生了恶意存款以窃取银行资金的念头。于是他连续存款，至晚上 21 时 58 分，于德水共恶意存款 17 次，存入人民币 97700 元，接着于某水到深圳市龙岗区其他网点对该账户内的存款进行支取和转账，至次日 6 时 28 分共窃取银行存款 90000 元。
-2. 拿了意外之财之后，于德水一直忐忑不安，不知银行何时会找上门来，他焦虑地等了一个月，银行未有任何动静。临近年关，于德水带着 7 万多现金返回了湖北襄阳老家。然而事实上，邮储银行惠州市惠阳支行工作人员很快发现了问题，并报了警。2013 年 12 月 12 日，于德水在家被公安机关抓获，12 月 15 日，他与亲戚一起凑了 92800 元还给了银行。
-12 月 25 日，经惠阳区人民检察院批准，于德水被公安机关逮捕。因为于德水的行为与许霆案类似，惠阳区人…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么空气中N元素这么多，但没有一个动物进化到可以利用空气中的氮气合成氨基酸呢？]]></title>
-        <id>https://daily.zhihu.com/story/9738677</id>
-        <link href="https://daily.zhihu.com/story/9738677"/>
-        <updated>2021-07-30T23:06:42.000Z</updated>
-        <summary type="html"><![CDATA[环形剧场现任负责人，不回答斗兽/变相斗兽(XX为啥能/不能成为地球霸主)相关问题
-阅读原文
-
-事实上不止动物，植物、真菌、古虫、变形虫、SAR …… 整个真核域内都没有能自行固定空气中氮元素的物种。拥有固氮酶的物种只分布在细菌域以及少数古菌域类群中
-最著名的，豆科植物通过与变形菌门的根瘤菌共生获得了比其他植物多得多的活性氮
-古往今来，地球生物圈中几乎所有的进化创新都是取材自既有的性状，即使自然选择的压力再怎么大，也不可能凭空变出一套全新的代谢路径或者一种全新的蛋白质。现有研究认为[1]，固氮相关的基因组在进化史上只在广古菌门的产甲烷菌演化支中出现过一次，其余生物要么通过基因水平转移获得这套基因组，要么像豆类那样与固氮菌共生，要么直接通过食物链吸收细菌固定下来的活性氮
-木头的碳氮比非常高，所以专性食木的动物往往在肠道中留有固氮的共生菌落，比如白蚁、船蛆，以及图中的黑线巴拉圭鲇 Panaque nigrolineatus
-那么对于作为模板的含钼固氮酶（Mo-Nitrogenase），它由作为外壳的蛋白质（NifDK）以及作为催化反应的活性位点的辅因子（FeMo-co）两部分组成，而后者需要另一套酶来催化组装。对于外层的蛋白质，已经有研究认为它与在细菌中参与叶绿素合成的原叶绿素酸酯还原酶（BchNB）有关，简单来说，固氮作用与该还原酶所负责的特异性还原反应享有同样的电子转移机制，所以有理由假设结构上更简单的 BchNB 就是固氮酶蛋白质外壳的前身；至于 FeMo-co，有学者认为它可能不是最初的辅因子，铁硫簇等其他形式的辅酶可能在最初偶然进入了 BchNB 形成的空腔中，形成了最初的固氮酶，现在的 FeMo-co 是这之后辅因子在自然选择中不断优化的结果
-上述的的固氮酶是我们已知的自然进化产生的所有种类固氮酶的统一模板，但它肯定不是唯一的模板，蛋白质不一定非得要原叶绿素酸酯还原酶的三维结构，活性位点也不一定非得要钼或铁。但为什么我们没有发现其他形式的固氮酶？可能的原因很多，比如在当今生物圈能自行固氮不再是个显著的优势，突变出新型固氮酶的个体由于其他原因被随机淘汰掉了等等
-固氮酶中的辅因子 FeMo-co
-为什么说现在的生物圈中能够固氮不再是个显著的优势了呢？当今的生物圈的活性氮总量虽比起氮元素总量而言微不足道，但确实已经足够供养除人类文明之外[2]的大千世界；相比之下，固氮酶出现前的生物圈所能依赖的氮来源，可能只有闪电以及地质化学产生的微量活性氮，如此窘迫的氮源使得那时拥有固氮能力的生物获得比今天大得多的生存优势。目前的理论认为，虽然固氮酶唯一一次出现是在专性厌氧的类群中，但它的出现可能收到了当时产氧光合生物的影响：最初供养大氧化前生物群落的无机固氮过程的产量不足以支持在大氧化事件中新生的生物群落，造成生物圈中氮资源普遍匮乏，成为驱动生物进化出固氮作用的选择压
-但关于固氮作用的所需条件是否是导致动物无法固氮的选择压力这一点，笔者认为不是。固氮消耗的能量很难说比现在动物们摄取氮所消耗的能量要高到哪里去。至于固氮所需的低氧条件，现有的固氮菌中不乏兼性厌氧乃至专性好氧的物种，它们可以通过诸如在固氮场所周围的区域提高呼吸速率等方式来营造低氧环境
-所以，为什么动物们不能自己固氮？
-只能说运气不好
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
-        <id>https://css-tricks.com/?p=345628</id>
-        <link href="https://katydecorah.com/code/eslint-config/"/>
-        <updated>2021-07-30T20:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …
-The post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conjuring Generative Blobs With The CSS Paint API]]></title>
-        <id>https://css-tricks.com/?p=345256</id>
-        <link href="https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/"/>
-        <updated>2021-07-30T14:54:36.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …
-The post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>George Francis</name>
         </author>
     </entry>
 </feed>
