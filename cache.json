@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350788",
+          "author": "Chris Coyier",
+          "description": "I think this is good advice from Silvestar Bistrović:\nAn enabling selector is what I call a selector that does a job without disabling the particular rule.\nThe classic example is applying margin to everything, only to have to remove …\nThe post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/",
+          "publishedOn": "2021-08-31T20:17:25.000Z",
+          "wordCount": 374,
+          "title": "You want enabling CSS selectors, not disabling ones"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350690",
+          "author": "Chris Coyier",
+          "description": "You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …\nThe post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/application-specific-links/",
+          "publishedOn": "2021-08-31T14:30:21.000Z",
+          "wordCount": 1042,
+          "title": "Application-Specific Links"
+        },
+        {
           "id": "https://css-tricks.com/?p=350670",
           "author": "Geoff Graham",
           "description": "A bonafide CSS trick if there ever was one! @ShadowShahriar created a CodePen demo that uses pseudo-elements to place commas between list items that are displayed inline, and the result is a natural-looking complete sentence with proper punctuation.\nCodePen Embed…\nThe post CSS Pseudo Commas appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -505,6 +523,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/08/state-management-nextjs/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.",
+          "link": "https://smashingmagazine.com/2021/08/state-management-nextjs/",
+          "publishedOn": "2021-08-31T14:00:00.000Z",
+          "wordCount": 2894,
+          "title": "State Management In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7be7a6e9-5d44-4941-8a6c-dfee3435cc9b/state-management-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "New month, new wallpapers! In this post, you’ll find inspiring wallpaper designs for September 2021. They were created with love by artists and designers from across the globe and are available with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/08/desktop-wallpaper-calendars-september-2021/",
+          "publishedOn": "2021-08-31T08:00:00.000Z",
+          "wordCount": 2415,
+          "title": "Stories Of September (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdfaaaac-a4fb-475b-997c-ac45db998da0/sep-21-finding-the-balance-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/08/refactoring-css-optimizing-size-performance-part3/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.",
@@ -797,20 +843,6 @@
             "length": "0",
             "type": "image/com/c8b93225-8b34-431c-94f1-2f2d0a4fb95a"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, we’ll take a deep dive into the refactoring process itself, and cover incremental refactoring strategy, visual regression testing, and maintaining the refactored codebase.",
-          "link": "https://smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/",
-          "publishedOn": "2021-08-02T11:00:00.000Z",
-          "wordCount": 5987,
-          "title": "Refactoring CSS: Strategy, Regression Testing And Maintenance (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1005065b-5daf-4b21-8ac6-89b91effa5b9/refactoring-css-strategy-regression-testing-maintenance-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -871,6 +903,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/8eqeeh0",
+          "author": null,
+          "description": "nio与多线程是绝配",
+          "link": "https://toutiao.io/k/8eqeeh0",
+          "publishedOn": "2021-09-01T01:13:42.359Z",
+          "wordCount": 536,
+          "title": "[推荐] 深度长文：从 bio 到 nio 到 aio，再到响应式编程"
+        },
+        {
+          "id": "https://toutiao.io/k/qxynml6",
+          "author": null,
+          "description": "DDD首先考虑的是业务语言，而不是数据和行为",
+          "link": "https://toutiao.io/k/qxynml6",
+          "publishedOn": "2021-09-01T01:13:42.274Z",
+          "wordCount": 61,
+          "title": "DDD 之于逛逛内容营销中的应用"
+        },
+        {
+          "id": "https://toutiao.io/k/u5j4cq8",
+          "author": null,
+          "description": "Flink 助力京东实时计算平台朝着批流一体的方向演进。",
+          "link": "https://toutiao.io/k/u5j4cq8",
+          "publishedOn": "2021-09-01T01:13:42.200Z",
+          "wordCount": 390,
+          "title": "Apache Flink 在京东的实践与优化"
+        },
+        {
+          "id": "https://toutiao.io/k/xs8l2kb",
+          "author": null,
+          "description": "背景之前在测试反弹shell时，测试发现：某厂商会根判断程命令是否是bash、sh等脚本解释器，如果修改ba",
+          "link": "https://toutiao.io/k/xs8l2kb",
+          "publishedOn": "2021-09-01T01:13:42.126Z",
+          "wordCount": 169,
+          "title": "如何改变进程名称"
+        },
+        {
+          "id": "https://toutiao.io/k/gpas4sf",
+          "author": null,
+          "description": "但随着视频业务快速发展，类单体的PHP架构在多个⽅⾯遇到了瓶颈和问题……",
+          "link": "https://toutiao.io/k/gpas4sf",
+          "publishedOn": "2021-09-01T01:13:41.997Z",
+          "wordCount": 154,
+          "title": "短视频 Go 研发框架实践"
+        },
+        {
+          "id": "https://toutiao.io/k/ccgfexe",
+          "author": null,
+          "description": "要在Vue应用中使用web worker，我们可以使用vue的web worker包装器",
+          "link": "https://toutiao.io/k/ccgfexe",
+          "publishedOn": "2021-09-01T01:13:41.871Z",
+          "wordCount": 165,
+          "title": "[译] Web Worker 在 Vue 中的实际应用"
+        },
+        {
+          "id": "https://toutiao.io/k/ys9n8c2",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/ys9n8c2",
+          "publishedOn": "2021-09-01T01:13:41.267Z",
+          "wordCount": 592,
+          "title": "ESModule 系列 ：构建下一代基础设施 PDN"
+        },
+        {
+          "id": "https://toutiao.io/k/j95sviy",
+          "author": null,
+          "description": "指望看完 DDIA 就能做 Infra？还是来看看顶会论文吧！",
+          "link": "https://toutiao.io/k/j95sviy",
+          "publishedOn": "2021-09-01T01:13:41.171Z",
+          "wordCount": 448,
+          "title": "VLDB 2021 论文推荐（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/uokpkyl",
+          "author": null,
+          "description": "源码分析创建Dialog所需的上下文为什么必须是Activity？",
+          "link": "https://toutiao.io/k/uokpkyl",
+          "publishedOn": "2021-09-01T01:13:40.987Z",
+          "wordCount": 854,
+          "title": "Android 进阶之 Dialog 对应的 Context 必须是 Activity 吗？从源码详细分析"
+        },
+        {
+          "id": "https://toutiao.io/k/pj6r7lr",
+          "author": null,
+          "description": "欢迎闲来无事的大小朋友们一起来玩 Python！",
+          "link": "https://toutiao.io/k/pj6r7lr",
+          "publishedOn": "2021-09-01T01:13:38.740Z",
+          "wordCount": 782,
+          "title": "从零开始，配置一个趁手的 Python 开发环境"
+        },
         {
           "id": "https://toutiao.io/k/8v20436",
           "author": null,
@@ -1302,6 +1424,15 @@
           "publishedOn": "2021-08-26T01:03:09.037Z",
           "wordCount": 74,
           "title": "2.2 万 Star！功能丰富的开源笔记手绘工具"
+        },
+        {
+          "id": "https://toutiao.io/k/kmc7oay",
+          "author": null,
+          "description": "本文总结几类项目中跟时区相关的问题，给大家分享一些基本的时区知识，以及如何在软件开发和测试中注意考虑时区因素，以避免因时区而导致系统功能的问题。",
+          "link": "https://toutiao.io/k/kmc7oay",
+          "publishedOn": "2021-08-25T07:44:51.000Z",
+          "wordCount": 251,
+          "title": "软件开发中的时区问题"
         },
         {
           "id": "https://toutiao.io/k/v7cew96",
@@ -3237,114 +3368,6 @@
           "publishedOn": "2021-08-03T01:11:48.360Z",
           "wordCount": 194,
           "title": "3 年 3 款产品百万级增长方法论"
-        },
-        {
-          "id": "https://toutiao.io/k/atd4obd",
-          "author": null,
-          "description": "一个好的架构设计需要在产品迭代的不同阶段选择合适的技术，从而既能在合理的成本条件下有效保障当前的业务需求，又能考虑到业务下一步发展的可能性。",
-          "link": "https://toutiao.io/k/atd4obd",
-          "publishedOn": "2021-08-02T01:08:06.014Z",
-          "wordCount": 343,
-          "title": "从 0 到 1 亿用户的架构设计"
-        },
-        {
-          "id": "https://toutiao.io/k/aaf9fw0",
-          "author": null,
-          "description": "我是一只可爱的土拨鼠，专注于分享 Go 职场、招聘和求职，解 Gopher 之忧！欢迎关注我。",
-          "link": "https://toutiao.io/k/aaf9fw0",
-          "publishedOn": "2021-08-02T01:08:05.919Z",
-          "wordCount": 279,
-          "title": "[推荐] [译] 全网最全的 Go 书单来喽"
-        },
-        {
-          "id": "https://toutiao.io/k/nn4n41o",
-          "author": null,
-          "description": "问题背景业务逻辑非常依赖前端的安全产品，比如极验[1]、顶象-无感验证[2]、瑞数 等都会对前端代码做混淆。",
-          "link": "https://toutiao.io/k/nn4n41o",
-          "publishedOn": "2021-08-02T01:08:05.760Z",
-          "wordCount": 208,
-          "title": "反混淆 &quot;控制流平坦化&quot; 思路及实践"
-        },
-        {
-          "id": "https://toutiao.io/k/4qkyzvs",
-          "author": null,
-          "description": "上一篇我们介绍了 Roslyn 编译器，我们知道，我们编写的 C#/VB 代码经过 Roslyn 编译器编译",
-          "link": "https://toutiao.io/k/4qkyzvs",
-          "publishedOn": "2021-08-02T01:08:05.677Z",
-          "wordCount": 539,
-          "title": "详解 .NET 程序集"
-        },
-        {
-          "id": "https://toutiao.io/k/098z7ei",
-          "author": null,
-          "description": "前言图解方式来通关ThreadLocal，同时希望你们有一定的ＪＶＭ 基础，这样食用起来会更香。相信大伙对",
-          "link": "https://toutiao.io/k/098z7ei",
-          "publishedOn": "2021-08-02T01:08:05.576Z",
-          "wordCount": 219,
-          "title": "保姆级教学，22 张图揭开 ThreadLocal"
-        },
-        {
-          "id": "https://toutiao.io/k/lxuswyb",
-          "author": null,
-          "description": "Python 3.6 引入的语法",
-          "link": "https://toutiao.io/k/lxuswyb",
-          "publishedOn": "2021-08-02T01:08:05.502Z",
-          "wordCount": 277,
-          "title": "[译] Python 数值中的下划线是怎么回事？"
-        },
-        {
-          "id": "https://toutiao.io/k/i4jzqp3",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/i4jzqp3",
-          "publishedOn": "2021-08-02T01:08:05.401Z",
-          "wordCount": 143,
-          "title": "盘点 7 月份 yyds 的开源项目"
-        },
-        {
-          "id": "https://toutiao.io/k/xpwu2ac",
-          "author": null,
-          "description": "Arthas和GC的那点事：动态日志，强制GC",
-          "link": "https://toutiao.io/k/xpwu2ac",
-          "publishedOn": "2021-08-02T01:08:05.157Z",
-          "wordCount": 327,
-          "title": "十万火急！不重启应用怎么查 GC 日志？Arthas 来搞定"
-        },
-        {
-          "id": "https://toutiao.io/k/oaezq98",
-          "author": null,
-          "description": "依托于互联网的发达，我们可以随时随地利用一些等车或坐地铁的碎片时间学习以及了解资讯。同时发达的互联网也方便人们能够快速分享自己的知识，与相同爱好和需求的朋友们一起共同讨论。 但是过于方便的分享也让知…",
-          "link": "https://toutiao.io/k/oaezq98",
-          "publishedOn": "2021-08-02T01:08:03.092Z",
-          "wordCount": 282,
-          "title": "MySQL 那些常见的错误设计规范"
-        },
-        {
-          "id": "https://toutiao.io/k/2cf32un",
-          "author": null,
-          "description": "王超的个人博客",
-          "link": "https://toutiao.io/k/2cf32un",
-          "publishedOn": "2021-08-02T01:08:02.936Z",
-          "wordCount": 1307,
-          "title": "计算机网络：TCP 协议原理总结"
-        },
-        {
-          "id": "https://toutiao.io/k/sif3l68",
-          "author": null,
-          "description": "对市面上几乎所有和 iOS 开发相关的资源文档进行重新整理、融合和补充，更适合国内开发者。. Contribute to uzi-yyds-code/IOS-programmer-all-resources development by creating an account on GitHub.",
-          "link": "https://toutiao.io/k/sif3l68",
-          "publishedOn": "2021-08-02T01:08:01.463Z",
-          "wordCount": 1022,
-          "title": "iOS 程序员所有的资源"
-        },
-        {
-          "id": "https://toutiao.io/k/kp9wnt7",
-          "author": null,
-          "description": "本文属于原创文章，转载请注明–来自桃源小盼的博客 前言通常关于eslint的文章是介绍如何使用。这里会假定一个前提，这是一个新项目。今天我们聊聊老项的一些使用建议。 尽快确定一种风格很多团队会陷入一种争论，到底选择哪种风格，通常有airbnb、standard等。也有一些团队会认为这几种风格都不是我想要的，要自己定制。 此时，我们忽略一个问题，我们做这件事最重要的目的是什么？",
-          "link": "https://toutiao.io/k/kp9wnt7",
-          "publishedOn": "2021-08-01T16:00:00.000Z",
-          "wordCount": 196,
-          "title": "给老项目加入 ESLint 的建议"
         }
       ]
     },
@@ -3353,6 +3376,15 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/405366490",
+          "author": "知乎小红星",
+          "description": "https://www.zhihu.com/video/1416034084775055361\n“虽然我长到19岁，但背个人还是太费劲了，我都不知道那个劲是哪里来的……”抗美援朝战争，很多不到20岁的孩子，披上战衣，蜕变成战士，用最好的年纪，写下了民族永恒的记忆。9月2日，我国将迎回第八批在韩中国人民志愿军烈士遗骸。听听志愿军老战士的故事，致敬英雄，致敬青春。\n来源：人民日报客户端\n\n来源：知乎 www.zhihu.com\n知乎小红星\n点击下载",
+          "link": "http://zhuanlan.zhihu.com/p/405366490?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-08-31T05:48:30.000Z",
+          "wordCount": 7,
+          "title": "英雄回家｜本来少年，此去一生"
+        },
         {
           "id": "http://www.zhihu.com/question/420313337/answer/2083548493",
           "author": "KnowYourself",
@@ -3667,15 +3699,6 @@
           "publishedOn": "2021-08-04T06:30:10.000Z",
           "wordCount": 237,
           "title": "奥运神射手许海峰视力不足 0.5，张梦圆近视 600 度，近视也可以练射击吗？他们是如何看清靶子的？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/476569561/answer/2033431219",
-          "author": "萌爸Kyle",
-          "description": "田径出身的一名大学田径队教练来谈一谈我的看法，希望有所借鉴。\n我先从专业的角度，来给一些解答。\n7-14岁是孩子速度发展的一个窗口期\n人的身体素质，包括速度、力量、耐力、灵敏、平衡等，在不同的年龄段，都会有发展比较迅速或缓慢的时候，当然儿童处在成长期，身体各指标都会快速增长，但总有增长尤为突出的某项指标，我们把这段快速增长的一段时期，称为快速发展的“窗口期”。\n为什么小学会把快速跑当成一个衡量身体素质的重要指标呢？就是因此此年龄段，正好处在孩子速度快速发展的阶段，在这个阶段有意识地培养孩子的速度，提升孩子的爆发力，就会事半功倍。\n作为一名田径运动员、教练，苏炳添能够以打破亚洲纪录记录的成绩闯进奥运会男子100米决赛，成为第一个站在飞人赛道的黄种人，我由衷感到自豪！这个时候，如果孩子热爱体育，有这样的信念支撑他，有这么一个强有力的偶像光环作为他的榜样，作为父母，我给的建议是：\n支持他，从心理和实际行动上，给他鼓励和帮助！\n因为我深知，扎根一个梦想的种子，对于一个满怀激情的孩子来说，是无比重要！而此时父母给予的帮助对孩子来说，定会弥足珍贵！\n\n作为父母，孩子的监护人，看着子女健康成长，衣食无忧，建功立业，结婚生子，是我们所愿所想。但培养他们良好的行为习惯，磨炼他们坚强的意志品质，遵守社会公德和法律，是父母的职责所在，此外，我们还希望在顺境中为其欢欣鼓舞，逆境中支持鼓励，给他们心中埋下一粒种子，为他们的梦想保驾护航。\n那么6岁的孩子究竟是否合适？在这些练习过程中又要注意什么呢？父母又要做什么呢？不要着急，请听我一一解答。\n田径是一切运动的基础\n请允许我\"王婆卖瓜\"一番，田径是运动之母，我们自打出生起，就跟田径运动分不开。走、跑、跳、投等，融入到我们的生活方方面面。6岁的孩子即将进入发展速度的窗口期，因此在此时学习跑步，是一项非常明智的选择，对于提升孩子的整体素质，大有裨益。不论是…",
-          "link": "http://www.zhihu.com/question/476569561/answer/2033431219?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-02T03:45:08.000Z",
-          "wordCount": 108,
-          "title": "6 岁的孩子说想学跑步，成为像苏炳添那样的运动员，作为家长该如何培养？"
         }
       ]
     },
@@ -3684,6 +3707,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9739782",
+          "author": null,
+          "description": "KnowYourself，关照自我与内心，引领身心健康的生活方式\n阅读原文\n\n放弃从外部世界寻找乐趣，而多从自身内部寻找火花，建立起真正的“生活兴趣”。\n“觉得自己的生活好没有意思，尽管一直在尝试寻找有意思的事情，但是觉得都好无趣”，孤独而无聊，已经成为了很多人对自己生活的评价。\n但我认为，很多时候我们为摆脱无聊和孤独而作出的努力，都并不是真正意义上的对于“生活兴趣”的找寻，我们可能都错误地理解了“有意思的生活”该是什么样子，才会做出那么多徒劳无功的尝试。\n要对抗孤独和无聊，我们需要首先明白，什么才是真正的对生活的兴趣。\n来看今天的回答。\n\n01.“生活兴趣”究竟是什么？\n心理学家 Paul J. Silvia 把兴趣称为“知识型的情绪（knowledge emotion）”。\n所谓“知识型的情绪”，和我们熟知的喜怒哀乐不一样，指的是能引发我们对“知道更多”好奇的情绪。比如，困惑、惊奇、敬畏都属于知识型的情绪，他们都指引人们去知道更多。\n众所周知，兴趣是最好的老师，促进我们学习和探索。但大家可能不知道，兴趣也可以平衡人们对不确定性的负面感受(Kashdan,2004)。\n比如一个人失业在家，面对生活的不确定性，害怕再次失败。但如果 ta 能对一份渴望得到的工作产生兴趣，这种兴趣感会让 ta 产生对未来的好奇，而缓解不确定性带来的负面感受。\n* 对于生活兴趣，人们有一些常见的误解，阻碍了他们培养出兴趣。\n误解 1: “不需要做什么，我就可以对某件事物一直感兴趣。”\n很多人可能觉得兴趣是一劳永逸的，比如有人认为只要找到自己感兴趣的工作，就能对工作一直保持兴趣，于是频繁换工作。\n但现实是，日子久了，上班依然如上坟，兴趣又变成了煎熬。\n一个人对事物的兴趣会随时间产生变化，“三分钟热度”是常态，要对一件事物产生经久不衰的兴趣、始终觉得 ta 很有意思，需要我们首先投入经年累月的努力。…",
+          "link": "https://daily.zhihu.com/story/9739782",
+          "publishedOn": "2021-08-31T23:07:25.000Z",
+          "wordCount": null,
+          "title": "你是用什么对抗孤独和无聊的呢？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739789",
+          "author": null,
+          "description": "星球研究所，一群国家地理控，专注于探索极致世界\n阅读原文\n\n走，去探索两个世界的同一种风景！\n\n我们从未像今天这样关注火星，但地球与火星之间的空间阻隔最远可达到4 亿千米，我们中的大多数人此生都不会有机会踏上火星亲身领略红色星球的风采。\n▼\n01. 冬季火星一瞥，北极冰盖之外还可见到大面积冰霜，底图@ESA，由火星快车号轨道器拍摄，标注@陈随 / 星球研究所\n然而，即使无法亲自登临火星，我们也可以在地球找到类似的风景，因为在辽阔的太阳系里地球与火星源出同门、形同姊妹。\n\n 01 · 碰撞的世界 ·\n密集而繁多的撞击坑是火星地表给人留下的第一印象，直径大于 10km 的撞击坑就超过了 2 万个。\n▼\n02. 火星南半球的海拉斯撞击坑，它是火星上肉眼可见的最大撞击坑，凹下地表 8000 多米，长 2500km，宽 1300km，底图@ESA，由火星快车号轨道器拍摄，地表以上的淡蓝色是火星大气层，标注@陈随 / 星球研究所\n在地球，撞击坑的数量和规模都远不及火星，但一些巨大的撞击坑，仍给人们带来相似的震撼。\n例如，加拿大的曼尼古根撞击坑，虽然经历了超过 2 亿年的风雨侵蚀，但仍保留下直径约 72km 的环形洼地，从太空俯瞰时，令宇航员们印象深刻。\n▼\n03. 加拿大魁北克省曼尼古根撞击坑，该坑的原始直径约为 100km，如今仅剩直径约为 72km 的环形洼地，被建成水库，底图@NASA，由国际空间站拍摄，标注@陈随&amp;amp;郑艺 / 星球研究所\n再比如，位于塔吉克斯坦的卡拉库尔撞击坑，直径约为 52km，干燥的高原地表颇似火星，特别是冬季封冻后，寒冷荒凉的感觉尤甚。\n▼\n04. 卡拉库尔撞击坑地处帕米尔高原，是距离中国最近的大撞击坑，海拔约 4000 米，底图@NASA，由 Landsat8 号卫星拍摄，标注@陈随&amp;amp;郑艺 / 星球研究所\n这些由星体撞击产生…",
+          "link": "https://daily.zhihu.com/story/9739789",
+          "publishedOn": "2021-08-31T23:07:17.000Z",
+          "wordCount": null,
+          "title": "在地球上，有没有哪些地方看起来很像火星？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739766",
+          "author": null,
+          "description": "声音图书馆，音乐人文 | 公众号：Soundlibrary声音图书馆\n阅读原文\n\n当然。\n这就要从十九世纪那一段时间说起。\n\n十九世纪末期，一场全新的音乐变革已经蓄势待发。这种变革，不是孤立也不是一蹴而就的，而是伴随着人类经济文化的发展、审美偏好的转变、以及对更新奇的事物的渴求与好奇心一同诞生的。在浪漫主义后期，已经开始出现了无调性与个性化情感表现创作的苗头，而这将成为现代音乐的萌芽。旋律变得越发自由，和声、半音的变化越发色彩丰富，音乐的体裁利用也更加灵活，小型化的音乐创作也展现出了它们表达上更多的灵活性。到了 20 世纪之后，这样的音乐创作将逐渐成为主流——而在现代与非现代之间，我们很难说清这一条分界线到底在哪里，不过从时间线上而言，一般倾向于将它描述为，印象主义音乐。\n\n印象主义这个名词来源于美术界。作为 19 世纪晚期活动在巴黎及其周围的一个颇具有影响力的绘画流派。顾名思义，印象派多倾向于采用流动的光感和模糊的线条感来描摹事物，而不是纤毫毕现的表现细节，从而使画面与观赏者之间形成一种沟通的氛围感。对于音乐家来说，印象主义音乐的出发点也一样——他们厌倦了浪漫主义的繁琐、华丽和沉重，并且尝试用截然相反的方式来反抗这种音乐“霸权”。\n德彪西就是一位充分充分运用了这种印象主义艺术创作方式的音乐家。他本人就热衷于与印象主义画家们混在一起，甚至以自称“莫奈的学生”为荣。他的作品经常从画作中寻找灵感，并且也经常冠以画面感十足的标题。\n\n克劳德 德彪西\n德彪西生性热爱浪漫和自由，自幼受到法国的印象派艺术熏陶。他 11 岁进入巴黎音乐学院，并展示出了自己热衷于打破陈规的创造天分。随后他又在 1880 年前后接触到了俄国穆索尔斯基的作品，并被这种新颖的和声色彩深深感动。\n\n在大量吸收了东方音乐、西班牙舞曲和早期黑人音乐的特点，结合了印象派的艺术手法之后，德彪西逐渐形成了自己的独特风格。他热衷于采用全音阶和平行进行，于是音乐充满了奇特的神秘感；同时他又打破了陈旧的逻辑性和反复严谨的结构，于是让音乐表达变得更加自由。他已经完全不是这种全新的音乐创作方式对 20 世纪的现代音乐具有划时代的意义。\n\n德彪西博物馆\n德彪西一生创作的作品不多，并于 1918 年就因癌症逝世了。他的作品以反传统的标题音乐为主，后期也创作过歌剧《佩利亚斯与梅丽桑德》，交响诗《大海》和《前奏曲》但是知名度不高。但是除了对现代音乐创作的特别意义之余，他的作品充满了画面感和想象力，欣赏台阶并不高，因此非常适合很多入门的古典音乐爱好者。另外，虽然被称作印象主义音乐的代表人物，但是德彪西本人并不怎么接受这种说法，而他本身擅长描述的梦幻感和想象力更接近象征主义的表达方式。\n《牧神午后前奏曲》\n《牧神午后前奏曲》是德彪西与 1982-1894 年，取材于马拉美同名诗作《牧神午后》所创作的，也是他的第一部具有代表性的印象主义作品。在马拉美的诗作中，包含着梦幻而含糊的已经，而德彪西则试图用音乐将它描摹出来。\n\n《牧神的午后》插画 爱德华·马奈\n凉爽的清晨如欲抗拒，即被暑气窒息，\n哪有什么潺潺水声？唯有我的芦笛\n把和弦洒向树丛；那仅有的风\n迅疾地从双管卢笛往外吹送，\n在它化作一场旱雨洒遍笛音之前，\n沿着连皱纹也不动弹的地平线．\n这股看得见的、人工的灵感之气，\n这仅有的风，静静地重回天庭而去。\n （译文节选自飞白）\n德彪西在早期一度深受柏辽兹的影响，后来，他试图消除这种影响，而在创作上，也不是严格的追随马拉美的诗歌，而是试图用自己的音符描绘意境。音乐和诗歌中基调统一的只有情感——关于牧神在午后的欲望和梦幻，但是这幅梦幻的色彩可以是截然不同的。在这里德彪西选用了三种木管乐器——长笛，双簧管和单簧管。伴随着竖琴的刮奏和圆号的轻柔色彩，德彪西展现了音乐无限可能的扩展性和多姿多态的表达方式。\n建议试听曲目：Prelude a L'Apres-Midi D'un FauneAchille-Claude Debussy - Misbelieving Baby\n\n德彪西在音乐的表达中更侧重于对乐器音色的运用，就如同绘画中的色彩，而织体则是描绘出的斑驳光影和空间感，而在这样的表达方式中，和声、节奏和旋律都变的模糊甚至不那么重要了。这种手法后来被 20 世纪音乐的一些革命性的现代主义艺术家所采用的，也就是通过音色和织体，而不是主题的展开来创作音乐。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739766",
+          "publishedOn": "2021-08-31T23:07:07.000Z",
+          "wordCount": null,
+          "title": "德彪西的音乐有色彩吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739770",
+          "author": null,
+          "description": "素素拓拓的旅行派，旅行者里最好的段子手|情侣旅游博主｜Vlogger\n阅读原文\n\n首先，我们来了解下，为什么北京环球度假区万众瞩目。\n\n中国第一个环球影城主题乐园。\n功夫熊猫盖世之地是环球主题公园首个功夫熊猫主题景区；\n变形金刚基地是全球首个变形金刚专属主题景区；\n北京环球度假区规模最大的过山车当属——霸天虎过山车；所乘坐的骑乘设施是由汽车人驰斯达变形而成。也是专门为景点设计的新角色。\n环球城市大道电影院拥有全北京银幕最大的新一代 IMAX 商业影院激光影厅，超酷炫！\n\n【北京环球影城有什么值得玩呢？】已经有幸体验过三天两夜的我们，告诉你真实体验！\n住在酒店的好处就是晚上闭园后可以溜出来趁没人拍合影\n所有骑乘项目都值得坐！\n\n因为所有骑乘项目都比较温和，只有哈利波特的禁忌之旅，会略晕，某些场景会吓人。可能会闭上眼睛感受下黑暗。其他的都不刺激。\n！！！！以下是我们全部体验过一遍之后，推荐的项目！！！\n（不要一大早直奔哈利波特，太火了，人非常多）\n第一站【变形金刚基地】：\n\n「霸天虎过山车」超级刺激！！！想感受刺激的一大早就直奔这里吧，从静止到时速 104 公里只需要 4.5 秒。骑乘设施是由汽车人驰斯达变形而成。\n骑乘项目「保卫火种源」温和略刺激，非常享受，沉浸式体验一起对抗霸天虎很带感！还可以体验下什么叫做自由落体。\n「变形金刚面对面」注意这是拍照时刻～\n\n第二站【功夫熊猫盖世之地】：\n直言不讳，这是我的最爱。作为环球主题公园首个功夫熊猫主题景区，不会失望！整个景区是室内的，凉爽别致，像是步入世外桃源般的传说之境。所有项目都很温和。\n\n骑乘项目「神龙大侠之旅」：顺流而下见证功夫世界。\n「旋转武侠」&「灯影传奇」任你选，一个是梦幻转不停的旋转木马，一个是光影渐变的古风式旋转秋千。\n隐藏彩蛋「智慧仙桃树」会讲故事哦。但是能不能碰到讲故事，需要看缘分。有可以从小程序【北京环球度假区官方】，查看演出时间。\n午饭推荐「平先生面馆」：牛肉面 / 肉包子 / 担担面\n功夫熊猫园区的【智慧仙桃树】\n第三站【侏罗纪世界努布拉岛】：\n\n推荐「奇遇迅猛龙」，直接和逼真的迅猛龙互动拍照。\n骑乘项目「侏罗纪世界大冒险」，深入热带荒野，感受恐龙朝你奔跑而来的恐惧。\n在入园处有可能还会偶遇手持小恐龙的表演者。\n\n第四站【小黄人乐园】：\n\n买一个「小黄人冰淇淋」拍拍拍，也要记得去「小黄人见面会」和小黄人拍照。\n骑乘项目「神偷奶爸小黄人乐翻天」和演出「欢乐好声音巡演」非常推荐。\n购物推荐：买一个小黄人爆米花桶 or 小黄人车，背着它拍照也好看诶～！\n\n 第五站【未来水世界】\n\n特级表演。温馨提示，最前排可以和演员互动泼水，但是注意防水，会浑身湿透。\n下午两点开始表演，需要提前半小时抵达。具体时间可能有改动。建议官方小程序随时查看开演时间。提前去占座哦。绿色座位最好。\n\n第六站：【哈利·波特的魔法世界】\n\n为什么要把哈利·波特放在傍晚呢？因为逛完霍格莫德巫师村就可以直接看城堡灯光秀啦！\n骑乘项目「哈利·波特与禁忌之旅」非常非常逼真，特别声明：这是整个行程中我和素素都有闭眼睛的骑乘项目！记得买个互动魔杖，按照地图寻找互动点，可谓妙趣横生。\n晚餐推荐「三把扫帚」餐厅，点一杯黄油啤酒（ps，冷藏的好喝），推荐猪排套餐和烤鸡套餐，量超足！一份套餐才 100 多块，真的很大份，如图所示。（特此声明：仅单指在景区内猪排价格，没有之前说的四五百那么夸张！！拿日常在家吃饭花多少钱来比较的，请直接绕道，猪排见下方视频内）\n\n第七站：【好莱坞】\n\n要记得看「灯光，摄像，开拍！」，跟着大师走进幕后，感受光影魅力。\n这里也有「环球影城商店」，建议购物放在最后。\n\n我们入住的【环球影城大酒店】，当早晨醒来拉开窗帘，就可以看到阳光铺满了好莱坞大道，斑驳的光影交织在一起，如梦如幻。从这里开始，从这一秒开始，就可以踏入电影的奇幻世界。\n\n还有功夫熊猫主题的房间。\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739770",
+          "publishedOn": "2021-08-31T23:06:57.000Z",
+          "wordCount": null,
+          "title": "北京环球度假区将于 9 月 20 日正式向公众开放，你最期待哪个景区？有哪些地方值得打卡？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739779",
+          "author": null,
+          "description": "segelas，电影学硕士已毕业，但仍旧略懂皮毛\n阅读原文\n\n谈一谈个人的看法。\n这是一部关于玩家的电影，但却绝非是只为了讨好玩家的电影。利用很多非常“游戏化”的要素，它描述了规则的甜美与压力，对其麻木的被动享受与情感的自由反抗，描述了游戏与区别于游戏的现实。由此，它带来了自己对于“玩家群体”与“小众文化”正确定位的观点。\n如果翻开类似作品的列表，我们便会意识到它的价值。事实上，在一堆所谓“致敬亚文化”的小圈子自闭式狂欢之作里，我们几乎找不到与本作类似的表达内容。\n\n对于男主角来说，他受到约束的规则便是游戏世界的代码所决定的规则。这一点从开场就有体现，他在清晨醒来，遵循着系统为他设计好的行为轨迹：穿一样的衣服，看着一样的鱼，拉起同样次数的窗帘。而他在拉起窗帘时看到“真相”的诡异表情，已经让他隐约的反抗意识有所体现。而当他在购买咖啡时一反常态地选择卡布奇诺，以及在银行抢劫时、与其他例行公事地卧倒在地的 npc 完全不同的行为，都让他的反抗意识得到了更具体的表现。\n而诱发这一切的，便是有些烂俗的“爱情”了。在电影开场，第一次让男主角产生了超出系统对他设定的非 npc 行为的，正是对于女主角的爱情萌生。在这一幕中，女主角一路复述着 npc 固定的台词，只是到了他的面前说出了“这句没听过”，便是男主角对于其他 npc 的超越表现。\n因此，对于这部电影中的“爱情”诱发因素，也有着和一般作品里不同的用法——对于本不应有任何情感的程序人 npc 来说，爱情的萌生即代表了它的人类化，对于自身“被设定好生活”的命运挣脱，是一种自由的追求。\n\n以爱情为核心主线，电影围绕着男主角与女主角的交互展开。对于他来说，他面临的最终难关，便是真正的“变成人类”——突破系统设定对他的终极限制，突入到人类玩家交流区中。\n在这里，导演非常聪明地展现了自己对于网络游戏的认知：虚弱条、空气墙与掉线区域。在一般的游戏…",
+          "link": "https://daily.zhihu.com/story/9739779",
+          "publishedOn": "2021-08-31T23:06:52.000Z",
+          "wordCount": null,
+          "title": "如何评价电影《失控玩家》？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9739799",
+          "author": null,
+          "description": "为什么飞机商务舱一直拉着帘子？\n\n非著名青年律师，我有平安如江河。\n阅读原文\n\n不让你发现他们可以提前半个小时到。\n阅读原文\n\n经常出差住酒店，一般你会常备哪些物品？\n\n手写客，卖字维生 公众号“手写客”\n阅读原文\n\n只带了一颗啥都能将就的心…\n阅读原文\n\n现在看来，显卡等等党到底是赢了还是一败涂地了？\n\n左丘复明，「大权谋」逆天改命之学，盛衰荣辱之道\n阅读原文\n\n侄子是游戏爱好者，死肥宅一名，多次劝说无果。\n为了更好的游戏体验，他本打算购入一张好的显卡，但显卡价格一直涨。\n贫穷的侄子舍不得出高价买，于是做了 JS 痛恨的等等党。\n但等来等去，显卡价格一路飙升。侄子没办法，只好暂时放下电脑，去玩户外了，想着显卡跌价再买。\n一年下来，体重下降了 30 斤，性格变得阳光了，还谈了一个漂亮的女朋友，最后忘记了显卡这回事。\n阅读原文\n\n你的家乡有哪些你「吃不起」的美食？\n\n莽特特特，CDA二级建模分析师|阿布吐司作者\n阅读原文\n\n\n\n\n阅读原文\n\n你有一个永远都忘不掉的名字吗？\n\n艾原，凡所忧者皆虚惊一场，凡所搏者皆功不唐捐\n阅读原文\n\n李华。\n这个名字惊艳了我的高中英语时光。\n社交活动挺多，天天跟外国朋友打交道，成天参加英语讨论，时不时出国游玩，却连英语作文都不会写。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9739799",
+          "publishedOn": "2021-08-31T23:06:47.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9739743",
           "author": null,
@@ -5283,66 +5366,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738753",
-          "author": null,
-          "description": "文刀，电力圈的伪文艺青年\n阅读原文\n\n题主对问题的描述略显偏颇，电力体制改革可不仅仅是针对电网，2015 年 3 月的中发 9 号文《关于进一步深化电力体制改革的若干意见（中发〔2015〕9 号）文》为新一轮电改定调，同年 11 月的六个配套文件，是指明改革着手点的关键，包括：\n\n《关于推进输配电价改革的实施意见》\n《关于推进电力市场建设的实施意见》\n《关于电力交易机构组建和规范运行的实施意见》\n《关于有序放开发用电计划的实施意见》\n《关于推进售电侧改革的实施意见》\n《关于加强和规范燃煤自备电厂监督管理的指导意见》\n\n所以，电力体制改革是针对包括发电、输配电、售电、用电的整体电力系统，电网只是其中一环。同时由于电能是生活生产的重要二次能源，且对物理设备依赖性强，所以电网的物理垄断性不会被完全打破，针对电网改革的是其管辖范围（剥离电网的交易机构，使是电网更回归输配电本职），以及其运营和盈利方式（通过输配电价改革核定其收费）。\n正视了电改之后，回到问题主体，为什么进行电改？把这个问题再进一步细化成下面这三个问题，答案就明晰了：\n\n市场化机制的本质意义？——宏观价值\n电力系统为什么要从计划体制转向市场体制？——改革目标\n是什么促使政府走出了这一步？——根本动因\n\n一、市场化改革的宏观意义\n与市场体制相应对的就是计划体制，市场更强调利益和价值驱动，通过高效的市场行为提高整体的市场价值，降本与增效并重。从定义上看，\n市场机制主要是由市场的供求变化，通过竞争的方式引起价格、利率、汇率等上下自由波动，来引导资源向更加有效、更加合理的方向流动，实现全社会资源的优化配置。\n市场改革的意义，笼统地讲，就是资源优化配置。通俗地讲，市场就是把买方和卖方汇聚在一起，互相交易并决定商品的价格和产量，解决生产什么、由谁生产、如何生产的问题，并通过这种博弈与决策行为，提高经济效率，并且最大化可实现的社会福…",
-          "link": "https://daily.zhihu.com/story/9738753",
-          "publishedOn": "2021-08-01T23:08:26.000Z",
-          "wordCount": null,
-          "title": "为什么要进行电力体制改革？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738743",
-          "author": null,
-          "description": "皮肤科杨希川教授，三甲公立医院皮肤科主任医师\n阅读原文\n\n必知：痤疮攻略及问题大全\n痤疮是青年人最常见的皮肤病，俗称青春痘、粉刺、暗疮等。痤疮尽管一般不影响健康，但影响容颜，使人自卑，继而严重影响患者的心理健康、学习生活、社会交往和就业选择。\n\n痤疮原因\n\n痤疮的毛囊皮脂腺炎症的发生与多种因素有关，如内分泌因素、毛囊口角化异常、毛囊内的细菌过度生长以及遗传因素。\n尽管痤疮与内分泌关系密切，多数情况下痤疮患者体内雄激素水平是正常的，并不需要检查内分泌（性激素），但如果女性经常月经量少、延后，特别是有多毛和肥胖，则需要查性激素排除高雄激素血症，特别是多囊卵巢综合征。特殊情况下还需要排除先天性肾上腺皮质增生以及肾上腺或卵巢肿瘤。\n\n痤疮的特点\n主要发生于额部、两颊、胸背上部这些皮脂分泌较多的部位。表现为粉刺、红色丘疹、小脓疱，严重的可发生暗红色硬结或囊肿。部份患者愈合后遗留瘢痕。一般分为轻度、中度、重度。\n\n如何治疗1.内服药：\n①维甲酸类，如异维 A 酸或维胺脂；②抗生素，如四环素、多西环素等；③性激素，如达英 -35，优思明等；④抗雄性激素，如螺内酯、丹参酮胶囊等。\n注意：女性患者服用维甲酸类药物，应注意避孕，异维 A 酸需要停药 3 个月、维胺酯需停药半年以上才能怀孕。\n\n2.外用药：\n①维甲酸类，如阿达帕林凝胶等；②过氧化苯甲酰凝胶；③抗生素，如克林霉素、夫西地酸等；④二硫化硒洗剂，可以配合用于洁净皮肤。\n\n一些新的治疗：\n①红蓝光，对炎症丘疹效果好。②果酸活肤，对丘疹及粉刺有较好的疗效。③光动力，适合结节囊肿型痤疮。\n\n如何选择治疗方法：\n痤疮治疗药物种类很多，需要根据病情严重程度选用治疗方法。\n轻度痤疮：可以外用药为主，必要时配合口服药。\n\n中度痤疮：可内服抗生素类、维甲酸类药物；皮损处外搽维甲酸类、过氧化苯甲酰或克林霉素等。\n\n重度痤疮：有较多丘疹、脓疱及硬结或囊肿…",
-          "link": "https://daily.zhihu.com/story/9738743",
-          "publishedOn": "2021-08-01T23:08:19.000Z",
-          "wordCount": null,
-          "title": "痤疮真的治不好吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738741",
-          "author": null,
-          "description": "郑远，编剧/导演 编剧讲师 剧本医生（工作/创作/学习请私信）\n阅读原文\n\n题外话：\n最早入行做的第一部剧就是情景喜剧（2014）。\n前期策划虽然没有参与，但从修改剧本、现场副导到后期剪辑、配乐配音效，到审片出片、看它上线（播放尚可、口碑豆瓣 5.9 分），近乎埋头苦干。在后期公司剪辑房睡了二个月，也是颇有趣和意义的经历。\n此项目之后也陆续做了些情景喜剧相关的项目——拍了 2 集的情景喜剧样片、至少参与 3 部情景喜剧的策划——无一例外全部黄掉。最近三年都没有接触到任何情景喜剧项目。\n这并不奇怪，下文我将会解释：我们为什么要跟情景喜剧说再见了？\n我对情景喜剧是有感情的，小学看过《我爱我家》《成长的烦恼》《家有儿女》《东北一家人》《编辑部的故事》《炊事班的故事》《都市男女》《人人都爱雷蒙德》。\n高中看了《武林外传》和美国的《好汉两个半》，大学英语老师课上让我们看《生活大爆炸》，后来陆续看了《破产姐妹》《老爸老妈浪漫史》。\n从开始做情景喜剧开始，接触到一些经典情景喜剧，比如《布莱克书店》《米兰达》《IT 狂人》《歪星撞地球》《费城阳光永远灿烂》。我用 iPad 播放《歪星撞地球》助眠，十分有效。\n不久后新式情景喜剧占领市场，比较经典的是《罗马三贱客》《硅谷》《废柴舅舅》《男追女》《摩登家庭》《办公室》。除此之外，还有大量的看了几眼就舍弃的情景喜剧（老式、新式都有），题材有理发店、医院、公寓等等。\n知名度非常高的《老友记》和《爱情公寓》我没怎么看。若不是对这个问题的调查，这这几年的国产情景喜剧，比如《有些室友不能碰》《哈哈健身房》《能耐大了》，我近乎都没看过。\n小学看剧通过电视、初高中开始电脑和电池使用量持平、大学开始全是电脑，而当下用的最多的设备是手机（并非用手机看情景喜剧）。\n一、市场趋势\n情景喜剧从产品角度看，是以小博大的项目。《爱情公寓》第一季的投资成本是 300 万，到…",
-          "link": "https://daily.zhihu.com/story/9738741",
-          "publishedOn": "2021-08-01T23:08:10.000Z",
-          "wordCount": null,
-          "title": "为什么国内现在不拍情景喜剧了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738760",
-          "author": null,
-          "description": "三个桃，超实用系时尚穿搭博主，来【公众号：三个桃】找我吧！\n阅读原文\n\n事先声明的是——\n今天大部分是桃子穿衣示范，示范图以讲清方法为主，所以都是比较常见的基本款，目的是让大家容易上手、好操作。\n一，摆脱路人甲，鞋子很重要！！！\n生活中我们常说的学生气重，（长）T 恤 + 牛仔裤 + 运动鞋大概是标配。\n按照标配穿了一身！示范的标准吗？\n（右图加上了帅气的机车夹克，也依然没帅起来……）\n\n之前桃子在推送里说过，差不多的一身搭配，鞋子定义整体风格。\n所以，想要改变风格，从鞋子下手。\n把帆布鞋 / 运动鞋换成成熟向的高跟鞋，有没有立刻觉得大不同？\n同时，注意两个细节，时髦度会 up——\n1，上衣塞到裤子里；2，卷裤边（多露一点点脚踝）\n（有关细节，后面我会详细说）\n\n穿不惯高跟鞋，或者觉得细高跟太成熟，怎么办？\n桃子也有推荐——\n一直很流行的圆头粗中跟就很适合，好走路，风格又不会太犀利，我觉得 20+ 都能驾驭。\n\n烦恼学生气的妹子们，很建议你们买这种圆头中跟鞋。\n它的另外一个好处是，脚背露出比较多，比起全包脚面的帆布鞋、运动鞋，修饰腿型的作用非常明显——\n能让腿部线条更流畅，腿看起来更长。\n（对比一下，包脚的款式阻断了腿部的视觉延伸，所以看起来腿就短一些）\n\n还推荐初入职场的女生穿。\n最左边是上学时，很多妹子常穿的牛津鞋，最适合走学院风。但职场穿，鞋头圆乎乎，有点笨拙。\n右边是尖头高跟鞋，风格最干练，气场也最强。如果担心 Hold 不住，中间的圆头粗跟最适合职场新人。\n\n好，继续来看，夏天很多人穿的T 恤衫 + 牛仔裤组合。\n读者 Jojo.Yyh 说的大概就是这个意思，没什么不好，可……确实很路人。\n\n还是从鞋子下手。\n第一双——\n考虑到很多年轻妹子嫌太高的高跟鞋，成熟感过强（也不好走路）。\n所以，桃子特意挑了一双没那么高跟，还有点小可爱的黑白格子凉鞋，不会太成熟咯~~\n有…",
-          "link": "https://daily.zhihu.com/story/9738760",
-          "publishedOn": "2021-08-01T23:08:04.000Z",
-          "wordCount": null,
-          "title": "怎么快速脱掉学生气？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738754",
-          "author": null,
-          "description": "kmlover，公众号:不仅是健身/虫趣\n阅读原文\n\n我认为“蜘蛛趴在网的哪一边”是蜘蛛根据其对周围环境的感受，出于安全考虑作出的选择，理由如下：\n一、理论上看，蜘蛛的身体结构和攻击方式决定了它的背面是易遭攻击的薄弱环节\n对猎物或天敌，蜘蛛有两种攻击方式：\n\n用前四条腿推撑对方，使之保持一定距离，然后用后四条腿从腹部末端的纺器（即下图中的丝疣）抽出蛛丝来缠绕对方，迟滞其行动；\n用前四条腿搂抱住对方使之不能逃跑，然后以螯肢（即下图中的毒牙）叮咬；\n\n从蜘蛛的身体结构图可以看出，其毒牙和丝疣都位于身体腹面一侧：\n\n而且蜘蛛的腿也只能向腹面一侧弯曲：\n\n所以，蜘蛛只能向腹面一侧的猎物或敌人发起攻击，对从背后攻击的敌人则无计可施。这样有着“保护后背”本能的蜘蛛就更容易在残酷的生存竞争中存活下来。\n二、现实中许多蜘蛛都表现出对背面的保护意识\n由于蜘蛛的背部是易遭攻击的薄弱环节，使其在漫长的进化途中发展出了多种保护背部的方法，例如全国广布、秋季最常见的棒络新妇，会在主网背后再拉起一些不规则的蛛丝，把吃剩的食物残渣挂在上面，阻止天敌（例如专门捕捉蜘蛛的蛛蜂）从背后接近自己：\n图中左侧可见雌性棒络新妇背后拉起的蛛丝和悬挂其上的食物残渣\n又如漏斗蛛，其水平漏斗形网的上方也有许多不规则蛛丝，这些蛛丝既能拦截过往的飞虫使其坠入蛛网，也能阻挡小型天敌的攻击（因为漏斗蛛是背面朝上趴在网上的）：\n漏斗蛛的漏斗形蛛网，放大了看可以看到上方有不规则蛛丝分布，图片为林业杰所摄\n更加“缺乏安全感”的云斑蛛则干脆在水平圆网的上方和下方都布上蛛丝，这样不管是肚皮朝上倒挂着，还是背部朝上趴在网上，都很安全：\n云斑蛛的特点是结水平圆网，网的上方和下方都有不规则蛛丝分布\n也有一些蜘蛛不愿意用额外增加蛛丝的方式来保护自己，而是选择了苦练内功。例如结单层垂直圆网的园蛛和金蛛，当它们感到背后有危险时，会在瞬间从网的一侧穿越到另一侧（我曾用手指逗弄孔目金蛛，使之以为有天敌来袭而施展此技，其速度之快堪比 WC3 中的闪烁技能，遗憾的是暂时找不到图片和视频来展示……），这样来袭的敌人就会被蛛网所阻挡，使蜘蛛得以逃走。如果敌人不慎被蛛网粘住的话，甚至有机会实现反杀。\n所以，题主看到的“十几只蜘蛛都趴在网的同一侧”很可能是因为在另一侧存在某些对人而言司空见惯，但对蜘蛛则非常强烈，有可能意味着危险的刺激（例如人或汽车经过时制造的气流，汽车溅起的积水等等）。至于与众不同的那一只，一则它可能正好没有受到刺激的影响，二则……人上一百，形形色色，蜘蛛中也有几个心大的不是？\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738754",
-          "publishedOn": "2021-08-01T23:07:55.000Z",
-          "wordCount": null,
-          "title": "蜘蛛是如何决定趴在网的哪边的?",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9738770",
-          "author": null,
-          "description": "谈恋爱的前兆是什么？\n\nEveline，学生\n阅读原文\n\n单身\n阅读原文\n\n你眼中的甘肃是一个什么样的地方？\n\n飞金走银，潜水\n阅读原文\n\n不请自来，甘肃太长，无形增加了我返疆的时间。\n阅读原文\n\n男生可以把女朋友的小发圈戴在手上 那女生有没有什么可以证明自己有男朋友的东西？\n\n郭荒虎，文可播音，武可抖枪\n阅读原文\n\n耳朵上别一根华子\n阅读原文\n\n外国人能不能听懂我们骂人的话？\n\n沈以临，欢迎关注微信公众号《吴音沪事》。\n阅读原文\n\n姚明在火箭的前期，和弗老大搭档的时候\n弗老大就很好奇，姚明是不是喜欢吃西红柿\n就有人问为什么\n弗老大说：姚明总是在场上说 tomato，tomato\n后来经调查（严肃脸）\n姚明在场上说的一直是：tmd\n阅读原文\n\n微信头像会影响第一印象吗？\n\n小脑花儿，不可爱 很阳刚\n阅读原文\n\n会 我之前用的这个头像被强制移出了公司群\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9738770",
-          "publishedOn": "2021-08-01T23:07:47.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5458,15 +5481,6 @@
           "publishedOn": "2021-08-03T12:35:49.000Z",
           "wordCount": 115,
           "title": "2021.08.04 今天是每日时报陪伴您的第 600 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/08/03.html",
-          "author": null,
-          "description": "2021.08.03 今天是每日时报陪伴您的第 599 天\n[文章] 云开发 Webify 正式上线：专为 Web 开发者打造的云上开发部署平台：https://mp.weixin.qq.com/s/4fQkUeQ_CcCgPj1Y-zUhyQ\n[文章] 前端组件化实战之 Button：https://mp.weixin.qq.com/s/jbm22j7XpiUTBG4AvNIdjg",
-          "link": "https://wubaiqing.github.io/zaobao/2021/08/03.html",
-          "publishedOn": "2021-08-02T12:47:33.000Z",
-          "wordCount": 87,
-          "title": "2021.08.03 今天是每日时报陪伴您的第 599 天"
         }
       ]
     },
