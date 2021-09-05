@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-04T01:08:39.352Z</updated>
+    <updated>2021-09-05T01:11:13.259Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[性能优化：如何更快地接收数据]]></title>
+        <id>https://toutiao.io/k/vf7kpbe</id>
+        <link href="https://toutiao.io/k/vf7kpbe"/>
+        <updated>2021-09-05T01:11:12.061Z</updated>
+        <summary type="html"><![CDATA[不放过任何细节，从底层开始做极致优化]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团商品知识图谱的构建及应用]]></title>
+        <id>https://toutiao.io/k/dvuncww</id>
+        <link href="https://toutiao.io/k/dvuncww"/>
+        <updated>2021-09-05T01:11:11.721Z</updated>
+        <summary type="html"><![CDATA[商品知识图谱作为新零售行业数字化的基石，提供了围绕商品的精准结构化理解，对业务应用起到了至关重要的作用。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flink 窗口触发器 Trigger]]></title>
+        <id>https://toutiao.io/k/1oaul2e</id>
+        <link href="https://toutiao.io/k/1oaul2e"/>
+        <updated>2021-09-05T01:11:11.587Z</updated>
+        <summary type="html"><![CDATA[Trigger(窗口触发器)决定了窗口什么时候调用窗口处理函数]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeJS 服务 Docker 镜像极致优化指北]]></title>
+        <id>https://toutiao.io/k/jd7vwzk</id>
+        <link href="https://toutiao.io/k/jd7vwzk"/>
+        <updated>2021-09-05T01:11:11.396Z</updated>
+        <summary type="html"><![CDATA[干货]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[译] Linux 异步 I/O 框架 io_uring：基本原理、程序示例与性能压测 (2020)]]></title>
+        <id>https://toutiao.io/k/vydmpz2</id>
+        <link href="https://toutiao.io/k/vydmpz2"/>
+        <updated>2021-09-05T01:11:07.547Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是美？]]></title>
+        <id>https://daily.zhihu.com/story/9739906</id>
+        <link href="https://daily.zhihu.com/story/9739906"/>
+        <updated>2021-09-04T23:07:39.000Z</updated>
+        <summary type="html"><![CDATA[豹隶，【浮世当代】发起人，请关注知乎的【浮世当代】
+阅读原文
+
+（多图长文）这是一个非常大的问题，而且给美下定义反而会使自己偏离它的轨道，
+只能结合文明历史稍稍描述一下，（客观的美，无人能答，甚至可以说它并不存在，因为美不美是对人而言的，它是“人为的概念”）我们只能去梳理一下美的概念，并无权去答美的本质。
+人类所有的概念都是建立在其认知之上的，为了不越绕越复杂，我们这里说的认知主要指的是经过历史的洗炼，最终化为的一种全民普世的认知基底。（毋宁说我们学的是历史，不如说我们是在了解一个民族的集体认知。）
+中西双方对美，在历史的长河里分别形成了怎样的认知呢？
+美的概念在不同历史阶段，不同民族都不一样，
+简单来说：
+在中国，美是生命（宇宙、自然）本真的节奏
+在西方，美是真理的显现
+而什么是生命本真的节奏？这要看数千年来，中国人如何理解了
+什么又是真理？这也要看历史一路走来，西方人如何理解
+
+先说中国，
+关键词两个：美、节奏
+我们需要先从节奏入手，才能捋清中国人是如何看美的，才能从深处理解我们的民族把什么看作是美
+好，何为节奏？
+先忘掉摇滚乐 拍子等等这些说起节奏你会想起的东西，抛却一切人类发明的声乐工具，我们回到最初始的状态，节奏是什么？
+是 风声 海浪的拍打 呼吸 心跳 …是四季的轮回，是树叶的枯败又新生，是麦子的收获与播种，是食物的新鲜与腐烂…
+是生，是死，再生...节奏是地球的心跳与呼吸，是地球绕太阳的轨道，是日日夜夜
+是宇宙的 … “动”。节奏一定是“动”，不是“静”。
+动是恒态，静是动与动之间的停留。
+这个“动”有两层意思：物理层面的动，和哲学层面的动（变化）
+“动”是中国基底思想的根本，《易经》—变化之书
+这个根本就是美这一概念生发的土壤，（原始社会的各种壁画，那时人们是没有美的概念的，所以不在本文范围内）
+把这个概念外显出来，就是书法线条的急缓走势、点中的高峰坠石、水…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫威宇宙进入第四阶段后，作品是不是开始变得更粉丝向，甚至有些小众了？]]></title>
+        <id>https://daily.zhihu.com/story/9739949</id>
+        <link href="https://daily.zhihu.com/story/9739949"/>
+        <updated>2021-09-04T23:07:33.000Z</updated>
+        <summary type="html"><![CDATA[不愿透露姓名的乱匠，乱匠所到之处，必可见“渗漏尖塔”符号的涂鸦。
+阅读原文
+
+这是个好问题，作为中文互联网上最早开始写漫威电影里的“梗”分析的人，我先简单说几个观点。
+第一，漫威电影宇宙从诞生之初本身就有很强的“梗”属性。主要是因为它的创作团队无论是导演、编剧、演员还是其他工作人员都是二战后欧美流行文化繁荣后成长起来的，他们从小就接触这些流行文化产品，写作的时候可能主动或被动地就用上了。这些“梗”我大致可以分三类，其一是针对漫画原著的“梗”；其二是针对广义的流行文化例如过去的电影电视流行音乐的“梗”；其三是针对同属于漫威电影宇宙的其他作品的“梗”。
+其中的第三类在早期（大致可以说是《复仇者》之前）和当下起到的作用不同。在早期，一部漫威电影宇宙作品中出现另一部漫威电影宇宙作品的细节，例如《无敌绿巨人》中军方使用斯塔克工业的武器去追捕布鲁斯·班纳，这主要是为了建立“多个不同系列电影可以存在于同一时空中”这个心理预期，因为在漫威电影宇宙之前，电影行业里几乎只有用同一个标题拍一二三四前传后传的模式。但是在当下，所有观众都有这个心理预期了，而且可以被引用的电影原作也越来越多，这类“梗”的主要作用就变成了满足现有粉丝的审美偏好了。
+第二，“小众”除了越来越多的自我引用之外，也有一个因素是漫威新引入电影宇宙里的角色在改编前的知名度总体上越来越低。
+第三，漫威电影宇宙有一种在时空结构上逐渐“高魔化”的倾向。前文提到早期漫威电影宇宙最大的创举是把漫画里的“多个系列共存于同一时空”引进到电影行业里，但是到了第三阶段，出现了“一个电影系列，甚至一部电影里有多个时空”的模式。这种模式很漫画，但是对于一般的电影观众来说，确实提高了一些理解门槛。
+第四，如果我们讨论的是中国，必须指出一点，就是 2021 年的中国青年电影观众群体与 2011 年的中国青年电影观众群体相比可能已经有了一些变化。2021 版的观众群里，从根源上就不喜欢欧美流行文化的人占比显著提高了，既然根源上就不喜欢，那也谈不上去研究作品里的“梗”了。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对女生来说，合理的锻炼时间和周期是怎么样的?]]></title>
+        <id>https://daily.zhihu.com/story/9739969</id>
+        <link href="https://daily.zhihu.com/story/9739969"/>
+        <updated>2021-09-04T23:07:29.000Z</updated>
+        <summary type="html"><![CDATA[岩点，爱攀岩，上岩点。欢迎关注 公众号：岩点
+阅读原文
+
+今天我们打算跟大家聊点实际的：女性的生理周期对攀爬和训练的影响，以及该如何根据生理周期制定攀爬和训练计划。
+几年前我开始对这方面感兴趣，并开始详细地跟踪和记录我的生理周期，以及在不同阶段的感受和运动表现，受益匪浅。不知道你有没有注意到，一个月中的有些时候人会精力极差，连爬楼梯都觉得吃力，别提去攀岩了。之前我觉得很奇怪，人也没生病，为什么会精力这么差？后来追踪生理期后发现，这几天总出现在月经前的一周。而在有些天里，感觉有用不完的力，身轻如燕，抱石好几个小时也不觉得累。这种有力天一般从我来月经的第二天开始，能持续两周左右。对我个人而言，最受益的是在精力不好时允许自己休息，而不强迫自己去训练或磕线。
+近几年随着业内对女性生理周期与运动的研究增多，越来越多的教练将此付诸实践，提供根据生理周期安排攀爬和训练的建议。《岩与冰》杂志刊载了一篇探讨同步女性生理周期和攀岩训练的文章，这篇文章的作者之一玛德琳·科普（Madeleine Cope）便是英国攀岩训练机构 Lattice Training 的一名教练，专门训练女运动员。另一位作者尼尔·格雷沙姆（Neil Gresham）也是英国大名鼎鼎的攀岩教练。
+需要指出的是，因为个体差异，具体的训练安排很难直接抄过来，但原则是一致的。最重要的是了解自己的身体，聆听身体发出的信号，作有针对性地攀爬和训练计划。
+
+图片来自 trainingbeta
+什么是生理周期：不止月经排卵
+女性生理周期一般为 21-36 天，第一天以月经起始计算，月经的那段时间只是生理期的一小部分，其他时候女性体内的荷尔蒙也一直在变化中。
+第一阶段：月经期
+第二阶段：卵泡期，此阶段与第一阶段有重合，从经期第一天到排卵期，长度因人而异。
+第三阶段：排卵期，可发生在第 14 天至第 28 天之间。
+第四阶段：黄体期， 从排…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么猫粮推荐呢？]]></title>
+        <id>https://daily.zhihu.com/story/9739982</id>
+        <link href="https://daily.zhihu.com/story/9739982"/>
+        <updated>2021-09-04T23:07:25.000Z</updated>
+        <summary type="html"><![CDATA[猫无忧，专注养猫知识科普，普及科学养猫理念。tb:猫无忧
+阅读原文
+
+本人为宠物饲养话题优秀答主，知乎宠物盐究员，2020 知乎新知答主，在知乎创作至今从来与任何品牌方合作，未接过任何一个广告。请大家放心阅读。
+不以预算为前提的推荐都是耍流氓。建议在自己经济允许范围内给猫咪最好的。
+千万不可偏听偏信，一定要多方面了解！请不要相信任何自制猫粮，散装猫粮，素食猫粮。谨慎选择网红小品牌新品牌，这一行不规范问题很多，务必谨慎，尽量选择口碑好的老品牌大品牌。
+本推荐最贵一档每月 250 不到，最低一档每月仅需 100 元左右。强烈建议各位耐心看完，里面很多要点，尤其适合小白猫友，要开始进入正文啦～
+第一档：渴望鸡肉和六种鱼猫粮、百利高蛋白系列猫粮，法明娜鸡肉石榴和鲱鱼甜橙。推荐度：★★★★☆
+预算问题：按一只猫咪每月 4 斤算，每月 200～250 元左右。
+适合阶段：全阶段，幼猫成猫都可以吃。
+主要特点：含肉量极高，鲜肉配方，不含肉粉。动物性蛋白占粗蛋白比例高。百利高蛋白，明确标注 95%的粗蛋白来自动物蛋白。百利高蛋白属于软便克星，这也验证了猫咪吃高蛋白食物容易软便的说法纯属无稽之谈。渴望则明确标注每种肉类占比，原料优秀。无谷，无人工添加剂。完全满足猫咪营养需求，土壕推荐这个档次，因为价格偏高，并不适合大部分养猫家庭。
+这三个怎么选：一般来说，容易软便的猫咪建议选择百利高蛋白；肠胃比较好的可以考虑渴望；如果百利高蛋白和渴望都不想考虑，可以考虑法明娜，这个猫粮的配方研发团队比较强。不过我个人还是建议分别试吃以后，再决定选哪个。
+代理商及防伪查询问题：
+渴望大陆代理商为台湾渴望宠物食品有限公司，大家可以关注“ORIJEN 原始猎食渴望”公众号查看授权店铺和防伪查询。
+百利大陆代理商为百配贸易，大家可以关注“百配贸易”公众号查看授权店铺，并咨询客户真伪查询办法。
+法明娜大陆代理商为重庆…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果评价 2019 年法国电影《悲惨世界》（Les misérables）？]]></title>
+        <id>https://daily.zhihu.com/story/9739767</id>
+        <link href="https://daily.zhihu.com/story/9739767"/>
+        <updated>2021-09-04T23:07:20.000Z</updated>
+        <summary type="html"><![CDATA[宗城，写小说的。
+阅读原文
+
+《悲惨世界》：暴力是无名者最后的利刃
+对《悲惨世界》的讨论要纳入左翼电影复兴的浪潮中。从 2008 年经济大危机开始，世界电影就迎来了一波左翼电影热潮。它们关心阶级、性别、社会资源分配、平台资本主义与零工矛盾等问题，在一个总的社会不平等框架中，把镜头对准了被遮蔽的群像。
+近年来左翼题材的代表作，是肯·洛奇的《对不起，我们错过了你》、奉俊昊的《寄生虫》、李沧东的《燃烧》、刁亦男的《白日焰火》和黄信尧的《大佛普拉斯》等。导演们的侧重点各不相同，但都选择了放弃温吞叙事，和一种中产知识分子常有的自上而下的怜悯，取而代之的是凌厉和决绝，把社会矛盾原原本本地撕开来看。
+法国导演拉德·利的长篇处女作《悲惨世界》同样在这个谱系中。它有力而精准的叙事，比名声大噪的《小丑》更胜一筹。杰昆·菲尼克斯主演的《小丑》虽然暴露了新自由主义社会贫富不均、阶层撕裂的问题，表现了边缘人对富人虚伪、麻木不仁的愤怒，但它整体上仍是一个观念大于内容的故事，而小丑也被诠释成一个高度符号化、迎合市场趣味的孤狼式民粹分子，社会矛盾的复杂性并没有就此展开，而是沦为一场快意恩仇的复仇奇观。
+《悲惨世界》从一开始就拒绝了这样的奇观化展现。它以一个伪纪录片的方式开场，摄影机带领观众来到街头，入画的首先是几个热爱足球的黑人少年，他们谈论姆巴佩、马图伊迪、博格巴（这些人都是法国国家足球队的黑人成员），支持法国足球队的移民后代，这其中大部分是非洲移民或阿尔及利亚后裔。历史上，由于法国对非洲多个国家的殖民入侵，法语成为非洲多个地区的通行语言。地理和语言的亲近感，使得法国成为许多非洲前殖民地居民偷渡或移民的第一选择。如何安置非洲移民和穆斯林，成为法国社会的重要议题。《悲惨世界》以黑人和穆斯林入画，把镜头对准了法国社会被遮蔽的地带，那是一个不同于凡尔赛宫、香榭丽舍大道、缺乏资产阶级浪潮和文人情调的地方，那里暗…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么算是人生的顶级享受？]]></title>
         <id>https://daily.zhihu.com/story/9739920</id>
@@ -11174,439 +11344,6 @@ The post gridless.design appeared first on CSS-Tricks. You can support CSS-Trick
 美国出人意料的小组第六（38…]]></summary>
         <author>
             <name>运动分子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Useful VSCode Extensions For Web Developers]]></title>
-        <id>https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/08/useful-vscode-extensions-web-developers/"/>
-        <updated>2021-08-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VS Code can be supercharged wuth hundreds of [VS Code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/). In this article, Leonardo shares four useful extensions that help him in his daily work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 项目上 this.$set 的用法]]></title>
-        <id>https://toutiao.io/k/62fkj1t</id>
-        <link href="https://toutiao.io/k/62fkj1t"/>
-        <updated>2021-08-06T01:10:46.946Z</updated>
-        <summary type="html"><![CDATA[本篇文章主要讲解Vue项目中，this.$set这个api的用法.]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOP 技术在 App 开发中的多场景实践]]></title>
-        <id>https://toutiao.io/k/gg08t4d</id>
-        <link href="https://toutiao.io/k/gg08t4d"/>
-        <updated>2021-08-06T01:10:46.770Z</updated>
-        <summary type="html"><![CDATA[目前AOP技术已经京东内部已经落地实践了性能监控、隐私方法/字段合规检测、线程使用数优化等场景。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web 开发指南（零）开发相关知识]]></title>
-        <id>https://toutiao.io/k/1v0dnue</id>
-        <link href="https://toutiao.io/k/1v0dnue"/>
-        <updated>2021-08-06T01:10:46.685Z</updated>
-        <summary type="html"><![CDATA[本文将逐一介绍 Web 开发相关知识，它们可能是技术、可能是工具、也可能是思想等。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何时进行重构？]]></title>
-        <id>https://toutiao.io/k/cpcg1s5</id>
-        <link href="https://toutiao.io/k/cpcg1s5"/>
-        <updated>2021-08-06T01:10:46.100Z</updated>
-        <summary type="html"><![CDATA[重构时机如何定，表述不同核心同\x0a满足需求好设计，效率提升争一争]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实践 DevSecOps，很多人第一步就做错了]]></title>
-        <id>https://toutiao.io/k/ldv3dxl</id>
-        <link href="https://toutiao.io/k/ldv3dxl"/>
-        <updated>2021-08-06T01:10:46.051Z</updated>
-        <summary type="html"><![CDATA[实践DevSecOps的第一个误区解析。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次跨域问题的分析]]></title>
-        <id>https://toutiao.io/k/bu12ly2</id>
-        <link href="https://toutiao.io/k/bu12ly2"/>
-        <updated>2021-08-06T01:10:45.975Z</updated>
-        <summary type="html"><![CDATA[是跨域，但又不完全是跨域]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucene 之 DisjunctionMaxQuery（一）]]></title>
-        <id>https://toutiao.io/k/tcejg6u</id>
-        <link href="https://toutiao.io/k/tcejg6u"/>
-        <updated>2021-08-06T01:10:44.769Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零设计可视化大屏搭建引擎]]></title>
-        <id>https://toutiao.io/k/662perp</id>
-        <link href="https://toutiao.io/k/662perp"/>
-        <updated>2021-08-06T01:10:43.991Z</updated>
-        <summary type="html"><![CDATA[相关文章: 从零开发一款可视化大屏制作平台 演示地址: V6可视化大屏编辑器 几个月前我写了一篇关于 从零开发一款可视化大屏制作平台 的文章， 简单概述了一下可视化大屏搭建平台的一些设计思路和效果演示， 这篇文…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零开始写一个微前端框架（沙箱篇）]]></title>
-        <id>https://toutiao.io/k/86zehix</id>
-        <link href="https://toutiao.io/k/86zehix"/>
-        <updated>2021-08-06T01:10:43.003Z</updated>
-        <summary type="html"><![CDATA[前言自从微前端框架micro-app开源后，很多小伙伴都非常感兴趣，问我是如何实现的，但这并不是几句话可以说明白的。为了讲清楚其中的原理，我会从零开始实现一个简易的微前端框架，它的核心功能包括：渲染、JS沙箱、样式隔离、数据通信。由于内容太多，会根据功能分成四篇文章进行讲解，这是系列文章的第二篇：沙箱篇。通过这些文章，你可以了解微前端框架的具体原理和实现方式...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 170 期）：软件订阅制的胜利]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html"/>
-        <updated>2021-08-06T00:23:21.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
-本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
-周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
-封面图
-
-一个摄影师在荷兰拍到了一只倒着飞的鹅。（via）
-本周话题：软件订阅制的胜利
-上周，苹果公司最新一季的财报，披露了一个惊人的数据：它有 7亿 付费订阅用户。
-
-这太可怕了。世界总人口目前大约是78亿，里面包含了小孩、老人、文盲、穷人。即使把他们都算在内，全世界每11个人里面，就有一个人购买苹果公司的软件服务。软件生意还能做得比这更大吗？
-注意，这是付费用户，不是免费用户。作为比较，阿里巴巴上周也宣布，它有10亿活跃用户，但那是免费用户。如果每月付费才能使用淘宝，不知还有多少能留下来。
-苹果的付费订阅服务，目前主要有六项。
-iCloud：存储服务
-Apple Music：音乐服务
-Apple TV：视频服务
-Apple News：新闻服务
-Apple Fitness：健身服务
-Apple Arcade：游戏服务
-苹果把它们打包在一起，做成了一个 Apple One 订阅包。7亿订阅用户应该就是购买这些服务的人数。至于硬件质保的 Apple Care 服务，可能不包括在里面，因为它属于硬件销售收入，而不是软件收入。
-
-今天我想谈的，并不是这些服务本身，而是想提醒大家注意。 世界最大的一些软件公司，正在改变软件销售模式，不再销售软件本体了，而是收取软件服务的订阅费。 苹果只是其中一个典型的例子。
-除了苹果，世界最大的桌面软件商----微软公司也正在改成订阅制。它的 Office 已经变成了 Office365 服务，都在云端使用，个人版的价格是每年398元人民币。它还有计划在今年下半年，推出 Windows365 服务，把 Windows …]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么很多歌手都会有演唱会忘词的情况？]]></title>
-        <id>https://daily.zhihu.com/story/9738914</id>
-        <link href="https://daily.zhihu.com/story/9738914"/>
-        <updated>2021-08-05T23:08:46.000Z</updated>
-        <summary type="html"><![CDATA[张毅非，混音|编曲|作曲|也拍照|也愛棒球
-阅读原文
-
-先说制作人型的歌手（指比较接近一体机型的，周王陶林、李荣浩这类）：
-制作一首歌，从作曲到编曲到录音到混音到母带，需要听至少几千遍，所以制作人显然是对这首歌熟悉到连每一根汗毛在哪里都知道，并且听的目的和歌迷不一样，他们是职责所在，每次听都不是在欣赏，只想挑毛病，越听越痛苦，所以除了录音这一部分会去把注意力放在歌词上之外，其他时候根本就没听歌词（顶多是听个大概，然后想想，这部分这样编或者这样混合不合适）所以当一首歌制作完成后，往往都如释重负，一段时间内都不想听到它，不然就会无休止的想要在某些细节上鬼打墙，这首歌就永远都发行不出来……所以会忘词一点也不意外。
-然后其他全部类型可以一起说（包含写词的、写曲的、只唱的）以个人一点点关于演唱的经验，一方面是想要表达好一首歌，需要对这首歌有一点新鲜感。最完美的状态应当是，非常熟悉，但又能对里面的每一个字、每一个音符由衷的喜欢，有很强烈的演绎这首作品的动力。熟悉程度达不到这个完美状态的时候，会忘词，这不用多说；熟悉程度超过这个的时候，会“皮了”，嘴巴在唱，心里在想今晚要吃什么宵夜，完全是肌肉记忆。但肌肉记忆其实也很危险，一旦卡壳了是回不来的，因为脑子没跟上，而且万一不小心形成错误肌肉记忆（比如跟朋友吃饭喝酒，兴致来了，恶搞了一下自己的一首歌，搞了两三次，闹着玩的，结果下次演唱的时候肌肉记忆起了变化。太过于熟练有时候偶尔也会突然肌肉记忆乱掉，有练过乐器的人或多或少应该都有这样的经验）就会突然忘记这里该怎么唱，一样也会忘词、串词。
-另外，周华健这种歌很多的人，平时演出通常都是唱几首，那往往都是选最知名的几首、或新歌，在这些歌被唱到快吐了之外，还有大量的歌一年唱不了几次（我相信也根本不会去听的）到了个人演唱会就要哭了，背不完啊……这样忘词也是难免的。在没有提词器的时代我记得有人说过周华健演唱会都会在地板上偷写歌词 233
-还有极小概率是突然大脑宕机了……我有过一次，不是自己的歌，是陶喆的《爱，很简单》，当时身为多年的陶喆粉丝，对这首歌熟到不能再熟了，然而音乐一下，也没紧张也没激动，就突然忘了第一句，然后就“哼哼哼嗯嗯嗯嗯~~”的混过去了，从第二句接回来面不改色的唱完，下台后想起来，第一句是“忘了是怎么开始”（真是应景啊……啊就真的忘了怎么开始了咩……）
-所以啊提词器真是相当伟大的发明……可以让歌手不要再为了歌词而苦恼，专心在对歌的演绎上，间接提升了演出的平均品质。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卧室有哪些听着很有道理，但实际用到时效果很糟糕的收纳建议/物品？]]></title>
-        <id>https://daily.zhihu.com/story/9738924</id>
-        <link href="https://daily.zhihu.com/story/9738924"/>
-        <updated>2021-08-05T23:08:37.000Z</updated>
-        <summary type="html"><![CDATA[爱整理的方小白，热衷收纳整理/让家变得治愈，分享收纳好物公众号：出圈儿
-阅读原文
-
-之前没事就打开电商平台刷个十几分钟，每次刷就种草一堆收纳神器，价格不贵看起来还贼好用，以为买回来就能把家里收拾得妥妥帖帖。
-然而，用了几天才发现它们不光不好用，还变成了麻烦的元凶。可能有的我勉强还在用看，有的已经扔了。
-这些“收纳神器”，详情页文案天花乱坠，收货后秒变鸡肋，强烈拔草！
-今天，我来把这些“收纳神器”整理出来，下次你们再看到它们，请马上略过！
-NO.1 双层鞋架
-你以为是这样的：
-
-实际上是这样的：
-
-是不是第一次看到这种鞋架的时候觉得非常实用？能放多好几双鞋，解决蜈蚣精的需求？
-然而，这种鞋架看似实用，实际上只适用于尺寸较小的鞋，像高帮鞋或者宽一点的男装鞋根本放不下。
-而且如果你家鞋柜的高度低于 30cm，那就基本上全靠挤才能放得下这玩意儿！当然了，最不方便的还是每次取放鞋子都要来回弄个好几遍才能把鞋子放好…… 对于我们大多数“懒人”来讲，还是乖乖地选择透明抽屉鞋盒更妥当。
-NO.2 立式鞋架
-你以为是这样的：
-
-实际上是这样的：
-
-说到鞋架，不得不提一嘴这个同样难用的立式鞋架，看图片的时候真的心动，一次性放下三双鞋子。当你买回家的时候你就会发现，男装鞋和高帮鞋放不下。
-当你终于找到尺寸对的鞋子支起来，取出一对鞋子的时候，其他鞋子也跟着倒下来，真的欲哭无泪……
-而且这个鞋架根本塞不进一般的鞋柜，除非你家鞋柜的层高有 30cm 以上，不然就别考虑了。
-NO.3 双层鞋托架
-你以为是这样的：
-
-实际上是这样的：
-
-虽然能放得下平底鞋，但是它依旧放不下高帮鞋、高跟鞋、以及男士鞋，而且你家的鞋柜要足够高才能像上图一样放得下两双鞋子，不实用。
-NO.4 S 型裤架
-你以为是这样的：
-
-实际上是这样的：
-
-S 型裤架，官方声称一个裤架能收纳五条裤子，看起来真的美滋滋。
-当我怀揣着美好的幻想尝试把五条裤子放进裤架时，再一次留下悔恨的泪水。
-这裤架根本顶多能塞进三条裤子，如果你的裤子稍微厚实一些，根本放不下好吗！ 说好的方便收纳呢？怒摔！
-而且每次拿取中间的裤子时，其余几条都会被扯出来，然后你就得逐条整理。
-这到底是什么“神仙”鸡肋玩意儿？
-NO.5 九孔衣架 
-你以为是这样的：
-
-实际上是这样的：
-
-这个九孔衣架也是衣架中的垃圾战斗机。
-看图以为它一个顶九个，实际它连一个都不如，别问我怎么知道的。
-冬天厚重的衣服放不了几件，只能放薄如衬衣的衣服。 然而最后你就会发现它跟正常挂放所占的位置是一样的，那买它回来干嘛？ 而且每次拿取衣服都要把整个衣架拿出来，麻烦又费力，还歪在一边，一点儿都不美观！
-NO.6 折衣板
-你以为是这样的：
-
-实际上是这样的：
-
-折衣板，美其名曰能帮你快速叠好衣服，一板一衣。实际上很鸡肋，把衣服放在板子上叠好，还用丝带包住竖放？ 浪费空间且极其不便利。
-而且稍微厚实一点的衣服（如卫衣、外套）根本不适用呀。一旦叠放厚衣服就东倒西歪了，还不如挂起来或者简单叠放好使呢。
-NO.7 包包收纳袋
-你以为是这样的：
-
-实际上是这样的：
-
-当我看到详情页图片时，以为家里那无处安放的包包终于有了好归宿。然而，用了一段时间后发现它不仅占地儿，还把包包挤到变形。
-而且也不是什么包包都能放得下，稍微大一点的包包也只能放在一边，那买它回来的意义是啥？
-NO.8 蜂窝式整理格
-你以为是这样的：
-
-实际上是这样的：
-
-咦，这不就是传说中收纳内裤和袜子的神器吗？
-我用血泪史告诉你，一！点！都！不！好！用！首先，它不一定适合你家的抽屉尺寸，组装麻烦。 当然了，最鸡肋的还是它收纳有限，要么放不下一双袜子，那就放一只袜子或一条内裤吧，然后你就发现它远没有之前收纳得多呀。
-NO.9 圆圈围巾衣架
-你以为是这样的：
-
-实际上是这样的：
-
-这个围巾收纳衣架的鸡肋程度和 S 型衣架是不相上下的，首先并不是每个人都有那么多围巾需要收纳，当你塞满的时候，不美观，还拿取不方便，而且还占地方。
-NO.10 衣柜分层搁板
-你以为是这样的：
-
-实际上是这样的：
-
-我本来以为这个衣柜分隔板起码会比九孔衣架、S 型衣架好用些，然而并没有。
-虽然它能分隔空间，尽可能地利用好空间。 但如果你放比较重的物品，它就很有可能会塌下来，别问我是怎么知道的。
-不知道你家中招了没，反正我对这些所谓的收纳神器真的累爱不觉，其实很多都是所谓的网红家居博主吹嘘出来，商家变着花样玩的噱头。
-任何不为方便实用服务的“家居神器”都是耍流氓呀。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在绘画中是否有办法用冷色调来表现炽热感的画面，例如沙漠等？]]></title>
-        <id>https://daily.zhihu.com/story/9738894</id>
-        <link href="https://daily.zhihu.com/story/9738894"/>
-        <updated>2021-08-05T23:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Scotty，我总能找到些被忽视的珍珠
-阅读原文
-
-谢邀，说句老实话，这题问得好刁钻，我尽量答吧，
-我的思路是从我自己积累的图库中搜索色调关键词（我自己分类好的），
-然后从“冷调”和“炽热感”这两个角度入手，
-看看有没有接近或者勉强符合这道题的作品：
-1.作者 Maja Wronska 在冷调中加入点状、线状的暖色
-这个能不能算冷调都两说，这个思路算是勉强切题吧。
-
-2.作者 John Miller 暗示和营造出一股压迫视觉的炙热夏天
-这个我觉得比较厉害，你能透过画面想象到这是一个沉闷到不行的夏日海滩，能感受到一股压抑的热浪；
-
-3.作者 Joaquín Sorolla 冷调海滩
-西班牙的印象派画家，用冷调去烘托海滩的光线，让你回忆起海边的日晒
-
-4.作者 Nicholas Roerich 沙漠风景
-
-题主说例如沙漠，这是我能找到的冷调中最暖的沙漠了....
-5.Bato Bugarzhapov 和 Peter Bezrukov 的风景色彩，刺眼的光
-用光去营造炽热感，描绘出那种刺眼的感受
-Bato Bugarzhapov：
-
-Peter Bezrukov：
-
-下面四幅也是靠光感来营造出的感受：
-作者不详作者不详作者不详作者不详
- 6.作者 Hiroshi Matsumoto 热抽象
-这种炽热有点精神层面了，它是由画面视觉暗示出作者的作画状态，你可以感受出作者作画时的一股不安和激情，我个人认为这也算一种炽热感；
-
-7.作者 Allan P Friedlander 的荷塘 和作者 Aaron Morse 的插画
-这二者的思路跟第一幅的 Maja Wronska 很类似，但不同的地方在于局部的暖色使用的非常美妙考究；
-
-Aaron Morse 的插画也有色调不统一的问题，所有也有点不切题：
-
-8.作者 Rikka Ayasaki 的天空
-Rikka Ayasaki 这位女画家很喜欢绘制天空，她笔下的天空都是丰富且炽烈的色彩，这是一张为数不多的雷雨天；
-
-9.作者 Criss Canning 的静物
-Criss Canning 的静物非常喜欢构成感推敲，在静物的摆放上有一股极致的理性，但是在边缘线和绘画的笔触上，她太像梵高了，这是一股耐心且冲动的细腻，如果你能放大看到她的笔触，你就能感受到一颗炽烈的心；
-
-10.作者不详，笔触营造
-
-这道题其实我自己答得不是很满意，有不同的意见欢迎在评论区指正和讨论；
-
-最近我把我这几年在知乎写的一点关于绘画、艺术的干货做了个汇总，大家有需求的欢迎去看看。
-Scotty：连点绘面：近年来写的绘画、艺术干货汇总 持续更新
-以上
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能不能绕过π，来计算一个圆的面积?]]></title>
-        <id>https://daily.zhihu.com/story/9738904</id>
-        <link href="https://daily.zhihu.com/story/9738904"/>
-        <updated>2021-08-05T23:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Mr.Bo，爱好科技，航天迷一枚，工科研究僧
-阅读原文
-
-这个问题其实也等价于在计算机中如何表示
-
-，对于半径为 1 的单位圆来说，它的面积就是
-
-。
-那么估计单位圆的面积就转换为了估计
-
-，那么先缩小本问题的目标，如何计算单位圆的面积？
-（1）最基础的方法就是使用几何概率，即蒙特卡罗方法：
-
-即撒点，假设向正方形中均匀撒入 n 个点，共有 m 个点落入圆中，那么落入圆中点的概率就为：
-
-这样很容易就得到了圆的面积为
-
-，发现没有，成功绕开了
-
-算出了圆的面积，并且在单位圆情况下能够成功估计
-
-，对于概率来说，实验次数越多越准，也就意味着撒点数量越多，圆的面积越精准，也意味着
-
-的精度越高。
-（2）第二种方法，就是离散，这是非常重要的思想
-首先就是微积分的思想，即将圆面积拆分成很多微小面积之和，通过对微小面积求和来逼近真实面积。很典型的例子就是将正方形划分为一个一个的小正方形格子，统计落在圆内的所有正方形小格子的比例。高赞回答举得一系列例子，其实也就是这个思想的体现。在高中其实就已经讲过，曲边梯形面积的求法，这就是微积分最核心的思想，无论理论多么高大上，理论基础都是这个：化曲为直，无限逼近。
-图源百度
-其次就是级数的思想，即将对单位圆面积的求解划分为一小块一小块面积的总和，很典型的一个级数就是：
-
-包括传统的割圆法等等，体现的核心思想就是两个字：逼近，无非就在于逼近的精度如何罢了。
-在完成单位圆面积的估算之后，其他所有圆的面积，无非就是单位圆面积的倍数了，这仅仅与圆的直径 / 半径比值相关，那么就简单通过直尺来得到圆的面积，绕开了
-
-。
-在实际使用中，根据所需的精度对
-
-进行估计即可，比如 c 语言的 math 库函数里直接对
-
-值定义，也算典型的直接拿来用（狗头）
-#if defined(_USE_MATH_DEFINES) && !defined(_MATH_DEFIN…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9738936</id>
-        <link href="https://daily.zhihu.com/story/9738936"/>
-        <updated>2021-08-05T23:08:15.000Z</updated>
-        <summary type="html"><![CDATA[作为医学生你经历过最囧的事是什么？
-
-Sarah，中度分裂的双子座女神经。
-阅读原文
-
- 
-听诊器听心音，咦？ 咋没声音？ 换个地方，咦，还是没有？再换，啊？还是没有啊。。。
-不会是右位心吧？
-正准备把听诊器胸件移到右边，就听到病人悠悠地说：
-大夫，你没把听诊器挂耳朵上啊？
-……
- 
-阅读原文
-
-男朋友嫌弃你长得丑，你会选择整形吗？
-
-喃七大魔王，整形从业者私人号，只科普，不植入，不推荐
-阅读原文
-
-男朋友嫌弃自己丑，先做的是要换个男朋友
-自己觉得自己丑，才需要整形
-阅读原文
-
-十二星座是什么样的？
-
-鹿儿
-阅读原文
-
-都是好样的。
-阅读原文
-
-工作一年，妈年底拿走我所有存款6万，还说结婚彩礼10万也要给她，都替我存着防止对象花我钱，什么心思？
-
-黄瓜蘸酱，无业游民不装逼浑身难受
-阅读原文
-
-哎呀！你一个理财产品竟然有自己的想法了！
-阅读原文
-
-一般被清华北大劝退的都是什么样的学生？
-
-阿娜娜斯小面包
-阅读原文
-
-高中某“传奇”学长。
-成绩超级好，人品极其差。他的很多行为都不能用正常人的逻辑解释，是一个超级大奇葩。
-最有名的一个传说，是他在某废弃教室的门口撒尿，被教导主任抓了个现行。已经不是第一次了，是被主任蹲点抓住的。
-本来还以为他会狡辩什么的，结果人家直接跟主任说：“我能考上北大，你少管我。”
-教导主任气不过，把校长、年级主任、班主任啥的都叫来了。谈到最后的结果是：他确实能考上北大，随他去吧，反正以后总有人能治他。
-我们那小地方多少年也出不来一个清北，这个处理结果并不意外。当时那个教导主任气得不轻，但也无可奈何。
-然后那位学长果然考上了北大。
-紧接着一个月左右就被劝退了。
-具体原因不明。
-不知道是不是在人家北大的废弃教室门口撒尿了。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Buggy React Code Examples and How to Fix Them]]></title>
-        <id>https://css-tricks.com/?p=345418</id>
-        <link href="https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/"/>
-        <updated>2021-08-05T14:24:36.000Z</updated>
-        <summary type="html"><![CDATA[There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …
-The post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Hugh Haworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Disabled Buttons]]></title>
-        <id>https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/</id>
-        <link href="https://smashingmagazine.com/2021/08/frustrating-design-patterns-disabled-buttons/"/>
-        <updated>2021-08-05T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How can we make disabled buttons more inclusive? When do they work well, and when do they fail on us? And finally, when do we actually need them, and how can we avoid them? Let’s find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
