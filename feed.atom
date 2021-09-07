@@ -2,10 +2,447 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-06T01:14:17.171Z</updated>
+    <updated>2021-09-07T01:05:47.890Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[理解 Java 中对象基础 Object 类]]></title>
+        <id>https://toutiao.io/k/oqq4xnq</id>
+        <link href="https://toutiao.io/k/oqq4xnq"/>
+        <updated>2021-09-07T01:05:46.669Z</updated>
+        <summary type="html"><![CDATA[Java顶级Api分析]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 云原生监控之 kube-state-metrics 集群资源监控]]></title>
+        <id>https://toutiao.io/k/kqb4zku</id>
+        <link href="https://toutiao.io/k/kqb4zku"/>
+        <updated>2021-09-07T01:05:46.595Z</updated>
+        <summary type="html"><![CDATA[Kube State Metrics 是一个简单的服务，该服务通过监听 Kubernetes API 服务器来生成不同资源的状态的 Metrics 数据]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Python 轻松完成一个 Saga 分布式事务，保姆级教程]]></title>
+        <id>https://toutiao.io/k/kbrldxv</id>
+        <link href="https://toutiao.io/k/kbrldxv"/>
+        <updated>2021-09-07T01:05:46.509Z</updated>
+        <summary type="html"><![CDATA[银行跨行转账业务是一个典型分布式事务场景，假设 A 需要跨行转账给 B，那么就涉及两个银行的数据，无法通过一]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为开源项目 go-gin-api 增加后台任务模块]]></title>
+        <id>https://toutiao.io/k/q603aou</id>
+        <link href="https://toutiao.io/k/q603aou"/>
+        <updated>2021-09-07T01:05:46.443Z</updated>
+        <summary type="html"><![CDATA[支持在 WEB 界面 中对任务进行管理，例如：新增任务、编辑任务、启用/禁用任务、手动执行任务 等。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TQL，模型融合方法详解]]></title>
+        <id>https://toutiao.io/k/ne5dy4u</id>
+        <link href="https://toutiao.io/k/ne5dy4u"/>
+        <updated>2021-09-07T01:05:46.380Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实现 LRU 缓存机制]]></title>
+        <id>https://toutiao.io/k/3kvcfbi</id>
+        <link href="https://toutiao.io/k/3kvcfbi"/>
+        <updated>2021-09-07T01:05:46.302Z</updated>
+        <summary type="html"><![CDATA[学了忘，忘了学。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统调用跟踪：分析（一）]]></title>
+        <id>https://toutiao.io/k/r43yh0i</id>
+        <link href="https://toutiao.io/k/r43yh0i"/>
+        <updated>2021-09-07T01:05:46.202Z</updated>
+        <summary type="html"><![CDATA[通过strace工具可跟踪用户进程与Linux内核的调用交互系统调用，可使用这些系统调用开发类似工具；]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说 Flutter：Skia、Dart 及其历史]]></title>
+        <id>https://toutiao.io/k/4cytviq</id>
+        <link href="https://toutiao.io/k/4cytviq"/>
+        <updated>2021-09-07T01:05:46.124Z</updated>
+        <summary type="html"><![CDATA[高清无码正式版。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亿级流量治理系列：常用的限流算法有哪些？]]></title>
+        <id>https://toutiao.io/k/vmyvgf0</id>
+        <link href="https://toutiao.io/k/vmyvgf0"/>
+        <updated>2021-09-07T01:05:46.073Z</updated>
+        <summary type="html"><![CDATA[面试必问的限流算法有哪些？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服务运行过程中磁盘坏道引起的思考]]></title>
+        <id>https://toutiao.io/k/jmqq86o</id>
+        <link href="https://toutiao.io/k/jmqq86o"/>
+        <updated>2021-09-07T01:05:45.999Z</updated>
+        <summary type="html"><![CDATA[有惊无险就已经输了]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯开源的，基于 React 开发的移动 Web 调试工具]]></title>
+        <id>https://toutiao.io/k/nyc5voq</id>
+        <link href="https://toutiao.io/k/nyc5voq"/>
+        <updated>2021-09-07T01:05:45.542Z</updated>
+        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只蜘蛛一生能织多少张网？]]></title>
+        <id>https://daily.zhihu.com/story/9740012</id>
+        <link href="https://daily.zhihu.com/story/9740012"/>
+        <updated>2021-09-06T23:07:38.000Z</updated>
+        <summary type="html"><![CDATA[kmlover，公众号:不仅是健身/虫趣
+阅读原文
+
+这个问题乍一看，没法答。再一看，还是有思路的。仔细一想，竟然还牵涉到哲学问题……
+为了简便起见，我决定在假设蜘蛛的一生指的是从卵孵化为若蛛到足够衰老后自然死亡的过程，且不考虑
+(1)中途因为各种原因死亡的情况
+(2)所处环境或天气变化不允许结网的问题
+(3)捕猎以外的其他原因导致蛛网损坏
+的前提下，采用分类处理的方式来回答这个问题。
+第一类：球蛛、漏斗蛛等非圆网蜘蛛的忒修斯之网
+球蛛的蛛网。照片系答主所摄
+这类蜘蛛的特点是网结好后一般不会主动全部拆除，只是不定期地修补因为捕猎或外力而损坏的部分，于是就造成了“忒修斯之网”的问题：
+究竟旧网的蛛丝被替换到多少时，可以认为是两张不同的网呢？
+显然这已经不属于动物行为学的范畴了，所以就留给大家去讨论吧……
+第二类：园蛛、金蛛、络新妇等圆网蜘蛛
+国内最常见的圆网蜘蛛非大腹园蛛莫属。照片系答主所摄
+圆网蜘蛛的特点是只有一圈圈环绕的纬丝有粘性可以粘住猎物，而外围的框架和从中枢向四周延伸的经丝则是无粘性的。因此这类蜘蛛的结网行为存在明显的周期性（纬丝坏得差不多了就要重结），而其一生中所能建造的最大蛛网数则取决于：
+1、蜘蛛寿命
+2、所处环境的猎物密度（猎物多吃得好才有材料重建新网，同时猎物多则网破得快也需要频繁地重建）
+3、蜕皮和产卵次数（蜘蛛在蜕皮和产卵前后既不结网也不捕食，这个阶段一般需要 2～4 天，以下都按 3 天计算）
+在理想状况下，这类蜘蛛可以每天结新网，则对雌蛛而言:
+理论一生最大结网数=【寿命(天)-3*(蜕皮次数 + 产卵次数)】/(1 张网 / 天)
+至于雄蛛，由于其
+(1)在最后一次蜕皮，达到性成熟后不再为捕食而结网，而是到处寻觅雌蛛争取交配
+(2)在交配前还要结一个精网，把精液排到网上然后用触肢器吸取
+因此对雄蛛而言:
+理论一生最大结网数={【寿命(天)- 性成熟后时间(天)-3*(蜕皮次数 -1)】/(1 张网 / 天)}+1
+当然，现实中蜘蛛总是能省则省，有时甚至达到非常夸张的地步:
+一只特别能将就的大腹园蛛。照片系答主所摄
+再加上暴雨狂风等恶劣天气也会阻止蜘蛛结网，因而实际中蜘蛛一生的结网数，用上面公式的计算结果除以 2～4 才更接近现实情况。
+（园蛛科下还有个曲腹蛛属，据文献资料显示其雌蛛在性成熟前不结网，成熟后才结很敷衍的圆网，因为对其寿命不太熟悉，故此处不予特别讨论）
+曲腹蛛特色明显的蛛网。照片系答主所摄
+第四类：两个特例——编织育儿网的狡蛛雌蛛和编织精网的非结网类蜘蛛雄蛛
+图中可见密集的狡蛛若蛛，雌蛛在下方守护。照片系答主所摄
+先说狡蛛，这是一类捕猎能力很强的游猎型蜘蛛(有时甚至可以下水捉鱼)，平时并不结网。但其雌蛛在产卵后，会随身携带卵囊，当感到若蛛即将孵化时，便爬到草丛或灌木顶端结一个“育儿网”，把卵放在上面，让若蛛孵化后可以接受太阳光照射，自己则在旁边守护，待若蛛蜕皮一次后散去才离开。显然，这种情况下狡蛛一生的结网数等于其产卵次数，通常情况下约为 1～5 次。
+再说非结网类蜘蛛的雄蛛。如前所述，它们平时不结网，只在交配前结一张精网用来将精液从腹部转移到嘴边的触肢器内。因此对它们来说，其一生结网数有最确切的答案——一次。
+综上所述，蜘蛛一生能结的网数量:
+1、一张且仅有一张——非结网蜘蛛的雄蛛
+2、一张或几张——狡蛛的雌蛛
+3、十几张——曲腹蛛属的雌蛛(其雄蛛的生活史至今成谜，因为实在是太小了……)
+4、几十到上百张——结圆网的蜘蛛
+5、难以给出答案的忒修斯之网——球蛛、漏斗蛛等非圆网蜘蛛
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相机的各种滤镜有什么用如ND,UV,CPL等等？]]></title>
+        <id>https://daily.zhihu.com/story/9740031</id>
+        <link href="https://daily.zhihu.com/story/9740031"/>
+        <updated>2021-09-06T23:07:29.000Z</updated>
+        <summary type="html"><![CDATA[翔宇情，嘉心糖/微信：wy326c
+阅读原文
+
+我用过的滤镜有 UV、ND、GND、CPL、黑柔，今天来和各位分享下这些滤镜的用途。
+UV
+
+UV(ultraviolet)指的是紫外线。胶片时代 UV 镜开始主要用于胶片机防止紫外线对胶片感光起到保护作用的。在如今数码时代，UV 镜的作用是保护镜头。
+如果你是摄影初学者，你去实体店或者网店买了镜头，商家一定会向你推荐 UV 镜，告诉你镜头的前组镜片是很脆弱的，要好好保护。
+如果你是摄影老手，你可能也会购买 UV 镜，作为老手你可能不会听店家瞎忽悠，而是自己精心挑选最合适的 UV 镜。
+还有种滤镜叫做保护镜，在数码时代用法和 UV 差不多。
+对于摄影老司机来说，他们有种说法是 UV 镜没必要买，镜头“裸奔”就好。这种说法有点道理，毕竟镜头不是什么昂贵的奢侈品也不是什么宝物，没必要那么小心对待。退一万步说，就算镜头上有些许划痕也几乎不影响拍摄效果。最重要的是，遮光罩本身就是很好的保护镜头的配件。
+这个时候你是不是认为 UV 镜没用了？错，UV 镜作为保护镜头是很有必要买的。咦？这和上面一段矛盾了啊！下面我来说说不用 UV 可能导致的后果：
+1、镜头前组镜片落灰，擦拭的时候总是特别小心，但如果用 UV 镜的话，擦拭 UV 镜片就不需要那么小心；
+2、如果你不用 UV 保护镜头，时间长了镜头前组镜片总有可能出现划痕（刮风尘土对裸奔的镜头多少有点伤害），虽然几乎不影响拍摄，但你心里肯定别扭，如果这镜头要出二手，划痕也会降低其出售价格；
+3、万一镜头摔了，也是 UV 镜碎，而不是前组镜片碎；
+4、前组镜片的划痕会在逆光拍摄时更容易出现光斑；
+5、在沙漠、大风、潮湿等环境下拍照，尘土和矿化水可能会对镜片造成一定腐蚀。
+使用 UV 带来的不良后果有哪些？
+1、根据 UV 镜的档次不同，略微降低进光量；
+2、个别极端情况更容易产生鬼影或者光斑…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有的衣服会显得廉价？有什么共同的「特点」吗？]]></title>
+        <id>https://daily.zhihu.com/story/9740040</id>
+        <link href="https://daily.zhihu.com/story/9740040"/>
+        <updated>2021-09-06T23:07:19.000Z</updated>
+        <summary type="html"><![CDATA[这是eno，时尚｜服装｜设计｜艺术工作者全网最棒的穿搭公众号：艾诺说
+阅读原文
+
+让一件衣服显得廉价的原因，不外乎这两点。
+1. 「功能性」与「装饰性」的失衡；
+在任何设计中，功能性与装饰性一定要做到平衡，谁多了都不行。
+后面我会讲具体案例。
+2. 为「懒」而生的设计理念。
+这两点，放在所有设计领域里（家居、产品造型、服装、平面）都相通的。
+我展开来给大家细讲。
+* 全文约 7000 字，重点部分已加粗。
+
+一、一眼可见的「功能性」
+先来说说「功能性」与「装饰性」失衡的第一种情况 —— 「功能性」大于「装饰性」。
+当一件衣服或者一件物品的「功能性」，能够被一眼可见时，就是典型的「功能性」大于「装饰性」。
+比如雨鞋。
+
+哪怕用做了防水处理的头层牛皮打造，哪怕价格再贵，还是难登大雅之堂。
+你肯定不会穿它去出席正式场合。
+因为所有人都知道，这双鞋的主要功能，就是用来「防水」的。
+
+还有很多男生衣橱里都会有的「多袋裤」,也是一款「一眼就可见功能性」的单品。
+所以，差不多的颜色和版型下，「工装多袋裤」会比「休闲卡其裤」更显廉价。
+
+衬衣也是。
+两个口袋的，会比一个口袋的更显廉价。
+
+我们还可以对比一下。
+同样是牛仔裤，但是由于制作工艺不一样，所以给人的感觉也会不一样。
+「贴布袋」牛仔裤，会比传统的「挖袋」牛仔裤看起来更廉价。
+因为「贴布袋」和「明走线」这两个细节，无形中起到了突出和强调口袋的效果。
+上图左：贴袋牛仔裤｜上图右：挖袋牛仔裤
+所有「多口袋」的单品，都会有种天生的廉价感。
+就是因为「口袋」是一种非常典型的，「功能性」大于「装饰性」的设计元素。
+
+讲到这里，肯定会有人说：你说多袋设计很廉价，为什么机能风很好看？
+首先，希望大家可以明白一个最基本的概念 —— 有「廉价感」不等于「不好看」。
+好看和廉价感并不冲突。
+所以，我们就顺便再来说说「机能风」。
+
+「机能风」是一种起源于赛…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国古建筑中隔扇、隔扇门、推拉门有什么区别？日式障子和以上三者又有什么区别？]]></title>
+        <id>https://daily.zhihu.com/story/9740015</id>
+        <link href="https://daily.zhihu.com/story/9740015"/>
+        <updated>2021-09-06T23:07:08.000Z</updated>
+        <summary type="html"><![CDATA[知乎用户，测房子修房子，偶尔改房子，也想盖房子
+阅读原文
+
+隔扇通常来讲就是指隔扇门，不过南方一些称呼中槛窗也可以叫做隔扇。格子门是隔扇门的一种，属于简单版本，隔心及枋框无太多装饰的，算是比较古老的做法。国内这些隔扇（门）通常为平开，传统工艺中几无推拉做法；而隔扇槛窗则除平开外还有支、摘、挂等开启方式。
+
+日本传统建筑中常见门窗大概有障子、蔀户及唐门几类，此外茶室中还有躏口等特殊做法。
+其中，蔀户实际上更接近大陆的支摘窗扇，构造工艺上也与格子门相近。打开方式上：摘窗的开法是相同的，拿下即可。但上悬部分则不用支的方式，而更多是靠从天花垂下的钩子或绳子悬挂，且与大陆只朝外开不同，日本内外两种方式都存在；
+蔀户
+唐门则就是大陆平开的板门，区别只在于其鸡栖木伏兔等固定构件安置于室外，门朝外开。出于工艺较精等级较高及外开挡缘侧（檐廊）处通行等原因，通常为仪式性门，平时不开启；
+躏口做法则据说从船而来，工艺较奔放，两块半的板拼接组成，推拉开启。尺寸较小，需要跪地弯腰进入，意义上为茶道开始前保持谦恭的心境，实际在早期设计目的或许还有防止来客带腰刀等进入的作用（茶室中空间较小，人与人之间距离十分亲密，虽然要求在此互相平等，但高位者还是需要做些防范）。
+躏口
+前面这几类是标准意义的门窗。
+而障子，无论明障子与奥障子，从空间与构造意义同时看，或许更应倾向于将其看作可打开的墙。
+
+障子可以连续使用以完成对空间的分隔或包裹，此其空间意义。
+具体做法与中国传统建筑中四白落地时墙体旁所附加木格裱糊类似；同时对于日本高床式建筑（干阑，底层架空）来讲，架空意味着其上方不大会再出现砖与土墙，而全部是木逻辑的墙体建造，此其构造意义。
+至于障子与隔扇之间的区别，除门窗与墙体的空间逻辑区别外，还可概括为两点：即开启方式的区别和宽高比的区别。
+开启方式区别具体表现是：隔扇（门）通常平开，而障子为推拉或拆卸。这两者区…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[40 岁的女人怎么提升品位，改变穿衣风格？]]></title>
+        <id>https://daily.zhihu.com/story/9740021</id>
+        <link href="https://daily.zhihu.com/story/9740021"/>
+        <updated>2021-09-06T23:07:02.000Z</updated>
+        <summary type="html"><![CDATA[女巫，品牌咨询/中年妇女/穿搭博主 公众号：witch0001
+阅读原文
+
+你看，不管我们现在几岁，今天总是人生中最年轻的一天，在感情中大家总潇洒说不留恋过去，其实衣橱也一样，到 40 岁这个熟女阶段，也需要放弃一些、需要往前走几步。
+当女性年龄渐长，哪怕体重 1 斤都没上升，但体型也会产生变化。所以今天就跟大家来分享下关于熟女如何塑造年轻有活力的日常穿搭，我自己的几个穿衣思路：
+
+ 1, 避免过于修身的衣服，裙装也不可过短
+从容自在是熟女的穿搭核心，有点松量的板型也会显得身姿更清瘦，在这个基础上，我们可以再加尽情入有亮点的色调和配饰。
+比如可以使用腰带进行腰部塑形，久坐时可以悄悄将腰扣后移一格。
+①松弛有度的上衣，毫不挑剔身材，显瘦又自在。
+
+②裙长及膝或膝下，令姿态优雅，安心舒适
+
+2, 尽可能在自己收入范围内购买好材质的衣服。
+都说要爱自己，我们到底拿什么爱自己。
+身体是不会说谎的，有时候它也会被一件好材质的衣服感动到，忍不住低头拥抱住自己，或者升起想要好好过今天的念头。
+①真丝材质，质感绵滑柔糯，轻薄飘逸，穿着感受舒适自在
+
+②软到骨子里的羊绒材质，有质感有体量感
+
+③进口加厚棉羊小皮胚，挺括具有光泽感，经久耐穿
+
+3, 下装尽可能不易皱
+看起来这跟第 2 点有点违背，因为好材质往往是天然材质，天然材质往往易皱。但如果我们还是更渴望看起来挺拔干练，那就选择天然材质的上衣外套，以及混纺材质的裤装。
+现在很多混纺材质的肤感都很棒，也好打理。
+
+4, 贴近脸庞的部位，加入一些闪耀作为点缀。
+比如夹入暗哑金丝银丝的高级材质，比如一枚金色系胸针或者耳环，你会发现自己的脸色也似乎会感染到光泽。
+①夹入金丝的衣物，质感满满 
+
+②金银色小配饰，增加穿搭小细节，令脸色明亮
+
+5, 尝试穿着经典配色的法式条纹或者波点。
+自带律动感的图型，会令穿着者也年轻生动起来。
+① 拥有美妙律动的条纹元素
+
+②复古又蕴含年轻活力的波点元素
+
+6, 包袋和鞋履、皮带的选择请不要执着于安全色系。
+尤其在全身穿得很安全很暗调的前提下，有色调的配饰加入就是有想法有品位的点睛之笔。
+
+7, 擅长使用各种围巾。
+一方面令肩臂部位产生层次感，显得更单薄一点，另一方面去掩饰坐下来后腰腹部的线条变化，坐姿更自然得体。
+
+8, 短发
+直、长、黑的头发往往更适合年轻女生，因为它会最擅长在视觉上拖垮熟女的脸部肌肤上扬感。
+哪怕减短 2、3 厘米，都会发生 3－5 岁左右的变化。
+
+最后我想说，不管决定怎样穿，最重要还是重塑自信。其实我们在意的身体缺点往往只在自己家镜子前格外放大，在别人目光中，闪耀的只是你当日穿搭中的重点和风格，那已足够迷人。
+很开心遇见你，我们一起快乐穿衣吧。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9740047</id>
+        <link href="https://daily.zhihu.com/story/9740047"/>
+        <updated>2021-09-06T23:06:53.000Z</updated>
+        <summary type="html"><![CDATA[你见过的有些人能漂亮到什么程度？
+
+公子谬，纵马而去
+阅读原文
+
+漂亮到可以对着镜子看一天……
+（不许滋醒我）
+阅读原文
+
+北京大学和清华大学的学生是怎么「互损」的？
+
+张浩千，biology by design
+阅读原文
+
+
+
+
+阅读原文
+
+大家怎样看待身边的学人精？
+
+匿名用户
+阅读原文
+
+拼了狗命的成为我的低配版。
+阅读原文
+
+你在酒吧见过哪些令你震惊的事？
+
+切克尧，feng123192 /艺培咨询5年/从事艺术培训有10年
+阅读原文
+
+酒吧里，有两个男人坐在前台，有一男人突然大声说：「我睡过你妈。」
+众人都安静下来，想听听另一个男人怎么说。
+那个男人又大声说道：「我睡过你妈。」
+只听另一个男人说道：「爸，咱别闹了，回家吧。」
+阅读原文
+
+为什么飞机商务舱一直拉着帘子？
+
+知乎用户，平安快乐
+阅读原文
+
+不拉帘子你可能会看到头等舱旅客被热情的问候，换上棉质一次性拖鞋，个性化用餐时间，精致的餐食，无限供应的 KRUG 香槟，空姐深情款款的微笑，半蹲式服务，空姐蹲在旅客旁边如多年的老朋友窃窃私语，180 度可平躺的宽大座椅，骨瓷杯盛放着永远冒着热气的茶水（工作能力强的空姐茶凉即换，VIP 一定要换），睡前空姐会把把床铺好，入睡后空姐会给头等舱旅客盖被子，下机后头等舱旅客坐着考斯特闪人，VIP 旅客在舱门口有机场工作人员迎接，直接从廊桥旋梯下去，独自坐着考斯特开往贵宾楼。
+坐在狭小空间经济舱的你，时常被二百斤的邻座挤到，你把装过橙汁的一次性塑料杯紧紧攥在手里，青筋暴露。
+航司知道乘坐经济舱的你工作努力却生活拮据，知道你为生活奔波，为家庭付出，航司知道你太难了，所以他们希望用一块单薄的帘子挡住你的视线，不让你太难过。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Days for CSS Scoping]]></title>
+        <id>https://css-tricks.com/?p=351402</id>
+        <link href="https://css-tricks.com/early-days-for-css-scoping/"/>
+        <updated>2021-09-06T18:47:19.000Z</updated>
+        <summary type="html"><![CDATA[There is a working draft spec for CSS scoping now, a newsworthy event for the W3C. Other than a weird period where <style scoped shipped and then was subsequently removed from the spec (and browsers), this is the furthest a …
+The post Early Days for CSS Scoping appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有哪部作品没有被影视化，让你觉得「也太遗憾了」？]]></title>
+        <id>http://www.zhihu.com/question/484472016/answer/2106503781</id>
+        <link href="http://www.zhihu.com/question/484472016/answer/2106503781?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-06T12:56:17.000Z</updated>
+        <summary type="html"><![CDATA[稍微谈几句个人的喜好。
+韩寒的《1988我想和这个世界谈谈》，是我个人最希望看到的影视改编作品。但与此同时，它的影视化改编难度之大，也是完全可以事先料想的。
+韩寒的小说，带有极其鲜明的个人特色。大家往往会将他归类于两极化的存在：少年时代的叛逆者，成熟时期的精明鬼。这很大程度上来自于韩寒自身对外行为的改变：他打破了曾经“不接广告，不参加娱乐节目”等誓言，开始做广告、拍电影、上节目，更多地营销包装自己，并且在商业上取得了更大的成功。
+在外界看来，曾经的反抗性，似乎变成了一种妥协；曾经的特立独行，似乎也变成了对于某一自认为小众实则大众的“不想庸俗”之庸俗群体的定向讨好。个性变成了人设，创作变成了粉丝消费，他与郭敬明的区别也变成了“精准定位”的不同，同为粉丝经济友军的差异化竞争。
+
+韩寒变了吗？深入社会、经验增长、结婚生子，当然会让他有所改变，从一个颇为极端的愤怒青年，变成了更了解、接受现有社会规则之合理性的成年人。但事实上，他也没有什么改变，对于创作风格、审美品味、个人思想的坚持，始终是他没有抛弃的部分。
+从他一系列的小说中，我们可以清晰地感受到这一点。《三重门》等早期作品，固然讽刺，但更多停留在了对现象的提出，以及动用大量篇幅对嘲弄讥笑、甚至夸大化之上。这与他当时期的杂文博客创作也很类似：指出摆在明面上、但其他人不便或不敢指出的现象，进行单刀直入的反对。
+如此一来，小说的文笔才思、杂文的揭露勇气、固然值得赞扬，但却无一例外地缺少深度和思考，仿佛自认犀利的青春期少年的扬鞭痛斥，痛快过瘾，但无更多实际意义，甚至有几分自鸣得意的卖弄。就像韩寒自己所说：《三重门》那些书，过于想在每一段都出彩，实际上没什么内容。
+
+而他后期的作品，则逐渐开始体现出他深入社会、走过人生更多历程后的状态。刻意的单句搞笑少了，玩笑段子更多地拥有了一个共同的指向：对于残酷世界与冰冷现实的自嘲、开解。像《一座城池…]]></summary>
+        <author>
+            <name>segelas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP/3: Practical Deployment Options (Part 3)]]></title>
+        <id>https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/</id>
+        <link href="https://smashingmagazine.com/2021/09/http3-practical-deployment-options-part3/"/>
+        <updated>2021-09-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After almost five years in development, the new HTTP/3 protocol is nearing its final form. Let’s take a close look at the challenges involved in deploying and testing HTTP/3, and how and if you should change your websites and resources as well.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Robin Marx)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好用的app]]></title>
+        <id>http://zhuanlan.zhihu.com/p/56821134</id>
+        <link href="http://zhuanlan.zhihu.com/p/56821134?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-06T08:49:21.000Z</updated>
+        <summary type="html"><![CDATA[airdroid是android手机上比较好用的app
+
+来源：知乎 www.zhihu.com
+梦中梦丶
+点击下载]]></summary>
+        <author>
+            <name>梦中梦丶</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道 K8S 暴露服务的方式有哪些吗？]]></title>
         <id>https://toutiao.io/k/4iwagol</id>
@@ -11043,268 +11480,6 @@ cOMMANDO，“都在酒里……”
 阅读原文]]></summary>
         <author>
             <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] DevSecOps：在多云环境中确保供应链安全的关键]]></title>
-        <id>https://toutiao.io/k/vtfe1gs</id>
-        <link href="https://toutiao.io/k/vtfe1gs"/>
-        <updated>2021-08-08T01:08:05.442Z</updated>
-        <summary type="html"><![CDATA[本文从多个角度说明了 DevSecOps 对于供应链安全的重要性。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图文并茂地聊聊 ReentrantReadWriteLock 的位运算]]></title>
-        <id>https://toutiao.io/k/f6e7ggq</id>
-        <link href="https://toutiao.io/k/f6e7ggq"/>
-        <updated>2021-08-08T01:08:04.571Z</updated>
-        <summary type="html"><![CDATA[女神镇楼!!! 关于对读写锁状态细说的文章很少，阿星把这个空白填上，为了易于理解，文中图绝对管够！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊如何根据环境动态指定 feign 调用服务名]]></title>
-        <id>https://toutiao.io/k/7yze5jo</id>
-        <link href="https://toutiao.io/k/7yze5jo"/>
-        <updated>2021-08-08T01:08:04.463Z</updated>
-        <summary type="html"><![CDATA[聊聊如何根据环境动态指定feign调用服务名]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图解软件设计（一）：什么是计算机]]></title>
-        <id>https://toutiao.io/k/s1ubh6e</id>
-        <link href="https://toutiao.io/k/s1ubh6e"/>
-        <updated>2021-08-08T01:08:04.361Z</updated>
-        <summary type="html"><![CDATA[要想搞清楚什么是软件设计，我们首先就要理解什么是计算机。快进来看干货！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 性能优化：从卡顿和 ANR 来彻底理解内存泄露原理和优化]]></title>
-        <id>https://toutiao.io/k/dje4uo8</id>
-        <link href="https://toutiao.io/k/dje4uo8"/>
-        <updated>2021-08-08T01:08:04.271Z</updated>
-        <summary type="html"><![CDATA[内存泄露原理和优化]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单的 Postman，还能玩出花？]]></title>
-        <id>https://toutiao.io/k/94q54nm</id>
-        <link href="https://toutiao.io/k/94q54nm"/>
-        <updated>2021-08-08T01:08:04.218Z</updated>
-        <summary type="html"><![CDATA[Postman的这几个功能，真香！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一款前端性能监控系统]]></title>
-        <id>https://toutiao.io/k/r0ghwnu</id>
-        <link href="https://toutiao.io/k/r0ghwnu"/>
-        <updated>2021-08-08T01:08:04.141Z</updated>
-        <summary type="html"><![CDATA[加入「码农周刊VIP会员」，一起牛起来！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“先粗后精” 的实例分割，BPR：使用 Crop-then-Refine 的性能提高方法]]></title>
-        <id>https://toutiao.io/k/pt4skg7</id>
-        <link href="https://toutiao.io/k/pt4skg7"/>
-        <updated>2021-08-08T01:08:04.078Z</updated>
-        <summary type="html"><![CDATA[CVPR 2021 论文，代码已开源]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webpack 的 ModuleFederation 原理分析及发散]]></title>
-        <id>https://toutiao.io/k/80lyqho</id>
-        <link href="https://toutiao.io/k/80lyqho"/>
-        <updated>2021-08-08T01:08:02.048Z</updated>
-        <summary type="html"><![CDATA[前言前几天我们稍微尝试了一下 Webpack提供的新能力Module Federation，它为我们代码共享跟团队协作提供了新的可能性。之前若是我们项目A跟项目B有一些共同的逻辑，那我们可能会选择把它抽成一个npm包，然后在两个…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] [论文] XDP：在操作系统内核中实现快速、可编程包处理 (ACM, 2018)]]></title>
-        <id>https://toutiao.io/k/2tzrm4e</id>
-        <link href="https://toutiao.io/k/2tzrm4e"/>
-        <updated>2021-08-08T01:08:00.885Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金庸为什么偏爱华山？]]></title>
-        <id>https://daily.zhihu.com/story/9738982</id>
-        <link href="https://daily.zhihu.com/story/9738982"/>
-        <updated>2021-08-07T23:07:15.000Z</updated>
-        <summary type="html"><![CDATA[远方有方，远行万里路，路读万卷书
-阅读原文
-
-武侠宗师金庸先生虽然在封笔 30 多年后的 2003 年才首次登顶华山，但他 15 部大作中至少有 6 部都涉及令他魂牵梦绕的华山。
-背景设定在南宋时期的《射雕英雄传》和《神雕侠侣》都提到了东邪黄药师、西毒欧阳锋、南帝段智兴、北丐洪七公、中神通王重阳这“天下五绝”为争夺《九阴真经》，在华山顶峰大战七天七夜的故事，即金庸先生在华山北峰挥毫写下的武侠世界巅峰对决“华山论剑”。
-后来，在《神雕侠侣》的南宋之后、《倚天屠龙记》的明初之前，大概 100 年时间里，不知何人在华山创业（可能是王重阳的弟子郝大通），并逐步发展为江湖六大门派之一的“华山派”，后来还参与了围攻明教光明顶的“义举”。
-到了大约明朝中期的《笑傲江湖》，华山派已盛极一时，虽然掌门岳不群人品不太行，但敢于修炼葵花宝典，勇气可嘉。
-他徒弟令狐冲更是已成为男一号，推测还可能帮助华山剑宗长老风清扬重振了华山派。
-再到明朝末年的《碧血剑》，华山派已是武林第一门派，掌门穆人清及其弟子袁承志带领华山派走向了巅峰时代。
-直到金庸先生封笔之作《鹿鼎记》所处的清朝康熙年间，袁崇焕后人估计遭到政府镇压，华山派开始日薄西山，当穆人清的二弟子神拳无敌归辛树夫妇刺杀康熙力战而死后，华山派也彻底销声匿迹。
-金庸先生如此偏爱华山，为一个虚构的华山派都安排了如此连贯的逻辑线，或许是因为华山真的充满侠气吧。
-侠义华山的前世今生
-中国最古老的奇书《山海经》最先提到华山，《水经》说华山得名是因为五峰“若花状”，班固编纂的《白虎通义》认为“万物生华，故曰华山”。
-《尔雅》记载周平王姬宜臼东迁洛邑，因华山在王都之西，故称“西岳”，《尚书》更言之凿凿，记录华山是“轩辕黄帝会群仙之所”（可能是与各部落酋长会盟），《史记》说虞舜曾到华山巡狩，《资治通鉴》也讲“唐尧四巡西岳”。
-后来秦始皇嬴政、汉武帝刘彻、汉元帝刘骜（王…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些乐评人乐理知识那么好，不管什么样的作品都能挑出毛病来，为什么他们却写不出好作品来?]]></title>
-        <id>https://daily.zhihu.com/story/9738963</id>
-        <link href="https://daily.zhihu.com/story/9738963"/>
-        <updated>2021-08-07T23:07:08.000Z</updated>
-        <summary type="html"><![CDATA[Molho，lbg小粉丝/音乐制作/音频软硬件/交互装置艺术
-阅读原文
-
-其实这个问题的答案很简单，一是因为世界上不存在完美的艺术作品，二是无论对于乐评人还是职业音乐人，写出好作品本身就是非常难的一件事。
-一、世界上不存在完美的艺术作品
-Tumblr 和 reddit 上就有这样的兴趣小组，这些兴趣小组最热衷事，就是从各个大作曲家的作品里发现瑕疵，比如平行五度（parallel fifth）。如果你有兴趣去看看，你会发现哪怕是像巴赫、莫扎特、贝多芬这样的大作曲家，他们也偶尔会犯“低级错误”（是真的平五，并不是声部加厚）。
-而且众所周知，古典音乐已经是属于评价维度非常狭窄的风格了，因为音乐自身的结构和逻辑对于音乐的意义和影响，要远远大于作曲家的生平，时代和文化背景。举个例子，拿巴赫的《赋格的艺术》来说，如果你要给这部作品写乐评，那你起码是得稍微懂一点点的对位法的。虽然也有很多的文献是从文化和宗教的角度去分析这部作品的，但是无论切入的角度再如何偏离音乐分析，基本的对于音列、动机和发展的讨论都是无法绕过去的。
-而随着音乐这门学科的不断发展，音乐的维度也在不断扩展，相应的音乐评价的维度也随之丰富。举个例子，当你评价一首古典音乐（而不是其录音）时，一般只能从谱面写作，文化背景，时代、个人经历等寥寥几个维度进行评价。而当你评价一首当下的流行音乐时，仅从音乐性角度，你就能从旋律、作词、演唱、编配、声音录制、合成器音色调制、混音等数个维度进行评价，更不用说是歌曲的风格流派、文化、思潮、历史沿革等更加多维的文化性角度了。
-然而，即便是在评价维度非常狭窄的古典音乐领域，这个领域的天花板们比如贝多芬等等，尚且不可能做出完美的作品。而今天面对这么多的评价维度，要做出各个维度上都完美的作品，就更加困难了。这就自然而然地导致了题主所提到的第一个问题，即“不管什么样的作品都能挑出毛病来”。最经典的例子，…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么家庭烧烤烤不出香味，肉还很干？]]></title>
-        <id>https://daily.zhihu.com/story/9738970</id>
-        <link href="https://daily.zhihu.com/story/9738970"/>
-        <updated>2021-08-07T23:07:02.000Z</updated>
-        <summary type="html"><![CDATA[老叁叁，成绩不好 卖烧烤
-阅读原文
-
-我斗胆猜一猜，你的烤肉根本就是方法理解有误。
-1.你忽略了用“油”的重要性
-2.你是直火高温烤的
-3.选的肉是否适合烧烤
-肉不浸泡油，不刷油，不过油炸的话表面无法进行高效率的热传导，肉的表面和内部热传导依靠的是空气和肉里面自带的水分，传到过程中水分蒸发流失，自然干了，表面的植物油可以有效让肉表面快速达到封住内部水分的作用，表面还可以因此快速产生焦糖化和美拉德反应。烤任何蔬菜也是同一个道理。
-业余人士烤肉，即使用炭火，也很容易造成不必要的直火烤，（炭火明明就是需要把炭放在适合的位置，制造稳定的温度区域，并且避免肉下面是炭的）基本上就是明火在那慢慢烧，脂肪滴下去又又明火窜起来，很多人都没有理解需要的是持续稳定的温度，而不是高温就对了。一般温度也不宜过高，个人建议控制在 150-220 之间就可以搞定大部分的肉类。现在大部分的烧烤炉，在底部都会设置一个接油盘，其实不光是为了接油便于清理，也是为了在里面加上冷水，让水蒸发参与热传导，和风机循环一起平衡整个烤炉的温度，烧烤时肉类受热才均匀。（这里建议大家买烤箱时购买有里面风机空气可以循环的）而直火狂烤，不是干就是焦（个人觉得这个叫烧而不算是烤）。烤箱烤肉就是通过空气热传导，控制温度和时间就足够了，越是大块的肉，温度就应该更低，时间更久才能里嫩，（低温料理了解一下，想一想炖肉为什么要小火）进烤箱前先煎或炸焗都是为了封住水分和表面焦化。煎牛排也一样的道理。
-肉选错一样会很惨，尤其是切的很小很薄的瘦肉，没有足够的脂肪或者体积，根本不适合烧烤，表面烤干就什么水分都不剩了，如果你买的全瘦的猪里脊，牛黄瓜条／牛腿肉之类的建议就哪怕是芡粉炒肉丝都还需要低油温先滑一遍。（川菜里面无论是鸡米芽菜宫保鸡丁鱼香肉丝青椒肉丝无一例外都是需要“滑”）为什么猪五花肉，牛上脑肉，猪梅花肉受烤肉店客人们欢迎你看看花纹就明白了。另一种就是骨头附近的肉，很适合，比如肋排等等。
-最后，说一句，烧烤虽然作为最古老的烹饪方式，他也是一个烹饪专业领域，请多多给我们这些开店的人一些机会，出门吃烤肉吃烧烤吃串烧。
-尤其是疫情解除以后，谢谢！
-意外收获了大家的赞
-上两张图吧
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最理性的暗恋是什么样子的？]]></title>
-        <id>https://daily.zhihu.com/story/9738971</id>
-        <link href="https://daily.zhihu.com/story/9738971"/>
-        <updated>2021-08-07T23:06:56.000Z</updated>
-        <summary type="html"><![CDATA[KnowYourself，关照自我与内心，引领身心健康的生活方式
-阅读原文
-
-有答主说，哪有什么暗恋是理性的。
-但我们想说，从心理学上关于这个话题的研究来看，暗恋这件事在某种程度上，本身就是很“理性”的。
-为什么这么说呢？这可能要从暗恋背后的动机讲起。
-在过去的很多关于爱的动机的研究和理论里，有一个普遍的设想是，人们之所以愿意持续地对一个人投入爱，是基于得到回应的可能，与对方建立一段关系的可能，以及对方也会爱我们的可能。但没有回报的、不表白的、且也有很大概率会悲剧结尾的暗恋，却违反了这些“爱的动机”。
-那么，在这样的情况下，人们是出于什么动机才选择去默默爱一个人呢？Aron，Aron 和 Allen（1998）的一项经典的研究发现，这种恋爱背后一般有三种类型的动机。
-值得一提的是，他们发现这三种动机是相互独立的。也就是说，一个人只要满足了其中一种动机（也有同时具备一种以上的可能），就可能会选择暗恋。
-所以，很多人以为暗恋是一场无法控制的冲动，但其实暗恋背后隐藏着人们自己或许未曾意识到的动机，其中也有着许多利弊权衡的考虑。
-这也是为什么我们说暗恋其实是“理性”的——暗恋是有主观动机的（即便你可能并不一定能意识到）。下面来具体这三种暗恋的动机：
-对方作为潜在的另一半有极高的价值（desirability）
-当这个对象作为另一半，在某一方面或某些方面极其的优秀时（比如才智过人，样貌出众，等等），那么即使与 Ta 发展一段关系的可能性非常渺茫，人们还是愿意对其默默倾注自己的爱意。简而言之，就是 Ta 好到你可以不去计较自己是不是能和 Ta 在一起。
-这样的暗恋对象通常是闪闪发光的，是那些看起来离自己遥不可及的“男神”或“女神”；这种心情与粉丝对偶像的爱慕也有类似之处。一方面被 Ta 星辰般的光芒所吸引，另一方面也感觉到星辰的遥不可及。
-对方回应自己的可能性较高（probabilit…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何正确挑选护肤品以及看懂成分？]]></title>
-        <id>https://daily.zhihu.com/story/9738981</id>
-        <link href="https://daily.zhihu.com/story/9738981"/>
-        <updated>2021-08-07T23:06:50.000Z</updated>
-        <summary type="html"><![CDATA[男士护肤指导，公众号：男士如何护肤
-阅读原文
-
-买护肤品只会看价格，觉得贵的一定好？怪不得你买的护肤品总不适合自己。
-作为护肤成分党，今天就要跟大家来唠唠如何根据成分来判定护肤品，手把手教你看懂成分表。
-1、成分怎么查？
-查询成分的方式有很多。这里主要告诉大家三个种方式。
-·产品包装
-产品包装上的成分信息是我们最能直观看到的，但对于没有专业背景的普通人来说，看着一堆成分表跟天书没有什么两样。
-
-·国药监局备案
-国家药品监督管理局网站，有一个专门的化妆品备案查询入口，分为国产和进口，只要在中国正规渠道销售的化妆品都可以查到相关信息。不仅如此，关于化妆品相关的法律法规禁用成分产品召回之类的也都可以在这里查到。
-
-·成分查询 APP
-「美丽修行」是最推荐给大家的查询成分专用 APP，不仅可以查到化妆品的成分，还可以看到使用目的和安全性标注，一些成分党大佬也经常会在对产品进行成分解析。
-类似的成分查询 app 还有【你今天真好看】【真我】等
-
-2、如何看懂成分表？·成分排序规则
-通常情况下排名越靠前的成分含量越高，防腐系统是临界点，而浓度低于 1％的成分就跟
-在防腐剂等后面可以打乱随机排列。所以只要你认识常见的防腐剂，它们后面的成分基本
-上都是浓度低于 1％的啦
-通过成分前几位主要排序，我们可以大概了解一个产品的主要成分和功能是什么。
-而通过成分表末尾的成分，我们也可以辨别出一些功效添加量极低却被商家大肆宣传的护肤品。
-通过酒精香精色素防腐剂是否添加以及添加多少，可以大致判断一个产品的温和程度。
-当然，以上都不绝对。护肤品的最终质量与效果并不仅仅取决于成分表，原料、配方、工艺、甚至包装也占很大一部分。但无论如何成分表是我们作为消费者能够最容易最直观看到的影响因素。
-
-3、常见成分分析·保湿成分
-关于保湿成分，以前我们就多次科普过。护肤品的保湿主要通过吸水剂、仿生剂和封闭剂这三大类成分来实现。
-吸水剂：甘油、透明质酸、丙二醇、丁二醇、山梨醇、甘露糖醇、维生素 B5 等，这类护肤品成分不容易闷痘，清爽适合油性皮肤。
-仿生剂：顾名思义就是模仿我们角质层细胞内的天然保湿因子进行保湿，神经酰胺、海藻糖、尿囊素等。
-封闭剂：如果我们的皮肤是一杯水，那么含有封闭剂的护肤品就是在这杯水上蒙了一层保鲜膜，防止水分蒸发。角鲨烷、矿脂（凡士林）、羊毛脂都是常用的封闭剂。
-
-·美白淡斑成分
-美白和淡斑的原理有三种：抑制黑色素形成、阻止黑色素向表皮转移、加快黑色素代谢。
-能够有效抑制黑色素形成的成分有：曲酸、熊果苷、间苯二酚、传明酸、鞣花酸、抗坏血酸（VC）等
-阻止黑色素向表皮转移的成分有：烟酰胺、苦参根、绿茶提取物等
-加快黑色素代谢的成分有：果酸、水杨酸、A 醇等
-
-·抗氧化成分
-由于生命活动每天我们的体内会产生大量自由基，而自由基是衰老的根源。抗氧化即清除自由基，做好抗氧化可以有效防止衰老、提亮肤色、抑制皱纹。
-常见的抗氧化成分有：维生素 a（视黄醇）及其衍生物、烟酰胺、维生素 c（抗坏血酸）、维生素 e（生育酚）、辅酶 Q10、玻色因等。
-
-·防腐剂成分
-防腐剂其实就像食品添加剂一样，只要控制在合理范围内，就不会对人生产生多大危害。上文说了，成分表跟在防腐剂后面的添加量基本小于 1%，从这方面大家可以判断出一些智商税产品。
-
-·孕妇慎用成分
-可以说但凡添加了香精色素防腐剂酒精激素的护肤品，孕妇以及哺乳妈妈都应当尽量避开。
-
-
-
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IndexedDB 快速入门]]></title>
-        <id>https://toutiao.io/k/7hbxp47</id>
-        <link href="https://toutiao.io/k/7hbxp47"/>
-        <updated>2021-08-07T15:41:32.000Z</updated>
-        <summary type="html"><![CDATA[如今 IndexedDB 已经被绝大多数现代化浏览器所支持，本篇文章介绍如何快速入门 IndexedDB。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
         </author>
     </entry>
 </feed>
