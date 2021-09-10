@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=350644",
+          "author": "Chris Coyier",
+          "description": "I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. \nI think it’s encouraging to see frameworks — these …\nThe post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/frameworks-helping-image-usage/",
+          "publishedOn": "2021-09-09T19:44:54.000Z",
+          "wordCount": 757,
+          "title": "Frameworks Helping Image Usage"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351259",
+          "author": "ImageKit",
+          "description": "(This is a sponsored post.)\nOptimizing the user experience you offer on your website is essential for the success of any online business. Google does use different user experience-related metrics to rank web pages for SEO and has continued …\nThe post Improve Largest Contentful Paint (LCP) on Your Website With Ease appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/improve-largest-contentful-paint-lcp-on-your-website-with-ease/",
+          "publishedOn": "2021-09-09T19:43:03.000Z",
+          "wordCount": 2709,
+          "title": "Improve Largest Contentful Paint (LCP) on Your Website With Ease"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350070",
+          "author": "Ganesh Dahal",
+          "description": "Frontity is a framework for creating de-coupled (or \"headless\") WordPress sites. In this article, we dive into the process of spinning up such a site, with a detailed overview of the building blocks provided by Frontity and its flagship theme, Mars.\nThe post Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/mars-theme-a-deep-look-at-frontitys-headless-wordpress-theme/",
+          "publishedOn": "2021-09-09T14:31:18.000Z",
+          "wordCount": 9824,
+          "title": "Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme"
+        },
+        {
           "id": "https://css-tricks.com/?p=351389",
           "author": "Chris Coyier",
           "description": "Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …\nThe post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -469,51 +496,6 @@
           "publishedOn": "2021-08-11T14:31:13.000Z",
           "wordCount": 104,
           "title": "Napkin"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346392",
-          "author": "Chris Coyier",
-          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://neatnik.net/view-source/",
-          "publishedOn": "2021-08-10T21:26:34.000Z",
-          "wordCount": 150,
-          "title": "View Source (on Mobile)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346392",
-          "author": "Chris Coyier",
-          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/view-source-on-mobile/",
-          "publishedOn": "2021-08-10T21:26:34.000Z",
-          "wordCount": 566,
-          "title": "View Source (on Mobile)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345861",
-          "author": "Kitty Giraudel",
-          "description": "Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.\nThat being said: parsing, processing, …\nThe post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/responsible-markdown-in-next-js/",
-          "publishedOn": "2021-08-10T14:55:07.000Z",
-          "wordCount": 1590,
-          "title": "Responsible Markdown in Next.js"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345799",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
-          "publishedOn": "2021-08-10T14:54:56.000Z",
-          "wordCount": 1293,
-          "title": "WooCommerce With Apple Pay and Google Pay"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346355",
-          "author": "Robin Rendle",
-          "description": "Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:\ndiv \n…\nThe post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/",
-          "publishedOn": "2021-08-10T14:51:39.000Z",
-          "wordCount": 2378,
-          "title": "CSS Nesting, specificity, and you"
         }
       ]
     },
@@ -522,6 +504,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
+          "author": "hello@smashingmagazine.com (Sam Poder)",
+          "description": "When paired with ISR and Next.js’ API routes, SWR can be used to create a responsive user experience. In this article, Sam Poder explains what SWR is, where to use it (and where not), and how to build a website by using Incremental Static Regeneration.",
+          "link": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
+          "publishedOn": "2021-09-09T10:30:00.000Z",
+          "wordCount": 2069,
+          "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47c6e5fc-73b3-41fe-afb7-b640b860efa0/useswr-react-hook-library-incremental-static-regeneration-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
@@ -829,20 +825,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-          "author": "hello@smashingmagazine.com (Daniel Don)",
-          "description": "Often you need two different sets of navigation stacks for pre and post user authentication. Usually, to see more content, you have to be authenticated in some way. Let’s look at how to mount and unmount navigation stack based on a met condition in React Native.",
-          "link": "https://smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-          "publishedOn": "2021-08-11T11:40:00.000Z",
-          "wordCount": 5027,
-          "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/03d97d60-d23b-419c-acb3-23e467d4cc16/mounting-unmounting-navigation-routes-react-native.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -851,6 +833,15 @@
       "feedUrl": "http://feeds.feedburner.com/ruanyifeng",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n河北太行山脉，山头密密麻麻都被太阳能板覆盖了。（via）\n本周话题：知识广度 vs 知识深度\n上一期谈到，\"特长程序员\"比\"全能程序员\"吃香。\n网友发给我一个网址，国外有人已经谈过这个话题。\n\n国外作者画了一张图，将世界上的程序员比喻成三种形状。\n（1）大饼型：拥有知识广度，但没有知识深度。\n（2）竹竿型：拥有知识深度，但没有知识广度。\n（3）T 型：介于前两者之间。\n那篇文章也认为，通常情况下，竹竿型程序员的出路最好，雇主愿意为知识深度买单。因为现代社会高度分工，越是大公司，岗位职责越明确，需要的是领域专家，而不是多面手。\n但是作者提到，有一种情况例外，知识广度有明显优势，那就是确定项目路线的时候。\n\n请看上图，右上角有一个黑点，那是公司的目标。当前位置在左下角的原点，两点之间没有现成的道路，需要自己寻找实现路径。\n这时，知识广度就发挥作用了，了解的信息越广泛，知道的情况越多，就越可能具备洞察力，能够在多条路径里面，选出最合适的道路。知识面狭窄的人，由于不了解其它道路，不管遇到什么问题，可能都选择他会的那一条路，比如 Java。\n这就是全能程序员的优势，判断正确的仰角 θ，使得两点之间距离最短；特长程序员的优势是前进速度 r，可以在既定道路上做到快速前进。所以，知识的广度能告诉你什么是正确的方向，知识的深度则可以让你在该方向上快速前进。 \n对于长期而艰巨的项目，走得快固然重要，但更重要的是走对方向。如果仰角 θ 不对，走得再快也没用，因为一开始就走错方向，后期必须停下来校正方向，甚至可能永远到达不了目标，白白浪费了生命。\n\n因此，全…",
+          "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html",
+          "publishedOn": "2021-09-10T00:26:54.000Z",
+          "wordCount": 468,
+          "title": "科技爱好者周刊（第 175 期）：知识广度 vs 知识深度"
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html",
           "author": null,
@@ -912,6 +903,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/my4tis5",
+          "author": null,
+          "description": "Coupons是一个从前端到后端完全开源的淘宝客项目，当初学习完uniapp之后想做一个实战项目，所以才研发了这个项目。目前项目已经支持打包成App、微信小程序、QQ小程序、Web站点；理论上其他小程序支持",
+          "link": "https://toutiao.io/k/my4tis5",
+          "publishedOn": "2021-09-10T01:13:23.950Z",
+          "wordCount": 228,
+          "title": "淘客项目 coupons 在 Linux 环境部署指南"
+        },
+        {
+          "id": "https://toutiao.io/k/9d40ik2",
+          "author": null,
+          "description": "性能优化流程和系统流程都覆盖到了。",
+          "link": "https://toutiao.io/k/9d40ik2",
+          "publishedOn": "2021-09-10T01:13:23.690Z",
+          "wordCount": 152,
+          "title": "90% 企业都适用，搭建性能监控体系照抄就行"
+        },
+        {
+          "id": "https://toutiao.io/k/ii64qfj",
+          "author": null,
+          "description": "RTE 2021 大会限免报名中！",
+          "link": "https://toutiao.io/k/ii64qfj",
+          "publishedOn": "2021-09-10T01:13:23.400Z",
+          "wordCount": 115,
+          "title": "聊聊实时音视频场景落地经验与编解码新趋势，RTE 大会第一批技术嘉宾曝光"
+        },
+        {
+          "id": "https://toutiao.io/k/y64hrgx",
+          "author": null,
+          "description": "深度介绍元宇宙。",
+          "link": "https://toutiao.io/k/y64hrgx",
+          "publishedOn": "2021-09-10T01:13:23.321Z",
+          "wordCount": 268,
+          "title": "最近大火的 “元宇宙” 是什么？"
+        },
+        {
+          "id": "https://toutiao.io/k/3mt7zz8",
+          "author": null,
+          "description": "重新排列物体（例如整理书架上的书籍、移动餐桌上的餐具或推动成堆的咖啡豆）是一项基本技能，可以使机器人与我们多",
+          "link": "https://toutiao.io/k/3mt7zz8",
+          "publishedOn": "2021-09-10T01:13:23.226Z",
+          "wordCount": 159,
+          "title": "重新排列视觉世界"
+        },
+        {
+          "id": "https://toutiao.io/k/1s4c5zk",
+          "author": null,
+          "description": "我们在平时工作中，都使用配置中心解决哪些问题？",
+          "link": "https://toutiao.io/k/1s4c5zk",
+          "publishedOn": "2021-09-10T01:13:23.152Z",
+          "wordCount": 84,
+          "title": "分布式之配置中心"
+        },
+        {
+          "id": "https://toutiao.io/k/gjjzh38",
+          "author": null,
+          "description": "有彩蛋",
+          "link": "https://toutiao.io/k/gjjzh38",
+          "publishedOn": "2021-09-10T01:13:23.073Z",
+          "wordCount": 67,
+          "title": "架构师之路，我看过的三本书，高分"
+        },
+        {
+          "id": "https://toutiao.io/k/a5nq962",
+          "author": null,
+          "description": "前言 对于编译型语言来看，有主要三种类型的函数派发方式，分别为：Direct Dispatch：直接派发Ta",
+          "link": "https://toutiao.io/k/a5nq962",
+          "publishedOn": "2021-09-10T01:13:23.004Z",
+          "wordCount": 169,
+          "title": "Swift 派发机制"
+        },
+        {
+          "id": "https://toutiao.io/k/xueccdg",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/xueccdg",
+          "publishedOn": "2021-09-10T01:13:21.609Z",
+          "wordCount": 240,
+          "title": "书单：做数字化转型，离不开这 10 本书"
+        },
+        {
+          "id": "https://toutiao.io/k/jkcnrlw",
+          "author": null,
+          "description": "MobTech邀您参加CoderPark技术直播架构篇第四期：机器学习算法的应用与实践",
+          "link": "https://toutiao.io/k/jkcnrlw",
+          "publishedOn": "2021-09-10T01:13:21.536Z",
+          "wordCount": 141,
+          "title": "阿里闲鱼算法专家在线分享：机器学习算法的应用与实践"
+        },
         {
           "id": "https://toutiao.io/k/nxha88x",
           "author": null,
@@ -3206,96 +3287,6 @@
           "publishedOn": "2021-08-12T01:06:15.667Z",
           "wordCount": 1318,
           "title": "蚂蚁集团万级规模 K8s 集群 Etcd 高可用建设之路"
-        },
-        {
-          "id": "https://toutiao.io/k/e7eym01",
-          "author": null,
-          "description": "引用：K. Gharachorloo. Memory consistency models for shared-memory multiprocessors. Stanford University, December 1995.",
-          "link": "https://toutiao.io/k/e7eym01",
-          "publishedOn": "2021-08-11T01:08:00.468Z",
-          "wordCount": 738,
-          "title": "一种形式化地解释内存一致性模型的方法（前篇）"
-        },
-        {
-          "id": "https://toutiao.io/k/q58lu9f",
-          "author": null,
-          "description": "本篇文章我会从内度分配+汇编角度切入 interface，去了解 interface 的原理",
-          "link": "https://toutiao.io/k/q58lu9f",
-          "publishedOn": "2021-08-11T01:07:59.820Z",
-          "wordCount": 552,
-          "title": "Go interface 原理剖析：类型转换"
-        },
-        {
-          "id": "https://toutiao.io/k/f3btssh",
-          "author": null,
-          "description": "前言谈起性能测试，大家经常聊的是高并发、高可用、性能优化、全链路压测等Topic，听起来都挺高大上，但这些概",
-          "link": "https://toutiao.io/k/f3btssh",
-          "publishedOn": "2021-08-11T01:07:59.751Z",
-          "wordCount": 70,
-          "title": "性能测试基础知识体系"
-        },
-        {
-          "id": "https://toutiao.io/k/pp94s1f",
-          "author": null,
-          "description": "前言 之前写过一篇，Java核心书单，里面涵盖了几本主要的Java书籍；后来有朋友反馈说，这几本太少了，没得",
-          "link": "https://toutiao.io/k/pp94s1f",
-          "publishedOn": "2021-08-11T01:07:59.691Z",
-          "wordCount": 179,
-          "title": "Java 书单：比较全的一篇"
-        },
-        {
-          "id": "https://toutiao.io/k/rej9y2m",
-          "author": null,
-          "description": "想象一下，当最后一张火车票同时被两个人购买，去检票口检票时被告知车票无效，这可以接受吗？",
-          "link": "https://toutiao.io/k/rej9y2m",
-          "publishedOn": "2021-08-11T01:07:59.636Z",
-          "wordCount": 103,
-          "title": "关于分布式事务的理解"
-        },
-        {
-          "id": "https://toutiao.io/k/die272y",
-          "author": null,
-          "description": "PC 端自动化之 WinAppDriver",
-          "link": "https://toutiao.io/k/die272y",
-          "publishedOn": "2021-08-11T01:07:59.563Z",
-          "wordCount": 292,
-          "title": "聊聊 PC 端自动化最佳方案：WinAppDriver"
-        },
-        {
-          "id": "https://toutiao.io/k/xxffxp2",
-          "author": null,
-          "description": "Elasticsearch 时区问题，本文说透了\\x26gt;\\x26gt;",
-          "link": "https://toutiao.io/k/xxffxp2",
-          "publishedOn": "2021-08-11T01:07:59.449Z",
-          "wordCount": 339,
-          "title": "Elasticsearch 滞后 8 个小时等时区问题，一网打尽"
-        },
-        {
-          "id": "https://toutiao.io/k/qps3yh2",
-          "author": null,
-          "description": "工作多年，职场经验分享~",
-          "link": "https://toutiao.io/k/qps3yh2",
-          "publishedOn": "2021-08-11T01:07:59.264Z",
-          "wordCount": 55,
-          "title": "工作多年，分享 16 条职场经验给新人朋友"
-        },
-        {
-          "id": "https://toutiao.io/k/d59j3ce",
-          "author": null,
-          "description": "Shreder是一款功能强大的多线程SSH协议密码爆破工具，广大研究人员可以使用Shreder对SSH协议的安全性进行探究。",
-          "link": "https://toutiao.io/k/d59j3ce",
-          "publishedOn": "2021-08-11T01:07:57.215Z",
-          "wordCount": 223,
-          "title": "Shreder：一款功能强大的多线程 SSH 协议密码爆破工具"
-        },
-        {
-          "id": "https://toutiao.io/k/ekc022m",
-          "author": null,
-          "description": "名称分类名称查找 ordinary lookupADL (Argument-Dependent Lookup)官网的例子ADL 的缺点在 C++中，如果编译器遇到一个名称，它会寻找这个名称代表什么。比如 x*y，如果 x 和 y 是变量的名称，那么就是乘法。如果 …",
-          "link": "https://toutiao.io/k/ekc022m",
-          "publishedOn": "2021-08-11T01:07:56.607Z",
-          "wordCount": 732,
-          "title": "C++ 名称查找与 ADL"
         }
       ]
     },
@@ -3304,6 +3295,105 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/331077570/answer/2112001535",
+          "author": "北大秦春华",
+          "description": "大家好，我是秦春华，很高兴来到知乎《大学第一课》和大家交流。\n一个月前，知乎的同学邀请我参加今天的活动，我问他们要我讲什么呀，他们说，您是考试院长，就结合您的经历和见闻，和即将迈进大学的同学们聊聊如何应对大学考试和大学生活吧。这对于我来说是个难题。用我女儿鄙视我的话说，我虽然是个考试院长，其实不会考试。我除了在高考时考得比较好之外，到目前为止没经历过什么重要的考试。\n但是，作为一个在大学里学习生活工作了三十年的教员，我见到了太多困惑、挣扎和觉醒的案例。在我的 Office Hour，学生和我聊的最多的不是学术，而是大学生活、心理问题乃至感情经历。这使我意识到，对你们而言，也许真正重要的，不是学习，不是考试，而是如何在大学里度过一段有意义的生命。\n\n\n什么是大学\n同学们刚刚进入大学校门，你们有没有问过自己一个问题：什么是大学？这个你们即将在这里生活四年甚至更长时间的地方，对于你们而言意味着什么？\n实际上，从起源来看，东西方的大学是不一样的，尽管中国的现代大学制度是从西方引进的。西方的大学，无论是欧洲的还是美国的，和宗教有着极其密切的联系，但中国的大学则显著不同，除了历史上少数的教会大学之外，中国的大学诞生于 19 世纪末 20 世纪初的民族危难之际；20 世纪 30 年代外敌入侵，北大、清华、南开颠沛流离，在战火中组建西南联大，谱写了中国大学史上悲壮辉煌的绝唱；60 年代，以西安交通大学、西北工业大学等为代表的西迁高校，用一代代师生的搬迁史、创业史、奋斗史、发展史铸就了“西迁精神”的丰碑。一百多年来，除了大学的内在基因之外，中国大学与生俱来带有救亡色彩，其影响一直持续到今天。也就是说，大学对于同学们而言，不仅仅意味着个人事务，更重要的是，大学承担了实现中华民族伟大复兴的使命，是要救国强国的。特别是今天，面对极度复杂的国际环境，认识到这一点尤其重要。同学们，在中国上大学，一定要…",
+          "link": "http://www.zhihu.com/question/331077570/answer/2112001535?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T12:37:58.000Z",
+          "wordCount": 43,
+          "title": "大学四年，如何高质量地度过？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/446526971/answer/2072180951",
+          "author": "设计师Ryan王恒",
+          "description": "所谓小户型其实是一个模糊的概念，它的面积标准通常也是不同的：北京30至50平方米；上海60至70平方米；福州60平方米左右；武汉50至60平方米，广州50至60平方米；境外例如日本的东京、香港的中环，面积多在40平方米左右。时至今日，小户型丰富多样，功能完善，很多小户型在提高其使用率、性价比高、居住舒适度，健康住宅的标准在一定程度上也得到提高。\n简洁舒适、经济实用是现代都市年轻人对私人生活空间的理解，这中间包括了经济薄弱、家庭成员简单、日常很多活动在公共空间完成等等诸多缘由，因而对空间功能要求可以不那么齐全。某种意义上说，小户型只要设计合理，面积缩小但功能不减，仍然可以烘托出高质量的生活氛围。\n\n\n下面就给大家分享一个30平米的改造的小户型，如何巧用收纳。\n\n\n原始户型痛点：\n①客厅空间局促，吃饭只是放一张小小的餐桌就转不开身，更别提请朋友来家里聚会；\n②收纳空间不足，整屋陈设杂乱；\n③卫生间只要一洗澡，水就溅得地面到处都是，有安全隐患；\n④原来的阳台是开放式阳台，每到冬季室内都觉得潮湿阴冷。\n\n\n下抛2张原始户型改造之前的客厅和洗手间。应该是典型的老破小户型了。\n\n\n\n\n改造亮点：\n①拆改墙体，不破不立，1室1厅改2室1厅；\n②客厅一室两用，沙发当床，秒变卧室；\n③扩大厨房空间，保障操作需求；\n④利用沙发旁侧空位，挤出次卧空间；\n⑤增设大量收纳空间，归置家里零碎物品；\n⑥卫生间实现干湿分离，美观实用；\n⑦全屋铺设地暖，告别冬季阴冷潮湿；\n⑧开放式阳台改为封闭式，保温效果大大提升。\n\n\n客厅  （一室变两室）\n\n\n\n\n次 卧\n\n\n\n厨 房 \n\n\n\n\n主 卧\n\n\n\n阳 台\n\n\n\n书桌台\n\n\n\n洗手间\n\n\n\n原始户型  VS  改造后布局\n\n\n\n最后再放两张对比图， 来感受一下前后不同的气质吧 ！\n\n\n\n\n这间面积“迷你”的房屋整体翻新，让这座充满时光印记的老房子焕发新生，驻足其间，清风拂面，我想，这才是家该有的模样。\n\n\n\n来源：知乎 www.zhihu.com\n设计师Ryan王恒\n点击下载\n105 个回答，查看全部。\n小户型如何设计增大储物收纳空间？\n小户型怎么设计啊 客厅太小了？",
+          "link": "http://www.zhihu.com/question/446526971/answer/2072180951?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T11:22:54.000Z",
+          "wordCount": 163,
+          "title": "小户型怎么设计，才能增大收纳储物空间？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/331434969/answer/2072861246",
+          "author": "设计师Ryan王恒",
+          "description": "家不需要很大。\n有限的空间里，只要能够载满所需的温情，所依赖的功能，能够熟悉，能够独处，也能够互动，能够包容，能够依据时间的变化，人的变化，联动空间的自然变化，就已经很好，已经足够。\n这样的家是温暖的，充满未来延展的，哪怕它很小。\n\n\n项目概况\n住宅类型：私宅\n家庭成员：6人\n套内面积：56M²\n空间格局：三室一厅\n\n\n客户需求\n\n\n该住宅常住夫妻二人与两个活泼可爱的女儿，由于工作繁忙，双方老人会交替过来帮助照顾孩子，由于空间格局与居住需求不符，因此，男女主人希望改造后：\n\n\n一、     需要三个独立的休息空间；\n二、     拥有充足的储物空间；\n三、     独立办公以及尽可能开敞的位置；\n四、     分离式的洗手间。\n\n\n\n原始平面图\n\n\n\n平面布局图\n\n\n\n未来空间可变性示意图\n\n\n\n收纳面积占地示意图\n\n\n入户：\n\n\n常说“麻雀虽小，五脏俱全”一个合格的小户型也应该是这样，从入户的时候开始，鞋柜便已满足当季常用鞋子的收纳，方便随时换取，而开放格功能则更好的照顾到随手放置的物品。\n\n开放格下方的小抽屉，可以将钥匙、水电卡、身份证等随时可用的物品进行收纳管理，更及时，也更不易丢失。\n\n\n入户开始，收纳便一一各安其位，而业主作息线与收纳线合二为一的设计，将贯穿整个空间。\n\n\n\n\n\n家政间：\n\n\n空间的拥挤极大的提升了空间内每一平方的应用率，家政间通过土间分割而来，烘干机与洗衣机并列排放，达成“综合功能区”的作用，更大的鞋柜用以存放平时穿不到或不合季节的鞋子，衣柜上下方的收纳，最大程度化应用了每一分寸的空间，将“收纳”发挥到极致。\n\n\n\n\n\n\n\n\n客厅：\n\n\n\n原始客厅\n\n\n\n\n\n改造后客厅\n\n\n改造前的整体格局拥挤狭小，老人、孩子、家人的东西全部摆放在一起，杂乱无章，恒田设计师Ryan王恒将客厅空间再度细化，将两室一厅通过玻璃门与窗帘的形式切割为三室一厅，其中便包括…",
+          "link": "http://www.zhihu.com/question/331434969/answer/2072861246?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T11:22:40.000Z",
+          "wordCount": 300,
+          "title": "极致收纳的家是什么样的？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/367327021/answer/2087469045",
+          "author": "设计师Ryan王恒",
+          "description": "北京57平长条小户型爆改案例，希望可以带给你一些灵感！\n【设计需求】：\n①主卧希望改成集客厅、起居室、观影区、办公区、储物间为一体的多功能房；\n②厨房希望是开放式的，同时兼具餐厅功能；\n③次卧需要满足女儿未来10年的居住需求，要有学习必备基础设施摆放空间；\n④需要设计一组上下床，解决老人临时居住问题；\n⑤男主对灯光方面要求高，希望光源设计更细腻;\n⑥对储物空间需求比较大，尽量为隐藏式；\n⑦卫生间布局不合理，希望设计成日式三分离；\n⑧要布置小型佛龛，预留空间不需要很大，注意不要对着主卧的床位；\n⑨男主对睡眠环境要求高，需要用抗噪和环保性材料；\n【设计亮点】：\n①墙板缝隙之间安装了灯带，满足灯光照明需求；\n②柜体的设计满足床头东西收纳功能；\n③设专区，可供佛，干净整洁；\n④入户鞋柜解决回家换鞋及收纳功能，开放格方便归置小物；\n⑤玻璃隔断使得白天采光充足空间通透，视觉上空间通透明亮不拥挤；\n⑥层板的设计满足投影仪与体感游戏机等设备放置；\n⑦土间放置衣架，经济实惠，增加收纳；\n⑧淋浴间使用磨砂背漆玻璃门，防水性好并且隐私性高。\n\n户型图\n\n\n\n\n\n\n来源：知乎 www.zhihu.com\n设计师Ryan王恒\n点击下载\n6 个回答，查看全部。\n小户型如何装修 尤其是客厅?\n小户型怎么设计啊 客厅太小了？",
+          "link": "http://www.zhihu.com/question/367327021/answer/2087469045?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T11:21:59.000Z",
+          "wordCount": 65,
+          "title": "长条小户型怎么合理装修布局？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/338558347/answer/2099093481",
+          "author": "设计师Ryan王恒",
+          "description": "实用和好看，收纳和色彩搭配。可以看看这套案例，能不能给你一些灵感，72平两居（常住两个大人+三个毛孩儿）的改造案例。\n对于这个案例的改造，屋主希望在视觉不太拥挤的前提下拥有更多的储物空间，三只毛孩儿的玩耍空间也尽量宽敞，客厅满足看电影和放松休闲，卧室只需做好隔音隔光，保证良好的睡眠即可，整个新家显得更现代，更宽敞简洁。\n\n\n\n\n\n\n- 原始户型 -\n• 玄关面积较小，储存空间不到位；\n• 客厅杂物等没有足够空间储存，也没有展示区；\n• 原空间动线单一，公共区域面积较小，三只狗狗的活动空间太拥挤；\n• 狗狗平时得在马桶上进行日常擦洗，没有专用的清洗空间；\n• 卫生间为暗卫，采光不好。\n\n\n - 改造亮点 - \n• 玄关两面墙都做了收纳柜，搭配洞洞板，有效提升储物功能；\n• 打通次卧并入客厅，改造成多功能室，公共空间变开阔；\n• 室内动线变流畅，空间更通透；\n• 全屋细节收纳，可最大限度上保持视觉简洁；\n• 卫生间三分离处理，暗卫变明卫。并增加狗狗擦洗专用折叠桌板，使用方便。\n\n\n打造极致收纳 \n玄关 | 隐形柜+置物洞洞板\n\n玄关作为进入室内的第一站，也是打造收纳的重要区域，原始户型没有在这里做任何规划，造成了极大的浪费，改造后，一侧做了整墙的隐形柜体设计，依次可储存鞋子和狗狗常用的物品，另一侧规划了超大穿衣镜与整面洞洞板，不光方便了收纳，目之所及，更是显得干净整洁。\n\n\n穿衣镜后方内嵌灯带，轻松辅助空间照明，而且洞洞板下方安装了折叠换鞋凳，方便进出换鞋，不用时可直接收起，节约空间。\n动线更优 客餐厅一体化 \n客厅+餐厅\n\n客厅陈设较为简单，以大面积的白色和木质色调为基调，再以局部的灰色点缀，内敛简洁。考虑到毛孩子需要无障碍的空间进行活动，所以客厅没有采用传统的茶几，而是用一把轻盈的边几用来辅助置物需求，随用随挪。\n\n客厅的立面空间也不能浪费，整个墙面延伸了玄关柜体的风格，大…",
+          "link": "http://www.zhihu.com/question/338558347/answer/2099093481?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T11:21:41.000Z",
+          "wordCount": 296,
+          "title": "小户型房子如何装修看起来不廉价？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/63597132/answer/2100743528",
+          "author": "设计师Ryan王恒",
+          "description": "日式装修风格是自然且禅意，简易却又不简单，我手头上的案例比较多，一时间还无法精准又快速找到一个像您家一样大户型的改造案例，那就用一个坐标北京的老龄房爆改日式温馨小两居的案例，尝试给您一些思路和灵感。\n分割线---------------------------------------------------------------------------------------\n作为中国城市化的先驱之一，三五线城市刚刚拔地而起的高楼，在北京往往已经伫立了几十个年头。它们与北京城里的人同呼吸、共命运，也渐渐变得苍老。虽然不像CBD、大裤衩、望京SOHO等光鲜的地标建筑常为人所道，却实实在在的和人们生活紧密相连。\n发霉的墙面、反味的下水道、泛黄的马桶、糟糕的内饰、到处乱堆的杂物……随便拎出一个老房子都能发现这些真实问题。但重新装修又面临着人力、物力、时间、金钱，等各种成本的投入，许多人嫌麻烦，一来二去选择用将就去习惯。\n长此以往，构陷的是生活本身。\n去年，我的工作室有机会接触到一个有25年历史的老房子。房屋建筑面积81.5㎡，套内面积65㎡，位于8层楼的5层。 屋主从购房以来一直对外出租，从未自住。在数不清的租户变更交接下，房子缺乏有意识的维护，状态非常破败。而实际上房屋的地段还算不错，又临近学区，按市场价格来推算并不便宜。 高价格的房屋难以体现出高居住价值，这是北京老房面对的共通性问题。\n今年业主一家人即将把这所老房子收回自用，原因很简单，他们的大女儿马上要上小学了。未来一对夫妻和两个女儿将至少在这所房子中生活5—10年的时间。干净、健康、整洁的居住环境对他们来说非常有必要。 房子虽老，但整体户型很规整。我和我的团队将原来的区域重新划分设计，进行了一场堪称“整容”的翻新装修。\n\n\n\n客厅改造前后\n\n\n△客厅改造前\n客厅本身的面积不是特别宽敞，又因为房屋整体西向采光，所以看上去…",
+          "link": "http://www.zhihu.com/question/63597132/answer/2100743528?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T11:21:15.000Z",
+          "wordCount": 383,
+          "title": "装修了日式风格房子是什么体验？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/484386745/answer/2111390503",
+          "author": "中国文艺网",
+          "description": "小艺有话说 | “饭圈”正畸，美育必不可少\n\n\n针对“饭圈”乱象问题，中央网信办重拳出击，在6月启动“清朗·‘饭圈’乱象整治专项行动”，8月27日公布《关于进一步加强“饭圈”乱象整治的通知》，提出取消明星艺人榜单、优化调整排行规则、严管明星经纪公司等十项措施，开展严厉整治。\n曾一度愈演愈烈的“饭圈”乱象，导致了集资应援、谩骂互撕、拉踩引战等一系列非理性事件。为何粉丝陷入“饭圈”难以自拔？“饭圈”乱象的形成原因有很多，包括行业风气不正、平台监管不严、教育培训不足等。而“美育的缺失”也是导致粉丝文化乱象，“饭圈”畸形审美产生的原因之一。\n\n\n“饭圈”审美怎么了？\n\n\n强化片面审美，颜值即正义。“饭圈”的概念引自国外，与日韩偶像工业模式一同进入国内市场。偶像的培养模式是经过市场检验的一套标准化流程，选人以及培养过程都非常严苛。曾有多位艺人在采访中表示，练习生阶段每天的训练超过十二个小时，而每天只能吃一盘沙拉。偶像严格迎合着“白瘦美”的所谓审美观，并且不断刷新着上限，塑造可望不可及的“神仙颜值”。“饭圈”群体缺乏对美的全面认知，被形象美的强烈观感影响，陷入了颜值即正义的片面观念之中。在“爱的滤镜”下，艺人作品的优劣显得无足轻重。在各类演出视频弹幕上经常可以看见来自粉丝的解释：“他（她）第一次参演电视剧，已经很好了”“这段演唱肯定是被恶意修音，请移步饭拍视频，见识他（她）的真实唱功”的留言飘过。而一旦艺人发胖、颜值下滑，则是真正的“饭圈大事”，轻则掉粉，重则引起骂战。偶像形象的宣传维护是“饭圈”的重点工作之一，“饭圈”审美观下的饭制美图、饭制视频常常带有厚重的滤镜，艺人在“白瘦美”的基础上，被渲染的更加唇红齿白、肤若凝脂，印证了“饭圈”颜值至上的审美倾向。\n缺少审美品格，让爱化作偏执。爱美之心，人皆有之。美育概念的提出者席勒认为，“审美是使人具有精神文化修养并真正禀赋人性的唯一途径”…",
+          "link": "http://www.zhihu.com/question/484386745/answer/2111390503?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T07:28:52.000Z",
+          "wordCount": 16,
+          "title": "如何看待「光明日报」刊文：「粉丝控评就是一种网络暴力」？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/21011693/answer/2109571133",
+          "author": "中国文艺网",
+          "description": "2007年，嫦娥一号飞上太空，《谁不说俺家乡好》作为由大众选出的30首歌曲之一，伴随嫦娥一号响彻太空，这也不由得让人想起了今年6月17日9时22分发射成功的神舟十二号载人飞船，时代更迭、岁月变迁但保卫家乡、建设家乡的感情代代传承，这首热爱家乡、赞美家乡的歌曲也会被久久传唱！\n\n\n“一座座青山紧相连，一朵朵白云绕山间。一片片梯田一层层绿，一阵阵歌声随风传。哎，谁不说俺家乡好，得儿哟依儿哟……”1963年，吕其明为电影《红日》所作的插曲《谁不说俺家乡好》，传唱大江南北。电影《红日》的故事发生地在山东,吕其明经历过山东解放战争，也学习过大量山东民间音乐，加上此前创作《弹起我心爱的土琵琶》的经验，所以对完成作曲任务抱有信心。他认真阅读小说原著，做了充分的案头工作，把整个创作计划、音乐设计等都安排妥当。\n\n\n在和导演汤晓丹反复研究的过程中，吕其明建议，中间要增加一首歌曲。因为这部电影围绕战争叙事，从头到尾非常紧张，都是战斗的大场面。写一首插曲，能让电影起承转合得更从容一些，有张有弛，这样才有味道。汤导接受了吕其明的建议。对于歌曲应该写什么，吕其明认为：要写就写对家乡的感情。不仅是反映孟良崮人民对家乡的热爱，也要反映出解放军战士热爱家乡、保卫家乡的革命乐观主义精神，在音调与节奏上要与后面表现孟良崮战斗场面的音乐形成强烈对比，给人以更加深入的艺术感受。\n\n\n而这首红歌的创作者正是 “七一勋章”获得者、作曲家吕其明！\n\n\n\n\n\n吕其明，男，汉族，1930年5月生，1945年9月入党，安徽无为人，上海电影制片厂艺术委员会原副主任。新中国培养的第一批交响乐作曲家，著名电影音乐作曲家，一生坚持歌颂党、歌颂祖国、歌颂人民。70年来先后为《铁道游击队》《焦裕禄》《雷雨》等200多部（集）影视剧作曲，创作《红旗颂》《使命》等10余部大中型交响乐作品，300多首歌曲，《弹起我心爱的土琵琶》等歌曲广为传唱。荣获“全国离退休干部先进个人”等称号和“中国音乐金钟奖·终身成就奖”。\n\n\n\n\n\n“我所有的作品中，都融入了我对党、对祖国、对人民的热爱。只有这样的作品，与听众的情感有了交汇点，产生了共鸣，才能听得懂、传得开、留得下。”——吕其明\n\n\n10岁参加新四军，15岁加入中国共产党，成长于硝烟战火中的吕其明，用音乐表达着对党、对祖国、对人民深沉的热爱。从《弹起我心爱的土琵琶》到《谁不说俺家乡好》再到《红旗颂》，那深沉的爱在乐曲中交汇共鸣。\n\n\n吕其明谱写了无数经典乐章，曾先后为200余部（集）电影、电视剧作曲，并创作了10余部大、中型器乐作品，以及300余首不同体裁和形式的声乐作品，他的作品在几代人的心中唱响。\n\n\n\n\n\n\n\n\n多年来，吕其明始终坚持创作。2020年新冠肺炎疫情来袭，全国数百万名医务人员奋战在抗疫一线，吕其明深受感动，90岁高龄的他以电影《白求恩大夫》原创音乐作为素材，创作了单乐章的随想曲《白求恩在晋察冀》 ，回望白求恩的国际人道主义精神，致敬抗击新冠肺炎疫情的医务工作者，奏出时代与历史的交响。\n\n\n吕其明曾说：“我一生就做了一件事，就是用创作践行入党誓言”。\n\n\n老一辈艺术家们，用为人民创作、为人民放歌的一生，向新时代文艺工作者传达了榜样的力量——\n坚定理想信念，砥砺从艺初心，用有筋骨、有道德、有温度的文艺作品，彰显信仰之美、崇高之美，让理想信念的明灯永远在人民心中闪亮。\n\n来源：知乎 www.zhihu.com\n中国文艺网\n点击下载\n82 个回答，查看全部。\n怎样评价《伤不起》、《爱情买卖》、《最炫民族风》这样的歌曲？\n你有哪些私藏好听的歌曲？你觉得有没有值得推荐的歌曲呢？",
+          "link": "http://www.zhihu.com/question/21011693/answer/2109571133?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T06:48:36.000Z",
+          "wordCount": 47,
+          "title": "有哪些红歌是非常好听的？"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/407946913",
+          "author": "ASICS亚瑟士",
+          "description": "针对初阶跑者、进阶跑者，分别说下全程马拉松比赛中各阶段的配速策略、如何用心率和配速设定比赛策略。\n本文为初阶跑者（4小时30分-4小时整）马拉松比赛配速策略——\n马拉松比赛策略（下）：进阶跑者应该如何规划比赛中的分段配速？\n\n\n\n42公里的比赛策略，也是配速的艺术\n网络上搜索配速换算器，可以很方便的得出目标成绩下每公里的平均配速。需要注意的是，马拉松赛道并不是一成不变的平整路段，其中环境变量会很大的影响成绩。\n风向、气温变化、坡度、日晒等等，这些都会极大影响配速策略。\n\n\n\n比如目标以4小时整完成马拉松，换算出平均每公里配速在5分42秒左右，\n\n马拉松标准距离为42.195公里，但多数选手都无法沿SPR最短线路原则（the shortest possible route）的线路跑，最终往往实际完赛距离会在42.5公里左右、多出近400米；\n一场马拉松需要10次左右的饮水补给，降速-拿水补给-重新启动会消耗不少时间；\n清晨起跑的马拉松，比赛后半程温度升高日照强烈，维持既定配速会更快的消耗体能；\n遇到坡道或逆风风向，配速也会造成很大的影响。\n\n\n——所以，如果能力刚好是4小时的选手、一成不变的以5分42秒的匀速去跑，未必能顺利完成。更好的选择是依据实际情况、分段去策划自己的比赛策略。\n\n\n因此，平均配速只体现了最后的结果，并不应该以这个数值来分配体能。同样作为运动强度的衡量数据，心率和功率等则更兼顾跑者身体的实时状况，用它们作为衡量会更为合理些。\n相对而言心率的数据比较容易获取，也非常适合初/进阶跑者作为参考依据。\n\n\n如何利用心率来确认自己的速度\n跑者都知道跑步的心率会被划分为各个区间。其中有有氧慢跑心率区间/最佳燃脂区间、马拉松强度心率区间、乳酸阈值区间、无氧耐力区间等等。\n以储备心率为例。计算公式为：\n目标心率区间=（最大心率-静息心率）x 储备心率区间（%）+静息心率\n…",
+          "link": "http://zhuanlan.zhihu.com/p/407946913?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T06:31:54.000Z",
+          "wordCount": 75,
+          "title": "马拉松比赛策略（上）：初阶跑者应该如何规划比赛中的分段配速？"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/408559873",
+          "author": "我们的太空",
+          "description": "神舟十二号航天员为我们带来了第二批在轨拍摄的高清图片。如同PS调色的红色湖水、来自大西洋的最后一滴眼泪、时隔九年再见的“曲线”。今天，“壮美地球”专辑，航天员刘伯明与汤洪波在中秋佳节之前，带你领略这世界的大好河山。\n世界第二大的咸水湖——乌鲁米耶湖，在7月的高温下，水分加速蒸发，水中的盐生杜氏藻产生胡萝卜素使整个乌鲁米耶湖呈现出迷人的锈红色，被白色盐滩包围的湖泊尽管美的令人心醉，但这红色却是她在干涸威胁下的呼救。\n\n在新疆克孜勒苏柯尔克孜自治州上空，航天员刘伯明看到的新疆大地苍茫浩渺。天山山脉上，来自大西洋的水汽在这里停下脚步，凝结成冰川，再融化为涓涓流水，滋养了天山以南，塔里木盆地里的戈壁沙漠。天山以北，“大西洋最后一滴眼泪”赛里木湖点缀在准噶尔盆地中，如同蓝天在水里安家，这澄澈的蓝美得叫人无暇他顾。\n\n在太阳翼帆板与深邃宇宙所构成的夹角中，一条碧绿的玉带温柔的铺在亚欧大陆上，这是“世界第四长湖”巴尔喀什湖，中国新疆的伊犁河自南而北注入巴尔喀什湖西部，使这条“中亚玉带”呈现出西淡东咸的一湖两水现象。照片左下角，深不见底的伊塞克湖如同一颗蓝色的宝石深居在亚欧大陆的中心，一旁的雪山紧紧环绕，小心翼翼地将这美丽的湖泊从高原戈壁中轻轻托起。\n\n在亚美尼亚传说中，英雄哈伊克在美丽的凡湖和阿拉拉特山脚下为他的子民赢得属于他们的土地。从太空俯视安纳托利亚高原上的凡湖，如同一只直冲九霄的凤凰，绝云霓，负苍天，足乱浮云，翱翔乎杳冥之上。\n\n2012年，神舟九号航天员乘组拍下“里海曲线”，一晃9年过去，里海仍然在原地静静地映出碧海蓝天，从景海鹏、刘洋、刘旺到聂海胜、刘伯明、汤洪波，大气层外，中国载人航天一直陪伴着这颗美丽的星球。\n\n\n\n（以上作品:刘哥）\n8月下旬，“彩虹之国”南非上空万里无云。作为金砖国家，南非和这片古老的大陆如今正焕发出新的生机与活力。未来，中国和南非等其他金砖国家还将航天领域继续深化合作，共同发展。中国将与全人类一同奔赴九天苍穹。\n汤哥\n秘鲁高原下白浪翻滚的海洋，似是在细说千万年来这片大陆上的沧海桑田，蔚蓝色的海洋下，强大的上升性寒流从深处往海面上升运动，把海底的淤泥上泛，把大量的营养物质带到海面，滋养了大量浮游生物生存，形成秘鲁渔场，抚育了千万年来居住在这块大陆上的人们。\n汤哥\n丘陵如织带，海峡如巨舌\n恬静的湖泊如大地明镜\n高原戈壁上绿洲点点如星辰\n这个绕着太阳默默自转的星球上\n每一寸山河都孕育了生命的浪漫\n悄悄告诉大家：航天员们也关注着大家的评论，大家还对天上的视角有哪些好奇，请积极留言评论哦！人还是要有梦想的，万一航天员们帮你实现了呢？\n供图/中国航天员中心\n技术支持/北京航天飞行控制中心\n\n\n\n来源：知乎 www.zhihu.com\n我们的太空\n点击下载",
+          "link": "http://zhuanlan.zhihu.com/p/408559873?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T05:11:29.000Z",
+          "wordCount": 73,
+          "title": "【美图·太空】高清原图！航天员摄影作品（二）——“壮美地球”专辑"
+        },
+        {
+          "id": "http://www.zhihu.com/question/306255121/answer/2108217269",
+          "author": "京师心理大学堂",
+          "description": "想要改变现状，只需要做到两点：建立合适的目标，并按照目标去做。\n设定目标\n想想那些人生导师们说的话：人生没有彩排，只有现场直播，所以每一件事都要努力做得最好！\n但，做不到最好，生活就没有意义么？实则不然，你需要的是一个明确而艰巨的目标[1]。明确是为你带来具体实现的期望值，而艰巨则要让你放弃幻想面对现实，困难但可能实现（合理难度）才是关键。平衡两者的调味剂是学会善用适合自己的激励方式。\n研究还发现，设定并实现具有挑战性的任务，除了能带来优秀的绩效表现，更能带来极大的满足感和愉悦感[2]，愉悦感又反过来提高了绩效，这就是高绩效循环。\n修正目标\n目标设定好后，我们则需要同时从合意度（desirability）与可行度（feasibility）两个角度去评估我们的目标[3]。\n合意度就是关注的是“为什么”，完成目标后到底有多有趣、多愉悦、多有益呢？它是一种面向未来的思考维度。\n而可行度关注的是“是什么”，你有多大的把握成功？有什么障碍会成为“拦路虎”？当我们考虑近期要做的事情时，我们更多想的是可行度。\n在设定长期目标的时候，我们只想着合意度，啊这个好，啊那个棒，完全没考虑可行性，临到设定的 DDL 才发现目标根本无法完成；而在面临短期决策时，我们又过于关注可行度，仅仅是因为某个目标显得过于麻烦，就把它给舍弃了，没有想过它有多有趣。\n两种考虑其实都是有好处的，考虑合意度可以使你备受鼓舞，专注于回报而提升自制力与毅力；考虑可行性则能使你在困难任务中专注于操作细节，从而完成任务，你需要做的是扬长避短，同时考虑，为排除特定困难而选择相应的思考模式。\n比如学堂君给自己设定了暴富（一个亿）的目标，如果只从合意度的角度出发，这可太爽了，但落到可行性上，咱就得冷静下来，慢慢来，先要执行123才有梦里的1个亿。\n有一个策略可以很好地结合这两者，那就是心理学家厄廷根提出的心理对照（Mental co…",
+          "link": "http://www.zhihu.com/question/306255121/answer/2108217269?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-09T03:35:43.000Z",
+          "wordCount": 145,
+          "title": "对自己的现状不满意，应该怎么改变？"
+        },
         {
           "id": "http://www.zhihu.com/question/482936135/answer/2097585890",
           "author": "程瓦辛格",
@@ -3672,24 +3762,6 @@
           "publishedOn": "2021-08-12T11:30:22.000Z",
           "wordCount": 19,
           "title": "游戏《永劫无间》8 月 12 日全面开服，游戏体验如何？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/425097623/answer/2046791153",
-          "author": "冰河洗剑",
-          "description": "大名鼎鼎的《德军总部》相信不少玩家都很熟悉，年轻的玩家一般是从贝塞斯达发行的《德军总部：新秩序》和《德军总部：新巨像》最先接触的，年长一些的是从2009年动视发行的《德军总部》开始玩的，或者是更早一些的《重返德军总部》，一般只有那些游戏老炮们才玩过30年前的原版《德军总部3D》。\n\n1992年，游戏开发商id Software推出的《德军总部3D (Wolfenstein 3D)》震惊了世界，约翰·卡马克、约翰·罗梅罗与他们的id工作室名声大噪，后来他们推出的《毁灭战士 | DOOM》系列更是深刻的改变了游戏史。对于《DOOM》系列大家了解的应该比较多，我在之前的文章中也详细讲过《DOOM》、《DOOM II》、《Final DOOM》、《DOOM 64》以及《DOOM 3》的全部剧情故事。\n\n原汁原味！带你领略原版的《DOOM》、《DOOM II》和《Final DOOM》全部剧情\n原汁原味！带你领略《NRFTL》、《DOOM 64》和《DOOM 3》全部剧情\n原汁原味！带你领略老《德军总部3D》和《命运之矛》的全部剧情故事\n\n相对来说，大家对于老《德军总部》的关注度并不高，原因其实也很简单，就是用现在的眼光看老《德军总部》实在是太落后了。由于几乎是最早的FPS游戏，《德军总部3D》的画面非常简陋，画面分辨率低，没有地板天花板贴图，场景重复度高，实际上不是真3D（射线发射法），无法上下瞄准，要同时按住alt键才能左右平移……而且游戏的枪械只有3种，敌人种类也不丰富，最令人头疼的一点是没有地图，而游戏到处又看起来几乎都一样，因此需要不少时间在沉闷的迷宫中找路，堪称“迷路模拟器”。基于以上原因，我是不会推荐大家像我自己一样去玩上20多个小时的（加上后面会说到的资料片）。如果实在想玩，可以用ECWolf（类似GZDOOM），修复了很多我上面提到的问题。\n\n虽然不推荐大家亲自尝试…",
-          "link": "http://www.zhihu.com/question/425097623/answer/2046791153?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-11T03:00:32.000Z",
-          "wordCount": 430,
-          "title": "《德军总部》系列到底讲了一个什么故事？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/478580523/answer/2050928315",
-          "author": "云吞花卷",
-          "description": "暂时没什么人写，我来自问自答一下吧。\n我觉得漫画的绘制过程是比较枯燥和耗费精力的过程，和编辑的洽谈也并不一定会那么有趣。所以搞这么个类似爆漫王的活动，我本来是不特别看好的。而且哪有说刚看个漫画开头，还没开始连载，就决定动画化了？这绝对是最速动画化了吧。所以我对这个综艺其实是有一丝怀疑态度的。\n实际上，这个活动1-6期的油管视频，各话的播放数分别是：第一话：31w；第二话：14w；第三话：43w；第四话：14w；第五话：9.3w；第6话目前：14w。参考，jump油管大概目前300个视频出头，100w以上播放数的13个、50-100w的视频21个、30-50w的视频20个、20-30w的视频24个、10-20w的视频40个，所以算是，马马虎虎吧；或者说，是个“实验性质”的节目。\n不过这个节目还是很有意思的，比如里面提到的水之呼吸名字的由来是编辑的决定；贺来和三浦的对谈；境界触发者短篇的情节拆解；等等等等，从这方面来说，这个节目还是有一些收获的。\n其中1，2期的奖励和2期的辅助，分别是：藤本树的电话，远藤达哉的信件，贺来友志的对谈；而电锯人，间谍过家家，地狱乐这三部漫画，都是将要动画化的作品，所以以jump+为主体的这个节目，明显也承担了部分这三部作品的宣传工作。因此个人推测，第三轮冠军的奖励，大概是怪兽八号的作者：松本直也的解惑，你两周一更，还是有时间搞这个的吧。\n主持人们不说了，樱小姐真可爱。（竟然这么多期节目都没换衣服，出乎我意料，记得我看投石台里面她几乎就没穿过相同的衣服。）\n\n编辑x漫画家阵容，林不用说了，从前面藤本树贺来友志远藤达哉就可以看出来吧，这全是林做的编辑，也是jump+最能打的作品，他明显非常注重漫画家自身的“输入工作”，所以其他人都开始画了，他们组总是：先花一周看各种书籍，漫画，电影，等等，然后再动手，非常稳健。分镜对门开合的修改，对整个剧本的改善，都一语中的，林编辑真是强。搭档的漫画家是个很有意思的人，年龄是六组中最大的，画风我也相当喜欢，有种“魔性”。每轮的故事也都挺有意思，不过第三轮的那个战斗漫画，虽然挺乐呵类似间谍过家家，但真的距离“异能力战斗”差的好远啊...估计真的不擅长这类吧。我个人也是觉得这组是最稳的。\n\n\n玉田个人是觉得真不行...前两轮把小姑娘心理都有点搞崩了，不知道他到底再做些什么，心理起伏太大了。第一轮那个四格，看到第一页就能猜到最后一页。我记得第一轮的标准大概是“反转，震惊感”之类的，这作品怎么拿的出来嘛。第二轮心态完全就崩了，看画面就看的出来。第三轮虽然是她擅长的战斗漫画，但个人觉得那个作品拿前三可以，拿第一还有点牵强...和第一轮一样，这位漫画家对漫画角色的情感拿捏的不太行，情感变化的有些突兀...所以我认为这肯定是有剧本的成分在里面...\n\n对冈本没什么印象...可能是这组的漫画家点子太多了所以忽视了...但是每轮这组呈现出来的作品我都很满意，和林那组并列是我最喜欢的。第三轮的魔法少女回家，虽然故事和怪兽八号有些像，有的地方的分镜我觉得有点问题，但依旧是我最喜欢的作品，第二轮的CO2也不错。\n\n李光良这组，是唯一一组三轮排名前三的，搭档的是“性癖猫”。我认为这个编辑还是很有实力的，比如他对异能力战斗漫画的一些坚持：必须要有必杀技；不过性癖猫真的是个非常“坚持自我”的作者，从第一回的换装play，到第二回的摸胸，第三回的体液交换，她的每部作品都非常有自己个人的风格。不过似乎这组编辑和作者是相对最针锋相对互相争论的。\n\n双女性这组，关系应该是最融洽的，可能是两个人兴趣很相近吧。第二轮编辑帮忙找自己同学进行话剧社的取材这点，可以看出还是很尽职尽责的。其他没有什么特别想说的。\n\n浅井这组，虽然我对浅井还是挺有怨念的...毕竟是马修的编辑，而且还各种破事...但是他的确还是做了些事情的...第一回看了大量的四格漫画总结了经验，第三回拆解了触发的那个迅的短篇，这些我觉得做的都不错。不过第一回的故事怎么说呢，感觉恐怖漫画应该是“细思恐极”的，而不是它那种呈现...第二回的故事不太行不说了...第三回应该说，他们组的漫画反倒是最符合“异能力战斗”的。\n\n总之，这个节目我还是觉得挺有意思的，毕竟漫勉就挺有意思的，这应该是另一种展示漫画家与编辑日常生活的方式了。节目时长一期大概也就半个小时以内吧，不过实际上他们第2，3回漫画评比我记得是绘制时间是3周，剪出半个小时，应该还是富裕的。不过我个人还是对直接动画化的决定抱怀疑态度...这真的能行吗...\n大概就这样，溜了溜了。\n\n来源：知乎 www.zhihu.com\n云吞花卷\n点击下载\n1 个回答，查看全部。\n有哪些极端不以画工见长的漫画/漫画家？\n漫画以后是否会消失，想成为漫画家，很担心？",
-          "link": "http://www.zhihu.com/question/478580523/answer/2050928315?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-10T15:30:09.000Z",
-          "wordCount": 97,
-          "title": "如何评价集英社的编辑X漫画家节目 million tag?"
         }
       ]
     },
@@ -3698,6 +3770,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740121",
+          "author": null,
+          "description": "深刻如此，二级心理咨询师，《非暴力沟通两性篇》《非暴力沟通情绪篇》译者\n阅读原文\n\n“一个人只有用心去看，才能看到真实。事情的真相只用眼睛是看不见的。”\n——《小王子》\n情侣有矛盾和争吵，你以为吵的是当下的事实吗？根本不是，他们吵的是这件事背后，思维本质的差异和内心最深处的诉求。\n一、重复式争吵背后，是看不见的需求和思维的差异\n最近，爆火离婚真人秀综艺《再见，爱人》里，KK 和佟晨洁的吵架堪称魔性兼经典。\n一个想生孩子，一个不想生；一个酗酒成性，一个觉得戒酒才能过下去……于是，两个人不停的吵架。\n你们有没有发现，虽然他们每次吵架的导火线不同，但归根结底还是那个最初的矛盾—“孩子和酗酒”。\n可以说，如果没有人妥协，这个架就会永远吵下去！\n因为只要两个的核心问题没有解决，彼此的需求没被看到，各自的心结得不到化解，那么，就算每次佟晨洁都主动认错，KK 也勉强配合，他们之间的争吵还是会无限延续下去。\n\n从他们的相处模式，我也看到了大多数情侣吵架的症结所在：\n1、反复同一类型的话题\n生活中其他情侣吵架也是如此，今天因为炒菜咸淡吵，明天因为洗碗洗衣吵，可归根结底都指向了谁干家务的问题，干的多的表示不满，干的少的不以为然。\n所以，表面上他们是在不同的场合、情况里，突然爆发负面情绪，但吵来吵去都会回到同一类型的话题，比如钱、家务、孩子、责任心等等。\n就的不管导火索是什么，背后的核心诉求都没变过。\n2、反复争论一个结果\n情侣间为了什么吵架？无非为了争一个结果，就像打辩论一样，正反两方，各执一词，就看谁能说服谁。\n比如，你主张男女平等，赚钱你会努力，家务他也要分担，而他主张男主外、女主内，钱他会赚，家务你来做就好了。\n所以，你们两个之后发生的所有争吵，不过是在争一个对错和输赢，谁先低头谁就输了。\n3、反复相互伤害\n反复争吵，最终结果一定是反复伤害。\n因为只要没有人主动妥协，这个架就会一直吵下去，而负面情绪也会在这个过程中持续升级。\n他觉得你作，你觉得他不够关心，两个人从做饭洗衣的小事，到买房婚娶的大事，不断争吵，不断指责，他会觉得你更作，你会觉得他更不爱你。\n4、反复各自的思维、行为逻辑\n你们本就不同，想在争吵中达成共识，这非常难，除非你们两个一起攻坚克难。\n所以，你会发现，以后每件事的争吵，不过是在轮回上一次争吵的思维、行为逻辑。\n比如，他认为你错了，不断指责你，你认为你没错，你不断反驳他。\n如果你们持续性在过去的想法里打转，不管吵了多少次，也不过是重蹈覆辙。\n二、如何避免反反复复的吵架？\n1、降低重复式吵架，及时喊“卡”！\n当你意识到和伴侣吵架，跌入了一个死循环，那你一定要果断止损，减少这种无意义的吵架。\n为什么吵架会伤感情？并不是因为它本身具有破坏性，而是无意义的吵架等同于内耗，浪费时间也浪费感情。\n就像 KK 和佟晨洁，一直围绕生孩子和酗酒问题吵，莫不如冷静下来，停止无效沟通。\n2、吵出新内容，看到背后的需求\n回到正题“怎么避免吵架？”当然是解决核心矛盾，看到彼此的核心需求，把病根找到，病症自然也能得到缓解。\n那如何找呢？可以开诚布公的沟通，也可以换一种方式吵。\n重点不在于形式，而在于双方交流出新的信息，最好是走心的内容。\n比如：\n为什么 KK 想要孩子？因为他独自一人来到上海，想要与世界有个联接。\n为什么佟晨洁要求他戒酒才能要孩子？因为她出身在单亲家庭，一个不负责任的爸爸，让她的童年没有安全感。\n看吧，至少在争吵和交流中，他们找到了问题表象背后，那个深层次的诉求，这就意味着一个新的开始。\n3、情绪的问题，一定要先解决情绪\n无论你们吵架的源头是什么，最终能吵起来都是情绪在背后作祟。\n正如节目中教授沈奕斐所说“没有核心冲突时，情绪性的问题，一定要先处理情绪，再去处理事实。”\n\n简化点理解，情绪激动时，能让情绪得到缓和，再慢慢沟通、消解背后的本质问题，效果一定会更好。\n4、有效复盘、反思，持续表达、改变\n看到，并不意味着争吵的终止，之后你们还要在不断的复盘和反思中，达到相互谅解。\n原来他并不是偏执，他只是需要被世界认可；原来她并不是自私，她是曾经受过许多伤。\n这时，再去想之前争吵的那些琐事，似乎就少了几分怨念，多了几分疼惜。\n当你们对彼此的印象有了彻底转变，那些反复争吵的模式被打破，你自然不想指责他了，他也不再辩解了。\n此时，你们坐下来好好聊聊，表达出心里的委屈和困惑，然后双方都尝试做出一些改变。\n记住：这个变化不是被迫产生，而是心甘情愿的。我相信，想要走下去的情侣，都会主动调试自己，在“和而不同”中达到平衡。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740121",
+          "publishedOn": "2021-09-09T23:08:27.000Z",
+          "wordCount": null,
+          "title": "怎么让情侣之间的小矛盾减少？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740122",
+          "author": null,
+          "description": "闲伶，乙方\n阅读原文\n\n因为林黛玉就是活泼可爱的孩子。\n======\n林黛玉一身贵气不是靠王熙凤吹出来的，她日常的表现就是大大方方的。\n还记得元春下令让姐妹们连同宝玉搬进大观园么？宝玉去问林妹妹想住哪里——这个问题如果问所有人，我猜会是这样：\n普通人：都挺好的，我服从贵妃安排。\n安陵容：哎呀，我哪里配。\n林黛玉：我要潇湘馆。\n看出区别了吗？林黛玉病得一副随时要去见马克思的样子，但你看她什么时候露过怯。\n=======\n林黛玉之所以从众多古典美人才女中脱颖而出，是因为别的美人才女是淑女，而林黛玉是伪装成淑女的顽主。\n我以前一直想不通，为什么曹雪芹写别的姑娘时总是温情而悲悯，可是一到林黛玉这里，就批评得毫无顾忌，写她看见宝钗受欢迎就不高兴，写大观园里的丫鬟小厮们都知道林姑娘嘴里爱刻薄人，写她在宝钗家里出事的时候毫无同情心，讥讽宝钗“就是哭出一缸子眼泪也医不好棒疮”，宝钗当时心烦意乱到根本不想搭理她。\n说真的我觉得这里才是林黛玉最招黑的一处描写。\n我也一直没有很理解曹雪芹为什么要明着暗着强调林黛玉孤高自许目下无尘——这姑娘只要见了家里的大人，见了外客，那完全是大家风范，又妥帖又体面又大方，并不是个清高孤僻的款儿，干嘛要这么说人家。\n直到我看了《顽主》，看了冯远征演的一个贵族少爷想学戏，大冬天光着膀子从桥头往下扎猛子。\n嘿那股子劲儿，学不来。\n曹雪芹写别的姑娘时，写的是他生命里那些美好的过往，写林黛玉时，是在写他自己。\n曹雪芹自己是个顽主式的人物，脾气大，乖张淘气，不积口德，时不时惹点事，都是他的一部分。他很诚实地面对自己的这些特质，并且反映到了林黛玉这个角色身上。\n而顽主呢，也够闲够浪漫够不着调，能干出葬花、拿狮子倚住纱屉、看大燕子回来再把帘子放下……这样的事。这精气神儿，这兴致，这高雅，这一肚子欠揍的鬼点子，也是他的一部分。林黛玉表现出来的那股子爱玩、会玩的劲儿，那股子上房揭瓦…",
+          "link": "https://daily.zhihu.com/story/9740122",
+          "publishedOn": "2021-09-09T23:08:22.000Z",
+          "wordCount": null,
+          "title": "贾母明显喜欢活泼可爱的孩子，为什么大家又一致认为贾母最喜欢黛玉？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740134",
+          "author": null,
+          "description": "狐狸晨曦，历史/影视撰稿人。\n阅读原文\n\n《雍正王朝》的收视爆火，《大明王朝 1566》的收视遇冷，最大原因，是首播年代不同，平台不同，收视主体受众也完全不同。而两部剧本身的差别，“爽剧”与“非爽剧”，当然也很重要。\n这里要科普收视率统计的一些冷门知识。\n我们目前采用的权威收视数据，是 2019 年才正式启动的【广播电视节目收视综合评价大数据系统】，简称央广收视率，随机抽取的样本户高达上亿人次，大数据、云计算，基本杜绝了“收视率造假”的空间。\n而在此之前，统计收视率的公司，一直是央视的索福瑞公司，他们的统计数据，都记录在每年的《中国电视剧收视年鉴》里，有“全国网”和“城市网”两套体系，\n从 2010 年起，到 2018 年底为止，收视统计普遍采用城市网数据，（10 年是 27 城，11 年加到 30 城，12 年加到 32 城，14 年加到 50 城，16 年加到 52 城）\n比如 2017 年大爆的《人民的名义》一剧，平均收视率 3.66%，单日最高收视率 7.3%，就是索福瑞城市网的历史最高数据。\n而在 2009 年之前，城市网数据尚未完善，收视统计以全国网数据为标准。但是，全国网数据最大的问题，就在于那时候各大卫视频道，还没有在广大城乡结合部与农村普及，非常多的落后地域，在当时只能收看央视一套节目。\n所以，每年收视排行榜，一半以上都是当时央视播出、从当时到现在都默默无闻的剧，各个卫视播出的电视剧，哪怕再火爆也完全上不了榜。\n不止包括世纪初的《激情燃烧的岁月》《潜伏》《士兵突击》《金婚》等等，甚至也包括上个世纪的《还珠格格》《永不瞑目》等大爆电视剧，\n至于当时电视剧的很多宣传通稿，比如像 1998 年《永不瞑目》（在江苏地区）48%收视率，1998 年《还珠格格》（在北京地区）54%收视率，\n2000 年《春光灿烂猪八戒》收视率：31%（黑龙江卫视）+23.42%（湖南…",
+          "link": "https://daily.zhihu.com/story/9740134",
+          "publishedOn": "2021-09-09T23:08:17.000Z",
+          "wordCount": null,
+          "title": "都是刘和平编剧，为什么《雍正王朝》当年收视爆火而《大明王朝1566》却遇冷直到十年后才小范围火起来？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740113",
+          "author": null,
+          "description": "La Valse，可推荐各地优秀钢琴教师，详情可私信。\n阅读原文\n\n泻药。\n解决的方法前面的回答者已经说的差不多了，我仅仅再提供一个思路。\n把“双手练习”降低到一个自己 200% 可以驾驭的难度，从这个难度开始一点一点来，一个难度的完全没问题了就再加一点难度，慢慢的就不会对合手发怵。\n其实不光是学琴，这种思路可以应用于任何领域。眼前的难度感觉应付不过来了怎么办？那就先把难度降低到自己可以应付的程度，然后再一点点加码啊。\n暂且给出一个双手配合的难度进阶顺序（也可以根据自己的具体情况自行归纳）：\n1.双手交替演奏的曲目\n需要处理信息量和单手等同，只要做好交接即可。\n例如：\n\n再例如：\n\n2.一只手是较复杂的旋律另一只手是长音伴奏的曲目\n需要处理的信息量也不比单手弹多多少，主要精力倾斜到弹旋律那只手就 ok。\n例如：\n\n例如：\n\n2’.（因为是 2 的延伸所以叫 2’）一只手是较复杂的旋律另一只手是规矩的固定伴奏音型\n包括但不限于：分解和弦（包括开放和闭合的），半分解和弦（包括小跳、大跳），阿贝尔蒂低音等等。\n\n绝大部分以克莱德曼为代表的流行轻音乐系列可以归为这一类。\n3.两只手完全一样，仅隔一个八度的同步进行曲目。\n信息量也等同于一只手。\n例如：\n这只曲子叫《健身操（读一声谢谢！）》，意思是前面的人领操，后面的人跟着做操，动作都是整齐划一的，所以这只曲子左右手内容是完全同步的。\n\n再例如拜厄的 32-34,41-43 等等。\n高端的例如舒伯特鳟鱼五重奏第四乐章的变奏 3，肖邦第二奏鸣曲第 4 乐章，普二第 2 乐章。\n3’.两只手同向进行，隔 3 度、6 度、或者 10 度\n3\".两只手反向进行，呈镜面对称\n\n（这一条把以上情况都囊括了）\n4.双手都是较为复杂的旋律，开始复调音乐的雏形\n这类作品的双手配合难度开始迅速增大，但是无需害怕，我们可以试着从音型简单、速度不快、双手重合部分相对少的曲目开始啃。\n最简单的例子就是小汤 2 的《跟上小队长》，它是一首卡农，卡农！这名字也是有讲究的，右手就是小队长，左手就是我，左手一直都比右手晚一个小节，直到最后跟上了一起结束。\n\n拜厄也有少量这种复调类型的练习曲（大部分还是 3 类型的居多，不得不说这是传统教材的一大局限性，对复调的训练实在太少）\n\n还有很多中国作品也都是复调形式，例如我们最熟悉的《牧童短笛》：\n\n它好就好在双手不会同时出现密集复杂的音型，都是交替出现，所以也并不算很难。\n集大成者巴赫的作品就更不用多说了，是初学者的噩梦。但是也不要有畏难心理，同样我们可以从简单一些的作品下手：\n\n5.复节奏音型（包括较为简单的分散型，以及较困难的集中连续型）\n最简单的可以插空解决的：\n\n然后是偶尔来一个的那种分散型：\n\n复杂集中型：\n\n这一部分具体怎么合手演奏我在其他的回答中有详细介绍过，这里不再赘述。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740113",
+          "publishedOn": "2021-09-09T23:08:11.000Z",
+          "wordCount": null,
+          "title": "初学钢琴，一首曲子左手可以背着弹出来，右手也可以，但是两只手无法一起弹？可以提供一些帮助吗？？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740124",
+          "author": null,
+          "description": "陈一丁Dingslook，公众号叫「一只马丁靴」，其他平台@陈一丁Dingslook\n阅读原文\n\n大家有没有觉得化妆好“玄学”？\n有时候画得还行，有时候折腾一个小时还是生硬，感觉发挥好不稳定……\n其实只要用一点巧劲，不出几秒钟就能画好，每次都很稳！\n今天就来手把手教大家 3 个超简单的化妆技巧，看完马上就会用，让妆容质感提升 80%！\n====一、眉头画得僵硬，这样一改就很自然\n丁丁先来个错误示范吧，大家觉得这道眉毛问题在哪呢？\n\n没错，眉头太僵硬了！\n新手容易把眉头画得方方正正，看起来像贴上去似的，把本来的颜值都封印了：\n\n▲一个对比。\n那怎样画出自然好看的眉头呢？很简单，两步搞定。\n▍ 先选好眉笔颜色\n化妆新手买眉笔，很多都是直接挑黑色，觉得跟黑发最搭。\n但其实自然的眉毛要比发色更浅，黑色不适合大多数人！\n如果你是比较浓郁的黑发，最好选深灰：\n\n如果头发没染过但不够黑，有点发红，那可以选灰棕色：\n\n如果染了棕色头发，最好换成深棕色：\n\n选对颜色后，画出自然的眉毛就很容易了。\n▍ 只要一笔，眉头立马变自然\n我们画好眉形、填充颜色后，可以用眉笔自带的刷头，把边缘轻刷几下，让界限没那么清晰：\n\n那重点来了，眉头部分只要用一支晕染刷，刷头平一点钝一点：\n\n从中间往眉头方向，来回晕染几下，眉头马上变得淡淡的，还和山根凹陷处自然衔接起来：\n\n▲请看魔法时刻。\n是不是超级简单！直接上一个对比图，大家可以感受一下：\nbeforeafter\n后面再画鼻梁阴影，就可以很好衔接起来，让眉眼看起来立体又自然。\n----二、眼尾眼线这样画，自然流畅不突兀\n那我们再来第二个常见问题，新手拉眼尾的眼线，是不是老觉得发挥不稳定？\n有时候拉得弯弯曲曲，有时候画得妆感太强，感觉不画还更好看。\n\n那你一定要试试这个办法，基本一画一个准！\n▍ 先选对眼线笔\n现在比较常用液笔、胶笔来画眼线：\n\n更建议新手用胶笔，材质比较硬，容易把握。液笔的笔头太软了，手抖很容易拖得歪歪扭扭。\n笔头一般有圆锥形、圆柱形、扁头，这些都可以，但都需要眼线刷配合，才能拉出尖细的自然眼线。\n\n画到这么长就可以了，虽然看起来眼线尾钝钝的，但没关系不用担心：\n\n▲颜色选棕色更自然，我用的是小店铺里的 UNNY 眼线胶笔。\n▍ 再用斜角眼线刷，晕染出柔雾感\n接着用一把斜角眼线刷：\n\n把眼线拉出来，跟眼尾衔接好：\n\n▲这样可以避免眼线与眼尾之间留下空白，看起来更贴合眼型。\n这样上眼线就画好了，大家还可以用残留在刷子上的颜色，快速画出下眼线：\n\n▲在睫毛根部下面落笔，左右横向晕染开就好，可以自然放大眼睛。\n照这样练习一两次，手抖星人也能又快又好拉出自然的眼线了！\n\nbefore\n\nafter\n----三、口红一涂就显老？用这 2 招立马搞定\n最后来说一个可能化妆多年都会遇到的问题，即便口红色号选对了，别人涂是美艳小姐姐，为什么自己涂就显老呢？\n\n▲就像迪丽热巴的长相非常适合明艳妆容，但涂红唇有时会有点别扭。\n其实想把唇妆涂好看，还得注意上口红的技巧！\n▍ 先处理好嘴角颜色\n很多人的唇周有色素沉淀，没处理好就直接上口红的话，注意力都被吸引过来，一艳一暗反差太明显。\n\n▲特别是又红又亮的口红，衬得嘴周更加暗淡发黄。\n如果你用的口红饱和度比较高，最好先给唇周做一下遮瑕，修饰好口周发黑的问题：\n先用遮瑕再用散粉\n（완벽한 립 그라데이션 방법 * GRADIENT LIP TUTORIAL (블러셔를 사용한 오버립 연출)）\n▍ 再处理好唇妆的边缘\n唇妆的边界太明显，就容易显得假和老气。特别是像我这样的薄唇女生，容易更加显刻薄。\n\n这里丁丁教大家一个超好用的办法，只需要准备一根棉签，沾一些哑光唇釉：\n\n把唇妆边界晕染一下，变得没那么清晰，一下子就更自然了：\n\n▲记得别用没沾口红的棉签去晕染哦，不然口红都被擦掉了。\n薄唇女生注意把嘴唇的直线条，晕染成饱满的圆线条，这样更不容易显老：\n\n▲简单示意一下就是这样。\n给大家看过对比吧，改妆前 VS 改妆后：\n\n这种画法会让口红更像是嘴唇原来的颜色，衔接也比较自然。\n===\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740124",
+          "publishedOn": "2021-09-09T23:08:06.000Z",
+          "wordCount": null,
+          "title": "有哪些简单但是很少人知道的化妆小技巧？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740136",
+          "author": null,
+          "description": "同样被称为「千年美少女」，为什么桥本环奈受到追捧，鞠婧祎受到嘲讽？\n\n呋咱，哈哈哈哈哈哈哈哈\n阅读原文\n\n因为她是千年一遇的化合物桥苯环萘\n阅读原文\n\n当一个男生把一个女生的备注从名字改成了老大 这是喜欢这个姑娘吗？\n\n飞雪连天射白鹿，情趣用品实体店小老板~\n阅读原文\n\n那得先看他的备注里有没有老二老三老三老四老五老六老七\n阅读原文\n\n德云社有哪些全场高能的相声？\n\n北凉世子徐凤年，那时你爱顾城的诗 ，也学他总戴帽子\n阅读原文\n\n于老爷子正在道上走，旁边屋里有女的敲窗户\n女：「大哥，看跳舞吗」\n于：「什么舞」\n女：「民族舞」\n于：「那没意思，不看」\n女：「（压低声音）不穿衣服的那种」\n于：「废话！不穿衣服我知道你哪个民族的？！」\n阅读原文\n\n那些经常健身的人，后来怎么样了？\n\nDovahkiin，知乎上的人真2，说不过就跑\n阅读原文\n\n死了，死亡率高达 100%\n阅读原文\n\n刀插到身体里，是拔出来还是不动？\n\n景江枫\n阅读原文\n\n\n它告诉我们不可轻举妄动\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740136",
+          "publishedOn": "2021-09-09T23:07:59.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740095",
           "author": null,
@@ -5307,56 +5439,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739056",
-          "author": null,
-          "description": "Scotty，我总能找到些被忽视的珍珠\n阅读原文\n\n0.写在最前\n在写这篇回答前，我看到有不少答主推荐了培根和梵高，\n我非常喜欢弗朗西斯.培根谈及梵高时提及的一个观念：梵高跟他一样，是具有痛苦意识的人，\n在我看来，压抑画面表现其深层次是痛苦意识传递出的内心挣扎，\n这也是本篇回答的推荐筛选标准，\n本篇回答共推荐 9 位画家和他们的 77 幅作品，\n本来打算是要推荐十五位画家的，\n但是我实在是写不下去了，作品太压抑了，我现在整个人现在都不好了，\n等看什么时候我人缓上来了再继续更新和深入编写；\n1.珂勒惠支的版画和素描（二十二幅）\n一位为无产阶级发声的伟大画家，一位革命者，一位母亲；\n我忘不了我高二时柯勒惠支带给我的震撼，一种压抑到极致的悲鸣，珂勒惠支的作品包含浓郁的人文情怀，她影响了我国的数代版画家，画面张力之深刻，内容之悲泣，每每回顾，不忍猝读。\n《医院就诊》《耕夫》农民战争组画《自愿者》（手稿）1922 – 1923《匮乏》(手稿）《战场》农民战争组画《俘虏》农民战争组画《母亲》《母亲》《纪念逝者 - 悼念卡尔·李卜克内西之死 》1919《突击 》1929《遗孀 I》1922—1923《父母 》为国际工会联盟所作的海报设计《女人和死去的孩子 》1923《死亡和女人》1907《犁夫和女人 》1902《磨镰刀》1905《死亡》《德国的孩子正在挨饿》1924\n凯绥·珂勒惠支（1867-1945）是德国 20 世纪最重要且最具影响力的艺术家之一。她的作品深刻地表现了她对人与社会、人与人之间关系的理解，渗透着浓郁的人文情怀。珂勒惠支的作品题材丰富广泛，对生与死、悲与喜、战争与和平，尤其是对母爱及生命中那些闪烁爱的光芒的瞬间之刻画，可谓主题鲜明而又入木三分。“这是一个无助而彷徨的时代，我承认自己的艺术是有‘目的’的，我要经历这个时代、勾勒这个时代、影响这个时代。”——这便是这位有着使命感的艺术家的创作信条。在德国，众多的学校及马路都以她的名字命名。早在东德、西德统一之前，她对社会时弊的批判、她所秉持的高尚人文情操就已赢得了人民的尊敬和爱戴。\n2.西班牙艺术家 Guim Tio Zarraluki 的风景（九幅）和人像（五幅）\n他的风景画作品和人像作品在我看来视觉上的差异非常大，风景画表现得比较克制，而人像则非常有冲击力，但它们二者想表达的东西在我看来是一致的，一种异化的郁结；\n\n3.波兰女画家 Marta Zamarska 的火车站系列（六幅）\nMarta Zamarska 笔下的车站和人都带着一股离别的忧郁，饱含着一种孤寂和带有末世幻灭的意味，沉焖、忧郁且压抑；\n\n4.意大利画家 Paolo Troilo 的手指画人体（六幅）\nPaolo Troilo 的作品都是用手指涂手蘸丙烯颜料画成的，他的人体绘画极具张力，在我看来，Paolo Troilo 所体现的是某种被压抑到临界点后即将爆发的前夕，通过极致的表现，他将培根的那种画面上的痛苦意识展现地淋漓尽致；\n画家个人网站：Home | ilmiosito\n\n5.Guy Denning 的炭笔人像（七幅）\nGuy Denning 的创作源头主要是源于童年时期对战争印象，虽其本人未亲历过战争，但儿时参观凡尔登战役的纪念墓地的回忆在他的脑海中挥之不去，他的炭笔作品表现力十足，表现出创伤和萧索破败的画面气质；\n画家个人网站：guydenning.org\n\n6.美国加州画家 Kai Samuels-Davis ​​​​的碎片肖像（七幅）\n他的画面中，最打动人的是眼睛，要么低垂眼眸、要么无助凝望、要么痛苦紧闭，搭配上碎片式的笔触，所营造出的氛围不言而喻，让人感受到阴郁、凋零和支离破碎的心。\n画家个人网站：Kai Samuels-Davis\n\n7.Alisher Kushakov 笔下的女性（六幅）\n\n8.Jakub Schikaneder 的被悲哀之痛（八幅）\nJakub Schikaneder（1855-1924），他是我最不忍看的画家，每次看到他的作品，我的内心就忍不住地悲伤；\nJakub Schikaneder 以他对户外的柔和画作而闻名，经常在情绪上感到孤独。他的画常以贫穷和被遗弃的人物为特点。希卡内德喜欢的其他图案还有秋天和冬天，布拉格市和伏尔塔瓦河（Vltava）河岸的角落和小巷——通常是在傍晚的光线下，或是披着薄雾。\n\n9.法国象征主义画家 Odilon Redon病和狂的梦幻曲（十幅）\n奥迪隆·雷东(Odilon Redon,1840--1916)法国画家，印象派的领军人物\n被德尼比作\"画坛的乌拉梅\"。雷东在美学上主张发挥想象而不依靠视觉印象。19 世纪 70 年代末他开始创作石版画，共创作了近 200 幅，总标题为《在梦中》。法国作家于斯曼称雷东的画是\"病和狂的梦幻曲\"。\n\n以上\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739056",
-          "publishedOn": "2021-08-10T23:08:24.000Z",
-          "wordCount": null,
-          "title": "有哪些令人很压抑的画？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739065",
-          "author": null,
-          "description": "chenqin，数据帝\n阅读原文\n\n从有电子计时器开始算起，在有记录且风速不超标的比赛中，全世界共有多少运动员，多少次跑进了 10.2 秒？\n940 人，共 10411 次。即便把阈值拦在 10.2 秒，而非 10 秒，世界上能达到这一速度的人仍然没有达到一千。我们将这 940 人的 10411 次比赛，按照他们的年龄画成一张散点图。\n\n这张图看起来像是一座小山丘。从 17、18 岁开始，速度快速提高；在 26 岁左右，山丘达到顶峰；在 30 岁后，速度逐渐下降。山丘内侧的点非常密集，代表着很多运动员曾经达到过这里，而越外层的点越稀疏，那是最优秀的运动员才能达到的区域。\n我们在这张图上，把除了苏炳添以外，其他所有东亚地区跑进 10.2 秒的比赛（同时去掉了归化运动员和混血儿）数据给高亮出来：\n\n东亚运动员的记录用黄色高亮出来后，给人的第一印象就是，黄色的点缩在蓝色山丘的中间，完全被包围，几乎完全到不了外层。\n当然，你可能会注意到上图的左侧有几个处于外圈的点，尤其是在 17 岁达到 10.01 的那一点，看起来分外出挑。\n这几个成绩来自同一名日本运动员——桐生祥秀。桐生祥秀至今保有着世界青少年 100 米赛跑世界纪录，当时也曾成为希望之星，人们看好他在世锦赛和奥运会上能有上佳表现，突破人种的限制。\n但事与愿违，桐生祥秀后期不仅一到大赛就让人大跌眼镜，还越跑越差，现在连奥运会标准都无法达到了。在一次苏炳添的访谈中还专门提到了桐生祥秀：\n程：明白了，就是说冬训的两三个月，每一个训练单元跑的次数，是阶段性变化的，开始时次数多，速度要求不高；第二、第三阶段后，一个训练单元跑的次数减少，要求运动员上速度。有一个例子，日本短跑运动员桐生祥秀，你跟他多次比赛过的。我在《参考消息》上看到报道，说他是日本第一个进 10 秒的百米跑运动员，是吧？\n苏：对。\n程：桐生祥秀进 10 秒以后呢，他的训…",
-          "link": "https://daily.zhihu.com/story/9739065",
-          "publishedOn": "2021-08-10T23:08:17.000Z",
-          "wordCount": null,
-          "title": "苏炳添和博尔特差距还有多远？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739057",
-          "author": null,
-          "description": "於文漪，中文系毕业的综艺导演 戏剧青年在路上 戏剧合作请私信\n阅读原文\n\n从音乐，空间和视觉语言几个角度来说说为什么“巴黎八分钟”这场秀能表现得又年轻，又酷，又具有浪漫的人文气息。\n音乐与空间的共振\n这次“巴黎八分钟”的音乐总监是我非常喜欢的法国秀导 Woodkid，他非常擅长将音乐视觉化，Katy Perry 的 Teenage Dream，打雷姐的 Born to die，哈卷的 Sign of the times 这些传播度超高的 MV 都是出自他手。\n而这次，他用分布在不同地方的交响乐团来完成的《马赛曲》，不仅将乐感融入视觉语言的表达，也将音乐的空间感做了非常精彩的表达。\n开头女性音乐家在法兰西体育场屋顶吹奏长笛总起，长笛的音色是非常清亮，悠扬的，笛声仿佛从高点绕场一周，尔后一路飘扬向上，飞入云霄。\n\n巴黎中心的塞纳湖畔，一组音色非常接近人声的小提琴随流水的波动奏出赞歌。\n\n回到卢浮宫，两组音色空灵的马林巴琴把整个圣洁博大的空间充满。同时，马林巴琴其实是一种发源于非洲的民族乐器，在近年也有不少当代音乐家会把它和古典乐团编到一起。它的出现也是向法国庞大的非裔族群的一个致意。\n\n乐曲层层递进，一位钢琴家出现在废弃的铁轨前。这个地方其实是巴黎的一处旧城改造项目，从废弃的 Petite Ceinture 内环铁路，（感谢评论区知友 @Enzo Jiang 更正补充：这段内环铁路大概废弃了一百年了，最近十几年确定不会再要之后开始慢慢改造成其他市民项目）改为了以“DIY”为核心的人文艺术中心，这里可以举办各种艺术工作坊，集会，电影放映等。这个场景的出现也是奥委会对“环保”观念的一个考量。\n\n该场地实拍图：\n\n随着打击乐的进入，镜头切换到巴黎著名的滑板公园（The Diderot Skatepark），滑板落地声也组成鼓点的一部分。滑板这种源于街头，现在也被纳入奥运会项目的运动，…",
-          "link": "https://daily.zhihu.com/story/9739057",
-          "publishedOn": "2021-08-10T23:08:09.000Z",
-          "wordCount": null,
-          "title": "如何评价东京奥运会闭幕式上的「巴黎 8 分钟」环节？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739074",
-          "author": null,
-          "description": "Moriarty K，正常合作请私信，洗稿白嫖劝收手。\n阅读原文\n\n或许大家都知道这是一个经久不衰的经典都市传说，但很少有人知道这并非空穴来风，而是经过很多生理学家、法医学家进行的一系列科学实践研究，最终方才被抛弃的。\n首先不得不提一提，“视网膜破案”的影响力确实不小，以至于很多文化程度比较低的凶手真的信以为真，做贼心虚的在杀人后实施附加行为，把受害人眼睛挖去，这种做法的意义只能是强行为自己加上个侮辱尸体的罪名。\n回到问题本身，我们首先必须知道，眼睛是如何正常工作的。\n这是一个眼结构：\n\n如图，光线依次经过角膜、虹膜中央的瞳孔、晶状体、玻璃体，在视网膜上成像，视觉细胞的兴奋经过视神经传递到大脑皮层的视觉中枢，最终形成视觉。\n在这整个过程中，无论是瞳孔还是视网膜，都仅只是一个短暂的中点站，产生影像最为关键的是其过程中产生的电信号传递，没有任何一个单一结构能够做到记录储存画面。\n所以，人死了，这一系列刺激传递过程是被中断的，自然无法达到“记录”的效果。\n\n在基本了解完这些基本点之后，我更想说的是这个都市传说背后一些可信的地方。\n一.在过去，一些法医学家确实研究过这种破案方法\noptography，大致意思是“视网膜图像还原”，在二十世纪初曾经是一个小型学科，研究点就在于通过视网膜来“还原最后一刻看到的事物”，其原理在于视网膜上面的两种感光细胞：\n——视锥细胞（Cone Cell)和视杆细胞(Rod Cell)\n\n简单来说，这两者的工作主要是接受传递过来的光刺激，将其转化为神经冲动，充当光感受器的作用，视杆细胞中有一种视蛋白叫做“视紫质”，在光下起色觉作用，对光极其敏感，遇到光就褪色，而在暗处会慢慢恢复。\n视紫质全称“视网膜紫质”（Rhodopsin)，呈红紫色并因此得名（平行于细胞膜）\n基于这一点，研究者认为虽然视网膜不具备存储的能力，但由于视紫质这种特殊的机制，通过观察其褪色情况，可以对死前一刻的环境情况进行一些基本判断。\n研究者做了三组实验，首先准备三只兔子：A、B、C\n让 A 处于一件小黑屋里，然后杀掉它，并立刻记录视网膜画面。\n让 B 处于一个拱形窗前，然后杀掉它，并立刻记录视网膜画面。\n让 C 处于一个方形窗前，让后杀掉它，并立刻记录视网膜画面。\n这三组实验的效果还不错，因为确实记录下了窗户的轮廓：\n从左到右依次是 A 兔、B 兔、C 兔\n但是研究人员很快就意识到，这个技术有着一些致命的缺陷：\n——视紫质的光感变化过程虽然明显，但是时效太短，若非死后短时间内记录，那就毫无意义。\n——视紫质虽然可以对光暗情况进行反馈，但也局限于此，基于此技术不能做到人们想象中那样的“拍照”水平，只能对环境明暗对比做出提示，作用太过于有限。\n这两个缺陷，让 optography 的实际运用化为泡影，因为警察不可能每次出命案就瞬间移动到案发现场，更别说得到的大概率也不是足够破案的提示信息。\n\n虽然眼睛无法记录下凶手的相貌等细节，但眼睛对于法医学依旧有着极其重要的作用，这也是为什么很多时候能看到法医翻开死者眼睛检查的原因。\n顺手科普一下：\n1.提取玻璃体，判定死者死亡时间\n\n作为人体细胞内液的主要阳离子，其浓度一般较为稳定，人在死亡后细胞通透性改变导致大量钾离子外涌，在眼结构内主要流动方向就是玻璃体。\n于是，死亡时间越长，玻璃体内钾离子浓度就越高，提取死者玻璃体，对其中钾离子浓度进行分析，可以大致判断死亡时间。\n2.角膜混浊度，判定死者死亡时间\n尸体角膜混浊（Postmortem turbidity of cornea）是一种常见尸体现象，人死后粘多糖水和作用受阻，导致角膜透明度下降，变混浊至灰白色。\n通过角膜混浊的程度，可以初步判断死亡时间。\n角膜中度混浊，提示死亡 24 小时左右\n3.提取玻璃体，判断死亡原因\n这个一般情况下不太会用，因为毒物检测可以用的东西很多，但某些“特殊情况”玻璃体也行，能用来做毒物检测。\n4.特征性提示\n眼睑结膜出血点能够提示机械性窒息（70％左右）\n有机磷中毒死亡，一般瞳孔会缩得很小\n巩膜黑斑，提示尸体在干燥环境中存放过一定时间\n巩膜黑斑\n相关：\n死不瞑目从法医学的角度来说应该如何解释？\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739074",
-          "publishedOn": "2021-08-10T23:08:05.000Z",
-          "wordCount": null,
-          "title": "现实中警察真的能通过死者眼球记录下的影像破案吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739079",
-          "author": null,
-          "description": "当着猴群的面把猴王打败，我会成为猴王吗？\n\n沃金，心眼小，报复心强，记性好。\n阅读原文\n\n非本土出生公民无权参选美国总统。\n阅读原文\n\n有哪些送给女朋友又不会显得太直男的七夕礼物推荐？\n\nThinkraft，Obsessive-Compulsive-Personality-Disorde\n阅读原文\n\n一封出柜的信。\n阅读原文\n\n因为文身，你被特殊对待过吗？\n\n要走就别回头丶，时间总会说出再见-\n阅读原文\n\n年纪比我大的叔叔们会主动给我递烟 \n阅读原文\n\n有个玩辩论的情侣，吵架会是一种什么感觉？（我不会辩论）？\n\n知乎用户\n阅读原文\n\n吵完复盘\n阅读原文\n\n有个优秀的前任是种怎样的体验?\n\n荼白大大\n阅读原文\n\n我的前任很优秀，分手后就一直对我设置朋友圈权限。\n我懒得看他动态，也懒得删他，就这样彼此在好友里躺尸。\n某天我刷朋友圈，突然能看到他动态，原来是要结婚了。\n这是想暗示我要份子钱？\n\n \n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739079",
-          "publishedOn": "2021-08-10T23:07:58.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5454,24 +5536,6 @@
           "publishedOn": "2021-08-13T03:38:38.000Z",
           "wordCount": 108,
           "title": "2021.08.13 今天是每日时报陪伴您的第 605 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/08/10.html",
-          "author": null,
-          "description": "2021.08.10 今天是每日时报陪伴您的第 603 天\n[文章] 8 个小游戏项目掌握前端技能 🥇🏆：https://dev.to/madza/8-projects-to-build-to-master-your-front-end-skills-4gnc\n\n[文章] 一个优秀前端的工具修养：https://www.yuque.com/surfacew/fe/uqr4ug#KOCBT",
-          "link": "https://wubaiqing.github.io/zaobao/2021/08/10.html",
-          "publishedOn": "2021-08-11T06:10:24.000Z",
-          "wordCount": 83,
-          "title": "2021.08.10 今天是每日时报陪伴您的第 603 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/08/11.html",
-          "author": null,
-          "description": "2021.08.11 今天是每日时报陪伴您的第 604 天\n[新闻] vue3.2 发布了，正式支持 setup 语法糖：https://blog.vuejs.org/posts/vue-3.2.html\n[文章] CSS 即将支持嵌套，SASS/LESS 等预处理器已无用武之地？：https://zhuanlan.zhihu.com/p/398159307?utm_source=wechat_session&utm_medium=social&s_r=0",
-          "link": "https://wubaiqing.github.io/zaobao/2021/08/11.html",
-          "publishedOn": "2021-08-11T06:10:24.000Z",
-          "wordCount": 86,
-          "title": "2021.08.11 今天是每日时报陪伴您的第 604 天"
         }
       ]
     },
@@ -5497,15 +5561,6 @@
           "publishedOn": "2021-08-26T16:15:00.000Z",
           "wordCount": 718,
           "title": "What I'm up to now"
-        },
-        {
-          "id": "https://martinfowler.com/articles/gateway-pattern.html",
-          "author": null,
-          "description": "We often need to access APIs from foreign codebases, and these foreign\n      codebases usually have different vocabularies to ours. I've found it\n      useful to encapsulate this interaction with a gateway that\n      translates between our code and foreign code.\nmore…",
-          "link": "https://martinfowler.com/articles/gateway-pattern.html",
-          "publishedOn": "2021-08-10T14:51:00.000Z",
-          "wordCount": 2865,
-          "title": "Gateway Pattern"
         }
       ]
     }
