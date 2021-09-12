@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351562",
+          "author": "Chris Coyier",
+          "description": "I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:\n<div class=\"C(#333) P(20px)\"text\n</div\nAnd it will generate CSS like:\n.C\\(\\#333\\) {\n  color: #333;\n\n…\nThe post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-in-time-css/",
+          "publishedOn": "2021-09-10T20:32:51.000Z",
+          "wordCount": 778,
+          "title": "“Just in Time” CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351034",
+          "author": "Preethi",
+          "description": "We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.\nAlthough designing checkboxes is not that complicated, we also don’t …\nThe post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fun-times-styling-checkbox-states/",
+          "publishedOn": "2021-09-10T14:53:24.000Z",
+          "wordCount": 1650,
+          "title": "Fun Times Styling Checkbox States"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351697",
+          "author": "Chris Coyier",
+          "description": "I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). \n🎨 Loving the new `EyeDropper` Web API: \n“`js\nawait new EyeDropper().open();\n// Returns the picked color, e.g.,\n…\nThe post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/eyedropper-api-dropped/",
+          "publishedOn": "2021-09-10T14:47:11.000Z",
+          "wordCount": 566,
+          "title": "EyeDropper API Dropped"
+        },
+        {
           "id": "https://css-tricks.com/?p=350644",
           "author": "Chris Coyier",
           "description": "I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. \nI think it’s encouraging to see frameworks — these …\nThe post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -451,51 +478,6 @@
           "publishedOn": "2021-08-13T14:41:21.000Z",
           "wordCount": 2034,
           "title": "Building a Cool Front End Thing Generator"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346608",
-          "author": "Robin Rendle",
-          "description": "A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …\nThe post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://dev.to/richharris/stay-alert-d",
-          "publishedOn": "2021-08-12T21:10:22.000Z",
-          "wordCount": 7934,
-          "title": "Stay alert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345687",
-          "author": "John Rhea",
-          "description": "Now that we’ve seen that web components and interactive web components are both easier than you think, let’s take a look at adding them to a content management system, namely WordPress.\nThere are three major ways we can add them. …\nThe post Using Web Components in WordPress is Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/",
-          "publishedOn": "2021-08-12T14:38:36.000Z",
-          "wordCount": 3452,
-          "title": "Using Web Components in WordPress is Easier Than You Think"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346388",
-          "author": "Chris Coyier",
-          "description": "Heck of a CSS trick here from Dongsung Kim. \nThere are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% \n…\nThe post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kidi.ng/wanna-see-a-whiter-white/",
-          "publishedOn": "2021-08-11T19:09:36.000Z",
-          "wordCount": 351,
-          "title": "Wanna see a whiter white?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345889",
-          "author": "Mike Neumegen",
-          "description": "You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …\nThe post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
-          "publishedOn": "2021-08-11T14:31:20.000Z",
-          "wordCount": 3744,
-          "title": "Static vs. Dynamic vs. Jamstack: Where’s The Line?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346384",
-          "author": "Chris Coyier",
-          "description": "We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …\nThe post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.napkin.io/",
-          "publishedOn": "2021-08-11T14:31:13.000Z",
-          "wordCount": 104,
-          "title": "Napkin"
         }
       ]
     },
@@ -504,6 +486,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
+          "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
+          "publishedOn": "2021-09-10T10:00:00.000Z",
+          "wordCount": 2055,
+          "title": "Web Design Done Well: Excellent Editorial",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "author": "hello@smashingmagazine.com (Sam Poder)",
@@ -797,34 +793,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
-          "author": "hello@smashingmagazine.com (Janet John)",
-          "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
-          "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
-          "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6638,
-          "title": "Useful Figma Plugins And Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "How do we build and establish a successful, bulletproof design system? What’s the state of HTML Email? And what are new, smart interface design patterns we could use? Let’s find out. With our [brand new online workshops](https://smashingconf.com/online-workshops/) on front-end & design — to help us all boost skills online.",
-          "link": "https://smashingmagazine.com/2021/08/new-smashing-online-workshops-aug-oct-2021/",
-          "publishedOn": "2021-08-11T13:25:00.000Z",
-          "wordCount": 851,
-          "title": "New Smashing Workshops on Front-End & Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -886,15 +854,6 @@
           "publishedOn": "2021-08-20T00:36:06.000Z",
           "wordCount": 464,
           "title": "科技爱好者周刊（第 172 期）：我们会死于气候灾难吗？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。\n本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。\n周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。\n封面图\n\n风力发电机叶片，江西萍乡。（via）\n本周话题：云服务流量有多贵？\n上月，Cloudflare 的官网发表了一篇罕见的文章，它的 CEO 抨击亚马逊网络服务，流量收费太贵。\n今天就来谈谈，云服务流量到底贵到什么程度。\n\n亚马逊是全世界最大的云服务商，提供各种网络基础设施。用过的人都知道，它的收费里面，硬件费用（CPU、内存、硬盘等）是小头，流量费用才是大头。\n\n流量费有多贵？Cloudflare 根据自己从机房拿到的批发价推算，亚马逊在北美和欧洲，向用户收取的流量费，是批发价的80倍！\n机房的带宽批发价是 1Mbps 收费0.08美元，亚马逊转手卖给开发者，价格就是6.37美元！（带宽与流量的换算关系，放到后面解释。）\n\n\n我给大家算一笔账，按照这种流量费用，在亚马逊托管一个小网站要多少钱。\n假设网站每天的浏览量是2500个页面，每个页面的大小是 2MB，那么一天的流量就是 5GB，一个月下来就是 150GB。\n亚马逊有一个官方的价格计算器，我们去那里选择硬件，这里一律选择最低配置，然后填写需要的流量是150GB，页面会自动给出价格。\n\n算出来的价格就是16.31美元/月（大约110元人民币），其中流量费要占到13.41美元。可以看到，这么小的网站，一年下来需要1000多元人民币。如果访问量增大10倍，每月达到1500GB，其实还是属于小网站，但是收取的费用会增加到每年1万多元人民币。\n一个真实的案例是，一个开发者平时的账单是每月23.00美元，某天一觉醒来，收到了一张2,657.68美元的账单。\n需要指出的是，不仅是亚马逊，其它云服…",
-          "link": "http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html",
-          "publishedOn": "2021-08-13T00:34:48.000Z",
-          "wordCount": 438,
-          "title": "科技爱好者周刊（第 171 期）：云服务流量有多贵？"
         }
       ]
     },
@@ -903,6 +862,87 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/pzrhjf5",
+          "author": null,
+          "description": "一文了解JS运行机制",
+          "link": "https://toutiao.io/k/pzrhjf5",
+          "publishedOn": "2021-09-12T01:11:39.312Z",
+          "wordCount": 243,
+          "title": "前端进阶之 JS 运行原理和机制详解"
+        },
+        {
+          "id": "https://toutiao.io/k/q3k517i",
+          "author": null,
+          "description": "本文介绍了中国移动在物联网边缘计算赛道上的应用实践",
+          "link": "https://toutiao.io/k/q3k517i",
+          "publishedOn": "2021-09-12T01:11:38.756Z",
+          "wordCount": 217,
+          "title": "中国移动基于 Kubernetes 的物联网边缘计算应用实践"
+        },
+        {
+          "id": "https://toutiao.io/k/uibgt7e",
+          "author": null,
+          "description": "周末时间别荒废啦！第 067 期「码农周刊VIP会员专属邮件周报」，已发送完毕。",
+          "link": "https://toutiao.io/k/uibgt7e",
+          "publishedOn": "2021-09-12T01:11:38.682Z",
+          "wordCount": 100,
+          "title": "周末过得太快？别荒废啦！"
+        },
+        {
+          "id": "https://toutiao.io/k/rn613f5",
+          "author": null,
+          "description": "Dataspell是专为数据科学家设计的 IDE（集成开发环境）。它由Jetbrains开发- IntelliJ Idea 和 PyCharm 背后的一家公司，因此不需要进一步介绍。",
+          "link": "https://toutiao.io/k/rn613f5",
+          "publishedOn": "2021-09-12T01:11:38.618Z",
+          "wordCount": 285,
+          "title": "厌倦了 JupyterLab？试用 DataSpell：用于数据科学的全新 IDE"
+        },
+        {
+          "id": "https://toutiao.io/k/vczjfdp",
+          "author": null,
+          "description": "分享独立开发产品变现相关有价值的内容，每周五发布。",
+          "link": "https://toutiao.io/k/vczjfdp",
+          "publishedOn": "2021-09-12T01:11:38.527Z",
+          "wordCount": 116,
+          "title": "基于 Gmail 的 CRM 浏览器插件，年收入 1000 万美金"
+        },
+        {
+          "id": "https://toutiao.io/k/sif1byo",
+          "author": null,
+          "description": "本文将介绍火山引擎数据质量平台是如何弥合大数据场景下数据质量校验与计算消耗资源大、校验计算时间长的冲突，并介绍数据质量平台是如何用一套架构框架来满足流批方面的数据质量监控。",
+          "link": "https://toutiao.io/k/sif1byo",
+          "publishedOn": "2021-09-12T01:11:38.437Z",
+          "wordCount": 380,
+          "title": "火山引擎流批数据质量解决方案和最佳实践"
+        },
+        {
+          "id": "https://toutiao.io/k/8nocjti",
+          "author": null,
+          "description": "深度强化学习 (RL) 使人工代理能够随着时间的推移改进他们的决策。传统的无模型方法通过大量试错与环境交互来",
+          "link": "https://toutiao.io/k/8nocjti",
+          "publishedOn": "2021-09-12T01:11:38.240Z",
+          "wordCount": 180,
+          "title": "使用离散世界模型掌握 Atari"
+        },
+        {
+          "id": "https://toutiao.io/k/o3ih0kz",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/o3ih0kz",
+          "publishedOn": "2021-09-12T01:11:36.311Z",
+          "wordCount": 276,
+          "title": "吃透 HTTP 原理，教你建立安全的 HTTPS 网站"
+        },
+        {
+          "id": "https://toutiao.io/k/0hbxv3o",
+          "author": null,
+          "description": "Another sass compiler write from scatch，runnable on both node and browser - GitHub - wizardpisces/tiny-sass-compiler: Another sass compiler write from scatch，runnable on both node and browser",
+          "link": "https://toutiao.io/k/0hbxv3o",
+          "publishedOn": "2021-09-12T01:11:34.807Z",
+          "wordCount": 773,
+          "title": "无依赖实现一个简单的 SASS 编译器"
+        },
         {
           "id": "https://toutiao.io/k/my4tis5",
           "author": null,
@@ -992,6 +1032,15 @@
           "publishedOn": "2021-09-10T01:13:21.536Z",
           "wordCount": 141,
           "title": "阿里闲鱼算法专家在线分享：机器学习算法的应用与实践"
+        },
+        {
+          "id": "https://toutiao.io/k/1up00n2",
+          "author": null,
+          "description": "Quine 以哲学家奎恩（Willard Van Orman Quine）命名，指的是输出结果为程序自身源码的程序，也称为 自产生程序。有点类似于代码中的不动点，举一个例子 quine.py1exec(s:=&#x27;print(\"exec(s:=%r)\"%s)&#x27;)  那么以下命令全部输出 exec(s:='print(\"exec(s:=%r)&q",
+          "link": "https://toutiao.io/k/1up00n2",
+          "publishedOn": "2021-09-09T05:57:47.000Z",
+          "wordCount": 1134,
+          "title": "Quine 自产生程序之 Java"
         },
         {
           "id": "https://toutiao.io/k/nxha88x",
@@ -3089,204 +3138,6 @@
           "publishedOn": "2021-08-14T01:02:16.569Z",
           "wordCount": 87,
           "title": "vivo 全球商城：优惠券系统架构设计与实践"
-        },
-        {
-          "id": "https://toutiao.io/k/ivif85v",
-          "author": null,
-          "description": "作为程序员，熟练掌握命令行程序的使用是一种最便捷方式来感受 unix 编程艺术的方法，同时还能额外带来对日常工作提效的明智投资方式。",
-          "link": "https://toutiao.io/k/ivif85v",
-          "publishedOn": "2021-08-13T01:07:18.304Z",
-          "wordCount": 448,
-          "title": "是程序员就用命令行"
-        },
-        {
-          "id": "https://toutiao.io/k/0me53zx",
-          "author": null,
-          "description": "值得一读，不信你试试～",
-          "link": "https://toutiao.io/k/0me53zx",
-          "publishedOn": "2021-08-13T01:07:18.225Z",
-          "wordCount": 146,
-          "title": "消息幂等（去重）如何解决？来看看这个方案"
-        },
-        {
-          "id": "https://toutiao.io/k/y7zzj55",
-          "author": null,
-          "description": "❝精品刷题路线参考：https://github.com/youngyangyang04/leetcode-",
-          "link": "https://toutiao.io/k/y7zzj55",
-          "publishedOn": "2021-08-13T01:07:18.154Z",
-          "wordCount": 800,
-          "title": "LeetCode通关：哈希表六连，这个还真有点简单"
-        },
-        {
-          "id": "https://toutiao.io/k/n8ibnrk",
-          "author": null,
-          "description": "提升效能的方法。",
-          "link": "https://toutiao.io/k/n8ibnrk",
-          "publishedOn": "2021-08-13T01:07:18.048Z",
-          "wordCount": 74,
-          "title": "高效研发运维体系构建的流程和方法论"
-        },
-        {
-          "id": "https://toutiao.io/k/rr6rsbq",
-          "author": null,
-          "description": "Java 14 早在 2019 年 9 月就已经发布，虽然不是长久支持版本，但是也带来了不少新功能。",
-          "link": "https://toutiao.io/k/rr6rsbq",
-          "publishedOn": "2021-08-13T01:07:17.993Z",
-          "wordCount": 601,
-          "title": "Java 14 新功能介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/stxdk80",
-          "author": null,
-          "description": "刷题先刷二叉树，长文经验篇，建议收藏。",
-          "link": "https://toutiao.io/k/stxdk80",
-          "publishedOn": "2021-08-13T01:07:17.909Z",
-          "wordCount": 359,
-          "title": "数据结构和算法学习指南"
-        },
-        {
-          "id": "https://toutiao.io/k/0d485tf",
-          "author": null,
-          "description": "Linux常用命令ls常用命令ls -a 列举出当前目录所有文件，包括隐藏文件ls -r 正常列举顺序反序列",
-          "link": "https://toutiao.io/k/0d485tf",
-          "publishedOn": "2021-08-13T01:07:17.833Z",
-          "wordCount": 227,
-          "title": "Shell 脚本常用命令"
-        },
-        {
-          "id": "https://toutiao.io/k/l84n965",
-          "author": null,
-          "description": "掘金签约文章",
-          "link": "https://toutiao.io/k/l84n965",
-          "publishedOn": "2021-08-13T01:07:17.734Z",
-          "wordCount": 240,
-          "title": "Redis 只能做缓存？太 out 了"
-        },
-        {
-          "id": "https://toutiao.io/k/sg16k5k",
-          "author": null,
-          "description": "工欲善其事必先利其器。对于开发工程师同样如此，一个合适的开发工具能够有效提升我们的开发效率和定位问题的能力。",
-          "link": "https://toutiao.io/k/sg16k5k",
-          "publishedOn": "2021-08-13T01:07:17.656Z",
-          "wordCount": 208,
-          "title": "Goland 这些实操技巧，你可能还不会"
-        },
-        {
-          "id": "https://toutiao.io/k/e6lhm5y",
-          "author": null,
-          "description": "一个基于Beego开发的社交商城博客系统https://nihongdengxia.com/. Contribute to 1920853199/go-blog development by creating an account on GitHub.",
-          "link": "https://toutiao.io/k/e6lhm5y",
-          "publishedOn": "2021-08-13T01:07:13.953Z",
-          "wordCount": 740,
-          "title": "一个基于 Beego 开发的社交商城博客系统"
-        },
-        {
-          "id": "https://toutiao.io/k/2vg9htu",
-          "author": null,
-          "description": "伦敦协议升级成功， ETH 正式开启燃料销毁时代",
-          "link": "https://toutiao.io/k/2vg9htu",
-          "publishedOn": "2021-08-12T01:06:18.622Z",
-          "wordCount": 526,
-          "title": "ETH - 以太坊 2.0 发展与投研报告"
-        },
-        {
-          "id": "https://toutiao.io/k/qtic9tr",
-          "author": null,
-          "description": "如果给向下滚动的页面增加一些细微的动画，这往往能给浏览者带来更好的体验，WOW.js就是这么一个能让用户眼前一亮的JavaScript库。",
-          "link": "https://toutiao.io/k/qtic9tr",
-          "publishedOn": "2021-08-12T01:06:18.532Z",
-          "wordCount": 205,
-          "title": "WOW.js：让页面滚动更有趣"
-        },
-        {
-          "id": "https://toutiao.io/k/2np9xex",
-          "author": null,
-          "description": "本文是在上家的 case, 以前很多人在公开大会上拿该案例做分享，所以觉得有印象的同学勿喷，虽然冷饭，但是原",
-          "link": "https://toutiao.io/k/2np9xex",
-          "publishedOn": "2021-08-12T01:06:18.462Z",
-          "wordCount": 321,
-          "title": "线上优化实战：大内存 Go 服务性能优化"
-        },
-        {
-          "id": "https://toutiao.io/k/njaygo0",
-          "author": null,
-          "description": "eBay在多集群，多环境，大规模的场景下，Istio落地实践的探索和实践。",
-          "link": "https://toutiao.io/k/njaygo0",
-          "publishedOn": "2021-08-12T01:06:18.393Z",
-          "wordCount": 174,
-          "title": "eBay 基于 Istio 的应用网关的探索和实践"
-        },
-        {
-          "id": "https://toutiao.io/k/6a3ktfk",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/6a3ktfk",
-          "publishedOn": "2021-08-12T01:06:18.316Z",
-          "wordCount": 316,
-          "title": "一文解读腾讯广告 3000+ 万行大代码库主干开发实战"
-        },
-        {
-          "id": "https://toutiao.io/k/pn8v9wr",
-          "author": null,
-          "description": "这篇很有意思，建议广告从业者可以看看。\\x0a摘要： IAA游戏广告，本质是中间商赚差价，以及流量的击鼓传花，层层套娃，总有一层绷不住成本与营收的ROI，然后死亡，一批死亡让另一批活着，然后这个故事继续，永不终结。",
-          "link": "https://toutiao.io/k/pn8v9wr",
-          "publishedOn": "2021-08-12T01:06:18.250Z",
-          "wordCount": 68,
-          "title": "数据与广告（二十八）：IAA 游戏广告，广告界的庞氏骗局"
-        },
-        {
-          "id": "https://toutiao.io/k/d0axppb",
-          "author": null,
-          "description": "从模型完成训练，到最终将模型部署到实际硬件上，整个流程中会涉及到很多不同层面的工作，每一个环节对技术点的要求也不尽相同",
-          "link": "https://toutiao.io/k/d0axppb",
-          "publishedOn": "2021-08-12T01:06:18.176Z",
-          "wordCount": 106,
-          "title": "学姐说：模型部署优化的学习路线是什么？"
-        },
-        {
-          "id": "https://toutiao.io/k/1uwmeyu",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/1uwmeyu",
-          "publishedOn": "2021-08-12T01:06:18.109Z",
-          "wordCount": 575,
-          "title": "容器三把斧之 namespace 原理与实现"
-        },
-        {
-          "id": "https://toutiao.io/k/d5zzykx",
-          "author": null,
-          "description": "基本特征，关系模型，模式与原则，业务应用",
-          "link": "https://toutiao.io/k/d5zzykx",
-          "publishedOn": "2021-08-12T01:06:17.967Z",
-          "wordCount": 277,
-          "title": "Java 进阶：从整体上观察面向对象"
-        },
-        {
-          "id": "https://toutiao.io/k/9azsrqs",
-          "author": null,
-          "description": "Android、iOS设备屏幕长截图的自动化实现方案",
-          "link": "https://toutiao.io/k/9azsrqs",
-          "publishedOn": "2021-08-12T01:06:17.875Z",
-          "wordCount": 332,
-          "title": "一分钟教你 Android、iOS 如何实现自动化截长图功能，超实用"
-        },
-        {
-          "id": "https://toutiao.io/k/x4pf7co",
-          "author": null,
-          "description": "我尽量让自己处于不被淘汰的那一波中去……",
-          "link": "https://toutiao.io/k/x4pf7co",
-          "publishedOn": "2021-08-12T01:06:17.815Z",
-          "wordCount": 67,
-          "title": "除了这点技术，其它什么也不会啊"
-        },
-        {
-          "id": "https://toutiao.io/k/0yu4k5h",
-          "author": null,
-          "description": "阅读蚂蚁金服云原生架构SOFAStack分享的蚂蚁集团万级规模 K8s 集群 Etcd 高可用建设之路，就在开发者头条。",
-          "link": "https://toutiao.io/k/0yu4k5h",
-          "publishedOn": "2021-08-12T01:06:15.667Z",
-          "wordCount": 1318,
-          "title": "蚂蚁集团万级规模 K8s 集群 Etcd 高可用建设之路"
         }
       ]
     },
@@ -3295,6 +3146,42 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/408381632",
+          "author": "Evelyn.Z",
+          "description": "Hi，今天下班比较早，跟大家继续聊聊银行的工作，下一期会讲薪酬方面~这一主题准备分工作内容&应酬来讲。首先声明，这都是基于我个人工作经验总结的，不同地区不同行肯定有差异，欢迎大家评论多多交流呀~也给想进银行的朋友们提供个参考~\n1、核心工作\n对公客户经理核心工作就是营销并维护客户、为客户提供以融资为主的金融服务，客户支付贷款利息\\服务费\\中间业务费用等等，存贷款和营收考核是重点。\n（一）营销客户：根据本行授信政策，筛选出符合条件的企业，去营销，非常的难！有资源的员工动用自己的关系，把别人搞不定的客户抢过来，资源也是一种能力！！一般这种资源型人才大多来自或者家里人来自同业\\大型国企\\政府部门\\相关监管部门。\n重点说一下没有资源的小伙伴该如何寻找客户️\n✅行长介绍：支行行长的资源一般是最多的，在众多客户经理里，行长会把他的资源给谁呢？行长想要的是听话、靠谱、办事利索的人，你不需要多么会说话会来事儿（如果会来事儿非常加分），但是交代的事必须办好，必须踏实能干，其他的事情行长自然会维护，收益都帮你谈好。\n✅熟人介绍：找自己熟悉的朋友同学同业给你介绍客户，起码你能拿到客户电话，能摸到门。\n✅老客户转介：让已经是自己的客户给介绍它们行业相关客户，这个成功率还是很高的。\n\n\n来源：知乎 www.zhihu.com\nEvelyn.Z\n点击下载",
+          "link": "http://zhuanlan.zhihu.com/p/408381632?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-11T14:43:56.000Z",
+          "wordCount": 7,
+          "title": "银行对公客户经理工作内容--1"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/409081491",
+          "author": "电动汽车百人会",
+          "description": "什么是界？新华字典的解释是：两个地区分界的线；什么是行业的界？一位专家的解释是：专业或资本、技术、自然垄断形成的门槛；什么是汽车行业的界？一位车企老领导称：以内燃机为主要动力的传统汽车产业形成的产业链。在中国，还有一条制度划出的界：行业的管理体制、监管体制、准入和退出等机制形成的界。\n如今，随着一批批“造车新力量”的大举侵入，中国传统汽车行业正在经历一场前所未有的熬炼，是蜕一层皮还是凤凰涅槃，已经不是这个行业自身能决定的事情。对这一巨变，外界给了一个温柔美丽的词：跨界融合。殊不知，这种跨界之后的融合，会革了传统汽车行业的命。\n为什么这么说？\n跨界融合 撼动了传统汽车业的根基\n1885年，德国人卡尔·奔驰造出世界上第一辆以汽油为动力的三轮汽车,并于次年申请了发明专利。这一天是世界汽车诞生日。\n1894年，法国人路易斯·潘哈德和埃米尔·拉瓦索尔合作，发明了手动变速器。从那一年起，汽车才能够进退自如、快慢如意地行驶了。\n1913年，美国人亨利·福特发明了汽车制造流水线，使生产效率大幅提高，制造成本大幅下降。从那一年起，汽车成了人民大众买得起的车。\n136年来，发动机、变速器、生产流水线，一直是汽车最核心的技术和生产方式，虽经无数次迭代升级，却始终是外部势力难以逾越的深沟高垒。如果不是1971年的石油危机，丰田乘机以小型化、轻量化、节能的优势挤进来，世界汽车市场仍将是奔驰、宝马、通用、福特、雪铁龙们的天下；如果不是1986年的改革开放，北京吉普、上汽大众、广汽丰田、重庆长安、保定长城、浙江吉利们应运而生，中国汽车市场仍将是一汽解放、二汽东风、北京越野、上海轿车的天下。如果还是以石油为动力源，特斯拉、蔚来们绝不可能成功立足汽车业，世界与中国汽车格局的楚河汉界仍然是一如既往地固若金汤。\n能源革命革了发动机、变速器的命，突破了岿然不动的汽车行业技术壁垒，动摇了传统汽车赖以生存的根基。碳减…",
+          "link": "http://zhuanlan.zhihu.com/p/409081491?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-10T09:39:56.000Z",
+          "wordCount": 76,
+          "title": "跨界融合 汽车业的涅槃（上）"
+        },
+        {
+          "id": "http://www.zhihu.com/question/485594623/answer/2113250381",
+          "author": "中部号角",
+          "description": "今天是第37个教师节\n在军营也有一群“老师”\n他们是战友眼中的“顶梁柱”\n是素质过硬的教练员\n是倾心“传帮带”的引路人一批批有志青年成长为合格军人他们毫无保留倾囊相授他们有一个共同的名字班  长！！！\n\n训练场上\n铁面无情的是他们\n只为打下良好基础\n平时只有多流汗\n战时才能少流血\n\n\n\n\n\n生活中\n关怀备至也是他们因为他们懂得\n以心交心才能换得真心\n\n急难险重任务面前\n出色完成任务的更是他们\n因为他们明白\n\n干出样子是职责所在\n\n\n\n\n真情①：知心\n一个班虽然人不算多，但也称得上是各有千秋！不过没关系，班长对每个人情况“如数家珍”，一个表情、一个动作、一声叹息，都会引起班长的注意，面对面谈心交流，专治各种“疑难杂症”。\n\n\n\n\n\n\n\n真情②：暖心\n不论是冰冻三尺还是骄阳似火，班长的关心总能直抵内心。想家时一句安慰、生日时一声祝福、成功时一个肯定，让你感到身边有个精心照顾你的暖心大哥。\n\n\n\n\n\n\n\n\n真情③：信心\n筋疲力尽没动力？任务陌生有畏难？卫生打扫怕脏累？学习劲头不够足？只要有需要，班长总能在身边！一句“跟我来！看我的！有我在！”立马让你找回状态、信心百倍！\n\n\n\n\n\n\n\n真情④：耐心、\n军人的成长是破茧成蝶的过程，磨砺中退掉所有青涩和稚嫩。在军旅之路，总有班长伴我们左右，化身为指路明灯，不论进步快或慢，都耐心指引我们向更高的山去冲锋。\n\n\n\n\n\n一声班长，一生班长\n军营有你，未来可期军旅路上\n都有一个前行的背影今天我们向班长致敬\n\n来源：知乎 www.zhihu.com\n中部号角\n点击下载\n25 个回答，查看全部。\n在部队如何当好班长 ?\n在部队，大家都经历过哪些有意思的班长？",
+          "link": "http://www.zhihu.com/question/485594623/answer/2113250381?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-10T06:48:24.000Z",
+          "wordCount": 123,
+          "title": "军营里，有一种老师叫「班长」，关于他们有哪些故事和话语让你记忆深刻？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/361818529/answer/2113016187",
+          "author": "Bonnie的小皮皮",
+          "description": "“好好玩！玩完回家要写作文啊！”小时候，每次出门旅行前都会被这样提醒。然后，写作文的压力，就在旅途中时不时冒出来膈应我，体验超级不好。\n这是我看到这个题目之后第一件想到的事，所以，原谅我这里要先diss一下我二十多年前的熊爸妈 。\n写作文不是出门玩的意义，【能不能记住什么】也并不是带孩子旅行的全部意义。\n有没有意义，取决于孩子跟着什么样的人。\n因为认知的不同，孩子有自己看世界的独特角度。不同年龄的孩子们去游玩、看世界，都能有不一样的收获。\n这些收获，可能是认识了一两种新的植物；\n\n\n\n\n可能是知道了爬山虽然有点累，但坚持坚持就能看到更美的风景；\n\n\n\n\n可能是见到了只在书里看到过的交通工具；\n\n可能只是学会了自己收拾行李；\n还有可能发现【走出去】能看见那么多有意思的东西，而对世界充满好奇。\n所以每次说到带娃去哪儿玩，常常被质疑说“孩子小了，根本记不住！”我都一脸黑线！记不记得住，真的只是我们衡量带孩子旅行有没有收获的诸多维度之一。记不住旅途的所见所闻，绝不代表没有收获。\n带四岁的小皮皮旅行过十几次，现在移居到大理之后，更是户外活动不断。\n在一次次的户外活动中，我一直在思考，怎样让孩子的旅途更有趣，有更多收获。\n最后发现，在观察中发现兴趣，以兴趣为切入点，带孩子去探索发现，回家之后还可以拓展（看相关视频，查阅资料）。\n最后，这一次拓展延伸的结果，还可以生成下一次安排户外活动的主题。\n分享小皮皮的几次户外活动，以及我从中发现的教育契机。\n只要有心，每一次的收获都不同。\n一、寻找“蝴蝶的世界”。\n小皮皮偶然在小区看见一只颜色奇怪的蝴蝶，我说：“哇！蝴蝶！”小皮皮说：“这不是蝴蝶，蝴蝶是黄色和白色的，也没有这么大！”\n我没有马上否定，突然想好下次的户外活动的目的地了：“蝴蝶泉”。\n出发之前我告诉他这次目的地的名字，让他猜猜那是个什么样的地方。到达目的地，小皮皮超级期待，走得比大人还快。第一站是【蝴蝶博物馆】，在一个温室里，有好多种蝴蝶飞来飞去。\n我没有在他看得认真的时候，急着讲解，我相信孩子天然的好奇心。在他问我第一个问题的时候，我终于有机会搬出了查阅已久的资料，告诉他，并不是只有我们经常看见的那种蝴蝶才是蝴蝶，仅仅在中国，蝴蝶就有好几千种呢！\n\n到这里，小皮皮又开始继续观察，我就没有说下去。等他下次发问，又可以继续科普。\n看蝴蝶的过程中，发现地上也有好多蝴蝶，很多都被游客不小心踩死，我和小皮皮用一个袋子套着手，把蝴蝶送到树上去。他知道自己救了小动物，特别开心。\n这次的过程，小皮皮不仅得到了【自然科普】，还帮助了小动物，体验到付出爱心的快乐，我觉得很有意义。\n二、爬山，找蘑菇，带走垃圾。\n雨季的时候，云南的山里有各种各样的蘑菇。蘑菇这么可爱的物种，是一定要带小皮皮去看看的。\n很多有毒，所以没有摘，更没有吃，只是蹲下来认真欣赏就很满足了。\n\n路上会遇到超可爱的松鼠，完全不怕人，小皮皮真正感受到自然的和谐。\n\n偶尔会发现矿泉水瓶和塑料袋，就和小皮皮讨论，这么美的自然环境，不应该出现这些东西，而且如果小动物不小心吃掉，还会被伤害。\n下山的时候，捡走了一大袋垃圾。我们约定，之后不会乱扔垃圾，条件允许的情况下，也会像今天一样，带走大自然中别人留下的垃圾。\n我想，小皮皮虽然还不太明白所以然，但至少有一些初步的环保意识了吧。\n回家之后，我也会和他一起看看关于地球的小短片，知道我们为什么要保护地球上的小动物和植物们。\n这一次的爬山，我相信小皮皮也不仅仅是锻炼了身体，体会到寻找蘑菇的开心，更懵懵懂懂的知道了，要保护环境。\n生活皆教育，只要有心，就有无数契机。\n@知乎亲子 \n\n\n@知乎亲子 \n\n来源：知乎 www.zhihu.com\nBonnie的小皮皮\n点击下载\n207 个回答，查看全部。\n如何看待最好的亲子活动是带着孩子去观察和感受大自然，带着孩子去旅行是很有意义的一件事吗？\n既然 1 岁孩子小什么都不懂，那么带 1 岁孩子出去旅游是浪费吗？",
+          "link": "http://www.zhihu.com/question/361818529/answer/2113016187?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-10T04:52:22.000Z",
+          "wordCount": 79,
+          "title": "从小带孩子出去游玩、看世界，它能给孩子带来哪些意义？"
+        },
         {
           "id": "http://www.zhihu.com/question/331077570/answer/2112001535",
           "author": "北大秦春华",
@@ -3717,51 +3604,6 @@
           "publishedOn": "2021-08-16T11:30:07.000Z",
           "wordCount": 24,
           "title": "如何评价国产动画《狐妖小红娘·月红 2》？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/477793717/answer/2056504454",
-          "author": "jiahao",
-          "description": "大家好，我是动画番剧《春秋封神》的导演李家豪。经过将近两年的紧张制作，这部作品终于能赶在暑期档跟大家见上面了，借这个机会先由衷地感谢一下我们创作团队以及外包制作团队中的每一位成员，感谢大家为这部作品所倾注的心血，谢谢。\n按照惯例先简单跟大家分享一下我们在制作以及创作上的方方面面：\n用游戏引擎制作动画\n      已经看过前几集的小伙伴应该对上面视频的场景留有印象，《春秋封神》正是基于UE4引擎所制作的作品，对于喜爱玩游戏的小伙伴来说UE4引擎并不算陌生，但是利用游戏引擎来做动画相信大家了解得就比较少了。《春秋封神》运用了大量的引擎新技术，为了全流程跑下来，我们团队还为此开发了一系列的插件用以辅助。总而言之相较于传统动画流程来说，引擎“所见即所得”的特性是极大地提升了导演以及各环节制作人员们的创作空间。\n动画中的国风舞蹈\n      动作捕捉现场也是制作的重要阵地之一。对于动作捕捉技术，近些年来在国创作品中的应用也是越来越广，为了使《春秋封神》里面的角色“活”起来，我跟团队的小伙伴辗转了全国各大动捕中心，只为了寻找到最理想的动捕技术支持。\n动画分镜正式制作前的预演角色动作预演\n      小伙伴正在预演中。为了让我们的分镜以及动画师们能快速理解一场戏的表演意图，我们用上了各种手段，在这个过程也有很多欢乐的时刻。在我看来，我们的动画作品想要不断地突破，不仅需要技术革新，创作流程的创新也同样重要。\n   当然以上所展示的只是整部作品诞生过程中的一小部分环节。相对于制作流程，我更想跟大家聊的是创作心得。《春秋封神》是一部漫改作品，这部作品动画化的改编难度还是比较高的，原著的故事很精彩，但是述事的风格相对比较碎片化，并且是双线述事，观感上对于漫画来说问题不大，但对于如何梳理出适合动画节奏的主线，又能照顾到原著粉的情怀，就成了我们最初所面临的最大困难。在立项之初，我们比较坚定的一点就是，既然是改编，那么我们必须得做到尊重原著，在忠于原著的前提下，充分保留原著精华，去强化原著中的戏剧冲突，在思考如何将子殇、韩箕、小姒、幽王这些角色的命运纠葛展现得更深刻，将角色塑造得更为深入人心等方面，我们作了不少思考。同时，这部作品的背景设定很庞大，整个世界由天界、人界、妖界等力量体系构筑，为了让故事形成逻辑自洽的剧情脉络，又能更好地展现每一个角色的心路变化和成长历程，我们选择规避了会容易造成审美疲劳的爽文固有模式，更加注重着墨于不同主角内心的蜕变与成长，抛开固有的主角“打怪升级谈恋爱”套路，以双视角去讲述人世间的风风雨雨，爱恨情仇，引领观众一同感受角色们的冒险历程，而随着剧情的进展，观众会更加详细地了解到整个世界观，并且去认识每一个角色，为此这部作品可能会相对慢热，观众可以期待当所有线索并联时，最终汇聚成一点的时候的爆发力。\n《春秋封神》目前还在爱奇艺周更中，暑期还特别开启了周双更福利。希望更多的观众能够关注到这部作品，感谢。\n\n来源：知乎 www.zhihu.com\njiahao\n点击下载\n1 个回答，查看全部。\n话题：如何评价《春秋封神》动画？\n如何看待曾承诺全本免费的国漫《战国千年》因人气暴增开始收费的行为？",
-          "link": "http://www.zhihu.com/question/477793717/answer/2056504454?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-13T11:30:10.000Z",
-          "wordCount": 14,
-          "title": "如何评价国产动画《春秋封神》？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/479155481/answer/2056589796",
-          "author": "小棉花",
-          "description": "我来回答这个问题。\n建议大家去看一下制作人小鸡的照片。\n清丽脱俗，天香佳人。\n第一次见到她的时候，我心想，这样的女孩子，怕是有点才华哦。\n那之前，她只去上海某公司上了一天班，便快速逃离了那种令人不快的环境。\n当然，之后因为很神奇的原因，她最终进入了胖布丁。\n我明白她的作品不错，我也明白她的能力不错，只是，那时候，我们还在做着迷失岛2，还在那些粗犷凛冽的美术线条中打转。她试着学习我的风格画了一些场景。画得不错，但是还是和我的原始风格有差别。\n所以，我一直想，她值得有机会做一些她能更好驾驭的风格。\n刚好，那时候我在写一些未来游戏开发计划。写好后，叫大家传看，选择自己觉得合适的发挥起来。\n从《三言两拍》中择取一段有趣的故事，改编，做成解谜游戏。就是《古镜记》的来源。\n当然，胖布丁这么多人，想来，也只有小鸡能立马选择这一主题。\n非常适合她，如她这样一位古典气质的奇女子，义不容辞，当仁不让啊！\n《古镜记》有一种优雅、古拙、华美的色彩。\n《古镜记》讲了一段隽永、深情、迷人的故事。\n《古镜记》是一个雅致、精巧、奇幻的游戏。\n把上面三段话中的色彩、故事和游戏，换成小鸡的名字，也很适合。\n我想这就是合格的独立游戏游戏制作人所能带给游戏的个性气质。\n当然，胡桃的动画精美到令人屏息，而蒋同学的程序就好像是所有这一切的基石。\n还有那些为了这个游戏付出一切的人。\n他们所有的灵魂都能在这款独立游戏中找到一一对应点。\n所以说，在我看来，这是一款有灵魂的游戏。\n我知道我该谢谢他们，因为他们让胖布丁变得更好。\n《古镜记》也许在别人看来，不是一款满分的作品。或多或少，总有一些缺陷。\n但是在我看来，一群人付出了百分百的努力，做了这些许年，得到了这样一个作品。无论如何，对他们和对我而言，这就是一款满分的作品。\n好吧，再写下去，大家会觉得我们在自我陶醉了。\n那么，讲一段不自我陶醉的故事吧。\n为了得到一段合适的音乐，小鸡找到了一位音乐创作人，几经周折后，主题曲被创作出来了。\n第一次听这首歌，《今夜果实成熟时》，我心想，这啥玩意啊，完全接受不了啊。\n但是小鸡对这首歌曲很满意。\n我想，我是不是老了。所以我给小鸡说：我接受不了，但是，重要的是，你满意就好。\n后来，每天，大家做游戏片头动画的时候，我都能在公司的各种场合听见这首歌。\n慢慢地，歌曲入我耳也能动听起来。后来，我还能不自觉的哼唱。\n再后来，我把这首歌拿给我12岁的小侄女听，她听了一遍后，就极其喜欢，循环播放了一天。\n我想，我确实是老了啊。\n不过，这正是我开心的原因。\n我在胖布丁的每一天，都能和这些有着无穷才华的年轻人一同工作，一同成长，这，让我的游戏开发岁月，变得更加的笃定和有意义。\n作为一个创作者，就如同登上了一辆充满斗志的时间列车，开往更年轻的激动人心的未来啊！\n\n\n\n来源：知乎 www.zhihu.com\n小棉花\n点击下载\n67 个回答，查看全部。\n你知道怎么写游戏设计文档（Game Design Document）么？\n如何评价《Paper, please》这款游戏？",
-          "link": "http://www.zhihu.com/question/479155481/answer/2056589796?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-13T03:00:10.000Z",
-          "wordCount": 12,
-          "title": "如何评价国风推理游戏《古镜记》？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/478348101/answer/2055862496",
-          "author": "赵禹晴",
-          "description": "自从上周最后两集特效收完尾，周末头一次花了不少时间在眼睛的康复治疗上，也算趁机多闭目养神休息一下，一直以来为了肝片子平时每天4小时睡眠都保证不了 ，确实扛不住了 ，于是周一又没有完成知乎君的更新任务 orz。。。\n而且这次准备的是一些灯光制作上的，编辑起来确实要多花一些时间，今天项目会也不少，断断续续这会才弄完 。\n下面就来分享下这集光影设计的一些点。\n开篇镜玄披皮救场这段戏，原本中期给的是按实际灯光环境铺的，比较平的光，我希望能显出“恒老”像一道希望之光一样，于是做了相应P图指示，以背光勾边衬托的方式调整了登场思路：\n\n走进的这里，尤其要衬托出恒老和前后层人物的空间感，以光影分割最为合适。\n\n同时配合恒老的场光，其他角度也做相应补光。\n\n但是到了下面这个角度，观察思路又换了一套，从眼睛的自主调节能力去考量，前景人物背光感增强能更凸显空间感以及分割室内气场环境，空气感的表达会更明显。再加入正上方天光和水面光晕反光完成这镜的灯光设计。\n\n“恒老”到柴房给丽崽松绑这段戏，为了继续贯彻恒老的出现像光一样，以及恒老和长老会叙旧交涉，时间已经过度到快夕阳的时段，这两个隐藏含义，于是开门后，对室内有一个暖光的投射。\n\n夕阳登山这场戏，中期原本的灯光时段不太明显，于是P图调整到夕阳氛围，然后又加了云雾，让整座山沐浴在金光里，想表达虽然玄哥在这里生气了，但是出于他内心对丽崽的关心，整个氛围还是充满暖意的。\n\n以及大家可能以为片中场景原本就是那个样子，其实不全是~有不少是需要确定镜头后，单独针对镜头做细化的。需要出图来配合，然后三维场景组配合资产加细，再渲染出来拿给我审核。这也是平时让我分身乏术的镜头细化工作内容之一 ，比如下面这个例子。为了场景氛围，增加了植被层次，调整了植物形态，替换了天空，调整了光影等。\n\n以及大家也许以为任何灯光下角色都很漂亮，其实也不是，为了让角色们每场戏面部看起来尽量完美，我的要求比较高，需要调整到我满意为止。是需要每场都盯一下的。\n主角们的镜头可能会出现下面的情况，\n1.面光油腻\n\n2.补光不够，角色面部暗沉\n\n程灼这镜中期给的原灯光较平，不够凸显环境氛围以及程灼此时的心境，所以做了P图修正，这样密林深处的环境氛围也更加明显。\n\n好啦！这次先分享这些了，得赶紧奔赴项目会了 ~\n\n来源：知乎 www.zhihu.com\n赵禹晴\n点击下载\n29 个回答，查看全部。\n如何评价国产动画《眷思量》第九集？\n国产动画有哪些让你（感动/热血沸腾）的片段？",
-          "link": "http://www.zhihu.com/question/478348101/answer/2055862496?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-12T15:30:09.000Z",
-          "wordCount": 107,
-          "title": "如何评价国产动画《眷思量》第十集？"
-        },
-        {
-          "id": "http://zhuanlan.zhihu.com/p/399179777",
-          "author": "Derrick Zhang",
-          "description": "今年是我毕业的第五年，也就是说，iPad 已经整整伴随我八年了。我不知道我自己在这八年里是不是有着足够大的进步，但我知道，至少 iPad 变化很多。现在，我正在用 2021 版的 12.9 英寸 iPad Pro 写下这篇文章，我的背包里，还躺着一台 2021 版 11 英寸 iPad Pro。\n显然，我比以前更加依赖 iPad 了。\n这不是我第一次写 iPad Pro 使用指南了，但距离上次写也过了很长时间，iPad 在我的工作和生活中扮演的角色也发生了变化，所以现在也是一个很合适的时间，再来聊一聊这件事。\n\n可能是因为年纪开始变大了，我已经不再喜欢和人争论。尤其是当任何场所提起 iPad Pro 的时候，「它是不是生产力工具」这件事已经变得像人类那些无解的永恒命题一样。所以，如果你期待在这篇文章中获得这个问题的答案，你可能要失望了，因为我不会回答。以及如果你看完本文，依然想要评论：\n「iPad Pro 就是没有生产力。」\n那我就说一句你都对吧。\n而如果你并不纠结于此，无论你现在是不是已经拥有了一台 iPad Pro，这篇文章的目的都是为了能够让你和 iPad Pro 找到合适的连接方式。我们都知道苹果设备的包装内都不包含说明书，但我希望这篇文章可以成为 iPad Pro 最好的说明书，而这本说明书并非冰冷的操作手册，而是在你和 iPad Pro 之间，做好人与机器之间的传递语言。\n\n在这篇说明书中，我将会从三个角度展开。\n首先是产品的形态，在这一部分中，我会尝试回答「到底什么是 iPad」。\n其次是产品的使用，我尝试分享具体的使用经验，尽可能给出清晰的工作流。\n最后是产品的购买，尤其是针对尺寸、配置和配件给出更为针对性的参考。当然，在这一环节中，我也将会明确指出它现在并不适合哪些工作，避免消费浪费。\n需要说明的是，在 2021 年谈 iPad ，潜台词就应该是 iPad…",
-          "link": "http://zhuanlan.zhihu.com/p/399179777?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-12T13:15:07.000Z",
-          "wordCount": 1770,
-          "title": "iPad 使用指南 2021"
-        },
-        {
-          "id": "http://www.zhihu.com/question/479024078/answer/2055822769",
-          "author": "Ray Kuan",
-          "description": "我们在8/12正式全球开启了永劫无间公测，Steam的玩家久等了！\n公测版本您可以体验到的和6月Steam测试的差异内容，我简单介绍一下：\n1）新英雄：妖刀姬。攻击能力著称，以豪快的巨型妖刀进行砍劈。\n2）新武器：匕首，万刃轮。近战武器匕首，神出鬼没，可以借由闪步发动快速的扑杀或撤收。金色飓风客的万刃轮，则是正面突破神器，提供单纯高速冲刺的快乐。\n3）新机制：宝窟。在战场听到蛙鸣声时，留意四周，取得金蟾蜍带着的钥匙就可以开启宝库！\n4）新模式：快速匹配。如果您觉得段位排名很费力，只想休闲一下涨涨经验，快速匹配满足您的需求。\n5）局外功能：亲密度，为您和好友的组队获取更高回报；快速匹配，解决孤狼想找同伴的困扰。\n6）商品：聚宝阁（抽箱），隐族秘宝（赛季bp），幻丝商城。\n7）福利：初启征程（14天）为新手提供了贴心奖励；传火则让您与好友获得更多馈赠。\n8）其他：展示台，让您自己编辑展示画面的英雄展现。\n9）调整：天赋改为英雄修行解锁，不再消耗古币。灼烧造成减疗。各种英雄和武器平衡调整。自定义新增各种选项。\n\n\n在服务器策略上我们努力满足大家的需求。作为极少的有版号的登录STEAM且在海外有可观玩家数的国产联机游戏，我们做了许多方案探索，最终通过各种争取与妥协确认了当前的服务器策略，希望各位玩家理解。\n后续我们还将持续推出各类新内容，并对现有内容不断进行优化调整。感谢各位对《永劫无间》的支持！\n\n来源：知乎 www.zhihu.com\nRay Kuan\n点击下载\n94 个回答，查看全部。\n《永劫无间》这款游戏值得玩吗？\n如何评价 24 Entertainment 研发的游戏《永劫无间》?",
-          "link": "http://www.zhihu.com/question/479024078/answer/2055822769?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-12T11:30:22.000Z",
-          "wordCount": 19,
-          "title": "游戏《永劫无间》8 月 12 日全面开服，游戏体验如何？"
         }
       ]
     },
@@ -3770,6 +3612,106 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740186",
+          "author": null,
+          "description": "Rara，动植物爱好者，Playrix头号玩家\n阅读原文\n\n1. 用你们的 Jio 可以让你们尝味道 /doge。在你的 jio 底板摩擦大蒜啦洋葱啦，过个几十分钟你的嘴巴和鼻子就会感受到它们的味道。因为其中的大蒜素会穿透你 jio 上的皮肤而进入血液，最后到达你的鼻子和嘴巴。你们可以试一试哈哈哈。\njio jio 还是挺厉害的~~\n2. 阑尾一直被认为是一个退化的人体器官，没啥用处。但其实当肠道环境不太 ok 不利于益生菌生存的时候，益生菌就会溜到阑尾里藏起来，等肠内环境 ok 了再出来。所以其实阑尾是能够帮助维持肠道内的细菌均衡的。\n阑尾并非啥用都没有哟\n3. 毛蛙，也称骨折蛙。因为它在遇到威胁的时候，会把自己的骨骼折断然后把骨头从裂缝中伸出来当刀剑使用（是个狠蛙），不用了之后又收回去反正它的伤口能自行愈合。有点像金刚狼啊！\n骨折蛙，又叫壮发蛙，因为毛发浓密......蛙界金刚狼\n4. AI 中的计算机视觉就是用摄像头啦照相机啦来模拟人的眼睛，以便让计算机实现看“懂”这个世界的功能。而如果把人眼当做相机的话，那可以粗暴地认为人眼大概有 5.8 亿像素，能够分辨出 1000 万的颜色（我觉得我做不到……）。\n人眼很厉害！\n5. 如果《We Bare Bears》里的嚼嚼犯罪了怎么办？因为嚼嚼是只考拉，对于考拉和灵长类动物，它们的手指上也具有独特的指纹哦。所以如果嚼嚼犯罪了，用指纹追踪它是可以的哟。\n可以通过指纹追踪财阀嚼嚼哦 /doge\n6. 你们爱吃的减脂健康蔬菜，什么卷心菜啦、西兰花啦、花椰菜啦、羽衣甘蓝和抱子甘蓝啦其实都是同一个物种：甘蓝。品种之间外观上差异的确很大，这种差异是人工选择而造成的，但从基因层面来看它们就是同一个物种。\n嘿，我们都一样~~♪\n7. 这一点不能叫有趣，只能说是一条冷知识。绝大多数的小鸭子都是强奸的产物……因为鸭子的交配基本都是通过强奸完成的…",
+          "link": "https://daily.zhihu.com/story/9740186",
+          "publishedOn": "2021-09-11T23:07:25.000Z",
+          "wordCount": null,
+          "title": "生物学中有哪些好玩的知识？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740156",
+          "author": null,
+          "description": "急诊科卷毛医生，执着的急诊女医生\n阅读原文\n\n不知从什么时候开始，紧张而快速的生活工作节奏已经成为常态，不知你是否经历过有人在你身边突然倒地而就此离开人世，即使没有目击，耳闻之间也一定不止是心惊；即使是于医务人员印象深刻的病人救治中，最惊心动魄、最最感到时间宝贵、分秒必争的，十之七八多数也是和心脏骤停有关。\n“猝死”到底是什么？\n显然，并不是所有的心跳停止都要被抢救，所以，我们通常依据发生的时间来做出选择和判断结局，更多的情况下我们会用“没想到”来形容“骤停”带给我们的触动。\n给大家讲一个自己经历的抢救故事：\n一年多前，也是初秋的一个工作日。清晨，救护车送来一位 38 岁的男性。\n这是一位年轻的创业者，几经拼搏终于开立了自己的 IT 产业公司，员工十几人，都是 30 岁左右的“活力高知”，五环外一个大平层是他们共同实现梦想的小天地；身为两个女儿的父亲，也刚刚迎来小女儿的一周岁生日，一切付出看起来刚刚开始有了收获、是那么充满希望，只是每天工作到次日凌晨一两点才上床躺下、天蒙蒙亮四五点就第一个到公司又开始一整天的工作，这样的周而复始持续至事件发生的前几天，每每疲劳时就有淡淡的胸闷，甚至出汗、乏力，同事们偶尔也会见到老板在含救心丸，就这样，悲剧终于在这个凌晨发生了！\n07 时左右同事们到达公司时，发现他趴在办公桌前，一动不动，叫他“没反应”、呼吸“似有似无”，很快就“不喘气的样子”，有人找来救心丸试图强塞到嘴里，也没有反应！\n07:20左右呼叫救护车\n07:32救护车到达\n而此时这个平时硬朗朗的七尺汉子，已经完全没有了心跳、呼吸！\n救护人员立即施救：持续的胸外按压、通气、给药……直至到达急诊抢救室。\n08:01到达医院急诊抢救室\n结局是令人悲恸的、无力的。\n在被发现“无反应”直至救护人员到达的30 分钟里，大家手足无措，不知该怎么做，除了守着、看着、一遍遍电话催促着救护车和始终心急如焚的等待!\n这样一个令人唏嘘不已甚至感同身受的病例，就是比较典型的“猝死”病例。\n1970 年世界卫生组织（WHO）、1979 年国际心脏病学会、美国心脏病协会（AHA）将猝死定义为：急性症状发生后即刻或者 24 小时内发生的意外死亡。目前大多数学者倾向于将猝死的时间限定在发病 1 小时内。特点显而易见：死亡急骤！死亡出人意料！\n\n为什么“黄金四分钟”很重要？\n心脏能够保持我们人体全身各个器官组织的血液供应，在通常我们生活的环境中，脑细胞对缺氧的耐受极限只有 4 分钟，心脏骤停 4 分钟后脑细胞就会出现不可逆转的损害：一旦心脏骤停发生，病人的脑血流量瞬间急剧减少，但由于刚刚发生，脑组织尚存的血液中仍含有少量氧气，即使病人已经出现意识丧失，仍可通过刺激呼吸中枢而使病人出现“在喘气的样子”，但是这种呼吸往往是明显不正常的，就像在很缓慢的“叹息”、“叹气”或者“抽泣”。不过，毕竟脑内残存的含氧血液已经十分有限，它能够支撑人体维持生命的时间很短很短，在 4 分钟之后，很快便会过渡到生物学死亡。要知道，即使是 10 分钟之内的抢救，每延迟 1 分钟，死亡率也会成倍升高！如果时间在 10 分钟以上，即使病人抢救过来，也可能因为脑功能的丧失而成为“植物人”。\n也就是说一个猝死患者只有在 4 分钟内得到及时有效地心肺复苏，才能获得最大的生还希望，并且把病后致残率降到最低。如果病人能在这关键的几分钟内得到正确的心肺复苏和尽早除颤，或许可以逃离死神的魔掌！\n我们多数会在一遍遍地回想、复盘中去弥补死亡带来的心痛和遗憾，相较这个悲剧中所有目击者们长达 30 分钟的心急如焚、手足无措：我们似乎可以做些什么，\n我们应该做些什么？\n我们可以做些什么？\n\n“黄金四分钟”急救如何进行？\n心脏骤停的“黄金四分钟”从心肺复苏（Cardiopulmonary Resuscitation，CPR）开始。\n\n当我们确认现场环境安全时，需要立即接近被施救者，\n如果确定他没有反应和没有正常呼吸，\n即可通过拨打 120 急救电话等方式立即启动应急反应系统（Emergency medical service,EMS）以呼叫援助；\n尽快启动从胸外按压开始的心肺复苏；\n依据情况提供人工呼吸或者不提供通气而仅施以持续胸外心脏按压；\n当获得自动体外除颤器（Automated External Defibrillator，AED）时，尽早启用 AED，听从 AED 的语音提示继续施救。\n\n如下图，CPR 程序并不难，简而言之：\n“叫叫 CABD”\n\n心肺复苏程序（图片源自网络）\n\n每节省一秒时间，生命就会多一份希望。\n急救技能并不是只有医务人员可以使用，在我国将近 87%的猝死病例发生在院外，第一施救者还是以公众为主，我们一直致力于帮助更多的热心人士学习、掌握标准、规范的急救知识，救人、自救、互救，也许我们往往在人们最不幸运的时候出现，却希望因为我们及时施以援手使他成为最幸运的人。\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740156",
+          "publishedOn": "2021-09-11T23:07:16.000Z",
+          "wordCount": null,
+          "title": "什么是急救的「黄金四分钟」？为什么如此重要？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740215",
+          "author": null,
+          "description": "邓香兰，北大中文男足前队长丨微博同名丨公众号Just Lose It\n阅读原文\n\n因为我从小到大都踢球，所以我加入了中文系的足球队，简称中文男足。到了球队之后，我见到了我们的队长叫做曹直，很中文系的一个名字，但是那个曹植是七步成诗，我们这个曹直是七步躺尸，跑几步就累得叉腰了。我心想，这怎么能当队长？曹直看穿了我的心思，说，老弟，咱们中文系男生特别少，能有人来踢球就不错了，只要你一直踢球，你就是队长。我非常震惊，我说，咱们人这么少，但是足球可是一项 11 个人的运动，咱们能凑齐人吗？曹直非常开心地说：不能。我当时很震惊，他接着说，因为中文系每一级基本上就 15 个男生，从 15 个里面挑 11 个踢球的，属于天方夜谭。所以，我们必须要无限地降低标准，其他球队招人的要求是招踢得好、跑得快、身体壮，我们球队招人的要求是能动就行，可仅仅是能动就行，也往往凑不齐人。可是我们级不一样，我们级 30 个男生，从中选出 11 个能动的，可以说是易如反掌。球队师兄们就非常高兴，非常激动，高呼地说从来没有打过这么富裕的仗，居然连 11 个人都能凑了，我也跟这群老家伙们一起激动，还做了一张海报，称我们这批球员是“中文男足黄金一代”。\n我作为我们级最会踢球的，带着“黄金一代”，雄纠纠气昂昂地上了球场。上场之前我还给大家布置了一下战术，我说咱们今天踢 442，大哥，你在负责在前场逼强，你在后场负责拦截，咱俩组成右路走廊，交叉跑位，布置完之后我问，大家能不能听懂，大家说听不懂，他们只是能动而已，从来没踢过球，一句话也听不懂。我非常失望，师兄拍了拍我的肩，安慰我说，没事听不懂没关系，踢就完事了。就这样，我们带着一种踢就完事的心情上了球场。上场之后还发现，还战术呢？连球都碰不着，我们最大的触球机会就是对方进球之后，把球从门里面抱出来抱到中圈去开球，这样听着很惨淡，其实比分也很惨烈，那一场输了 0 比 6，…",
+          "link": "https://daily.zhihu.com/story/9740215",
+          "publishedOn": "2021-09-11T23:07:12.000Z",
+          "wordCount": null,
+          "title": "如何坦然面对自己的失败？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740179",
+          "author": null,
+          "description": "毁男孩的小图纸，个人公众号：电影设计师\n阅读原文\n\n《洛基》场景美术是漫威目前剧集里做的最棒的！\n迪斯尼剧集《洛基》是打开漫威多元宇宙的关键，也是在往常超级英雄模式上的大胆突破。下面，就来聊聊《洛基》中出现的几个有意思的布景及细节。\n时空错乱是围绕这个系列的主要视觉主题，但它又是抽象的，具有不可知性。设计的首要工具就是进行漫画到影视视觉的转化，找到真实生活中类似的经验和感觉。\n洛基是漫威中的一个超高人气反派，不随波逐流，独自走着自己的道路。但在时间管理局（TVA）面前，这种特立独行的性格需要被彻底的粉碎和颠覆，并让一个充满诡计与狡诈的害群之马彻底地顺从。\nTVA 接待区布景照\n不得不说，时间管理局在气质上是有参照《银翼杀手》的，不仅是复古且冰冷的建筑室内空间结构，还有美国战后世纪中叶现代市政建筑的风格偏向。为了加强整体的写实基础，TVA 中拥有自己的生活和城市体系，并尽可能地搭建实景进行拍摄。\n分钟小姐排队室布景照\n初次进入 TVA，观众对鲜明的视觉元素感到迷惑，特别是温暖而舒适的大地色系，是美国 20 世纪中叶现代主义的标志。“分钟小姐”排队室的内部是无窗的，顶上布置了数百个圆形灯，参考了纽约布鲁尔大楼天花板的设计，这里没有特别的方向性，没有人性化的基调，反应时间犯是个被人监控蹂躏的蝼蚁。为了进一步增加这个地方的压抑性，天花板被压到了 7 英尺 6 英寸，这与常规拍摄的变形宽高比非常相配。\n分钟小姐排队室天花板和地面平面图\n在排完队后，时间犯会被推入一个狭窄的金属包裹的处理室。洛基在这里被无言的机器人焚烧掉了精美的外套。在这几个段落里，有很明显地借鉴导演特瑞·吉列姆（Terry Gilliam）指导的电影《妙想天开》的例子，比如文书审讯室的职员与心爱的猫，以及微型电脑屏幕后面的打发时间游戏。\nTVA 处理室概念图TVA 文书室概念图\n时间小姐的卡通形象参考了美国 40-5…",
+          "link": "https://daily.zhihu.com/story/9740179",
+          "publishedOn": "2021-09-11T23:07:04.000Z",
+          "wordCount": null,
+          "title": "如何评价美剧《洛基》？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740148",
+          "author": null,
+          "description": "谢寅，科学教育搬运工(._.)\n\n零.写在前面\nBBC 有一部纪录片，叫做《猫的秘密生活》，记录了一群动物科学家在英国一个小镇上几个星期的研究生活。\n这是一部非常有趣的纪录片，不仅因为展现了很多科学家工作中的细节，更多的是展现了科学家群体的特殊气质和思维方法。\n之前做小学的科学老师的时候，我经常会把这部纪录片的片段，作为科学课的“开学第一课”放给孩子们，与 ta 们一起讨论科学家的工作是什么样的。\n所以，这个纪录片看了很多遍，在这里写下的，就是我找到的，这部纪录片中有趣的细节。\n让我们顺着剧情的脚本，一点一点的讲一讲吧。\n一、实验开始之前，科学家的准备工作\n1.1.影片脚本\n两位科学家来到了英国的一个宁静的小镇。 这里是英国猫咪分布最为密集的地方。 \n猫咪们在洞外的行为是什么？猫咪们每天会走多远的路？这些独居动物如何生活在一起？猫咪在哪里可以找到食物？这些都引起了科学家极大的兴趣。 \n为了得到猫主人的支持，科学家还在小镇上张贴了相应的告示，还与猫主人当面进行交流，寻求他们的支持和帮助。 \n有意思的是，主人们也同样对自己宠物的神秘生活充满了兴趣。\n比如：猫咪们在哪里抓到了猎物，猫咪们晚上出去能走多远？这些都是主人们感兴趣的问题。 \n科学家召开了一个发布会，介绍了他们的研究目的，并且带来了一位技术专家，他向小镇居民们展示了为了研究而改进的工具：记录猫咪们的位置的项圈。 \n技术专家告诉居民们：他将原本在非洲草原上研究大型猫科动物的项圈进行了改进，以更加轻便和耐用，经过了测试之后的项圈，可以套在猫咪的脖子上，并且完全没有影响。小镇居民们也饶有兴趣的聆听了他的分享，并且领取了项圈，给猫咪们戴在了脖子上。\n\n一切就绪之后，科学家把仪器搬进当地的市政厅，布置了探究的临时会场，并且在小镇上设置了拍摄相机，现在要等待的，就是猫咪们的表现了。\n1.2.科学家做了什么\n这一段其实是介绍了研究背景…",
+          "link": "https://daily.zhihu.com/story/9740148",
+          "publishedOn": "2021-09-11T23:06:54.000Z",
+          "wordCount": null,
+          "title": "《猫的秘密生活》中有哪些有趣的细节？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740167",
+          "author": null,
+          "description": "喵鱼酱，海洋生物科研学徒\n阅读原文\n\n啊，我要赶在各位大佬放出高大上的远洋出海照片之前讲讲我们朴素的近海科考生活。\n嗯呢~除了参与大型科考航次，乘坐大科考船（比如雪龙号、雪龙 2 号、大洋 1 号、东方红 2 号……）去远洋科考，大多数海洋生物学科研人员都是在近岸乘坐小船搞搞研究的。还有一些条件比较苦的，虽然也是进行远洋科考，却要跟着渔民乘坐渔船出去。船只的稳定性差，非常晃，科研人员也因此练就了和渔民一样强的意志力……\n我在攻读硕士学位期间，天天看师兄他们出远洋航次，那个馋啊。可惜因为大部分远洋航次都是综合科考航次，各专业的名额十分有限，所以都轮不到我。读博期间，我一转方向，决定找个能经常在近岸出海的团队。\n于是呢，我读博期间进行的近岸研究就是在中华白海豚栖息的海域，乘坐小快艇或小木船，跟着中华白海豚，观察它们的行为，给它们的背鳍拍照等等。\n远处的白色三角形就是中华白海豚的背鳍。\n中华白海豚的体色会随着年龄的变化而变化，并且每头成年中华白海豚身上都有独一无二的斑点，因此我们可以根据海豚体表斑点的差异，来识别个体。通过识别个体，我们就能统计我们每次调查的时候，在这片海域里见到了多少头中华白海豚。\n在了解上述信息之后，我们就能估算这片海域里在特定时间内大致有多少头中华白海豚。其实基本原理很简单，就是标志重捕法，我们在中学学过~\n把池子里的鱼改成海域里的海豚即可。\n在近岸追踪中华白海豚，总结起来就几个特点：\n晒！热！熬人！要求绝对专注、体力好、能憋尿。\n出海日，我们都是白天出门，下午至傍晚回来。有时乘坐大一点的木船，要经过一些潮位比较浅的地方，需要计算潮时，避免船只搁浅，耽误工作。\n也不是没有搁浅过，于是我们就蹲在那边数贝壳，打发时间等潮水涨上来。\n晒：首先说这个晒呢，就是……真的很晒。\n木船上起码还有个小棚子，快艇上是没有棚子的。我们工作的时候就是在太阳底下完全暴晒。\n我们的防…",
+          "link": "https://daily.zhihu.com/story/9740167",
+          "publishedOn": "2021-09-10T23:08:40.000Z",
+          "wordCount": null,
+          "title": "当一名海洋生物学家去野外考察是什么样的体验？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740169",
+          "author": null,
+          "description": "果壳，靠谱科普 就看果壳\n阅读原文\n\n猫有 19 种叫声！\n别笑，这是正经研究。研究者刚刚拿了 2021 年搞笑诺贝尔奖的那种。\n研究者是瑞典隆德大学的苏珊娜·舒兹（Susanne Schötz）教授。她获奖可不是只做了一项研究，而是通过一系列的语音研究，分析了猫的各种叫声及其他“猫 - 人”沟通的模式。\n猫有 19 种叫声\n猫就是猫，不用多介绍了。它们近一万年前被人驯化，现在已经成了人类的主子最受欢迎的宠物。\n根据研究者的估算，现在地球上有 6 亿只猫和人类生活在一起，如果这些猫们自己成立一个国家，这个“猫之国”的公民数量将排在世界第三，仅次于中国和印度。\n鉴于猫科动物向来有通过声音操纵猎物的传统，弄清楚它们的叫声意味，很有必要。\n一种显著的肢体语言：人类，求摸头！对，就是这儿！\n在 2019 年的一项研究中，苏珊娜将猫叫声划分出 19 种：除了“喵”，还有咕噜、嘶嘶声、颤音……怒吼和咆哮。\n而根据发声时猫咪嘴巴的动作，这 19 种猫叫又可以分为三大类：\n（1）闭着嘴发出的声音，比如一些杂音和颤音；\n（2）嘴巴张开并逐渐闭合时发出的声音，包括各种喵喵叫；\n（3）保持嘴巴张开发出的声音，通常在激烈的情况下发出，就是各种咆哮和尖叫声。\n每一类猫叫都对应猫的一种行为状态，比如猫跟人打招呼，只是普通的颤音；在疼痛或者强烈压力时，就会用到第三种“开口音”，也就是咆哮和尖叫。\n猫和人最重要的沟通方式：叫声\n作为一名语音学研究者，苏珊娜的研究兴趣聚焦在“各种语音变体”，比如，瑞典语和其他语言的方言变体，再比如，不同的年龄、情绪、态度和健康状况产生的副语言变体。\n她的其他研究包括：根据声音分析说话者的年龄、课堂上老师的声音和背景噪音如何影响儿童的理解和学习以及说话者的语速如何影响儿童的语言理解。\n从 2010 年开始，苏珊娜决定把自己最感兴趣的两个元素“语音”和“猫”结合起来研究，由此走…",
+          "link": "https://daily.zhihu.com/story/9740169",
+          "publishedOn": "2021-09-10T23:08:30.000Z",
+          "wordCount": null,
+          "title": "猫一共有多少种叫声？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740159",
+          "author": null,
+          "description": "胖博士，懂你皮肤问题的清华胖师兄\n阅读原文\n\n身体乳当然可以涂脸！毕竟不会烂脸。只不过大部分身体乳除了基础保湿，基本上没啥其他效果，涂了等于白涂。因为身体乳实在是太便宜了，加不起太多活性成分。\n我们打开 X 宝，搜一下身体乳，基本上都是便宜量又足。一瓶 500ml 的身体乳，也就几十块钱。甚至还有九块九一瓶的身体乳。\n\n既然是身体乳，配方好歹得是个乳液，里面得有油和乳化剂。油脂怎么也得几十块钱一公斤，乳化剂差的几十，好的上百。\n很多人用身体乳喜欢腌渍入味的感觉，这得加香精吧。最烂的香精也得接近一百块钱一公斤。\n按照添加量来算，光这些基础成分，配方成本就得将近十块钱一公斤了。500ml 就是五块钱。再加上外面的塑料包装，一瓶最烂的身体乳，成本也得五块钱往上了。\n商家广告得投钱吧，商家买直通车得花钱吧，站外引流得花钱吧，找网红直播带货得给佣金吧。商家要赚钱，要冲销量，这些都不能省。能省的就只有配方里的活性物添加了。\n于是很多身体乳受制于成本压力，只能用非常基础的配方。活性物只能象征性添加，或者加一些非常便宜的活性成分，比如烟酰胺。因此，这些身体乳只有非常基础的保湿功效，通过里面的油脂在身体表面形成一层油膜，缓解干燥肌肤。而其他功效，还是别想了。\n如果你的脸只有保湿诉求，那还是可以用身体乳的。不过因为身体乳本身很稀，油脂添加也少，没法实现很强的保湿效果。\n而护肤的产品因为卖的更贵，配方成本也可以更高，也加的起更多活性成分。比如保湿的玻尿酸的价格上千块一公斤，美白的 377 价格一万，屏障修复的神经酰胺价格几万。这些对于身体乳都是天价，绝对加不起。就算加也是一锅里面加一滴那样的象征性添加。\n一般 50ml 面霜价格几十到到几百不等，于是就有足够的预算添加各种贵的活性成分，实现抗衰老，美白等各种功效。\n所以身体乳当然可以涂脸。只不过除了基础保湿外，没啥其他效果。而且保湿效果也一般，只适用于那些只有基础保湿诉求的人群。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740159",
+          "publishedOn": "2021-09-10T23:08:21.000Z",
+          "wordCount": null,
+          "title": "身体乳为什么不能涂脸？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740164",
+          "author": null,
+          "description": "浩浩耗，我有屠龙之术，欲翻流云起舞；我有苍茫之志，欲煎七海成田；\n阅读原文\n\n说起活成了一部热血漫的人，对于我这样的篮球爱好者来讲，其实蛮多的。\n多的不说，光是姚明和林书豪两个人的故事，就足够激励，即便现在再去翻看关于他们两个的纪录片，《姚明年》和《Linsanity》，依然会感到热血翻涌。\n但我今天想讲的人，是一个不折不扣的“小人物”，可能很多朋友都从来没有听过他的名字，包括我自己，在了解到他的故事以前，也从未听说过其人。但如今，当我一看到题目中的热血二字时，第一个想起的人，竟然是他。日本地下乐队 Onanie Machine 的贝斯手 Inoma。\n你见过把自己的葬礼办成演唱会的吗？这就是这个“小人物”干过的事。\n\n他的故事，还是因为日本的一档综艺节目《可以跟你去你家吗》，而被更多人熟知的。这个节目的形式很简单，就是在街头随意选择路人采访，并跟着去路人家，顺便了解路人的人生故事。而在一期节目中，节目组刚好随机碰到了 Inoma 的女朋友 Hiro 和其它几个朋友，而节目组碰到他们的时候，他们刚好参加完 Inoma 的葬礼。\n\nInoma 的人生其实很精彩，作为一个地下摇滚乐队的灵魂人物，他每次登台演出都很燃，而他自己也热爱着舞台，发自内心的享受这份事业。\n然而。命运终归给他开了个天大的玩笑，2018 年，Inoma 被确诊为口腔癌晚期，而为了治疗，他接受了手术，切掉了 2/3 的舌头。这对于一个做音乐的乐手来说，大家应该可以想象这意味这什么。就连说话和吞咽都不是一件容易的事，更不要说唱歌了。\n\n正常情况下，肯定是退出演艺事业好好在家养病了对吧。但他偏不，演唱就是他的命，即便吐词不清，唾液四溢，他还是要唱，不仅要唱，他还要举办乐队成立 20 周年的演唱会，即便这场演唱会很可能就是他的葬礼。\n因为就在演唱会要举办的三个月前，他的病情恶化了。癌细胞发生了转移，放化疗和抗癌药的副作用也彻底的击穿了他的身体。在演唱会就要开始的那个月，Inoma 已经虚弱到需要拐杖才能行动了，胸口也出现了肿瘤，视力也几乎损失大半，更致命的是，就连进食也成为一种莫大的痛苦。\n\n即便这样，演唱会依然如期举行！现场 3000 多个粉丝准时抵达，各个乐团轮番登场表演。最后压轴时刻，Inoma 被人用轮椅推上舞台，在这一刻，他仿佛整个人都被瞬间激活了一样。\n\n他站起来，说出了这么一番话，“抱歉啊，我还活着，其实呢，今天只要站在这里就好了，但我舍不得，想着绝对要站着，虽然没有舌头，我也要唱！”。\n也不知道哪里来的力量，就这样，还能支撑着他弹着吉他，唱着满是呐喊的摇滚。即便满是伤痛，但在那一刻，他却满脸笑容，真是从屏幕上也能感觉到他溢出的幸福。\n\n最终，他通过吸氧和跪在地上支撑身体的方式，完成了自己人生最绚丽的一次谢幕。\n\n最终，死神还是没有放过这个热血的摇滚人，在演唱会结束后的 2 个月，Inoma 还是离开了人世。而在他患病期间写的日记上，我们也清楚的看到了，他对生命的渴望以及对生活的眷恋。“不想死”三个字，也成了他日记中出现频率最高的词语。\n\n这就是一个“小人物”的故事，虽然他不是我们通常意义上所定义的英雄，但他对生活，对音乐的热爱，对命运的不屈服却很难不让人动容。\n想到一句话：人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也。的确，人的一生，未必都一帆风顺，波澜壮阔，荡气回肠。有委屈，有愤怒，有悲伤，甚至有绝望。但有人就是能不向命运跪地求饶，有人就是能在绝境中顽强的自救，在我眼中，他们也是当之无愧的勇士。\n最后，脑中突然蹦出一首歌想分享到这里，是我刚读大学时最喜欢的一首歌\nLife is like a boathttps://www.zhihu.com/video/1418921023580721152\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740164",
+          "publishedOn": "2021-09-10T23:08:13.000Z",
+          "wordCount": null,
+          "title": "现实中，真的存在着活成了一部热血漫的人生吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740142",
+          "author": null,
+          "description": "悉点财经，洞悉行业真相，指点商业内在！\n阅读原文\n\n对这个事情，有看山是山的，也总有看山不是山的。\n三峡电站今年首次满发，能发电多少不是重点，重点是新能源配合碳达峰和碳中和的一次发力。而碳达峰、碳中和这两个词，有可能重新定义中国、乃至全球的经济版图。\n现在三峡电站的这个功率水平有人算账了：成都电网负荷突破 1560 万千瓦，苏州电网负荷超过 2800 万千瓦。一个三峡工程的发电水平，也就大概能给 1.5 个成都供电，给苏州供电都不够。\n表面上看没错，是这样的。这就是看山是山。如果看山不是山，又该怎么看呢？\n三峡电站是水力发电，跟风力发电、太阳能发电这两样一样，都是清洁能源，也就是大家说的新能源。三峡电站今年首次满发这个事儿，都跟今年大火的两个词“碳达峰”“碳中和”有关。\n如果认为碳达峰、碳中和只是节能环保，是中国应对全球气候变化的举措，这也只是最表层。这背后的大国战略，意义深远。\n咱先来复习一下什么是碳达峰和碳中和。\n碳达峰是什么？碳排放量达到峰值不再增加，我国要在 2030 年前，使二氧化碳的排放总量达到峰值之后，不再增长，并逐渐下降。\n碳中和是什么？在 2060 年前，我国要通过植树造林、节能减排、产业调整等形式，把排放二氧化碳抵消掉，排放=没排放。\n划下重点：植树造林、节能减排、产业调整。植树造林都知道咋回事。三峡能源既然属于新能源，跟火力发电相比，那就是节能减排的优秀生。至于产业调整，8 月开始的钢进出口税调整，做的就是产业调整。\n\n咱们都知道上海花了大力气引入了特斯拉，给划了 1300 亩地，将近 150 亿低息贷款，破例让特斯拉百分百控股其中国公司。为什么？是为了把新能源车的完整产业链落地中国，带动新能源车的产业链崛起。先前引入给苹果代工的富士康，等我们自己的手机产业链培养成熟后，2015 年国产手机迅速崛起。这两个一样的道理。\n油车烧油，而且油车对华出口的关键零部件技术是 N-2，什么意思呢？就是我现在用的是苹果 13，出口给你的只能是苹果 11 的技术。\n新能源车就不一样了。新能源车用电，绕开了石油这个旧能源，而且同时绕开了油车技术的卡脖子。\n理解了这个，就理解了咱们的新能源大国战略。这涉及到国家能源安全的问题。\n先说结论：碳达峰、碳中和，本质上就是一场能源大战，是清洁能源带来的电能这个新能源与旧能源石油的决战，是新经济秩序与旧经济秩序的对抗，是大国博弈，是不见硝烟的刀锋火影。\n碳达峰、碳中和一旦实现，中国将手握主导世界的新能源“王炸”组合：“碳达峰 + 特高压电网 + 一带一路 + 全球能源互联网”，届时，石油、跟石油绑定的美元、某衰落帝国，都将成为过去式。\n来解读一下这个王炸组合：\n碳达峰说过了，来看特高压技术。这是唯独中国掌握的核心专利，全球一流，全世界独一份。电力输送，中间损耗跟距离有关。特高压技术，让电力的输送可以达到 5000 公里，电压越高距离越远损耗越低。\n全球能源互联网是中国首倡并在积极推进。2015 年 9 月 26 日，主席在联合国发展峰会宣布：中国倡议探讨构建全球能源互联网，推动以清洁和绿色方式满足全球电力需求。\n中国能源互联网由三块组成：生产端 + 运输端 + 消费端。其中，工业和汽车等是消费端；特高压电网是关键，负责运输；水电风电光伏等清洁能源是根本，负责产出。\n中国的水电、风电、太阳能发电一直都是世界领先水平。这些清洁能源的储备，主要在我国西部地区。中国能源互联网就是清洁能源在全国范围大规模输送和使用的基础平台，是把中西部清洁能源在全国范围内的搬运和输送的管道。\n中国能源互联网，走向全球的话，我们能一边帮忙生产端的清洁能源等基础设施，一边运用可输送 5000 公里的特高压技术，再加上穿过中国西部的一带一路创造大量就业，以及参与一带一路的 170 多个国家和组织，辐射一圈就 5000 公里，一圈接着一圈的辐射范围，这个全球能源互联网，未来可能有多大呢？\n\n这些也会形成一套电能的制造业标准和新的产业链格局，这跟用石油的制造业标准和产业链格局大大不同。\n最重要的一点是，制定全球能源互联网标准的权力在我国手里，当我们有制定规则的权力，世界会不会逆转？\n未来，谁的新能源工业体系先建成，谁的新能源成本低、效率高，谁的竞争力就更强。 而中国将主导未来全球产业链，占领未来新的制造业制高点。\n如果到了 2060 年中国实现碳中和，光伏、风能聚集的中西部地区将会成为最主要的能源输出地之一。中国在全球经济版图上的角色，会被重新定义。\n记住这个时间点，2060 年！那时候的世界已经逆转。到那时，看我笑傲全球，长缨如龙，一啸破苍穹！\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740142",
+          "publishedOn": "2021-09-10T23:08:07.000Z",
+          "wordCount": null,
+          "title": "三峡电站今年首次满发，总出力 2250 万千瓦，这是什么概念？未来还可能有哪些突破？",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740121",
           "author": null,
@@ -5319,126 +5261,6 @@
           "wordCount": null,
           "title": "阿拉伯人为什么这么喜欢椰枣？",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739138",
-          "author": null,
-          "description": "sqiu，5G/女博士/90后/高级算法工程师/骑行\n阅读原文\n\n我面试次数不多，但每次面试反馈都不错，自己也总结了一些经验。当然，最最重要的是认真准备，重视简历上的每一个字，以及面试时说出的每一句话。手机码字、干货输出不易，希望对小伙伴们有帮助。\n先啰嗦一点：建议面试时摆正心态，面试者和面试官是平等的，面试是公司了解你是否能匹配岗位和团队，你了解公司和岗位是否满足自己预期的过程。\n所以，面试时要真实且充分的展示自己的技术和项目背景；另外，不懂就问，充分了解公司、团队、岗位、工作内容等情况，能通过 HR 和面试官了解的情况就没必要来网络上四处搜罗答案了～\n很多小伙伴（应届生偏多），在面试时不好意思提问担心显得自己太小白，而导致 offer 都拿到了却不知道自己要做什么，这样就没有达到面试的目的了～\n做自我介绍要提前做好充分准备，可以分为以下软硬两方面：\n1. 包装\n就像明星需要人设一样，面试前也要给自己设立一个人设，坚定住这个人设，带着人设去准备个人简历和自我介绍，也许你曾经在学习和工作中有过失败、有过彷徨，但是这时的你都是那个战胜了失败，信心十足，职业规划清晰而又合理，信念坚定，工作中能够独挑大梁的人中龙凤。\n信念有了，面试就成功一小半了，一边面试一边觉得自己注定失败的，大概率不会成功。\n然后去看个发布会，分析下大佬们在大场合也显得神态自若，拿捏自如的要素，大概包括：\n着装简单得体不花哨\n语速缓和均匀不磕巴\n目光扫视停留不闪躲\n形体端正挺拔不挠腮\n内容充实真诚不空洞\n2. 内容\n核心思想是：在最短的时间内用最有力的证据来证明你的经历和价值。\n不想在面试过程中过多展开聊细节的经历和项目尽量不要写在简历里，不在自我介绍时提起，重点强调最让你满意的几个项目即可，说清楚自己在项目中的角色，最好介绍每个项目时有不同侧重点的展现个人不同方面的能力和优势，比如在某些技术领域的突破和成就、逻辑与专业技能、领导与管理能力、团队合作与跨部门沟通协调能力、自我驱动力和学习能力等。\n介绍时尽量按重要性先后逐条介绍，\n尽量简短有力避免过于冗长，\n不要泛泛而谈，能用数据、获奖、科研成果说明问题时尽量用结果说话；\n可以准备 3 分钟，5 分钟，10 分钟三个版本，面试时视情况选择介绍时长，可以先写长版本然后逐渐精简留下精髓。\n秋招正火热进行，祝大家都能拿到理想的 offer～\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739138",
-          "publishedOn": "2021-08-12T23:08:31.000Z",
-          "wordCount": null,
-          "title": "面试的时候，如何自我介绍？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739130",
-          "author": null,
-          "description": "黎贝卡，微信公众号：黎贝卡的异想世界，欢迎来找我玩儿^_^\n阅读原文\n\n之前分享过一些美妆技巧，总有人说自己是“手残党”，道理是懂了但自己就是画不好。贴心如我，这次专门采访了身边的化妆师朋友，帮你们问到了一些他们私藏的“妙招”。\n很多人会觉得化妆师的私藏技巧一定很考验技术、难度系数很高。别担心，他们这次分享的都是自己喜欢用，化妆小白也容易上手的小技巧。\n\n话不多说，一起搓搓小手学起来吧~\n（例牌申明：本文不含任何商业软性植入）\n\n底妆\n1.怎么用美妆蛋更不容易卡粉脱妆？\n唐毅（章子怡、许晴、姚晨等明星化妆师&彩棠创始人）\n唐毅老师大家都很熟悉了，是很多明星的化妆师。▼\n\n夏天到了，大家都会更喜欢清透服帖的底妆吧？\n用美妆蛋上妆既快速又能做到妆感不厚重，现在几乎人手一个，通常的做法是，用保湿喷雾喷湿表面就可以开始拍粉底了。\n虽然喷湿会比干的更好上妆一些。但这样的海绵回弹性比较差，在上底妆的时候明显会弹力不足。▼\n\n和大家分享唐毅老师推荐的底妆小技巧，明天就可以用起来：\n将美妆蛋用清水全面浸湿，挤出水分、再用纸巾轻轻挤压吸出多余水分，这时的美妆蛋弹性刚好，适合用来上轻薄服帖的粉底~▼\n\n在打底妆时注意，不要蹭拉，要用手腕发力，轻轻点按，少量多次，遮瑕需要多的地方可以叠加。▼\n\n助理小妞珍妮是中性偏干肤质，在海绵未喷湿的前提下，拍哑光粉底会略有卡粉。海绵完全浸湿后，底妆就很服帖了，亲测管用。▼\n\n2.怎么画出轻薄水润的底妆？\nVivian（资深时尚化妆师，为多位艺人提供造型服务）\n夏天的妆感一般都比较轻薄，很考验底妆的水光度。\nVivian 很喜欢把有高光提亮效果的液体（隔离、精华）和粉底融合再上底妆。▼\n\n每次上粉底前，先把高光液和粉底按照 1:1 的比例，融合在一起。▼\n\n看动图也能发现，加入了光泽感颗粒的粉底在拍打时，更容易被拍开，很快就贴进皮肤里。▼\n\n对比一下，和直接用…",
-          "link": "https://daily.zhihu.com/story/9739130",
-          "publishedOn": "2021-08-12T23:08:24.000Z",
-          "wordCount": null,
-          "title": "第一次化妆，底妆到底应该怎么打才服帖？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739122",
-          "author": null,
-          "description": "haibaraemily，公众号「行星事务所」\n阅读原文\n\n首发于个人 ghz“行星事务所”\n难得有个关于航天的剧，职场情节悬不悬浮，航天设定和细节走不走心？带着放大镜看了前 18 集，还蛮惊喜的。这剧的细节很丰富，男主的成长线也设置得很讲究，有点意思。\n这两周一直和哈工大紫丁香卫星的小伙伴们一起讨论剧情，发现可说的点真的相当多。\n以下主要盘点解析的是前 10 集剧情，必要的地方也会涉及一些后面的集数。\n（去年就带放大镜看过《恋爱小行星》：看木星、认石头、还要寻找小行星？这波柔软又硬核的安利我吃了！，感兴趣的可以回顾一下~）\n01、剧情发生在什么时候？\n仔细抠一抠这剧的时间线，会发现男主于途的成长经历，与我国的航天进程高度相关。\n虽然剧里明显有隐去故事发生年份的意思，但这对灰原童鞋我，新时代的列文虎克，完全不是问题！\n剧里微博发布的时间都被抹去\n第一集乔晶晶回忆高中加于途 QQ 的剧情里，里可以看到于途属马，大概率是1990 年出生。\n\n于途说自己“人到三十”，也就是说剧里现在的时间大约是 2020 年。\n\n那这个 30 岁会不会是虚指呢（比如 31、32 岁啥的）？不是的，我们可以通过乔晶晶的生日来 double check。第一集可以看到，乔晶晶也属马，生日是 1990 年 12 月 21 日。\n\n第七集里乔晶晶说自己现在才 29，下个月才 30 岁生日。说明到第七集这个时间节点是2020 年 11 月，于途确实是 30 岁零 2 个月。\n\n再考虑到这时候乔晶晶和高中同学于途重逢不到一个月，所以第一集应该发生在2020 年 10 月底到 11 月初左右。\n后续剧情也有细节能对的上：第 8 集，能看出是 2020 年 11 月的日历\n\n（这说明：这剧细节还是经得起推敲的于途和乔晶晶都是实诚人，QQ 信息居然都用的是真实生日）\n明确真实的时间节点，让于途这个从小热爱航天科学…",
-          "link": "https://daily.zhihu.com/story/9739122",
-          "publishedOn": "2021-08-12T23:08:21.000Z",
-          "wordCount": null,
-          "title": "航天从业者是如何看待电视剧《你是我的荣耀》的？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739115",
-          "author": null,
-          "description": "Anka Lau，服装设计/艺术留学/公众号：ELEVENTEN\n阅读原文\n\n夏日适合戴什么？ 草帽！\n没有什么帽子比草帽更适合夏天了，一顶清爽、合身的草帽是夏季的终极选择。无论是在海边度假，还是在咖啡厅喝上一杯咖啡，草帽适合出现在每个休闲的场合。\n\n草帽之所以是夏日百搭圣品，它除了凉爽遮阳以外，也有很多不同的帽型，比如像平顶礼帽、爵士草帽、宽檐草帽和圆顶草帽等。而不同的帽型可以搭出不同的穿搭风格，下面介绍一下几种不同的草帽类型：\n平顶礼帽\n这种类型的草帽是比较多人选择的款式，平顶是它的特色，同时具有法式和中性的感觉。\n\n平顶礼帽款式的草帽会让人想起奥黛丽赫本那种法式的优雅，除了中性风格以外，清新和自然的风格也驾驭得无懈可击。\n\n想象一下在炎炎夏日，戴上一顶草帽，漫步在旅途中是多么的写意。感受着城市或者海边的风，或者在咖啡厅里品尝着一口浓厚的意式风情咖啡，呆上一个下午。\n\n爵士草帽\n爵士草帽的形状和爵士帽是一样的，只是材质换成了草编。帽顶有轻微的凹陷，帽檐比较窄。爵士草帽是这四种草帽里面最帅气的，适合稍微酷酷的女生。\n\n爵士草帽很适合比较休闲美式的穿搭风格，虽说爵士帽会给人酷酷的感觉，但是也绝不影响女人味的散发。在佩戴上建议带妆佩戴，这样会更好驾驭这种帽型。\n\n宽檐草帽\n顾名思义，这种草帽有着非常宽大的帽檐。我记得曾经 Jacquemus 就出过一款非常非常宽大帽檐的草帽，那时候瞬间引爆了时尚圈，轰炸了 ins。宽檐草帽非常适合带着去海边度假，也很适合爱拍照的时髦儿们，躺在夏日的海滩上，用宽檐草帽遮盖着半身，隐约透露的一丝性感。\n\n圆顶草帽\n这种帽型最标志性的就是它的圆型顶部，相对于其他款式来说这种款式的草帽带有优雅淑女的气息。加上短小的帽檐，非常适合时髦儿们平日里搭配一些可爱十足的连衣裙，配上一双小高跟，整体可爱气质满分。\n\n筒型草帽\n这种帽型应该是近几年才出现的，特点就是戴上去会挡住视线，整体是筒的形状，戴上整个人会有冷冷酷酷的风格。这种帽型的帽子在近几年非常流行，特别深受 z 世代和千禧一代的喜爱。\n\n渔夫草帽\n顾名思义，是渔夫平时出海打渔时佩戴的帽型，但是不妨碍渔夫草帽成为一种时髦。佩戴这种帽型在穿搭上要比较突出，比较适合高级简约感的穿搭，这样才能让整体时髦感显现出来。\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739115",
-          "publishedOn": "2021-08-12T23:08:13.000Z",
-          "wordCount": null,
-          "title": "夏天适合戴什么样的帽子？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739126",
-          "author": null,
-          "description": "惊鲵，心如寒梅，不惧严霜\n阅读原文\n\nzi 人菜瘾又大的玩家有话要说.......\n一、攻击形态\n\n普通攻击(鼠标左键 / 右键单击) (左键–平击)(右键–纵击)\n霸体攻击(带蓝光的重攻击) (鼠标左键 / 右键长按蓄力│不同武器单击后的第 2~3 段单击，招式变成蓝色)，可以打断正在普攻的敌人\n振刀 (同时按下鼠标左键和右键 / 迅速先后按出左键和右键)，在对方出现重攻击的瞬间，如果成功振刀，就可以把对方的武器弹落。\n简单来说，普攻克制振刀，振刀克制霸体攻击，霸体攻击克制普攻\n振刀失败后会有一个后摇动作，并且面对普通攻击时只能挨打\n你看，是不是很像猜拳游戏呢，剪刀石头布。在 1V1 的对战中，你必须猜测对方接下来的出招是什么，并且找到相应的反制手段才能获胜。如果你对每一个武器的出招动作都熟悉了，掌握振刀的防守方，就可以轻易的在进攻方即将打出固定的重攻击时，完成振刀\n 但是！！！！！！接下来是重点\n游戏中有个下蹲按键，是可以取消掉普攻的后摇和重攻击的蓄力，然后有些玩家会在即将打出重攻击的时候，下蹲取消后摇，骗出对方的振刀，如果成功骗出，继续用普攻攻击敌方\n有些新手在对战时，乱砍一通，打不过会重攻击和振刀的玩家，而掌握振刀的玩家打不过会骗招、预判，掌握完美连招的大神。\n然而大神也猜测不出这些新手在对战的时候下一招是什么......预判了你的预判根本不存在的。面对新手玩家，你的假动作和振刀动作都会被新手一顿无规律可循的普攻平 A 致死\n简称“乱拳打死老师傅”......\n\n所以，这些大神在面对新手玩家的时候，会即将在打出重攻击的时候，突然下蹲或者跳跃，继续用普攻一刀一刀剌死新手。。。。。。\n二、魂玉系统1.基础魂玉\n\n在战斗百科中，有魂玉的详细介绍，先讲基础属性\n体力、攻击、近抗、远抗这四种魂玉，不是你一项带的越多，伤害加成就越多的。他是有一个上限值的\n以攻击为例，最大上限值…",
-          "link": "https://daily.zhihu.com/story/9739126",
-          "publishedOn": "2021-08-12T23:08:08.000Z",
-          "wordCount": null,
-          "title": "新手入坑《永劫无间》需要学会什么？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739133",
-          "author": null,
-          "description": "当别人问你：“你都工作那么多年了，怎么连个领导都没当上？”你该如何回答？\n\n呼噜小妹，小黄人\n阅读原文\n\n阅读原文\n\n急，我家有个连接外星球的虫洞，现在正疯狂往外跑氢气，根本封不住口该怎么办？\n\n论女装的重要性\n阅读原文\n\n你先别急，先抽根烟冷静一下\n \n（小李注：瞎扯行为，请勿模仿）\n阅读原文\n\n为什么总叫央视六套六公主？\n\n岸舍然，免了。\n阅读原文\n\n怎么说呢。。反正今年七夕节刚过，六公主就播了《他其实没那么爱你》\n\n\n\n阅读原文\n\n你手机里有哪些不想卸载的良心 App？\n\n芊小桌儿，全网同名@芊小桌儿，美食圈歪风邪气丨新品拔草机｜资深铲屎官\n阅读原文\n\n不想卸载但也半年没打开过的……\n\n这个软件做的最良心的地方在于：\n每次看到它我的良心都会痛。\n阅读原文\n\n渣男最怀念哪种女生?\n\n61我们去喝奶茶吧，还好\n阅读原文\n\n渣男不会特定的怀念哪种女生 只要他闲了 他能怀念每个女生\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739133",
-          "publishedOn": "2021-08-12T23:08:03.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739081",
-          "author": null,
-          "description": "Moriarty K，正常合作请私信，洗稿白嫖劝收手。\n阅读原文\n\n上世纪九十年代，西南某省发生过一起入室强奸案，由于受害人比较特殊（是个有智力方面缺陷的残疾人），无法有效帮助警方指控嫌犯，加上当时的鉴定技术在国内十分稚嫩，所以调查起来较为艰难，虽然用了半年时间找到了疑犯，但因证据不足最后只能将其释放，万幸的是警方在现场调查方面做得比较仔细，保留了现场床边的一块毛巾。\n二十年后，这起案件的证物被取出送入鉴定室，通过上面的精斑确认了犯罪人，案件得破。\n距离案发时，已经过了整整二十一年。\n这种很久很久的陈旧物证，最后发挥作用的案例，在近十年屡见不鲜。\n--------\n现代侦查技术的厉害在哪里？\n说一千道一万，关键就在一个“微量”。\n现实中很多凶手清洗打扫现场比干了十多年保洁工作的阿姨还专业，弄完飘飘然觉得干净无比，张口就是“随便查”，结果一喷一检查一提取，什么都出来了。\n有的人仗着学过点开锁技术，用一根特制的铁钩把门锁钩开，入室盗窃，觉得做得天衣无缝，结果伸进去遗留在门里的半截铁钩上检测出他的表皮脱落细胞，最后人赃俱获。\n。。。。。。到最后真是：\n\n存放时间长了，证物中保留的 DNA 确实会发生降解，这是没错的\n好好打扫一下犯罪现场，看起来确实很干净，这也是没错的\n但很多时候就是那句话：\n——“总不会一点都不剩了吧？”\nhttps://zhuanlan.zhihu.com/p/48142784\n只要“还剩一点”，那么我们就可以得到我们想要的结果。\n说回技术，以开头的案例为例，破案的主要办法是什么呢？\n首先，要知道“哪里有精斑”。\n在过去及现在，很多鉴定人员的第一程序依然是肉眼观察——这玩意是精液干燥后的产物，摸起来触感发硬，质地特殊，放在显微镜下面看，呈现出黄白色的鳞片状。\n除此之外，精斑在警用光源（戴橙色眼睛，用十三波段光源的 450nm 蓝色光）的照射下会发出自然荧光：\n\n接下来是预实验。\n目前对疑似精斑的检测技术逐渐丰富也越发简单化（如 PSA 等），但是其中最经典的还是酸性磷酸酶检出法——其原理在于精斑中含有大量前列腺分泌的的酸性磷酸酶，这种酶指标在血液、尿液、汗液、唾液等体液中的含量和精液相比甚少，利用这一点，进行实验：\n将此两种试剂滴入样品中，若呈现黄色，则无精斑若呈现紫色，说明有精斑，紫色是其中酸性磷酸酶催化水解后的混合显色结果\n实际：\n左边样品无精斑，右边样品有精斑\n在确认样品确为精斑样品后，需要进行最关键的一步，DNA 的微量提取，常用的方法是进行一系列消化、纯化，这个步骤可以理解为“各种除杂”，意在得到一个比较干净的 DNA 模版，以便进行扩增，最终就能得到完整的分型图谱。\n--------\n综上，这实在是个很耐操的东西。\n\n无论是自然条件下还是警方规范化的物证管理环境下，能保留鉴定价值的时间会比你想象当中长很多。\n至于具体的时间，目前只能说没有标准答案，因为不同环境下，温度、湿度、微生物等外界因素对 DNA 降解过程都有影响。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739081",
-          "publishedOn": "2021-08-11T23:07:19.000Z",
-          "wordCount": null,
-          "title": "犯罪现场勘查中发现了精斑，其中的DNA能保存多长时间?",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739092",
-          "author": null,
-          "description": "刘飞，互联网产品经理\n阅读原文\n\n先说最明确的公司建议，还是越大的平台越好，一方面有专业能力训练的保障，另一方面有工作稳定性和收入稳定性的保障。这个是毋庸置疑的。哪怕长期想要创业或者做别的，先到大厂训练基本功也是必要的。\n按规模逻辑怎么排序呢？很简单，可以大略按照市值和公司员工规模来排。排出来大概就是这样：\n第一梯队\n腾讯，字节跳动，阿里\n第二梯队\n百度，美团，拼多多，快手，滴滴，京东，网易...\n第三梯队\nB 站，小红书，知乎，携程，有赞，苏宁，丁香园，陌陌...\n第四梯队\n网上没有公开信息的公司\n到这里并没有完，单凭这点去判断，还是很容易被坑。\n还要考虑以下几个要素。\n第一，公司的前景有没有问题。\n比如在 P2P 暴雷的时候进入一个互联网金融公司，或者双减政策出台的时候选择去在线教育公司。虽说很多行业内情应届生一般都不大好知道，但是大众媒体新闻里的信息，还是多少得知道一些的。\n踩了暗雷确实算点背。脸上写着是雷，还要去踩，就得怪自己了。\n第二，判断具体部门和岗位。\n有的同学觉得公司是好的，所有产品经理的岗位可能都是好的，这就是个大误区。\n比如，你去腾讯，既可能是去微信做产品经理（履历可以镀金镀钻石），也可能是去腾讯内部食堂的员工系统做产品经理（用户几百人的那种）。这中间的差别，就好比你是去平安银行做总经理助理，还是去平安银行门口的保安亭当助理。\n搞清楚你要去的岗位是什么样的，有时候比单纯看公司还要重要。普通公司的核心岗位，也比顶尖公司的差岗位要好。\n这里给出几个判断岗位优劣的标准：\n\n离核心业务近不近。比如去电商公司，是不是做电商相关。\n部门团队规模。比如整个大部门就一个产品经理，说明这个部门的业务不大需要产品。\n你的 leader 是什么角色。比如你的 leader 和 leader 的 leader 都是产品经理，而且是从业多年的专家，那就更靠谱一些。但你是 leader 是技术 / 市场，甚至是 HR/ 行政，那就要谨慎一些了。\n\n第三，了解下公司的价值观。\n价值观是个比较玄学的问题，通常是属于那种「约束条件」，不大会是决策因素。\n大多数情况下，价值观不大影响你的工作决策。\n但如果你上班第一天的培训，就在破冰游戏里让你说「三围」和「三初」，搞得你瞠目结舌，愤而离职，那结果会很麻烦，你得重新找工作。\n所以了解公司的价值观、外部对这个公司或者部门的评价，有助于排雷，排除掉那些你肯定忍不了的岗位。\n综合这几个因素，再看公司本身的规模水平，基本能得出结论了。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739092",
-          "publishedOn": "2021-08-11T23:07:14.000Z",
-          "wordCount": null,
-          "title": "对应届生而言，产品经理这个岗位最值得去的公司有哪些？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739082",
-          "author": null,
-          "description": "猫研所，猫咪知识精准科普平台\n阅读原文\n\n猫咪肚子上垂下来“一坨肉”？\n图自：油管\n相信不少铲屎官一开始会以为是猫咪肥胖的肚腩...\n也有少部分会以为猫咪生了什么病，是不是肿瘤？\n图自：tumblr\n博学的铲屎官又会淡定地说，这是正常的原始袋...\n图自：catworld\n可是，该如何区分是原始袋还是肥胖呢？为什么有的猫咪有，有的猫咪又没有呢？\n一，什么是原始袋？\n原始袋最常用的英文是 primordial pouch，也有很多别称，例如：Belly flap，Spay sway，Apron，Fat pouch，Belly bag...\n它是长在猫咪下腹部，连伸到后腿内侧的一块松散的皮肤组织（腹部皮瓣，abdominal flap）。\n图自：油管\n在猫咪走路或奔跑时观察到的左右“晃动的肚腩”，仔细触摸就会发现，主要是皮肤，而脂肪较少。\n原始袋在很多猫科动物中都可以发现\n二，原始袋有什么功能？\n这样的身体结构，到底有什么用呢？目前较多认可的猜测，有三种：\n（1）奔跑时伸展，跑得更快\n原始袋的松弛皮肤，增加了猫咪肢体的伸展能力，这可以让猫咪迈开更大的步伐，以提高移动速度。\n\n无论是在捕猎时，还是在躲避天敌时，猫咪都属于“爆发性”选手，无法长时间的追逐奔跑。\n图自：giphy\n所以短时间的高速移动，有助于猫咪保持能量，增加存活机率。\n（2）储存热量，更耐饿\n虽然在是储存脂肪还是储存多余食物上，没有统一结论，但研究人员一致认为：猫咪原始袋的一个重要作用，是像骆驼的驼峰一样，帮助 TA 们储存热量，以备不时之需。\n\n毕竟野外的猫咪，除了捕食兔类鼠类，更是不折不扣的被捕食者，因此没法像家猫一样，每日能保证有固定的三餐。\n（3）打架时保护器官，更耐打\n猫咪在打架时比较常用的招数是一招“兔子踢”。\n\n在使用此招时，有时不可避免地会露出肚皮；\n\n同时，被害猫咪最常受伤的部位，也包括腹部。\n很多捕食者的攻击目标，也都选在腹部\n研究人员推测，原始袋松弛有弹性的皮肤，可以帮助猫咪在攻击和被攻击时，都尽可能地避免腹部受伤，保护腹部的器官。\n图自：cat-world\n三，原始袋和肥胖有关吗？\n但并不是肥胖的猫咪一定就有原始袋，瘦的猫咪存在原始袋的案例也屡见不鲜。\n\n只是有原始袋的猫咪，如果发胖，或者发胖后又减肥，原始袋可能更加明显（毕竟还是有脂肪的）。\n图自：pinterest\n这也是有的猫咪，到了老年以后，原始袋会更明显的原因（有点像铲屎官的妊娠纹，胖的时候会把皮肤撑的更开）。\n一些猫咪的原始袋会在老年后更加明显，而年轻时不易觉察\n四，所有猫都有原始袋吗？\n相对来说，公猫存在原始袋的现象比母猫更常见；但最主要的影响因素是猫咪的品种，一些品种的猫咪更易有原始袋。\n也有猫咪品种协会将“原始袋”列入某些品种猫咪的“审美考核标准”中。\n例如孟加拉猫，埃及猫，日本短尾猫等。\n孟加拉猫 图自：cccofa埃及猫 图自：CFA\n五，肚子下垂，还可能是因为什么？\n不过，无论是原始袋还是肥胖，猫咪都是慢慢变化的。如果发现猫咪肚子突然下垂，就要进行一系列的排查。\n\n圆鼓鼓的下垂\n\n需要排查腹水、胃肠道阻塞、子宫蓄脓、寄生虫、癌症等，可以参考这篇：\n猫咪肚子圆鼓鼓，怎么区分是胖还是生病？\n\n软趴趴的下垂\n\n主要需要排查肿瘤和疝。\n▌ 肿瘤通常是一个肿块，质地较硬，按压没有明显回缩，大小较固定。当发现疑似异常，建议就医体检排查。\n确实有这么下垂的健康猫咪，但有的也要排查健康问题 图自：deviantart\n▌ 疝气通常会有比较明显的鼓包，质地柔软，按压可能回缩，随不同姿势表现出不同大小。\n腹部疝 图自：WordPress\n可以记住两点：\n✔ 肥胖，胖的是全身，不会只有小肚子胖；\n✔ 健康异常，通常还会表现出不爱运动精神食欲差等其他异常。\n总之，多陪玩多观察，不仅能预防肥胖，还能及早发现猫咪的一些异常情况~\n车车：这不是肉！\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739082",
-          "publishedOn": "2021-08-11T23:07:08.000Z",
-          "wordCount": null,
-          "title": "猫咪的小肚腩是有哪些作用？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739096",
-          "author": null,
-          "description": "陀螺电影\n阅读原文\n\n\n继前阵子在豆瓣小火了一阵的《大豆田永久子与三名前夫 》之后，备受瞩目的编剧坂元裕二再次贡出了一部“屠榜豆瓣热搜”的作品——《花束般的恋爱》，短短半个月时间就有超过 10 万人标记。而推荐此片的最热一条微博点赞转发量超过了 200 万。\n《花束般的恋爱》剧照\n究竟是什么样的爱情，让这部日本电影在中国获得如此广泛的共鸣？\n借此机会，我们也想讨论一下，最近几年的日本新片「爱情片」这个分支里，有哪些值得讨论的爱情观念。又是为什么，日本近年的这些爱情片，可以兼顾艺术性，又贴近现实，又能引人共鸣呢？\n也欢迎大家在评论区留言和我们讨论你们看过的日本爱情新片～\n\n爱是附于物的记忆体\n\n《花束般的恋爱》里的男女主麦和绢，是一对典型的“世另我”式情侣，对于豆瓣文青来说，尤其理想。\n大学时期，两人因为错过末班电车而相识。好巧不巧，他们的兴趣爱好几乎同步，就像两个拥有无数共同话题的豆瓣友邻——无法理解为什么其他人认不出押井守，喜欢相同的诗人与小说家，都会拿电影票当书签，无比热衷于讨论最新的漫画情节，穿同一个款式的小白鞋，甚至还错过了同一场次的展览会……\n初次相遇，就如同村上春树在《遇见百分百女孩》里触电般的描述，两个人都是彼此的“百分百恋人”。是上苍眷顾的偶然命运，让他们走到一起。\n《花束般的恋爱》剧照\n然而即使是这样万分之一概率的恋情，却仍旧是无法永久保持“花期”的。爱如花束般，含苞待放、盛开、渐渐枯萎，最后在尚未腐烂时丢弃。\n起初的如胶似漆，随着两人步入下一段的人生轨迹，逐步被找工作的忧虑困扰、无比现实的生活处境所吞没。两人最初在一起时，绢一直关注的纯爱博主自杀的消息，预言了这段恋情的收场：“爱情就像一场派对，总有一天要结束。”\n为什么爱会结束？大多数的国内爱情片兜兜转转，大抵是绕不开一个答案：“没有物质的爱情就像一盘沙。“\n《我要我们在一起》就是典型被物质耽误的爱情故…",
-          "link": "https://daily.zhihu.com/story/9739096",
-          "publishedOn": "2021-08-11T23:07:02.000Z",
-          "wordCount": null,
-          "title": "有什么好看的日本纯爱电影?",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739103",
-          "author": null,
-          "description": "吴思承，A.K.A. VKorpela/Brony/生物狗\n阅读原文\n\n这就得看题主所说的“彩虹小马”到底是在指什么了：是 MLP: FiM 的系列动画，是 G4 的玩具，还是 MLP 这个整体？\n如果你指的是 My Little Pony: Friendship is Magic 的动画系列……\n在 FiM 系列以前的 MLP 动画作品习惯上会沿用同期玩具的断代，大致地用 G1、G2 和 G3 区分。\n\nG1 在电视上播出的作品有My Little Pony（G1，1986~1987 年播出，分两季）和My Little Pony Tales（G1，1992 年播出，一季），另外还有一部 1986 年播出的电影。\nG2 玩具线没有对应的动画，但是有使用动画形象的广告。\nG3 的动画都是以玩具内附赠录像带的方式分发。2008 年孩之宝推出 Ponyville figurines 系列玩具后，玩具附赠的动画也画风突变，常和这一时期的玩具一样被称作 G3.5。\n时光飞逝，第一代小马的商标已经变成了一个 80 年代的符号，在今天依旧能在一些怀旧复古商品牌中见到\nG4 动画（这里指 FiM，Pony Life 暂不在讨论范围内）的主角们在性格设计上很大程度上参考了 G1 小马们；在名字和外观上受版权、商标等因素影响，也参考了 G3 小马（典型例子是云宝和萍琪）。G3.5 之前的 MLP 作品并没有格外聚焦于固定的一批角色，在玩具发行上更是如此，G4 的主角组概念以及“Mane Six”的称呼也可以视为 G3.5 的“Core Seven”的延续。\n这样看来无论是 G1、G3 还是 G3.5 的动画，某种意义上都可以当成 MLP: FiM 动画系列的前身。\n如果你指的是第四代 My Little Pony 玩具……\n2010 年以前的小马玩具产品线也被玩具收藏家们分为了三代：\n\n第一…",
-          "link": "https://daily.zhihu.com/story/9739103",
-          "publishedOn": "2021-08-11T23:06:58.000Z",
-          "wordCount": null,
-          "title": "彩虹小马的前身叫什么名字？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739105",
-          "author": null,
-          "description": "嫦娥不过是一个舞女领班、而天蓬元帅掌管10万天兵、为什么就配不上嫦娥呢?\n\n努力中的懒癌晚期，学生\n阅读原文\n\n官员配得上侍女不代表官员在国宴强奸侍女未遂闹得众人皆知不会被惩处。\n阅读原文\n\n孩子特别迷恋日本动漫、偷偷学日语，有些日本动漫三观似乎有问题，很是担忧该怎么办？\n\nDR.C，画家\n阅读原文\n\n李云龙也很喜欢日产机枪，但是这不妨碍他枪毙鬼子。\n阅读原文\n\n巴黎圣日耳曼官宣梅西加盟，如何评价这笔签约？\n\n时乙戌，公众号时乙戌，微博 时二狗\n阅读原文\n\n来自阿根廷的怪物在欧冠登陆\n不可明说的魔王掀翻宇宙航母\n拉玛西亚的叛逃者与巴萨决裂\n梅西与圣日耳曼传来转会绯闻\n至高无上的球王陛下于今日抵达自己忠实的巴黎\n\n\n\n阅读原文\n\n国内跟国外都有哪些名字很好听的史诗武器？\n\n超级大爷爷，学航天干航空的学渣\n阅读原文\n\n阅读原文\n\n因为文身，你被特殊对待过吗？\n\n刘柏铖，疯狂滑板店主，华北理工毕业材料狗\n阅读原文\n\n首先说一下背景，我大学学的高分子材料，算是化工材料啊这一类的学科。下图是我的纹身\n\n有一次考试，巡考的主任从我身边经过，走了两步又折了回来，仔细而又严肃地盯着我。\n盯的我内心快要崩溃了，我寻思，大学也不禁止纹身啊，再说了，就算纹身，我也是个老实孩子啊。\n于是我惊恐的抬头等候老师发落。\n老师终于说话了：我在思考你这个要不要按作弊处理……\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739105",
-          "publishedOn": "2021-08-11T23:06:51.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -5527,15 +5349,6 @@
           "publishedOn": "2021-08-20T01:40:38.000Z",
           "wordCount": 99,
           "title": "2021.08.19 今天是每日时报陪伴您的第 608 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/08/13.html",
-          "author": null,
-          "description": "2021.08.13 今天是每日时报陪伴您的第 605 天\n[文章] 我们团队写的前端性能优化作战手册：https://www.yuque.com/ab93na/gvxf8k\n[类库] 又一个 utility-first 的 css 框架 asmcss：https://asmcss.com/\n[类库] 一个适用于大屏项目的类库，调用一个函数即可实现全屏模式：https://github.com/sindresorhus/screenfull.js\n[工具] 交互式 npm 命令行工具 npmx：https://github.com/terminal-junkies/npmx\n配图 - 前端性能优化作战手册\n\n配图 - npmx",
-          "link": "https://wubaiqing.github.io/zaobao/2021/08/13.html",
-          "publishedOn": "2021-08-13T03:38:38.000Z",
-          "wordCount": 108,
-          "title": "2021.08.13 今天是每日时报陪伴您的第 605 天"
         }
       ]
     },
