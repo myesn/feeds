@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351518",
+          "author": "Chris Coyier",
+          "description": "Blogging about HTML elements¹? *chefs kiss*\nHere’s Ben Myers on the (aptly described) “underrated” Definition List (<dl>) element in HTML:\nYou might have also seen lists of name–value pairs to describe lodging amenities, or to list \n…\nThe post On the `dl` appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/on-the-dl/",
+          "publishedOn": "2021-09-14T22:37:21.000Z",
+          "wordCount": 538,
+          "title": "On the `dl`"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351454",
+          "author": "Jonathan Land",
+          "description": "Learn how to build an HTML form in PHP using DOMDocument — a structured and expressive way to build logical markup.\nThe post Building a Form in PHP Using DOMDocument appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-form-in-php-using-domdocument/",
+          "publishedOn": "2021-09-14T14:36:24.000Z",
+          "wordCount": 4150,
+          "title": "Building a Form in PHP Using DOMDocument"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351970",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWhat? Jamstack Conf! It’s the best! Learn what’s happening and what’s next for this hot ecosystem.\nWhen? October 6–7, 2021\nWhere? Virtual / online.\nHow much? It’s free! There are workshops as well though, …\nThe post Jamstack Conf 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://jamstackconf.com/",
+          "publishedOn": "2021-09-14T14:32:16.000Z",
+          "wordCount": 707,
+          "title": "Jamstack Conf 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350466",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThere is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …\nThe post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developers-designers-uxpin/",
+          "publishedOn": "2021-09-13T19:21:00.000Z",
+          "wordCount": 1325,
+          "title": "Developers and Designers Work on a Single Source of Truth With UXPin"
+        },
+        {
           "id": "https://css-tricks.com/?p=351302",
           "author": "Jimmy Chion",
           "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -487,6 +523,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "author": "hello@smashingmagazine.com (Tracy Osborn)",
+          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
+          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
+          "publishedOn": "2021-09-14T09:30:00.000Z",
+          "wordCount": 2096,
+          "title": "The Power Of Pen And Paper Sketching",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
@@ -793,20 +843,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "author": "hello@smashingmagazine.com (Cache Merril)",
-          "description": "Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.",
-          "link": "https://smashingmagazine.com/2021/08/develop-business-technology-roadmap/",
-          "publishedOn": "2021-08-16T06:55:00.000Z",
-          "wordCount": 2960,
-          "title": "How To Develop Your Business’ Technology Roadmap",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b3fa2a-b540-45e6-9423-f299fc4b6835/develop-business-technology-roadmap.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -876,6 +912,105 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/wlmr05o",
+          "author": null,
+          "description": "1.浏览器渲染为了更好的理解 React Fiber, 我们先简单了解下渲染器进程的内部工作原理。参考资料:",
+          "link": "https://toutiao.io/k/wlmr05o",
+          "publishedOn": "2021-09-15T01:08:42.186Z",
+          "wordCount": 1229,
+          "title": "React Fiber 架构浅析"
+        },
+        {
+          "id": "https://toutiao.io/k/j3acbm2",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/j3acbm2",
+          "publishedOn": "2021-09-15T01:08:42.024Z",
+          "wordCount": 294,
+          "title": "CPython 有 GIL 是因为当年设计的人偷懒吗？"
+        },
+        {
+          "id": "https://toutiao.io/k/6ekf543",
+          "author": null,
+          "description": "Spark推荐实战系列之Kmeans！",
+          "link": "https://toutiao.io/k/6ekf543",
+          "publishedOn": "2021-09-15T01:08:41.941Z",
+          "wordCount": 188,
+          "title": "Spark 推荐实战系列之 KMeans 介绍和冷启动与兜底召回"
+        },
+        {
+          "id": "https://toutiao.io/k/jn6j6t3",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/jn6j6t3",
+          "publishedOn": "2021-09-15T01:08:41.846Z",
+          "wordCount": 472,
+          "title": "Hadoop 重点难点：HDFS 读写/NN/2NN/DN"
+        },
+        {
+          "id": "https://toutiao.io/k/lfb03d0",
+          "author": null,
+          "description": "B 站选择 Flink + Hudi 的数据湖技术方案，以及针对其做出的优化。",
+          "link": "https://toutiao.io/k/lfb03d0",
+          "publishedOn": "2021-09-15T01:08:41.241Z",
+          "wordCount": 500,
+          "title": "Apache Hudi 在 B 站构建实时数据湖的实践"
+        },
+        {
+          "id": "https://toutiao.io/k/z9faejy",
+          "author": null,
+          "description": "一文搞懂 dubbo 应用级服务发现~",
+          "link": "https://toutiao.io/k/z9faejy",
+          "publishedOn": "2021-09-15T01:08:41.128Z",
+          "wordCount": 167,
+          "title": "小白也能看懂的 Dubbo 3 应用级服务发现详解"
+        },
+        {
+          "id": "https://toutiao.io/k/xsm38yu",
+          "author": null,
+          "description": "除了关系型数据库，还有哪些数据库类型？除了Oracle、MySQL，还有什么其他数据库？",
+          "link": "https://toutiao.io/k/xsm38yu",
+          "publishedOn": "2021-09-15T01:08:41.028Z",
+          "wordCount": 108,
+          "title": "除了 MySQL 数据库，你还要了解的一些数据库"
+        },
+        {
+          "id": "https://toutiao.io/k/lxkoexl",
+          "author": null,
+          "description": "任何机器学习方法的有效性都严重依赖于其训练数据。在强化学习(RL)的情况下，人们可以依赖于与现实世界交互的代",
+          "link": "https://toutiao.io/k/lxkoexl",
+          "publishedOn": "2021-09-15T01:08:40.937Z",
+          "wordCount": 157,
+          "title": "配对：一种用于对抗性环境生成的新多代理方法"
+        },
+        {
+          "id": "https://toutiao.io/k/ji05cjp",
+          "author": null,
+          "description": "把一个东西从 A 搬到 B 该怎么搬呢？ 抬起来，移动到目的地，放下不就行了么。 那如果这个东西有一吨重呢？ 那就一部分一部分的搬。 其实 IO 也就是搬东西，包括网络的 IO、文件的 IO，如果数据量少，那么直接传送…",
+          "link": "https://toutiao.io/k/ji05cjp",
+          "publishedOn": "2021-09-15T01:08:38.512Z",
+          "wordCount": 625,
+          "title": "彻底掌握 Node.js 四大流，解决爆缓冲区的 “背压” 问题"
+        },
+        {
+          "id": "https://toutiao.io/k/y9ifoey",
+          "author": null,
+          "description": "相关推荐：JavaGuide：Github 标星 100k！2021 最新Java 学习线路图是怎样的？SpringOne 大会上宣布了一件重大的事情： Spring Framework 6 和 Spring Boot 3 计划在 2022 年第四季度能够达到生产可用的发布标准。…",
+          "link": "https://toutiao.io/k/y9ifoey",
+          "publishedOn": "2021-09-15T01:08:38.357Z",
+          "wordCount": 327,
+          "title": "Spring 官宣，干掉 Spring 5.3.x！Spring Framework 6 和 Spring Boot 3 蓄势待发"
+        },
+        {
+          "id": "https://toutiao.io/k/py6lwml",
+          "author": null,
+          "description": "「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。 - GitHub - oncework/kuaixieya: 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。",
+          "link": "https://toutiao.io/k/py6lwml",
+          "publishedOn": "2021-09-15T01:08:38.238Z",
+          "wordCount": 487,
+          "title": "[推荐] 一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具"
+        },
         {
           "id": "https://toutiao.io/k/6ex7029",
           "author": null,
@@ -3215,96 +3350,6 @@
           "publishedOn": "2021-08-17T01:05:05.020Z",
           "wordCount": 89,
           "title": "存储管理的四大基本功能"
-        },
-        {
-          "id": "https://toutiao.io/k/pdwlgcq",
-          "author": null,
-          "description": "Spock是国外一款优秀的测试框架，基于BDD（行为驱动开发）思想实现，功能非常强大。",
-          "link": "https://toutiao.io/k/pdwlgcq",
-          "publishedOn": "2021-08-16T01:05:49.904Z",
-          "wordCount": 1893,
-          "title": "Spock 单元测试框架以及在美团优选的实践"
-        },
-        {
-          "id": "https://toutiao.io/k/09au09b",
-          "author": null,
-          "description": "Eureka! Why You Shouldn’t Use ZooKeeper for Service Discovery",
-          "link": "https://toutiao.io/k/09au09b",
-          "publishedOn": "2021-08-16T01:05:49.289Z",
-          "wordCount": 65,
-          "title": "[译] 为什么不应该使用 ZooKeeper 做服务发现"
-        },
-        {
-          "id": "https://toutiao.io/k/p1syf15",
-          "author": null,
-          "description": "忙碌是一种幸福，让我们没时间体会痛苦；奔波是一种快乐，让我们真实地感受生活；疲惫是一种享受，让我们无暇空虚。",
-          "link": "https://toutiao.io/k/p1syf15",
-          "publishedOn": "2021-08-16T01:05:49.240Z",
-          "wordCount": 141,
-          "title": "好饭不怕晚，扒一下 Redis 配置文件的底 Ku"
-        },
-        {
-          "id": "https://toutiao.io/k/d0wf19f",
-          "author": null,
-          "description": "你会不会对“云原生”很有兴趣，却不知道从何入手？\\x0a本文我们会在window环境下，构建一套基于k8s的istio环境，并且通过skaffold完成镜像的构建和项目部署到集群环境",
-          "link": "https://toutiao.io/k/d0wf19f",
-          "publishedOn": "2021-08-16T01:05:49.143Z",
-          "wordCount": 785,
-          "title": "云原生初体验：在 k8s 上部署 Spring Boot 应用"
-        },
-        {
-          "id": "https://toutiao.io/k/cg1ge59",
-          "author": null,
-          "description": "[译]PageObject设计模式",
-          "link": "https://toutiao.io/k/cg1ge59",
-          "publishedOn": "2021-08-16T01:05:49.056Z",
-          "wordCount": 216,
-          "title": "[译] 自动化测试：PageObject 设计模式"
-        },
-        {
-          "id": "https://toutiao.io/k/gwtb6lg",
-          "author": null,
-          "description": "摘要：测试架构师给出的全新方法论和落地实践",
-          "link": "https://toutiao.io/k/gwtb6lg",
-          "publishedOn": "2021-08-16T01:05:48.975Z",
-          "wordCount": 87,
-          "title": "测试架构师如何解读测试平台的各种争议"
-        },
-        {
-          "id": "https://toutiao.io/k/8264nff",
-          "author": null,
-          "description": "背景上周在做安全测试时，发现站点的xss能够插入标签，当我想用on事件来执行javascript脚本时，发现",
-          "link": "https://toutiao.io/k/8264nff",
-          "publishedOn": "2021-08-16T01:05:48.893Z",
-          "wordCount": 108,
-          "title": "WAF 攻防实践（四）"
-        },
-        {
-          "id": "https://toutiao.io/k/30y7q9u",
-          "author": null,
-          "description": "加入「码农周刊VIP会员」，一起牛起来！",
-          "link": "https://toutiao.io/k/30y7q9u",
-          "publishedOn": "2021-08-16T01:05:48.809Z",
-          "wordCount": 86,
-          "title": "搜狗基于 Workflow 的自研 RPC 框架"
-        },
-        {
-          "id": "https://toutiao.io/k/4wma5nj",
-          "author": null,
-          "description": "我们的小程序，第二版上线了",
-          "link": "https://toutiao.io/k/4wma5nj",
-          "publishedOn": "2021-08-16T01:05:48.741Z",
-          "wordCount": 331,
-          "title": "相见恨晚！开源的傻瓜搜索引擎，帮你快速实现搜索功能"
-        },
-        {
-          "id": "https://toutiao.io/k/9pjazug",
-          "author": null,
-          "description": "不想看字的同学可直接划到底部查看总结的思维导图",
-          "link": "https://toutiao.io/k/9pjazug",
-          "publishedOn": "2021-08-16T01:05:48.635Z",
-          "wordCount": 228,
-          "title": "Dubbo No provider 问题排查思路"
         }
       ]
     },
@@ -3313,6 +3358,15 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/55964292",
+          "author": "itworld123",
+          "description": "分布式存储是相对于集中式存储来说的，在介绍分布式存储之前，我们先看看什么是集中式存储。不久之前，企业级的存储设备都是集中式存储。所谓集中式存储，从概念上可以看出来是具有集中性的，也就是整个存储是集中在一个系统中的。但集中式存储并不是一个单独的设备，是集中在一套系统当中的多个设备。以EMX公司的存储为例，整个存储系统可能需要几个机柜来存放。\n图1 集中式存储物理示意图\n集中式存储基本架构\n在这个存储系统中包含很多组件，除了核心的机头（控制器）、磁盘阵列（JBOD）和交换机等设备外，还有管理设备等辅助设备。如图2是一个集中式存储的基本逻辑示意图。\n图2 集中式存储逻辑示意图\n在集中式存储中通常包含一个机头，这个是存储系统中最为核心的部件。通常在机头中有包含两个控制器，这两个控制器实现互备的作用，避免硬件故障导致整个存储系统的不可用。在该机头中通常包含前端端口和后端端口，前端端口用户为服务器提供存储服务，而后端端口用于扩充存储系统的容量。通过后端端口机头可以连接更多的存储设备，从而形成一个非常大的存储资源池。\n机头中是整个存储系统的核心部件，整个存储系统的高级功能都在其中实现。控制器中的软件实现对磁盘的管理，将磁盘抽象化为存储资源池，然后划分为LUN提供给服务器使用。这里的LUN其实就是在服务器上看到的磁盘。当然，一些集中式存储本身也是文件服务器，可以为服务器提供共享文件服务。无论如何，从上面我们可以看出集中式存储最大的特点是有一个统一的入口，所有数据都要经过这个入口，这个入口就是存储系统的机头。\n分布式存储是一个大的概念，其包含的种类繁多，除了传统意义上的分布式文件系统、分布式块存储和分布式对象存储外，还包括分布式数据库和分布式缓存等。本文局限在分布式文件系统等传统意义上的存储架构，对于数据库等不做介绍。\n中间控制节点架构（HDFS）\n分布式存储最早是由谷歌提出的，其目的是通过…",
+          "link": "http://zhuanlan.zhihu.com/p/55964292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-14T08:12:27.000Z",
+          "wordCount": 61,
+          "title": "一篇文章讲透分布式存储"
+        },
         {
           "id": "http://www.zhihu.com/question/484001869/answer/2098143630",
           "author": "庄停郁",
@@ -3771,15 +3825,6 @@
           "publishedOn": "2021-08-17T03:00:10.000Z",
           "wordCount": 58,
           "title": "如何评价国产动画《游侠战纪》？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/479520750/answer/2063275424",
-          "author": "阿东",
-          "description": "大家好，我是《狐妖小红娘·月红2》的总导演阿东，很高兴能有机会在知乎与大家分享一下关于这部作品的一些故事。\n5年前我们开始和国内的网络平台合作，关注了一些同时期的动画作品。我是那时候接触到狐妖小红娘的。第一次看了之后的感受是“唉呀！国内现在的二维动画做得这么好了！”在我们和腾讯动漫合作了几年之后，腾讯动漫问我是否有兴趣加入到《狐妖》的制作中来，承制这个特别篇；我马上回答当然啊，因为我很喜欢《狐妖》这部作品，在看原著的时候我也经常被故事里描述的爱情所感动。\n60多分钟的特别篇和番剧不同，故事构成要按照电影方式来讲。时间虽然没有电影长，但做起来难度还不小，所以我们邀请了《海贼王》的导演宇田钢之介来一起担任了总导演。我在日本生活了30多年，除去最初的留学期间，在游戏和动画界已经工作了26年了。我十分喜欢动画，所以特别想在这方面能为祖国的动画发展做些贡献，特别感谢腾讯动漫能给我这个机会。\n “月红篇”是很有人气的，有很多铁粉。不同制作公司有不同的风格，因为也是第一次参与，所以在人设创作时我们尽量去靠近原作月红篇漫画风格，当然，也很欢迎能看到大家的建议，我们之后的制作中也会积极改进的。\n为了让狐妖粉以外的观众也能看懂故事，我们保留了一些番剧动画中用过的情节作为剧情说明，并且追加创作了原作中没有涉及到的情节来满足已经看过动画的观众，希望大家能喜欢这个故事。\n在制作中最大的难点是在短短的60多分钟内要讲一个完整的故事，故事不但要照顾到没有看过狐妖的观众，还要满足狐妖粉对新内容的期待。这个问题在主创人员之间争论了很久。就是作品基本完成之后也是修了再修，剪了又剪，台词和细节表情数轮精修。肯定还有不够到位的地方，但是我们是怀着真诚的心情来制作的。东方月初和红红的爱情令人很感动，这不是一个常规的、脸谱化的、按部就班的故事，那么如何能在60分钟内传达给大家我们的感动是挺困难的一个事，很多情节都是反复斟酌后为了整体做的取舍。最初是由腾讯动漫这边和作者沟通讨论之后给我们一个故事构架和方向，包含了基本的故事逻辑，还有很多精彩的点子因为篇幅的限制没能够用上，希望之后还有机会做出来。我们在那个基础之上进行了故事构成，我们主创人员在进行讨论后，由编剧将内容整理出来，再提交审查，先确定节奏取舍，再精修台词，然后我们根据反馈的意见再进行调整。就这样反反复复的打磨了很多次。剧本创作用了很长时间才定稿的。虽然很辛苦，但我们的目的是统一的，就是要讲好这个故事。\n去年3，4月份开始因为疫情，东京戒严封城。当时因为是第一次遇到这种紧急情况，所以很混乱，街上真是没有人。而且因为安全的关系，我们一度无法集中在一起办公，对于消息的传达和进度都带来了不小的影响。一位关键的执行导演还确诊倒下了，我们只能安排人每天去给他送饭。说实话当时真有点恐慌！一方面是为了我们团队成员的安全担心，另一方面很害怕不能好好的做好这部作品，好在我们最后还是做出来了，希望大家能够喜欢。\n近年来随着国产动画的不断进步，我这边会陆陆续续收到咨询，问日本这边动画行业的状况。其实制作动画的过程还是挺辛苦的，经常熬夜。尤其是作画环节，作息时间几乎和正常人是拧着的。几乎都是下午3，4点开始工作到早晨3，4点。然后上午去睡觉。上午如果有急事想找人的话是很难联系到的。因为大家都很辛苦，所以有事也会尽量避开上午时间。不过看到作品做出来的一刻内心还是非常的满足。希望想入行的大家也做好心理准备，这一行没有足够的热爱很难坚持下去的。\n这个特别篇是很好看的，我们制作团队内部是很喜欢的，希望大家也能够喜欢。如果观众能觉得“还不错嘛”，对我们制作者来说就是最大的安慰和鼓励了。我记得自己刚进电影学院的第一堂课老师就讲“电影是个遗憾的艺术”。的确，这个网大特别篇我们也有很多遗憾，在以后的作品里我们也会尽量去做好来减少“遗憾”，一步一步向前走。\n最后，借此机会我再次感谢腾讯动漫能给我们这个机会，我们认同这种有更多制作方参与到作品中来，让作品最终能往更好的方向发展的理念。我很喜欢《狐妖小红娘》，也诚恳的希望大家能给我们建议，无论是好的还是坏的，这都能帮助我们之后做的更好。感谢制作组每位工作人员，感谢大家对我们的支持和鼓励。谢谢！\n\n来源：知乎 www.zhihu.com\n阿东\n点击下载\n26 个回答，查看全部。\n推荐几部国漫，类似于天行九歌，斗罗大陆，狐妖小红娘的？\n有没优秀国漫推荐啊。类似我喜欢的秦时明月，西行记，武庚纪，天行九歌，一念永恒？",
-          "link": "http://www.zhihu.com/question/479520750/answer/2063275424?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-16T11:30:07.000Z",
-          "wordCount": 24,
-          "title": "如何评价国产动画《狐妖小红娘·月红 2》？"
         }
       ]
     },
@@ -3788,6 +3833,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740280",
+          "author": null,
+          "description": "致诚劳动者，做全体打工人的律师朋友\n\n我们可能想不到，这个系统里除了算法之外还藏匿了上千家公司，他们交错而成的复杂法律关系网络正将受伤的骑手死死缠住，而站在系统外的，是十位办案经验丰富却几乎束手无策的农民工律师。\n在过去近三个月的时间里，我们应聘过骑手、拨打过卧底电话、与不同角度的业内人士聊天，在 50 多位具有法学、经济学、政治学、计算机等专业背景的志愿者帮助下，收集了各种来源且涉及方方面面的骑手数据，看完了几乎所有与外卖骑手认定劳动关系相关的司法判决，并在此基础上初步建立了一个包含 1900+ 份有效判决的数据库。最终，我们尽最大所能拼出了一部「外卖平台进化史」。\n法律总是最后出场的，也必将拨云见日。\n\n谜\n2021 年 6 月，北京致诚农民工法律援助与研究中心的公益律师陈星接手了一起骑手维权的案件。为了确认骑手与平台之间的法律关系，他在手机上下载了「蜂鸟众包」App。这款 App 是由全国最大网上订餐平台之一「饿了么」推出，开放给所有想注册成为外卖骑手的人。\n用手机号实名注册后，陈星随着屏幕上跳出的弹框依次点开了《服务合作协议》、《蜂鸟众包隐私权政策》、《蜂鸟众包用户协议》，并拉至底部打开了《营业执照》，试图寻找用人单位。\n奇怪的是，这些文件所显示的法律主体都不尽相同——页面底部《营业执照》显示的是上海拉扎斯信息科技有限公司，也就是「饿了么」公司；《服务合作协议》上写的是一家注册在江西的服务委托公司；《蜂鸟众包隐私权政策》则只出现了「蜂鸟众包」的字样；《蜂鸟众包用户协议》干脆什么都没有提及，取而代之的是一段长长的「主体信息」，第一句是：「蜂鸟众包平台经营者是指经营蜂鸟众包平台的各法律主体」。\n几分钟后，陈星抬起头尴尬地笑了，「我找了半天也不知道用人单位是谁。」\n二十年前，中国开始进入城镇化快速发展阶段，平地而起的高楼和各种基建工程吸引了大量进城务工的农村劳动力。那也同…",
+          "link": "https://daily.zhihu.com/story/9740280",
+          "publishedOn": "2021-09-14T23:08:51.000Z",
+          "wordCount": null,
+          "title": "骑手谜云：法律如何打开外卖平台用工的「局」？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740283",
+          "author": null,
+          "description": "segelas，电影学硕士已毕业，但仍旧略懂皮毛\n阅读原文\n\n谈一谈个人的看法。\n扎克施耐德的离开，给予 DC 电影宇宙的，或许是一种“放松”和“自由”。它当然远远谈不上好，甚至会由于重启化的决断而重回“独立单人作品”的资本原始积累阶段，口碑声势话题票房全部回滚。\n但是，从一些作品来看，目前的 dceu，比曾经变得更像个电影宇宙系列了。\n在扎克掌舵 DCEU 的时代，华纳和 DC 给予了他过多的权力，让他站在了“宇宙总规划人”的位置上。这个位置，让扎克几乎成为了每一部 DC 电影的总导演。而由此一来，扎克鲜明的个人风格和作者母题，便辐射到了他在任时期的全部作品中。\n\n这其实是一种风险性较大的做法：单一的导演，势必让整个电影系列的表述侧重过于单一，缺少了很多电影宇宙本应具有的丰富包容性。漫威宇宙中，各作品质量有好有坏，但都有着各自较为鲜明的特性 -----《钢铁侠》里史塔克在花花公子外表下逐渐建立起的责任感，《美国队长》里围绕罗杰斯的“传统或落伍”之普适性价值观的探讨，《雷神》浓墨重彩的喜剧风格，《蜘蛛侠》的校园青春成长剧，《奇异博士》的玄幻色彩。\n可以看到，在一个相对统一的大走向之下，漫威的作品 --- 至少在宇宙的第一阶段 --- 各有不同，而各自单人系列的走向汇聚到“大事件”型作品时，便成为了那几部《复仇者联盟》，以及《美国队长 3》这样的阶段性总结。在构建一个电影宇宙 --- 抑或是传统意义上的多人物系列 ---- 时，单片局部的个性、整体方向的统一、恰到好处的集合，都是非常重要的。\n然而，在 DCEU 这一边，或许是由于扎克导演的包揽性过大，我们并没有看到漫威这样的模式。扎克当然是一个有独特才华的导演，对于画面的直觉非常敏锐，构图也很漂亮，而他致力于从 DC 漫画中挖掘出的“人性与神性的挣扎和统一”，其本身也并非原罪，反而非常值得探讨。他的作品绝非一无是处，由于其对…",
+          "link": "https://daily.zhihu.com/story/9740283",
+          "publishedOn": "2021-09-14T23:08:42.000Z",
+          "wordCount": null,
+          "title": "DC 电影宇宙在扎克施耐德离开之后，整体作品质量发生了什么样的变化？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740289",
+          "author": null,
+          "description": "金子，设计师\n阅读原文\n\n一 倒挂法\n\n这种方法最常见，也可以称为悬置干花。\n将鲜花修剪整理之后，分类放堆，例如较大的花朵最好不要夹混花堆里面。然后用麻绳子在在茎部下端缠绕数次，扎紧系结，要保证倒挂时不会有花枝掉下，因为这样花瓣会朝着重力方向下垂，干燥后会形成奇特的形状。\n悬挂完毕之后，开始等待干花形成，一般过程中会有叶子或者花枝凋落，因水分开始蒸发，原本扎得紧茎部位置开始松动。\n大概 2 周后，干花基本已定型，这时可取下，喷些塑性剂之类，如果平时弄头发啫喱水之类的，帮助花定型。\n二 微波炉干燥法\n\n微波炉一般家里常用，所以也很方便。就算是微波炉，也有不同方法噢。\n1）放一小杯水在微波炉中，再将装有花朵和干燥剂的容器置入，微波 2 分钟，取出用牙签查看花卉的干燥情况，如未完全干燥，再加微 1 分钟，如此循环往复。经过这个步骤依花卉的不同会有很大差异，所以可能需要多次尝试，不断调整干燥剂的数量与微波的时间。取出容器将容器在自然状态下冷却。干燥剂冷却时间较长，通常需要一天左右的时间。完成之后将干花取出，喷上发胶喷雾，定型完成。\n三 材料干燥法\n\n1）根据你制作鲜花，选择适合盒子（最好是可再封盒子，还要够大够深能埋下花），在盒子里铺上一层二氧化硅（干燥剂）颗粒；\n2）然后把花埋进硅胶中，花瓣大的花朵最终效果更好，确保花枝的每一部分都隐藏在硅胶粒中；\n3）完成这些之后接下来就是等待，硅胶干燥比较快，通常只要 2-3 天！当然有些较湿润的花需要 5 天，但是最多不会超过 5 天哦！硅胶粒吸足水后会变成粉红色，通常也意味着你需要干燥的物品完成了。\n4）小心地取出花朵，清除掉粘附的硅胶粒，花儿已经干燥完毕。\n四压花法\n\n相信这个很多朋友小时候都有玩过。首先挑选小的较扁平的花朵最适宜，然后将花朵至于干燥的纸上，摆出你喜欢的造型，选用的底纸最好是遮光的，如报纸、卡纸餐巾纸等。摆好后放上另一张纸压住。压住后，将大且重的物品压在夹好花的纸上，比如超大字典、百科全书等，也可以用重重的盒子和木头。（小时候我就先整个人踩在上面，然后把它放在大木桌下面）完毕后开始等待 1-3 周，压花就完成了。（在一周之后，记得用新的干净的纸替换一下原来的纸夹花，然后放回重物下）\n最后花是平的，木有立体，这也是压花的一个特点，通常我们都会将它们裱起来或者做成书签，小时候看到有些姐姐为了它们能保持更久，拿去照相馆直接过塑。现在几乎很少见。别看压花简单哦，艺术家们玩压花比我们可高格多了，可以小分享一下 Aracil 压花作品。\n\n好啦，以上四种方法介绍完啦！就看你怎样利用它们来装饰家里，快快发挥你的才能！\n>>>>\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740289",
+          "publishedOn": "2021-09-14T23:08:37.000Z",
+          "wordCount": null,
+          "title": "干花如何制作？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740281",
+          "author": null,
+          "description": "俞晓，华东理工大学 | 生物材料学博士 | 护肤品研发\n阅读原文\n\n衰老，是个与我们息息相关的问题。近几年来，抗衰越来越展现出年轻化的特征，20 岁前以及 20 岁至 30 岁年龄段的消费者几乎贡献了抗衰产品 60%的点击量。相比于欧洲人群，亚洲人的皮肤可能还未出现明显的皱纹，但其实衰老却已开始了它的漫漫进程，表现为色斑、粗糙、松弛等等。\n因此，在 20 这个年龄段，虽然皮肤状态还处于相对高的水平，无需过分惧怕衰老；但也有必要进行一些预防措施，将美丽的皮肤维持更长的时间。\n当然了，为什么会说 20 这个节点，首先需要从皮肤结构开始说起。\n一. 随着年龄变化，皮肤是怎么变化的呢？\n皮肤厚度\n在 20 岁前，人体皮肤厚度会增加，之后随着年龄增长以逐渐加速的方式变薄(尽管细胞层的数量保持稳定)。这一现象在皮肤的各个层都会发生。尤其是在 30 岁至 80 岁之间，厚度变薄程度能达到约 50%，且脸，脖子，胸部上部区域尤为明显。相比较之下，女性皮肤厚度的改变相较于男性更慢一些。在女性中，皮肤厚度直到 50 岁之后，才显著下降。\n\n胶原含量\n皮肤胶原蛋白随年龄呈线性下降。在研究的所有年龄段中，男性皮肤所含的胶原蛋白比女性多。尤其是可以发现，20 岁之后，无论男性还是女性，其胶原蛋白含量都在走下坡路。\n\n这么来看，20 岁差不多就是一个分水岭了。在 20 岁，皮肤中的胶原含量、皮肤厚度都达到顶峰。在此之后，皮肤就开始逐步走下坡路了。而且，这是一个先慢后快的加速过程。刚开始，可能并不明显；但随着年龄增长，下降速度逐渐就快起来了。\n二. 衰老的内外界诱因\n衰老的过程不是独立的，还会受到内外界的干扰。\n内因来说的话，有遗传因素、疾病因素等等。\n外因则更多了，包括阳光辐射、空气污染、重金属污染、化妆品的过度使用、吸烟、极端气候、生物钟失调、糖化等等。\n阳光、污染、抽烟、饮食多种外因造成氧化应激和炎症，促进衰老\n举几个例子，比方说糖化的影响。晚期糖基化终末产物(AGEs)的积累可以影响细胞稳态和蛋白质结构，因此涉及许多皮肤情况，包括皮肤发黄和暗沉。皮肤糖化如今也已经成为了衰老的几大理论之一。\n\n比方说光老化。持续暴露在阳光下不仅会阻碍皮肤的修复能力，而且还会继续破坏和削弱胶原蛋白的合成、增加弹性蛋白纤维的降解。光老化可感知的结果是色素沉着、皮质样貌、皮肤干燥和深皱纹。不同波段伤害作用有所差异，UVB 能引起 DNA 损伤，UVA、高能可见光能生成活性氧自由基，产生 DNA 氧化应激、免疫抑制等等。\n\n三. 抗衰护肤成分\n衰老不可避免，那么有没有哪些好的护肤成分可以用来延缓衰老呢？下面就介绍一些好的成分。\n视黄醇家族：从理化机制到临床效果、从专利到论文，这个系列成分被研究得彻彻底底。更难得的是，视黄醇这个成分在配方师、临床医生、消费者各界都拥有极好的口碑。在抗衰界，每每诞生一个新的抗衰成分，必不可少的会拿来与视黄醇来比较，所谓抗衰界“黄金标准”。\n\n视黄醇大家族包括视黄醇，视黄醛，视黄醇丙酸酯、视黄醇棕榈酸酯、视黄醇醋酸酯、视黄酸视黄酯等。简单来说，能够刺激胶原蛋白生成，减少细胞外基质的降解。外观来看，能够减少皱纹，收紧皮肤。\n维生素 C：同样维 C 也有大家庭，包括维生素 C、维 C 乙基醚、维 C 醋酸酯、维 C 棕榈酸酯、AA2G 等等。局部使用维 C(通常在低 pH 值下)可防止皮肤的氧化损伤，并减少面部细纹 / 皱纹的出现。\n\n多肽：对于不少敏感肌，或是皮肤耐受程度低的同学，多肽是一种非常好的抗衰成分。\n棕榈酰五肽 -4：刺激弹性蛋白、纤连蛋白、葡糖胺聚糖、胶原蛋白的合成来补充细胞外基质。使用后，能够减少皱纹的生成。\n棕榈酰三肽 -1：胶原蛋白更新的信使肽，能够刺激胶原蛋白和糖胺聚糖的合成。皮肤中，这一成分能对结缔组织重建和细胞增殖过程进行反馈调节，在修复过程中促进大量修复蛋白。\n蓝铜肽：信号肽和载体肽，促进正常胶原蛋白、弹性蛋白、蛋白多糖和糖胺聚糖的合成，促进细胞增值再生。使用后，老化迹象得到改善，皮肤密度和厚度都得以增加。\n乙酰基六肽 -8：具有肉毒杆菌毒素 A 作用，抑制神经突触囊泡中的递质释放，从而减少皱纹。\n芋螺肽：阻断神经肌肉的电流传导进而瞬间淡化皱纹。\n\n果酸：大家都觉得果酸是美白、祛痘的神器，其实果酸在抗衰中的效果也非常好，能够促进胶原蛋白生成，增加老化肌肤的表皮、真皮厚度。比较建议使用的酸有乳糖酸、葡糖酸内酯等。\n\n最后，对抗衰也不用太过焦虑。毕竟，衰老是个自然的过程。当然，我们也有很多地方可以注意：预防光损伤、合理饮食、合理作息、选用一些好的抗衰成分来护肤。其实不要“作”，效果就最好。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740281",
+          "publishedOn": "2021-09-14T23:08:27.000Z",
+          "wordCount": null,
+          "title": "从科学的角度来看，护肤党从什么时候开始抗衰老比较合适？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740296",
+          "author": null,
+          "description": "INTERNI设计时代，设计一直在改变\n阅读原文\n\n谢邀！\n\n伦敦泰特现代美术馆自 2000 年开馆以来，就为它所在的这座城市带来了不可忽视的改变。 作为一座极受欢迎的现代艺术博物馆，泰特现代美术馆每年接待参观者超过五百万。 就在 2016 年，它更是拥有了一件最受人瞩目的藏品——由瑞士建筑事务所赫尔佐格和德梅隆(Herzog & de Meuron)设计完成的扩建建筑。\n建筑构造包含不同形状的几何图形，因周围环境的限制将空间转化成观景长廊，建筑则融于背景，毫无痕迹。摄影 /Roland Halbe新建筑不仅将创意和展览功能相连，更是为这座文化场所增添了新的价值和意义。摄影 /Iwan Baan\n通常，一个建筑的扩建项目很容易意味着“限制”，但是对于博物馆或者美术馆来说，扩建反而可以被用于探索更多可能性，并重新定义自己作为文化场所的意义。毫不意外，自赫尔佐格和德梅隆赢得伦敦泰特现代美术馆扩建项目设计权之日起，这个项目便备受关注，而施工计划的延后也引发了众多猜测，让人们对这个伦敦天际线的重要组成者平添了更多的期待。\n建筑南侧与北侧的建筑剖面图。\n泰特美术馆坐落的位置最初是由吉尔斯·吉尔伯特·斯科特(Giles Gilbert Scott)爵士设计的河岸发电站，在 1947 和 1963 年分两个阶段建造完成。发电站在 1981 年关闭，时隔 13 年后，泰特美术馆在 1994 年的 4 月应运而 生。1995 年 1 月，初出茅庐的雅克·赫尔佐格(Jacques Herzog)和皮埃尔·德梅隆(Pierre de Meuron)凭借泰特美术馆崭露头角。而 5 年之后，它就成为了旧建筑改建与翻新项目中的典范。\n建筑独特的表面能够让光 线在白天中得到过滤 , 在傍晚 熠熠生辉 , 让看似巨大而坚硬的外表轻轻地盖在新建筑之上。 摄影 / Roland Halbe\n最新对公众开放的泰…",
+          "link": "https://daily.zhihu.com/story/9740296",
+          "publishedOn": "2021-09-14T23:08:22.000Z",
+          "wordCount": null,
+          "title": "有哪些优秀的美术馆设计案例？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740271",
+          "author": null,
+          "description": "有什么是你用过 iPad 才知道的？\n\nUIDX\n阅读原文\n\n知道原来有比手机砸脸更疼的东西。\n阅读原文\n\n你想给游戏《哈利波特：魔法觉醒》提什么建议？\n\n菲尼克斯，人生不如意，安静苦笑吧\n阅读原文\n\n建议改个名字吧，魔法觉醒不太符合游戏主题。\n这边建议改名《哈利波特：黑魔法觉醒》？或者《哈利波特：重生之我是伏地魔》？其实《哈利波特：黑暗降临》也不错。\n毕竟游戏里玩家基本上各个都得进阿兹卡班，黑魔法随手就来，索命咒用的眼都不眨，禁林？什么禁林？不是后花园吗？\n阅读原文\n\n你经历过哪些大型社死现场？\n\n春游，不正经的摄影师 @春游哥哥\n阅读原文\n\n事情是这样的，我因为地震截肢，整个右腿都是假肢。\n平时大多数时候，海绵是包起来的，压根儿看不出来是假肢。\n\n前几天和朋友去沈浸式体验馆玩，我地震之后就一直没有过这种活动，有好几次想去，说明情况之后都被别人拒绝了，但我是真真切切想体验一把啊！\n所以这一次没有和老板说明情况，直接上了。\n鬼屋就是鬼屋，全程吓得手心发汗，进去大概三分钟左右，我莫名其妙感觉有人在扒拉我的右腿，没错，就是我的假肢。\n接下来就是社死现场了。\n那 NPC 估计是扒拉了好久感觉我咋没反应，结果一用力，假肢掉了。\n同时我刚好转头，和趴在地上的 NPC 面面相觑，那惨白的脸…\n然后两个人同时尖叫。\n重点是 NPC 那叫声比我凄惨一百倍…\n假肢掉了，人也站不稳，一屁股坐在地上，结果那 NPC 撒腿就跑，一边跑一边叫，妈呀妈呀妈呀…\n后来就没办法继续玩了。\n出来的时候我一直给那小哥道歉，那小哥脸惨白坐在沙发上半个小时一句话也不说出来。\n在这里真心再说一次对不起…\n真的对不起…\n阅读原文\n\n室友的哪些不该看的东西被你看到了？\n\n味有道，食品\n阅读原文\n\n阅读原文\n\n校园里的小混混都干过什么令人震惊的事？\n\nCoffee喵喵喵\n阅读原文\n\n我只记得初中时候广播，全校通报批评我们班的两个小混混，去劫钱没劫到不甘心，只好打劫了小学生两根儿冰棍儿，永远也忘不了念通知的人憋笑的音调和整个楼道地动山摇的笑声。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740271",
+          "publishedOn": "2021-09-14T23:08:12.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740250",
           "author": null,
@@ -5404,66 +5509,6 @@
           "description": "有哪些让你庆幸及早脱粉的明星？\n\n狂奔的考拉，长大了的相信自己会拥有全世界的小屁孩\n阅读原文\n\n天线宝宝，不多说了，我成熟之后感觉他们太幼稚，和我想像中的不一样了。\n虽然他们陪我度过了幼年时光吧\n阅读原文\n\n医学生能硬核到什么程度?\n\n喆纸鹤，环境工程研究就读ing\n阅读原文\n\n我不知道别人，我就知道我爸。\n那年五六岁被蛇咬了口，跑回去抱住他的腿哇哇的哭。\n过了好一会他才肯把脑袋从报纸里挪开：“哭了这么久还这大声，肯定没毒了，崽～”\n阅读原文\n\n你是通过什么事情才知道自己丑的？\n\n陈观良，入流的小说作者\n阅读原文\n\n？？？\n我是通过这个知道的。\n阅读原文\n\n什么时候让你想逃离你的寝室？\n\nDear Gakki，划水界精英\n阅读原文\n\n当我泡好一桶方便面结果其他五个人都围上来的时候\n\n\n\n阅读原文\n\n可以进来讲个笑话吗？\n\n知乎用户，人生苦短，看好就买\n阅读原文\n\n有一个同学在群里说，“我写的程序有 bug，怎么办？”\n有个同学回了一句，“可以跑吗？”\n“你说的是程序跑还是人可以跑。”\n“只要有一个能跑就行。”\n阅读原文",
           "link": "https://daily.zhihu.com/story/9739267",
           "publishedOn": "2021-08-16T23:07:42.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739213",
-          "author": null,
-          "description": "Congyu，美国自然历史博物馆 古脊椎动物\n阅读原文\n\n谢邀~\n研究最深入这一点，如果在恐龙里面讨论的话，我觉得问题不太大，不是最深入排个前五也是稳稳当当。化石保存最完整这一点确实不敢苟同。下面详细说一下\n大家在博物馆里看到的化石很多都是完整的，比如下面这两个原角龙\n原角龙 Protoceratops 化石及巢复原，美国自然历史博物馆展出\n但是真正的野外考察中找到的化石是非常有限的，大多数也是零碎的，可以参考我之前的回答\n恐龙遗址发掘的过程是怎样的？\n虽然我们一般不叫遗址，那是考古方向的词汇\n所以可以想见，完整的化石是非常罕见的。\n在现在发现的霸王龙化石中，最完整的应该是\"苏（Sue）\"，这个名字也是为了纪念其发现者。化石在 1990 年美国南达科塔州的地狱溪组（Hell Creek Formation）被发现。化石完整度在 75~85%（可能大家统计方法不太一样，反正骨头很多就是了），现在标本在芝加哥大学的自然历史野外博物馆（Field Museum of Natural History，一直觉得那个 Field 的存在怪怪的）\n霸王龙 Sue 装架，图片来自维基\n然后其他的霸王龙标本完整度比较低，感兴趣的话可以参考维基百科的霸王龙标本条目，里面列了完整度比较高的几个。在世界各地的博物馆里展出的大部分都是装架的模型，真的化石确实很少。\n中文\n暴龙标本\n英文\nSpecimens of Tyrannosaurus\n现在全世界总共发现的霸王龙标本大概在 30 到 50 件左右，当然，又是统计问题，多完整的骨头算一个标本呢？但是可以看出总数是非常有限的。现在估计霸王龙作为一个物种在地球上存在了大概 200 万年，所以大概 4 万年留下一个的几率？真不知道要是几千万年后的古生物学家挖到现在能挖出几个人来。\n相比之下， @flyflyfly007 已经提到了鹦鹉嘴龙（Psittac…",
-          "link": "https://daily.zhihu.com/story/9739213",
-          "publishedOn": "2021-08-15T23:08:14.000Z",
-          "wordCount": null,
-          "title": "为什么霸王龙的化石比较完整？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739219",
-          "author": null,
-          "description": "陆家嘴市民李先生，写对大家有帮助的干货，做对社会有用的铲屎官。\n阅读原文\n\n药剂学专业出身的我，选择进入了金融行业，两大领域知识的繁杂曾一度让我迷茫。\n好在后来慢慢摸索出自己一套知识管理系统，现分享给大家，愿有所帮助。\n知识管理的方法很多，但始终脱离不了一个模型：收集——整理——思考——输出。\n在这个模型中，我使用了三种工具：OneNote、Xmind、kindle。\n接下来，我会按照这样一个思路写这篇文章：\n\nOneNote 使用方法及亮点。\nXmind 使用方法及亮点。\nKindle 使用方法及亮点。\n收集——整理——思考——输出，模型介绍及注意点。\n番茄工作法、巴赫音乐在自我管理中应用。\n\n一、OneNote 使用介绍及亮点\n\n使用介绍\n\nOneNote 是一款交互式、多平台、多用户协作的数字笔记应用。\n于我来说，OneNote 是我的大脑的外在形态。\n下图是我 OneNote 的主页面。\n\n从左到右，主页面分为笔记本区、节区、页面区。\n打个比方，你的大脑是一个大树的主树干，笔记本区就是主树干的分树干，节区就是分树干的树枝，页面是树枝上开出的树叶。\n树叶开的越多，整课树看起来就会更繁茂。\nOneNote 的使用逻辑层次，清晰明了，相信大家都能理解。\n在建立自己的分树干，也就是笔记本之前，请先拿一张纸，画出自己的能力树，然后再建立笔记本。\n\nOneNote 亮点\n\n网页收集。\n\n在浏览器上安装一个 Clip to OneNote 之后，你可以将在网页有用的信息，剪到对应的的笔记本里。同时，它会自动附上网页链接，方便以后浏览。\n上图右侧，红色的符号，就是 Clip to OneNote 的标志。\n2. 逆天的编辑排版功能。\n字体：字体、字号、加粗、倾斜、删除线、编号、上下标、左右对齐、行距……\n图片：随意拉伸、裁剪、旋转……\n绘图：用不同的颜色或者荧光笔标注高亮\n插入：E…",
-          "link": "https://daily.zhihu.com/story/9739219",
-          "publishedOn": "2021-08-15T23:08:05.000Z",
-          "wordCount": null,
-          "title": "如何建立自己的认知体系？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739210",
-          "author": null,
-          "description": "曾杰律师，广强律所非法集资案件中心主任，合伙人。18617320573\n阅读原文\n\n是，阅卷是一个律师的基本职业素质和工作内容。\n不亲自阅卷的律师，不管多大牌，其~~不如，算了，平和点，其专业能力和敬业态度都是慢慢退化的。即便是团队化作战的律师，其主办律师也应该对整个案件的关键问题如数家珍，阅卷多遍以上，主导整个案卷的挖掘工作，不然请律师干嘛?摆样子么？\n那怎么做到高效的大幅度阅卷呢？其实没什么巧办法，一页页阅读，流血流汗做到啊，就跟学英语一样，没有什么不开刀不流血无痛苦只要 800 块的巧办法，那都是骗人的，死记硬背单词加高强度训练才是正途。\n民事案件我接触的少，不熟。刑事案件，有些简单地案子还好，案卷不多，如果是洗钱、骗取出口退税、非法集资类的案件，卷宗往往就特别多，50 到 200 卷之间，每卷大多数是 220 页到 250 页。甚至还有更多的。算下来就是 1 万多页。\n都有哪些内容呢？\n包括笔录，比如被害人供述、被害人陈述、证人证言，鉴定意见，到案记录、警方的情况说明，说白的了就是刑事证据的 8 种类型。\n\n怎么阅完？\n如果仅仅是简单的表面内容阅读，毫无意义，律师的任务是辩护，是从案卷中找到漏洞，看一遍只能说对案情有了个基本的了解，但对于办案基本没啥用，当然，这是说对于一些案情较复杂，事实争议比较大的案件。\n言归正传：\n所以，题主的问题其实可以修正为：如何高效的阅卷。\n1.心理准备\n因为很多案件的卷宗，都是从检察院拿来的扫描件或拍照版，律师基本拿不到 word 原版，所以，律师无法使用关键词搜索等功能，所以，对于案卷的二次编辑是律师必备的工作。所以，准备好相关的工具，比如及时把案卷打印，准备好 word 模板、excel 模板，流程图工具，学习必备的技能。\n这种情况下，工作量巨大是必然的，那怎么办？还是流血流汗，那律师只能给自己定个目标，比如说我，经常定的目标就是，…",
-          "link": "https://daily.zhihu.com/story/9739210",
-          "publishedOn": "2021-08-15T23:07:58.000Z",
-          "wordCount": null,
-          "title": "法官/律师总是要为了一件案子进行千页的大量阅读量吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739232",
-          "author": null,
-          "description": "Legal诗睿，法律人，摄影痴，书籍癖。\n阅读原文\n\n这里，涉及基于真实事件电影改编问题的进一步法律思考，电影制作方需要取得哪些权利的豁免，以求得顺利拍摄。\n本文从一般的规律出发做阐述。\n我们知道，世间万物涉及权利。对于电影所涉及的真实事件而言，如果涉及事件里面的人物，则只要建立“排他性关系”，基于未经本人同意，原型人物有权不将其姓名或形象用于电影的商业利益。\n假设有电影制作方打算以某个真实事件改编成电影剧本，并打算拍摄，则必然涉及一些权利上的授权或者豁免问题。由此，则从一般意义上，值得叙述电影制作方为取得相应的拍摄便利，需要预先考虑什么问题。\n个人基本总结为三个主要部分：名誉权，隐私权，姓名权和肖像权。\n1.关于真实事件改编电影里面涉及原型人物或者其近亲属的名誉权问题。\n如若电影里面未经授权或者豁免存有损害他人声誉的虚假事实陈述情节，则必然涉及名誉权侵权问题。本身涉及电影拍摄中的部分改变情节，假如颇为离谱，必然会导致他人（可能是原型人物，也可能是其近亲属）的社会评价的降低。这种情况下，基于离谱的改编情节，本没有的事情变成“事实”，网络或者周围的评论，涉及电影拍摄的原型人物或近亲属会遭受尴尬和羞辱，乃至以及巨大经济损失（例如失去工作或谋生的能力）。\n这绝非危言耸听，而是的确会“因言废事”“因言废人”。\n毕竟足以贬损该特定人或特定人群人格或尊严的言论，间或捏造不利于特定人或特定人群名誉的虚假事实进行传播，或者以他人传播的虚假事实为依据进行不利于特定人或特定人群名誉的不当评论而足以致使该特定人或特定人群社会评价降低的这些内容实际上都概属名誉权侵权之列。\n当然，关于名誉权侵权此处不做特别展开。关于进一步思考，可以参见笔者之前写作的一篇文章：Legal 诗睿：关于名誉权纠纷的裁判规则整理。\n2.关于真实事件改编电影里面涉及原型人物或者其近亲属的隐私权问题。\n当然在部分真实事件里面，隐私权值得斟酌。这是因为很多真实事件假如进入社会公众热议的情况下，就需要取得公众知情权、言论自由和隐私权的平衡。“具有新闻价值”的真实事件，引起公众的合法关注，由此可能更多让渡于公众的知情权和言论自由。\n然而，这绝不意味着隐私权就不应该得到保护。\n我们知道，隐私权是指自然人享有的个人生活秘密、私人行为自由和私有领域安宁不受非法干扰的一种人格权。既然具有主体的特定性(只能是自然人)、客体的隐秘性和保护范围的受限制性等特征。那么采取披露、公开或宣扬等方式，侵入他人私生活领域或者私人活动空间的行为，就属于侵害隐私权的行为。\n现在的电影往往传播范围更广，经常会出现电影一上映，就引发网络讨论的问题。由此，就涉及网络隐私权。（笔者按，网络隐私权是隐私权在网络环境下的延伸，是指公民对其个人在网络上的隐私信息或者私人网络活动享有不为他人知悉或干扰的权利。相对于传统的隐私权，网络隐私权有其自身的特点：内容的更加丰富性、不断扩展性和经济价值性、侵害行为的普及化与技术化、侵犯后果的严重性和保护困难性等。）\n当然，隐私权具有支配性，“自然人可以在一定范围披露自己的隐私，也可以让他人在一定程度上介入自己的私人生活。这种放弃与其说是放弃隐私权，倒不如说是行使隐私权的一种方式，如同财产所有权人以赠与方式处分自己的财产亦为行使财产所有权一样”。这里涉及电影拍摄改编的原型人物其实拥有支配权，不过并不是说这样就可以据此瞎编滥造。\n有时候，电影虽然没有点名道姓，但公开了原型人物的一些隐私，也会给其或者近亲属的正常生活造成很大的心理影响和经济损失。\n3.关于真实事件改编电影里面涉及原型人物或者其近亲属的姓名权和肖像权问题。\n且举一个小例子，民法典明确规定，未经肖像权人同意，不得制作、使用、公开肖像权人的肖像，但是法律另有规定的除外。这说明，一般情况下，肖像权的使用是没有附加条件的，未经本人同意，即便没有盈利目的和主观恶意，同样构成侵害肖像权。电影中使用，亦然属于未经同意的侵权行为。\n至于姓名权，则不再赘述。\n总结而言，在真实事件改编电影中，肖像权、姓名权、或隐私权的使用，如果事先得到权利人的允诺，在电影剧本或者实际拍摄中使用其肖像、姓名、名称和隐私，就不构成侵权。\n因为这是完全抗辩，是事实抗辩。这种情况下，通过权利人相关授权和豁免，就可以降低电影拍摄的法律风险，避免进入纠纷不停的泥淖。\n由此，则相关人士需要重新复习笔者的一篇文章，对此做通盘考虑：Legal 诗睿：类如“操场埋尸案”真实事件电影改编的三点法律思考。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739232",
-          "publishedOn": "2021-08-15T23:07:51.000Z",
-          "wordCount": null,
-          "title": "电影中有演员扮演还在世的真实人物，有什么法律问题吗？需要当事人授权吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739229",
-          "author": null,
-          "description": "知乎用户，负责品牌/供应链，25年+经验，支持原创和整合内容。\n阅读原文\n\n小公司没有预算，大公司正常都有品牌健康度调查（如 AA&U- 知晓、态度和使用），通过内部调研部门或与专业的调研公司作专业的调研，对现状获取全面的认知，以便及时修正产品和营销策略，规模大可以分摊费用，但不等于小公司不做市调（可以 DIY 自己作）。\n中小企业、初创项目 / 产品经理通常会作 Marketing audit，其中必须有依据 - 市调，了解现场。\n\n老板亲自跑市场收到大量反馈，相当于作了的定性、定量调研，如：娃哈哈创始人宗庆后自己就是产品经理，从企业创立起就跑市场，一年有 200 多天在市场一线跑，十几年如一日，他总结成功时说是在市场上跑出来的，对市场的准确把握和良好感觉无不来源于跑市场。而且很多中小企业的老板也是将市场的感觉跑出来后、采取措施、检查执行和检验效果，PDCA 持续改善，积累了经验值。对比市调公司几场访谈：谁的样本更大、更有延续性、更全面、认知更深、执行力更强？\n初创企业在早期花费大量时间探索商业模式，因此通常会自己作市调（DIY），寻找技术 push 和市场 pull 的最佳耦合，朋友家人最容易成为调研对象（会有局限和遗漏、但会不断修正和完善），否则怎么说服别人投资呢？\nMBC- 商业模式画布\n其中价值主张、客户细分、渠道通路、客户关系、收入来源有可能来自顾客的视角。顾客驱动的创新基于顾客需求、提高便利或方便使用。项目数据可评估：模式是否成立？增长潜能多大？现有市场位置和竞争力。\n乔布斯不做市场调研，张小龙不看数据？\nCustomers can`t tell you about the next breakthrough. 消费者需要被引领，特别是非连续的、颠覆式的技术和时尚，单靠 Focus Group(焦点小组)，吃瓜观众很难描述出未来的产品. 苹果有 weekly …",
-          "link": "https://daily.zhihu.com/story/9739229",
-          "publishedOn": "2021-08-15T23:07:41.000Z",
-          "wordCount": null,
-          "title": "中小企业为什么很少做市场调研，不去找市场调研公司？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739234",
-          "author": null,
-          "description": "如何以“姐姐，别乱动”写一篇病娇文？\n\nJohann Faust，正庙正神，余藏特贵\n阅读原文\n\n结界，zei 套煎饼果子 4 我哒，尼勒别乱动，行嘛？\n阅读原文\n\n你送过或者收到过哪些令人难忘的七夕礼物？\n\n苏苏苏白鸽，努力生活都算赢\n阅读原文\n\n52串羊肉串，包装跟花束一样。\n然后下面漏油了，接过手的时候抓了我一手油，还滴的我白裙子上五彩斑斓的。以至于我一整天都散发着孜然味。。。\n阅读原文\n\n猫咪为什么喜欢看窗外呢？\n\n宠物猫知识，公众号：宠物猫知识，好玩有趣，欢迎来坐坐\n阅读原文\n\n思考人生\n\n\n\n阅读原文\n\n有哪些让人眼前一亮的「老段子翻新」？\n\n不高兴，来，吃个花托吧\n阅读原文\n\n同学A花五元钱买了一根蜡烛，在屋子里点燃后，瞬间，烛光充满了整座屋子\n同学B花五元钱买了一袋面粉，洒在屋子里，瞬间，面粉小颗粒洒满了整间教室\n同学C感觉事情不太对，早早退出了教室，然后老师同学们在教室里炸成了天边的一道晚霞\n\n\n阅读原文\n\n在目前所有影视作品里最强的存在是谁？\n\n徐照青，写字工作\n阅读原文\n\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739234",
-          "publishedOn": "2021-08-15T23:07:32.000Z",
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
