@@ -2,10 +2,575 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T01:08:42.477Z</updated>
+    <updated>2021-09-16T01:13:45.168Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LeetCode 通关：连刷十四题，回溯算法完全攻略]]></title>
+        <id>https://toutiao.io/k/lrmbo5p</id>
+        <link href="https://toutiao.io/k/lrmbo5p"/>
+        <updated>2021-09-16T01:13:36.201Z</updated>
+        <summary type="html"><![CDATA[零基础开始学回溯，搞定组合、分割、子集、排列、棋盘四大类问题！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实现 LFU 缓存机制]]></title>
+        <id>https://toutiao.io/k/dpr059r</id>
+        <link href="https://toutiao.io/k/dpr059r"/>
+        <updated>2021-09-16T01:13:35.938Z</updated>
+        <summary type="html"><![CDATA[前夜不忙后夜忙，梦完黄金我梦黄粱]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飘乙己：List 转 Tree 有 4 种写法]]></title>
+        <id>https://toutiao.io/k/w6h6aln</id>
+        <link href="https://toutiao.io/k/w6h6aln"/>
+        <updated>2021-09-16T01:13:35.872Z</updated>
+        <summary type="html"><![CDATA[飘乙己！]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 一个 MySQL 锁和面试官大战三十回合，我霸中霸]]></title>
+        <id>https://toutiao.io/k/irs8xav</id>
+        <link href="https://toutiao.io/k/irs8xav"/>
+        <updated>2021-09-16T01:13:35.799Z</updated>
+        <summary type="html"><![CDATA[霸体模式启动]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计模式系列：简单工厂模式]]></title>
+        <id>https://toutiao.io/k/l1el1gh</id>
+        <link href="https://toutiao.io/k/l1el1gh"/>
+        <updated>2021-09-16T01:13:35.732Z</updated>
+        <summary type="html"><![CDATA[简单工厂严格的说并不是GOF里面提到的标准的23个设计模式之一。但是日常开发中经常会用到，特别是比较小的系统。简单工厂模式就是通过一个工厂类的工厂方法创建相应的对象。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 分钟实现 Spring Boot 集成 RabbitMQ，实现消息队列服务]]></title>
+        <id>https://toutiao.io/k/xwhru3a</id>
+        <link href="https://toutiao.io/k/xwhru3a"/>
+        <updated>2021-09-16T01:13:35.656Z</updated>
+        <summary type="html"><![CDATA[消息中间件在互联网公司使用的越来越多，主要用于在分布式系统中存储转发消息，在易用性、扩展性、高可用性等方面表]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近面试小心被问 Dubbo 3.0]]></title>
+        <id>https://toutiao.io/k/dwx82wq</id>
+        <link href="https://toutiao.io/k/dwx82wq"/>
+        <updated>2021-09-16T01:13:35.309Z</updated>
+        <summary type="html"><![CDATA[大白话解析一波]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代码评审的三怕]]></title>
+        <id>https://toutiao.io/k/6vqtaxt</id>
+        <link href="https://toutiao.io/k/6vqtaxt"/>
+        <updated>2021-09-16T01:13:35.238Z</updated>
+        <summary type="html"><![CDATA[细节决定成败]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUDA 矩阵乘法终极优化指南]]></title>
+        <id>https://toutiao.io/k/ydudlhl</id>
+        <link href="https://toutiao.io/k/ydudlhl"/>
+        <updated>2021-09-16T01:13:33.215Z</updated>
+        <summary type="html"><![CDATA[作者： @马骏 | 旷视 MegEngine 架构师前言单精度矩阵乘法（SGEMM）几乎是每一位学习 CUDA 的同学绕不开的案例，这个经典的计算密集型案例可以很好地展示 GPU 编程中常用的优化技巧，而能否写出高效率的 SGEMM Ker…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 DEM 和矢量数据绘制地图]]></title>
+        <id>https://toutiao.io/k/re80is3</id>
+        <link href="https://toutiao.io/k/re80is3"/>
+        <updated>2021-09-16T01:13:32.740Z</updated>
+        <summary type="html"><![CDATA[要生成一副图片地图，可以使用ArcGIS、QGIS等工具，也可以使用代码实现。我这里介绍的当然是用代码实现，而且是利用开源软件。毕竟桌面版GIS工具的介绍太多了，大家的地图都做的很漂亮。用代码渲染地图就不得不提到GDAL和Mapnik。GDAL是处理GIS数据最常用的库，这里我们就要用到gdaldem处理DEM数据。Mapnik是渲染地图的最基本工具，我们要...]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么样的人生算是「高质量的人生」？如何实现高质量的人生？]]></title>
+        <id>https://daily.zhihu.com/story/9740314</id>
+        <link href="https://daily.zhihu.com/story/9740314"/>
+        <updated>2021-09-15T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[申晨煜，心理治疗DoctorShenChenYu／关注同名微信视频号
+阅读原文
+
+人生有三大支柱——身体、工作和亲密关系。高质量的人生就是尽力把这三个支柱都立起来，倒也不必样样优秀，但至少要确保每一项没有明显短板。
+
+身体：虽然 WHO（世卫组织）对健康的定义早已不仅仅是躯体健康，还包括精神健康以及良好的社会适应能力。但这里我还是想要强调身体的重要性，谁都知道——身体是革命的本钱，它也是其他两大支柱的根本。保证一日三餐规律饮食，良好的作息，烟酒等不良嗜好尽量少碰，每周至少 3 次以上的有氧运动（每次半小时以上）。每半年或一年进行一次全身体检。
+工作：这里不仅仅指上班后的工作，如果是学生阶段也指学习。人们需要把自己的时间和精力投入到工作和学习中，用来对抗人生的无意义感。比如有不少人会出现退休综合征，退休前工作的目标、他人的期待都令我们的“存在感”得以存续。当不再有这些可以让自己去努力和付出的事情时，人们就可能陷入到对于自我有限性的过度思考之中，并且把注意力转向自己。我们可能会强烈地感受到生而为人的平凡与渺小，怀疑生命存在的意义与价值，继而陷入一种巨大的、难以承受的绝望和焦虑。[1]我并非想要鼓吹延迟退休，而是你即便退休了，也需要把生活丰富起来，找事做，不做闲人。
+亲密关系（爱与被爱的能力）：我们毕竟是生活在这样一个群居的环境中，很少有人能够长时间过那种与世隔绝的生活，因此与人建立关系就显得格外重要。虽说各种人际关系都是重要的，但朋友、同事关系其实不算是根本性的支柱，这里的亲密关系主要是说家庭成员之间——配偶或恋人、父母与子女，成熟的爱会让人感到富足，“成熟的爱并不是没有回报，人会改变，变得更丰富，感到自我被实现，存在孤独也得以减轻。通过爱人，自己也得到了关爱。但是这些回报只源自真正的爱，它们也不是爱的原因。借用弗兰克尔的说法，这些回报是自然产生，而无法求得的”。[2]
+
+高质量的人生是在这三个方面尽可能做好，如果任何一个支柱出现问题，你至少要保证另外两个支柱是稳固的，如果两个都垮了，没有谁能真的支撑下去。
+我不想陷入相对主义，说什么人们只要自洽就好了，自洽也是要建立在一定的基础之上的。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价 9 月 15 日苹果 2021 秋季特别活动，有哪些值得关注的信息？]]></title>
+        <id>https://daily.zhihu.com/story/9740299</id>
+        <link href="https://daily.zhihu.com/story/9740299"/>
+        <updated>2021-09-15T23:08:22.000Z</updated>
+        <summary type="html"><![CDATA[LycheeLi荔枝荔，新加坡国立大学 商学院 在读
+阅读原文
+
+百图超详解 9 月 15 日 Apple Event，你需要知道的都在这里
+
+2021 年 9 月 14 日（美国当地时间），苹果举办了特别活动，这也是本年度苹果最为重磅的硬件发布会。
+本次发布会上，苹果给我们带来了新一代的 iPhone 13 系列，全新的入门级 iPad、iPad mini，全新的拥有更大表盘的 Apple Watch Series 7。
+下面就让字节君用百图对 Apple Event 进行超详细解析，如果想要收藏起来慢慢看，不妨先 mark！应大家要求把总结性发言提到最前，一眼看完这次的发布会！
+想看更多干货别忘了点个关注，今年晚些时候，苹果应该还会带来搭载全新一代 Apple Silicon 的 MacBook 系列，到时候字节君也会第一时间提供超详细的信息！别走丢了！
+总结iPad 10.2" 入门版
+
+外形没有变化，保持 10.2" 的屏幕，升级 True Tone，兼容 Apple Pencil 一代和原有的配件
+前置摄像头升级为 1200 万像素超广角，支持中央舞台功能（Center Stage）
+A13 Bionic 仿生 CPU，速度提升 20%
+保持同样的起售价
+有 WiFi 和 4G LTE 版本
+
+速评：防守型的更新策略，依然保持了 iPad 在入门级产品的极高性价比，尽管硬件上并非最为亮眼，但没有明显短板，并且 iOS 的 iPad 生态已经非常成熟
+iPad mini 8.3"
+
+全新设计，类似 iPad Air，iPad Air 同款 TouchID
+iPad mini 里最大的 8.3" 屏幕
+前置摄像头升级为 1200 万像素超广角，支持中央舞台功能（Center Stage）
+后置摄像头升级为 1200 万像素 f/1.8 高密度 PDAF 带 TrueT…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你生命中最有勇气和力量的瞬间是什么？]]></title>
+        <id>https://daily.zhihu.com/story/9740303</id>
+        <link href="https://daily.zhihu.com/story/9740303"/>
+        <updated>2021-09-15T23:08:16.000Z</updated>
+        <summary type="html"><![CDATA[KnowYourself，关照自我与内心，引领身心健康的生活方式
+阅读原文
+
+生命中最有勇气和力量的瞬间，就是终于克服惯性、勇敢打破旧生活，做出新的选择与改变的每一个瞬间。
+常有朋友和我说，自己有时候知道这么做不对，但总是“无法控制自己反反复复做出不好的行为”：
+比如在恋爱时，一遇到让自己不快的事就忍不住对对方“阴阳怪气”，即便知道沟通才是最好的解决办法；在工作中，一旦同事说了不尊重自己的话，立马上头，和同事大吵一架，即便明白当做没听到、完成好合作的工作才更高效。
+我们总是明知故犯、难以改变自己的处事方式，其实是因为我们生活在“惯性”中，被“惯性”所劫持。
+今天来和大家聊聊，为什么打破惯性，是生命中一件非常需要勇气和力量的事。
+01.人是有惯性的，很多时候我们都处于“自动化”的状态中
+大部分人对于自我和生活是无觉察的。成年以后，我们解读世界和他人的角度已经有了很多固定的模式。因为这些固定的思维模式存在，我们会对事件和他人做出固定的情绪和行为反应。
+所以，我们过生活的时候，我们的行为模式、思维方式和情绪反应，都像是被设定好的、自动发生的。一旦当某种条件出现的时候，我们就会出现难以自控的条件反射。即使明知道自己的反应不是最好的，却仿佛被惯性操纵，无法控制自己不做出明知道不够理性的反应。
+比如，容易被愤怒“冲昏头脑”，对身边人发脾气、砸坏东西；再比如文首提问的那位粉丝，一旦对方不秒回，就出现被抛弃的感受，然后立刻冲动反应；在关系中每次吵架都进入冷战模式，即使知道冷战不太好，但就是停不下来这样做；还有工作中，同事的一些表现戳中了自己的敏感点，于是自己不顾后果地情绪上头，影响了自己的职场表现。
+此时，我们就像是一台被自动控制的机器，无法控制自己，做出伤害自己也伤害他人的举动。这时，我们其实是自己惯性思维的奴隶，受它的掌控。
+在这种状态下，我们是被自己的情绪裹挟的。情绪发生的时候，我们…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在逆境翻盘，有什么逆境翻盘的好例子？]]></title>
+        <id>https://daily.zhihu.com/story/9740310</id>
+        <link href="https://daily.zhihu.com/story/9740310"/>
+        <updated>2021-09-15T23:08:11.000Z</updated>
+        <summary type="html"><![CDATA[腾讯医典，靠谱、实用、有趣的医学健康科普，就在腾讯医典。
+阅读原文
+
+7 月 25 日的一场奥运比赛，看哭了不少人。
+第 8 次征战奥运会的乌兹别克斯坦选手丘索维金娜，在跳马资格赛中，挑战了高难度动作，最终得分 14.166 分，暂列第 11 位无缘单项决赛。
+完成了最后一跳后，46 岁的丘索维金娜，和自己孩子一般大的选手们碰拳握手相互鼓励。走到赛场边后，再也抑制不住情绪，哭成了泪人。
+
+（来源：视觉中国）
+这位被国内网友亲切称为“丘妈”的体操名将，早在前几届的世界体坛上，就被称为 21 世纪最好哭的女运动员。
+从 1992 年的巴塞罗那奥运会开始征途，如今她又又又站在了 2021 年东京奥运会的赛场上！
+
+（来源：人民日报）
+她是一个母亲。
+曾走投无路，以 27 岁高龄重返体操赛场，只为给身患白血病的儿子赚得高昂手术费。
+她亦是一名伟大的体操冠军。
+曾一个人撑起一个国家的体操门面，四十多岁仍是所向披靡的世界冠军。
+
+（来源：环球人物杂志）
+丘索维金娜出生于乌兹别克斯坦一个普通家庭。
+7 岁就开始参加体操训练的她，是体坛上的天选之子。
+16 岁就在世锦赛上获得了第一个世界冠军，17 岁代表独联体出征，获得了第一枚奥运会金牌。
+
+（来源：网络）
+年轻的少女天赋异禀，英姿勃发，光 1993 年到 2006 年，丘索维金娜就为训练条件极为落后的国家赢得了七十多枚奖牌。
+在国际体操联合会中，甚至有三个动作以她的名字命名。
+可以说，丘索维金娜就是真正的体操界之光。
+
+（来源：人民日报）
+然而命运的刽子手，却总在人生的最高处揭开残酷面纱。
+2002 年，功成名就又婚姻美满的丘索维金娜，在儿子阿里什出生 3 年后，被骤然打入深渊，因为儿子被确诊患上急性淋巴细胞白血病。
+知识延伸
+急性淋巴细胞白血病（ALL）是最常见的一种儿童白血病。如果早期规范治疗，5 年生存率约为 80%~90%[1]…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么现在国产电视剧里似乎穷人越来越少了？]]></title>
+        <id>https://daily.zhihu.com/story/9740323</id>
+        <link href="https://daily.zhihu.com/story/9740323"/>
+        <updated>2021-09-15T23:08:01.000Z</updated>
+        <summary type="html"><![CDATA[聆雨子，影视文化学博士，撰稿人，高校教师
+阅读原文
+
+今年的国剧表现不坏，尤其“现实主义题材”强势走高：这个夏天，《扫黑风暴》、《理想之城》、《我在他乡挺好的》以及《乔家的儿女》，都颇受好评。
+只是，一个被提出许久的疑问，好像仍萦绕不去、未获解答——国产热门影视里，多久没出现真正的穷人了？
+这话当然容易反驳：谁说没穷人，你瞎啊，多少电视剧都以男女主角背井离乡、赤手空拳、孤身一人来到大城市打拼作为基本设定，多少电视剧的男女主角都是惨兮兮的小职员、 苦哈哈的打工人。
+也许该换一种更确切的表达：国产热门影视里的“穷人”们，有多久没活得像个穷人了？
+有时，是“他们明明应该很穷，可你想不通，为啥剧情总在替他们炫富”。有时，是“剧情明明也在表现他们穷，可为啥他们看起来还是显得那么富”。
+“穷人不见了”
+《一起来看流星雨》里的贫寒少女楚雨荨，开着 200 平的奶茶店，住着两层小楼。
+《极光之恋》里的韩星子，家里欠下巨债、母亲重病急需手术，她一边卖唱洗盘子赚钱，一边读着贵族学校认识名门少爷。
+《恋爱先生》里的罗玥，还在入职见习期，却出入北三环精装公寓，开 30 万的车，一身当季大牌。
+《谈判官》里的谢晓飞，企业破产饭都吃不上了，还能在每一个镜头里换一件全新的长款风衣。
+《小欢喜》从头到尾在释放和共情焦虑，可仅仅是“坐拥百平米北京核心地带学区房”，已经让这世间百分之九十以上的人望尘而叹。
+他们可以是“惨兮兮的小职员”，他们也许还没买房，但他们永远能住着一尘不染的精装公寓，哪怕是合租与群租（比如《欢乐颂》，或者《爱情公寓》），那环境那陈设那家装，都显得如此色彩明丽、井然有序、充盈着“时尚而简约的潮流生活元素”，对了，卧室里还总有巨大的落地玻璃，哪怕失恋，都可以抱着腿坐在飘窗上，端着一罐进口啤酒对着满城的灯火久久出神。
+他们可以是“苦哈哈的打工人”，他们也许还没买车，但他们只坐地铁不挤公交——毫…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9740333</id>
+        <link href="https://daily.zhihu.com/story/9740333"/>
+        <updated>2021-09-15T23:07:54.000Z</updated>
+        <summary type="html"><![CDATA[如果你被贞子或者伽椰子缠上了，你想怎样活下来？
+
+星星球新晋超人
+阅读原文
+
+晚上和舍友一起看贞子，贞子快从屏幕爬出来的时候，我俩不约而同的把两个手机屏幕合在了一起。
+以为这样贞子来回穿，就爬不出来了。
+阅读原文
+
+自己的爸妈在外有私生子女是个什么样的体验？
+
+炮炮
+阅读原文
+
+一次跟我关系特好的表姐了聊天
+我姐：你爸爸在外面好像有个私生子
+我：害！问题不大！我们家又没什么家产让他跟我抢
+我姐：我的意思是，万一人家有，可以给你分点
+阅读原文
+
+父母吵架，女儿该怎么办？
+
+兴了一只羊
+阅读原文
+
+试图去缓和气氛，却因为参与进去更加热闹
+阅读原文
+
+真正的富人家的名媛是怎样的教育与日常？
+
+杨谷，小会计
+阅读原文
+
+见过不少有钱人，他们都有同一个习惯，可能真的是富人家的教育了
+他们都喜欢匿名回答
+阅读原文
+
+有哪些让人不慎暴露身份的行为？
+
+匿名用户
+阅读原文
+
+室友去商场试了一双鞋，拍下了条码，回家在淘宝找了代购。鞋子寄回家之后，她喜滋滋地让我帮忙看看是不是正品。
+其实我一点都不懂这个牌子的女鞋，只是觉得这鞋子的味道闻起来不像真皮。于是拿起鞋子仔细端详了一番，对比了一下她在商场拍的鞋标：「假的，无疑。你看商场的鞋标英文和数字都用的等线体，代购这双英文是等线体、数字是非等线体。还有这条线，商场的鞋标上是 hyphen，就是英文的连字线；代购这双假的用的是 N-dash，是减号……」
+室友照我说的一字不漏转诉给了淘宝卖家，要求他退货，blablabla……
+卖家很无语：「你室友也是做假鞋的吧……」
+不，其实我是图书编辑……
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Scroll Survey Report]]></title>
+        <id>https://css-tricks.com/?p=351987</id>
+        <link href="https://web.dev/2021-scroll-survey-report/"/>
+        <updated>2021-09-15T22:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a common thought and question: how do browsers prioritize what they work on? We get little glimpses of it sometimes. We’re told to “star issues” in bug trackers to signal interest. We’re told to get involved in GitHub threads …
+The post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kbar]]></title>
+        <id>https://css-tricks.com/?p=351868</id>
+        <link href="https://kbar.vercel.app/"/>
+        <updated>2021-09-15T18:51:36.000Z</updated>
+        <summary type="html"><![CDATA[It’s not every day that a new pattern emerges across the web, but I think cmd + k is here to stay.  It’s a keyboard shortcut that usually pops open a search UI and it lets you toggle settings on …
+The post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Intro to JavaScript Proxy]]></title>
+        <id>https://css-tricks.com/?p=351767</id>
+        <link href="https://css-tricks.com/an-intro-to-javascript-proxy/"/>
+        <updated>2021-09-15T14:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been in a situation where you wish you could have some control over the values in an object or array? Maybe you wanted to prevent certain types of data or even validate the data before storing it …
+The post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Travis Almand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reducing The Need For Pseudo-Elements]]></title>
+        <id>https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/</id>
+        <link href="https://smashingmagazine.com/2021/09/reducing-need-pseudo-elements/"/>
+        <updated>2021-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, pseudo-elements have faithfully helped front-end developers implement creative designs. While they still have an important place, we can now leave pseudo-elements behind in some scenarios, thanks to newer CSS properties.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcel Moreau)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产游戏《暗影火炬城》PS4/PS5 版于 9 月 7 日 先行推出，游戏体验如何？]]></title>
+        <id>http://www.zhihu.com/question/485084293/answer/2122276060</id>
+        <link href="http://www.zhihu.com/question/485084293/answer/2122276060?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-15T08:01:53.000Z</updated>
+        <summary type="html"><![CDATA[《暗影火炬城》终于上市了，目前还只是在海外PlayStation平台，后续要有更多的平台、语言版本等着我们。但朋友们让我找个时间上知乎写点东西，也算是个PR，能让更多人了解这款游戏的开发故事。
+我本人并不喜欢在社交媒体上发表言论，我的知乎账号四年来一直完全处于静默状态，微博过去4年只转发了5条，就算是微信朋友圈过去4年也只转发了不到100条动态。面形公众的写作，对我是完全陌生的领域。这四年我之所以几乎放弃掉社交网络，原因无它，就是为了能够全部身心的投入到《暗影火炬城》中去，因为我知道这是我人生中最重要的一个机会，对初创的上海钛核也是。
+文章预期较长，无法一次写就，慢慢更新吧，有兴趣的可以关注一下，本人或者这个答案皆可。
+
+
+一、划过天空的VR彗星
+2017年的10月，从钛核的办公室望出去，窗外是一片地铁上盖的绿地，这片绿地准确的报告着一年四季的变化，窗外是上海温暖和煦的秋天，可对我来说却如寒冬已至。
+
+此时的TiGames刚刚成立一年半的时间，我们刚刚上架了《奇境守卫》的第二部DLC，告别了赶版本的阶段。要知道，自从TiGames成立以来我们全体成员可以说一直是处于全力冲刺的状态，2016年5月正式动手开始制作《奇境守卫》，只用了10个月就完成项目开发、1次就通过了Sony PlayStation的项目适用性与VR舒适度审核、2个月就完成了多语言本地化、海外年龄分级、上架准备，总计12个月就把游戏发售到了全球绝大多数的地区。这样的项目效率连我们自己觉得不可思议。可到了10月，在完成了第二部DLC上线之后，连续一个星期大家都变得比较松弛，除了中午两小时固定的休息时间，其他时候也都开始“摸鱼”，打打游戏、刷刷网页，因为大家知道《奇境守卫》已经完成，不会有后续的更新，而新项目还只停留在原型阶段，看不出马上要开始生产的样子。
+
+寒意从内外两个方向袭来。此时的VR生态已经开始展现出明…]]></summary>
+        <author>
+            <name>张弢</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何评价国产动画《眷思量》第十五集大结局？]]></title>
+        <id>http://www.zhihu.com/question/485981245/answer/2121408713</id>
+        <link href="http://www.zhihu.com/question/485981245/answer/2121408713?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-15T05:00:22.000Z</updated>
+        <summary type="html"><![CDATA[第一季终于收官 ฅ( ̳• ◡ • ̳)ฅ
+这两天依旧忙碌，第一季工作结束也终于有更多精力专心推第二季和其他项目的制作工作，看来想给自己放个假的计划要挪到国庆节一块了.·´¯`(>▂<)´¯`·.。
+第一季主要任务是对岛上众生状态和男女主所处外界压力的铺垫，大家应该能感觉到结尾放出的信息都是为第二季的压力来临做准备。
+
+15集山路戏中玄丽两人“初次相处”我很重视，对神态动作都下了功夫讲戏、动捕和K动画。争取可以展现细腻丰富的情绪层次。
+
+
+
+
+玄哥相对简单，主要是他在我脑海里实在是帅了太多年了_(´ཀ`」 ∠)__ ，讲起戏来犹在眼前，比较顺畅，可以说在第一季里对帅的极致幻想都放到玄哥身上亦不为过。
+
+
+
+
+这个镜头设计光影的时候故意让玄哥从树阴中走出，好有一个身形到光影的塑造，主要是想突显儿子的气场十足，灯光中途改了几版，最后实现出的效果也很不错。(之前分享过两次灯光设计了，这次就不再赘述了)
+
+我对玄哥第一季寄予的状态表达是“强大”、“破碎感”以及“正”，这几种观感建立在他如今的心态和世界观认知之上。对真相的执着让他的年轻炽烈和深沉隐忍交织，行成独特的人格魅力。我在开播前说过，希望我能将脑海中迭代多年，那个让我哭让我笑的玄哥表现好，将他从脑电波中带到我所在的现实世界来，让大家也能看到这个有很多面的男孩。
+开播后收到很多观众对玄哥喜爱的表达，是之前完全没想到的，老母亲很欣慰´◡`，毕竟我这个人审美比较极端，且由于太过铁直，自认为苏点也是奇奇怪怪的，平时工作忙碌没时间结交同好并交流，这次做思量也是和观众们交流的途径，收获满满(^з^)-☆
+
+现场调动画时顺便让儿子用手比了个心，当做收官贺了ヾ(❀╹◡╹)ﾉ~
+
+而丽崽是我对女主塑造的一种执念，这种执念深埋脑海多年，终于在自己的作品里实践了一次，希望通过屠丽这个角色来展现一种靠自身努力和经历，完成从平凡到非凡的成长，一如自己从…]]></summary>
+        <author>
+            <name>赵禹晴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中秋假期有哪些小众的城市和地方值得推荐？]]></title>
+        <id>http://www.zhihu.com/question/484009933/answer/2121276226</id>
+        <link href="http://www.zhihu.com/question/484009933/answer/2121276226?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-15T02:42:56.000Z</updated>
+        <summary type="html"><![CDATA[适合自驾的小众旅行地，超级宝藏不想别人知道的那种
+北京——爨底下村
+位于北京市门头沟区斋堂镇下辖村，中国传统村落，建于明代。整个村子不大，有非常典型的老北京四合院，如“财主院，福字院“等。这里的农家菜也很地道。北京的秋天很短，比市区要早上几周，中秋假期去最适合不过了。这里也有一段因断层造成的景观“一线天”，是一处天然关隘，裂谷长达100多米。
+
+
+
+当你走进一座村庄，看到叶子散落枝头，风来过，留下柿子沉甸甸坠满了天空，是北方的秋天，没错了。
+推荐住处：北京有关民宿
+特点：轻奢型，很难定。为何称之为小众，该民宿为轻奢型院子为主，外型为四合院。如新建不久的滑梯套院就有200平方米左右，可住4人。住所均很私密，住客大多为北京当地来此过周末的人。
+河北——秋天的草原天路
+其实草原天路不是很小众了，离北京车程3小时左右。为何还说很小众呢，那是因为很少人在秋天抵达。话不多说，先放图。
+
+
+
+草原天路，位于张家口市张北县和崇礼区的交界处，西起尚义县城南侧的大青山（国家级森林公园），东至崇礼县桦皮岭处，是连接崇礼滑雪区、赤城温泉区、张北草原风景区、白龙洞风景区、大青山风景区的一条重要通道，也是中国大陆十大最美丽的公路之一。
+其实从桦皮岭入口进去后，有成片成片的森林，阳光从缝隙里倾泻而下，像日光瀑布，铺在地上金光闪闪。这里的秋天很短也很长，因为即使秋天早已过去，当你开着车经过雪霜，也会突然再和金色相遇。秋天和冬天的草原天路，是被人忽视的存在。当然如果你能错开节假日，或许会更好。
+贵州黔东南——牛耕部落
+牛耕部落，坐落于贵州省黔东南黎平县尚重镇洋洞村，这里是中华农耕文明保存最为完整的遗存地，传统“牛耕”是世界上最古老的生态循环模式，洋洞是传承“牛耕”文化最为完整的山村，该区域的梯田上建有很多牛棚，农户的耕牛就喂养在高山梯田牛棚里。
+这里是真正的小众旅行地了。当你自驾行至山路，一路颠簸之后，抵达牛耕部落，顿觉豁然开朗，一切都值得。这种感受至今印象深刻。
+
+
+
+住宿推荐：牛耕部落
+推荐理由：没有其他住处了。这里是建在耕田之上的小木屋，居住环境很好。每一栋小木屋都以节气命名。早晨醒来看一眼窗外的景色，人生至此得以治愈。
+「贵州vlog03」探秘黔东南牛耕部落，割草喂牛、吹芦笙，是向往的生活呀
+福建——桐木村
+
+很多人去武夷山，只会去桐木关，其实桐木关只是一个景点，进村子里的话，还需要另行报备。也有一些武夷山组织的桐木关一日游，那样就无法感受静谧的山林生活。
+福建武夷山桐木村，外国人禁止入内，红茶却从这儿走向了世界
+也有传说，桐木村的蛇比人还多，而且说桐木村的空气要比其他地方甜三度，以上均说明这里的自然环境原始，没有经过污染。
+武夷山桐木村，必须住宿才能被允许进入的秘境。需要提前预定村子里的民宿，民宿均为当地人，会提前和关口报备车辆和姓名，进入时签字即可。一般这里的民宿都是做茶叶生意的，在这儿没有游玩项目，就是接近大自然的日子，采茶制茶喝茶～
+推荐民宿：南平桐木村尝百茶山舍客栈
+旅行这件事，以及目的地是否小众，是否是自己喜欢的，都要因人而异。以上均为博主本人去过且比较喜欢的几个，推荐给大家。
+去了之后如果你也喜欢，是我之荣幸。如果不喜欢，那就快把我忘记。
+提前，祝各位中秋快乐。玩得开心。人生最紧要就是开心嘛～～
+
+来源：知乎 www.zhihu.com
+素素拓拓的旅行派
+点击下载
+6 个回答，查看全部。
+你愿意「就地过年」吗？你所在的城市有什么小众的值得过年去的地方？
+2021年春节不回家国内旅行哪个城市比较适合？（一个女生）?]]></summary>
+        <author>
+            <name>素素拓拓的旅行派</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产游戏《了不起的修仙模拟器》DLC「武当仙踪」已解锁，体验如何？]]></title>
+        <id>http://www.zhihu.com/question/483819782/answer/2121630624</id>
+        <link href="http://www.zhihu.com/question/483819782/answer/2121630624?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-15T02:33:55.000Z</updated>
+        <summary type="html"><![CDATA[将游戏中融入传统历史文化，打造游戏国潮IP在近两年已经不是新鲜事。武当山是中国著名的道教圣地，自古便有“太岳”“玄岳”“大岳”之圣名，亦是玄天真武大帝的人间道场，被称为“亘古无双胜境，天下第一仙山”。
+
+
+2020年底，武当山文化创意有限公司正式成立。公司内部有一个《了不起的修仙模拟器》的老玩家，在综合了武当山官方文创的发展规划后，有了和游戏合作的想法。很快，武当山官方文创和《了不起的修仙模拟器》取得了联系，在了解后，《了不起的修仙模拟器》团队也对武当山及武当博物馆IP产生了浓厚的兴趣。2021年1月，团队成员亲自走访武当山景区，重点游览参观了武当山金顶、南岩宫、紫霄宫以及武当博物馆，对武当山的历史和文化有了更深刻的认识。武当山拥有的悠久历史和文化底蕴，独特的道家文化和真武修真升仙的传说与《了不起的修仙模拟器》模拟修仙游戏的定位不谋而合，武当山文创和《了不起的修仙模拟器》的合作也就顺理成章达成了。
+
+
+在全新的扩展内容中，《了不起的修仙模拟器》围绕武当山众多深刻而有趣的文化符号制作了大量的内容：
+
+
+新DLC《武当仙踪》增加全新的门派：武当山。以武当山的最为著名的几大景区为原型，将武当山绝美的仙境盛景复刻到游戏中，共计四个全新地图：武当金顶，南岩宫，复真观，紫霄宫。除此之外，游戏中还还原了武当山最著名的景观和建筑，如武当金顶的金殿，云海，复真观的九曲黄河墙，南岩宫的临崖绝壁，龙头香，紫霄宫的赑屃驼碑等……
+
+
+
+
+
+
+
+
+
+
+
+
+伴随着武当山门派一同登场的还有全新功法《玄天真武两仪妙道》。这是武当山的玄天真武荡魔祖师所传道统，此功法围绕“阴阳”的概念而制作，相比此前的功法拥有独特的机制设计。同时，中国传统文化四大灵兽之一的玄武，也在这个DLC中登场。龟蛇动静之势与阴阳太极之意相合，自古便是武当山文化中最重要的组成部分。玄武将作为武当山专属灵宠，供玩家驱使。
+
+
+此外，在《武当仙踪》DLC里，还围绕武当的文化还做了非常多的细节。
+·新增武当山专属灵宠：玄武
+作为中国传统文化四大灵兽，玄武和武当山有不解之缘。龟蛇动静之势与阴阳太极之意相合，自古便是武当山文化中最重要的组成部分。
+·新增武当山专属武器：拂尘
+拂尘是道教经典的法器，仙风道骨的道人挥动一柄拂尘飘然出尘的形象更是深入人心，现在在新的DLC，你也可以为自己的角色装备这一把增气质的武器了。
+·新增武当山专属武器：道剑
+道门所用的法剑，与凡俗之兵器不同。道家具有更加庄重的仪式感与灵性，更适合法宝的炼制。
+·新增武当山专属灵药：黄精
+武当山盛产之物，此物不光可服之充饥，长久服用更可强身健体益寿延年。如今武当盛产的黄精也加入了修仙的世界，必可为修行提供更多助益。
+·新增武当山专属丹药：五气辟谷丸/三花黄精丸
+武当山秘传的丹药，自古为武当山修行道人不传之秘，有非常神奇的灵效。随着武当仙境的现世，这些灵药也为大家所知。
+赶快到《了不起的修仙模拟器》全新DLC《武当仙踪》里来体验一番，感受武当山的极致景色吧。
+
+来源：知乎 www.zhihu.com
+武当山
+点击下载
+5 个回答，查看全部。
+了不起的修仙模拟器有哪些小技巧？
+《了不起的修仙模拟器》的营销手段有哪些？]]></summary>
+        <author>
+            <name>武当山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待第34届金鸡奖海报设计大赛网络投票中，《雄鸡凝视》目前投票第一？]]></title>
+        <id>http://www.zhihu.com/question/483709218/answer/2121644349</id>
+        <link href="http://www.zhihu.com/question/483709218/answer/2121644349?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-15T02:20:13.000Z</updated>
+        <summary type="html"><![CDATA[很多人投的是鸡，其实表达的是自己
+
+
+截至9月5日，第34届中国电影金鸡奖海报设计大赛网络人气投票结束，《雄鸡凝视》最终在100强角逐中以领先第二名超4万票的优势C位出道。
+《雄鸡凝视》为何获得如此高的人气，让小艺来为你分析~
+
+《雄鸡凝视》设计海报
+画风清奇，“雄鸡”脱颖而出
+今年，主办方把主视觉海报的设计权交给大众，从国内外共征集1610件作品，由专业评审从中选出100幅入围作品，由大众进行票选，堪称“百鸡争鸣”。收到的投稿作品中，平面作品约占70%、立体作品约有8%、手绘插画约有5%、抽象夸张和中国风作品约有3%等。
+部分入围海报
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+其中呼声最高的手绘海报《雄鸡凝视》描绘了一只神态表情刻画得惟妙惟肖、神气骄傲的五彩大雄鸡。因其眼神和喙部描画生动，配色大胆，搭配极具线条感，跳脱以往海报的严肃感，颠覆大众想象，表现出一种亲和力，不少网友评价“当你凝视鸡，鸡也在凝视你”“感觉很特别，眼前一亮”“独特而绚烂”“每根线条都很讲究”。
+本届海报大赛评委、中国电影家协会分党组副书记、秘书长闫少非是力推这幅海报入围的专家之一，对这幅作品印象深刻，他表示，“评选入围海报的过程大概分了有七八轮，第一轮评选出的几十张作品里就有它。我第一眼看到它的时候，就觉得它足够特别。” “我觉得它在看似简单（的形象）中体现了设计者的功底，是一个具有严肃性的作品，同时也让观众感到亲近。”
+议程设置，“雄鸡”热度提升
+传播学中的议程设置理论认为，大众媒介往往不能决定人们对某一事件或意见的具体看法，但是可以通过提供信息和安排相关的议题来有效地左右人们关注某些事实和意见，以及他们对议论的先后顺序。新媒体时代，议程设置主体也呈现出多元化趋势。
+互联网端口传播的引爆，实现了公众对热点话题的关注向组织议题的关注的转变。主流媒体、微博大V等发布关于金鸡奖海报《雄鸡凝视》相关微博热门话题 #雄鸡凝视作者回应爆红# #金鸡奖海报票选领跑作者回应#，自媒体发布《玩脱了！金鸡奖海报引发“视觉厮杀”，手绘鬼才脱颖而出！领先上万票，堪称海报界的毕加索！》《你一票我一票，雄鸡凝视要出道》等文章，赋予“雄鸡”不同程度的显著性，激发网友兴趣，引发更多网友关注。
+
+
+
+微博、抖音截图《雄鸡凝视》在网络爆火，成为各大平台出镜率最高的一只“鸡”，人们也开始展开它究竟是“美”还是“丑”的讨论。
+
+
+
+
+微博截图除了在审美层面的争论之外，也有其他相关话题的讨论和争议：网友为它投票的理由是出于喜爱还是玩梗？作为中国电影金鸡奖这类严肃奖项的海报，它是否合适？
+
+
+
+
+许多网友从创新性、艺术性等角度阐释该设计的可取之处，解读作者的创作意图。随后，海报原作者其他作品在网络上的曝光，让“凝视鸡”的“出道”愈发合理，可以理解为一种不落俗套的个人风格展示。
+
+
+全民参与，聚力“雄鸡”出道
+往年金鸡奖海报给不少网友留下“土味”印象，2019年，网友在微博发起“金鸡奖民间海报大赛”，邀请各路高手拯救金鸡百花电影节的海报，呼吁大家伸出援手，救救这只“鸡”。
+
+如今，金鸡奖海报迈出革新的步伐，首次采取“全民参与”的选拔形式，让网友实现从“监考官”到“阅卷人”的转变，10天时间里，投票活动共吸引超过130万人次点击，累计投票数量突破166万。对于网友来说，大众投票的确也为“民意”的整合和释放，提供了一条渠道。其中，网友为《雄鸡凝视》能够成功入选，纷纷投票点赞，甚至自发转发为其拉票“你不我不投，雄鸡何时能出头”。有些网友还将其作为自己每天的必做事项“今天你为雄鸡投票了吗”。
+
+如今《雄鸡凝视》能够C位出道，在《雄鸡凝视》的原作者Mr.Q看来，所有为《雄鸡凝视》投票的人，某种程度上都是将一部分自己投射在了它的身上：“它如今能被更多人知道，是因为每一个喜欢它、为它投票的人。某种程度上，它的每一片羽毛上都有大家的力量，我希望它的‘出道’能够鼓舞更多人，这是我的真心话。”《雄鸡凝视》引发网友火热讨论的背后，也代表着它符合大众对于电影节海报兼具创意审美和沟通共鸣的期待。电影节海报不能单单刻意追求“表”，更要追求“里”，既要有意思，又要有意义，不拘于传统，拥有包容的心态。艺术本该与众不同、有所创新，这幅别致的“雄鸡”也许正是老牌电影奖项向年轻文化靠拢的一次尝试。正如Mr.Q所言，“各种方式都可以尝试，正所谓‘一切皆有可能’。不必在头脑里把某种场合与某种模板绑定，打破禁锢，让表现方式丰富多彩也可以”。此次《雄鸡凝视》的C位出道并不意味着确定登上今年的“金鸡奖”官方海报，未来还要交由复审小组进行评判。最终是哪只“鸡”登上第34届中国电影金鸡奖海报，让我们拭目以待！
+
+来源：知乎 www.zhihu.com
+中国文艺网
+点击下载
+34 个回答，查看全部。
+如何评价第三十二届金鸡奖颁奖典礼及获奖名单？
+如何评价2018年百花奖和金马奖的海报？]]></summary>
+        <author>
+            <name>中国文艺网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Fiber 架构浅析]]></title>
         <id>https://toutiao.io/k/wlmr05o</id>
@@ -6945,6 +7510,16 @@ KellyWeaver，公共卫生 / 心血管流行病学
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ElasticSearch 之 Analysis 介绍]]></title>
+        <id>https://toutiao.io/k/x37f1v5</id>
+        <link href="https://toutiao.io/k/x37f1v5"/>
+        <updated>2021-08-29T06:04:03.000Z</updated>
+        <summary type="html"><![CDATA[我们在前面的文章中介绍了ElasticSearch的Cluster和存储相关的基础，但总的来说，那些都还是一个类似NoSQL的数据库。而ElasticSearch真正厉害的部分还是在search这个方面，也就是说它不仅仅可以存储文本，还可以把这些文本的内容进行index，从而服务于Search。 ElasticSearch的三大部分 要理解ElasticSearch，首先我们需要关注其很重要的三个部分： Mapping：就是数据的每一个域都是如何解析的。 Analysis：就是一个全文本是如何进行分析并使它可以被搜索的。 Query DSL：ElasticSearch使用的查询语言。 本文就来详细介绍一下其中的Analysis的过程。 精确值和全文本 总得来说ElasticSearch把数据分成了两个类型，一个是精确值，一个是全文本。 所谓的精确值就是它精确表示的值。比如说一个日期或者一个userID，就像2018-10-01和2018进行精确值比较他们就是不一样的，再比如Apple和apple进行精确值比较也是不一样的。所以说精确值的查询和比较简单，一样就是一样，不一样就是不一样，比如下面这个查询： 而另外一个是全文本，它通常是以一种人类理解的语言来表示的，所以一般来说我们很难回答文本是否和查询是一样的或者匹配的，我们一般会说这个文本和查询的匹配程度是怎么样的，也就是说两者的相关度是多少。所以这个时候，我们不是进行精确的 比较，而是进行意图的识别： 一个查询“US”的query我们需要返回包含“Unite State”的文本。 一个查询“jump”的query和Jumped，jumps，jumping甚至leap都是在一定程度上匹配的。 我们上文提到apple和Apple，或者人名的大小写比如josh ling和Josh Ling也是应该匹配的。 那么ElasticSearch是如何做到这些的呢，它会首先分析文本，然后使用分析后的结果来创建inverted index，下面我们就来详细讨论一下Inverted index。 Inverted Index Inverted Index是一种数据结构，它专门用来服务快速搜索的。它首先是一个文本中出现的独立的单词列表，然后每个单词对应一个list，这个list中包含了所有有这个单词的文本。我们来看下面这个例子，假设我们有下面两个文本内容： The quick brown fox jumped over the lazy...]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用 Flink Hudi 构建流式数据湖]]></title>
         <id>https://toutiao.io/k/y1h8d0o</id>
         <link href="https://toutiao.io/k/y1h8d0o"/>
@@ -11762,400 +12337,6 @@ $ go version go version go1.17 darwin/arm64 $ go run ~/main.]]></summary>
 The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Leonardo Losoviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可以推荐好用保湿、抗衰精华吗？]]></title>
-        <id>http://www.zhihu.com/question/58638740/answer/1901671668</id>
-        <link href="http://www.zhihu.com/question/58638740/answer/1901671668?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-08-17T11:00:11.000Z</updated>
-        <summary type="html"><![CDATA[因为日常有参与皮肤管理的工作，所以，关于好用的保湿产品这件事我一直都在聆听不同年龄段、不同肤质的女性的意见，发现大家近几年对保湿这件事的看法，还是有蛮大变化的。
-最明显的一个变化应数对保湿的重视程度升高。以前很多人说起护肤，都会把重点放在抗衰老上，毕竟不管油皮干皮混合皮，随着年龄的增长，都绕不开除皱抗衰老这个大主题，但最近几年随着护肤科普的普及，大家开始意识到“皮肤屏障”这个东西，良好的保湿是维护正常皮肤屏障、生理功能，以及延缓皮肤衰老的基础。地基牢才能建起好房子，所以保湿被越来越多人重视起来，在我看来这是一件好事。
-皮肤屏障是一层“砖墙”般的结构，表皮细胞如同“砖块”，而联结砖块的“水泥砂浆”则是以天然保湿因子（natural moisturizing factor，NMF）为主的细胞间脂质，在砖墙的最外层，还有一层由神经酰胺、胆固醇等油脂共同形成的“腻子”，这就是我们的皮脂膜。它们共同构成了我们的皮肤屏障。
-
-皮肤屏障作为人最浅表的一道防线，每时每刻都在帮助我们控制体内水分不要过快丢失，并且抵御紫外线、致病菌、过敏原等外来刺激的伤害。
-
-当皮肤得到良好的保湿时，屏障完整，细胞间脂质和皮脂膜将经皮失水率控制在合理的范围内，皮肤总能维持正常的弹性、细腻的外观，对各种外界刺激能及时进行自主的修复；
-而当皮肤处于乏脂状态时，表皮细胞间的联结是欠紧密的，经皮失水就会升高，皮肤变得粗糙、脆弱，正常的生理活动受到影响，外界的各种刺激都更容易造成伤害。
-
-从这个层面上说，其实是“不保湿，无功效”，没有良好的保湿作为基础，无论是美白、抗衰还是别的什么功效，就都无从谈起。25以上的女性总是特别关心产品有没有抗衰的功能，但保湿都没有认真做好，这是本末倒置的，重视保湿，才是回归护肤的本质。
-但最近数年我还发现，人们在重视保湿的同时，又比以往更期望肤感轻盈。这不能不说是一个小小“悖论”。传统的保…]]></summary>
-        <author>
-            <name>陈语岚</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Open-Source Icons]]></title>
-        <id>https://smashingmagazine.com/2021/08/open-source-icons/</id>
-        <link href="https://smashingmagazine.com/2021/08/open-source-icons/"/>
-        <updated>2021-08-17T07:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Your project is on a tight budget? We’ve collected some wonderful, free icons and goodies that we’ve discovered lately and that are bound to give your design the finishing touch. We’ve also just recently covered [Figma plugins](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/), [SVG generators](https://www.smashingmagazine.com/2021/03/svg-generators/), [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) and [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价国产动画《游侠战纪》？]]></title>
-        <id>http://www.zhihu.com/question/480075437/answer/2064570230</id>
-        <link href="http://www.zhihu.com/question/480075437/answer/2064570230?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-08-17T03:00:10.000Z</updated>
-        <summary type="html"><![CDATA[谢邀，原著作者来答一波。
-首先，《游侠战纪》呢，是小佛在网易云阅读发表的悬疑探险小说《夜行者：平妖二十年》改编而成的。
-
-“人之假造为妖，物之性灵为精，人魂不散为鬼。天地乖气，忽有非常为怪，神灵不正为邪，人心癫迷为魔，偏向异端为外道。”
-全书一共分为十一卷加几个番外篇。
-分别是：
-
-整体的规模呢，还是很宏大的，世界观也比较齐全，所以一开始的时候，其实还挺担心改编的难度的。
-不过当整体的动漫剧集出来之后，我发现动漫制作，其实真的还是挺用心的。
-首先讲剧情节奏。
-
-众所周知，动漫以及影视改编，最困难的就是去芜存菁，将小说原本平缓的节奏加快，一下子就调动观众的情绪点和代入感，把小说最精华的部分给表现出来。这一点《游侠战纪》就做得非常不错，前情交代、变化和转折，以及仇恨点的累加，还有小说要点的节奏感，几乎都表现得十分优秀，并且在人物方面，正反两派的选择与塑造，我是觉得都表现出了很高的职业水准……
-总之我是一口气看到最新番集，感觉十分流畅，没有阻碍。
-********
-其次是动漫画风。
-
-说实话，我是比较少看动漫的一类观众，但《游侠战纪》出来之后，我特意将国内现在播放的一些动漫番剧找出来看了一下，感觉画风和制作水平，都十分良心，无论是服饰、建筑和人物建模的质感，还是细节方面，甚至毛发之类的渲染……都属于非常用心、并且不惜经费的那种，特别是这种3D的动漫，更是如此。
-总之从观众角度来讲，就是诚意满满，十分用心。
-*********
-因为小佛不是专业动漫领域的人员，所以没办法讲太多的专业内容。
-但我觉得，有一个好的故事，好的世界观，以及鲜活的人物，然后制作方认真地吃透原作，并且在节奏与剧情上进行影视化角度的改进，无论是画面，还是人物，还是制作水平，都是优中选优，上上之选，我觉得《游侠战纪》，就已经具备了十分优秀的品质。
-同时我觉得如果国漫都有这样的用心和努力，大家总是聊到的“国漫崛起”，也真的不再是说说而已，而是脚踏实地，努力达成了！
-当然，看完之后，其实想讲的很多很多，特别是许多的细节，当真是让人感动，还是希望大家能够去咱们腾讯视频，去观看动漫一下，一定能过发现更多的精彩细节，以及惊喜的。
-*********
-另外，作为原著作者，小佛倒是可以唠两句。
-《游侠战纪》的原著《夜行者：平妖二十年》绝对精彩，动漫现在只是拍到了一二卷，更多的精彩内容，还未呈现，请大家给予更多的支持，让全篇十一卷，能过展现在大家的面前，我可以给你们保证，这绝对是一个足够精彩、并且让人感动的故事，不用担心后续故事的不足……
-大家还可以关注一下小佛的微信公众号：“南无袈裟理科佛”，里面也有相当多关于小说的内容哦……
-
-
-
-来源：知乎 www.zhihu.com
-南无袈裟理科佛
-点击下载
-延伸阅读：
-如何看刺客伍六七第三季第六集?
-如何评价刺客伍六七第二季第九集？]]></summary>
-        <author>
-            <name>南无袈裟理科佛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分布式事务最经典的七种解决方案]]></title>
-        <id>https://toutiao.io/k/vxr31wq</id>
-        <link href="https://toutiao.io/k/vxr31wq"/>
-        <updated>2021-08-17T01:05:08.346Z</updated>
-        <summary type="html"><![CDATA[随着业务的快速发展、业务复杂度越来越高，几乎每个公司的系统都会从单体走向分布式，特别是转向微服务架构。随之而]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入分析 JavaScript 模块循环引用]]></title>
-        <id>https://toutiao.io/k/v9mbhtm</id>
-        <link href="https://toutiao.io/k/v9mbhtm"/>
-        <updated>2021-08-17T01:05:08.257Z</updated>
-        <summary type="html"><![CDATA[背景 大力教育的在线教室中台提供封装了核心能力的教室 SDK，业务方基于教室 SDK 开发面向用户的在线教室]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 移动应用模拟定位的非侵入式测试方案]]></title>
-        <id>https://toutiao.io/k/bjey82w</id>
-        <link href="https://toutiao.io/k/bjey82w"/>
-        <updated>2021-08-17T01:05:08.172Z</updated>
-        <summary type="html"><![CDATA[iOS应用模拟定位信息的非侵入式方案]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 插件系统，一个凉了快半截的特性？]]></title>
-        <id>https://toutiao.io/k/oaqdf7q</id>
-        <link href="https://toutiao.io/k/oaqdf7q"/>
-        <updated>2021-08-17T01:05:08.073Z</updated>
-        <summary type="html"><![CDATA[Go 在运行时实现动态的外部加载？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[译] 通过 Redis 构建一个响应式架构]]></title>
-        <id>https://toutiao.io/k/328v6nm</id>
-        <link href="https://toutiao.io/k/328v6nm"/>
-        <updated>2021-08-17T01:05:07.978Z</updated>
-        <summary type="html"><![CDATA[通过 Redis 构建一个响应式架构]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试反杀（GitHub 热点速览 v.21.33）]]></title>
-        <id>https://toutiao.io/k/a4q7vim</id>
-        <link href="https://toutiao.io/k/a4q7vim"/>
-        <updated>2021-08-17T01:05:07.890Z</updated>
-        <summary type="html"><![CDATA[技术面试最后反问面试官的问题，拿下这个面试官，妥了]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在别人写的代码上做修改我是这样保证正确性]]></title>
-        <id>https://toutiao.io/k/dtxvscy</id>
-        <link href="https://toutiao.io/k/dtxvscy"/>
-        <updated>2021-08-17T01:05:07.656Z</updated>
-        <summary type="html"><![CDATA[9年来我再也没有接手可以毫无负担，直接推倒重写的代码。就算有，不搞清楚以前的逻辑和背景，就直接抛掉这些历史包袱是不对的。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[String s=&quot;a&quot;+&quot;b&quot;+&quot;c&quot;，到底创建了几个对象？]]></title>
-        <id>https://toutiao.io/k/8lx9qng</id>
-        <link href="https://toutiao.io/k/8lx9qng"/>
-        <updated>2021-08-17T01:05:07.578Z</updated>
-        <summary type="html"><![CDATA[一道基础的面试题，竟然藏了这么多的坑…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ 协程库 CO 快速上手指南]]></title>
-        <id>https://toutiao.io/k/pc3l8yr</id>
-        <link href="https://toutiao.io/k/pc3l8yr"/>
-        <updated>2021-08-17T01:05:05.238Z</updated>
-        <summary type="html"><![CDATA[GITHUB idealvin/co参考文档英文: github gitee中文: github giteeCO 是什么CO 是一个优雅、高效的 C++ 基础库，支持 Linux, Windows 与 Mac 等平台，它实现了类似 golang 的协程、基于协程的网络编程框架、命令行…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[存储管理的四大基本功能]]></title>
-        <id>https://toutiao.io/k/m4kx898</id>
-        <link href="https://toutiao.io/k/m4kx898"/>
-        <updated>2021-08-17T01:05:05.020Z</updated>
-        <summary type="html"><![CDATA[存储管理的四大基本功能1、内存分配与回收当有作业进入系统时，存储管理模块就会根据当前内存情况来分配内存给它；当作业完成后，就会回收作业占用的内存，将这部分内存设置为可分配状态。分配方式主要有两种：静态分配：作业在运行之前，已经明确所需内存的大小，并且一次性分配；作业在运行的时候，不可以重新申请或移动内存。动态分配：作业在运行期间，可以根据需要动态申请内存。比...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabs in HTML?]]></title>
-        <id>https://css-tricks.com/?p=346418</id>
-        <link href="https://bkardell.com/blog/SpicySections.html"/>
-        <updated>2021-08-16T23:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Brian Kardell shares a bit about the progress of bringing "Tabs" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.
-The post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMAX 摄影机会不会因为太清晰而失去电影感？]]></title>
-        <id>https://daily.zhihu.com/story/9739257</id>
-        <link href="https://daily.zhihu.com/story/9739257"/>
-        <updated>2021-08-16T23:08:17.000Z</updated>
-        <summary type="html"><![CDATA[andtoie
-阅读原文
-
-泻药。先说看法，个人认为清晰度和电影感没有关系。
-电影感如果算一种感官体验的话，这个事就没法界定，每个人心目中都有对电影感的认知。我对胶片感的认知就可以定义为模拟感，线性的，有底噪的，暖的。比如卡式录音带的底噪，黑胶唱片的底噪，VHS 的色彩丢失，现在的各种 VHS 模拟 App，也都是基于这些特点，精确的还原，很好玩。但说回电影感，如果讲的是从前胶片拷贝的划痕和供片不稳的抖动，很遗憾，这个的确是技术问题，到胶片商业放映的后期，其实已经解决的很好了。我从前有幸在中影看过母版的 35mm 拷贝，可以说清晰度不亚于现在的数字拷贝，或者说同一部电影修复版本。但，以上的描述，也是基于我本人的主观记忆，它到底是什么样子，有多清晰，无法量化。
-所以电影感，个人觉得唯一能够量化的就是每秒 24 格放映，其他的划痕之类这些大多是数字视频滤镜带给大家的误解。说实话，数字放映是商业院线的福音，也是广大影迷的福音。因为院线不用为了一套被放了 N 多次全都是划痕的拷贝去求爷爷告奶奶，到电影发行公司彻夜排队了。2015 年看过《霸王别姬》的胶片拷贝，其实同看数字修复版本也没有很大区别，只是比修复版更柔和一点。但是说到 IMAX 的清晰度和胶片感这个事，个人觉得没有关系。
-不过 IMAX，横走片 70mm 格式胶片放映依旧是现在清晰度最高的，没有之一。折合数码分辨率可以到 1 亿 6000 万像素，这个是没错的，而现在的激光 IMAX 也不能达到，这是投影技术的壁垒，短时间还是不能超越胶片。
-比如《敦刻尔克》全片用胶片 IMAX 格式和竖走片 65mm 格式混拍，而且是有史以来胶片 IMAX 格式使用比例最高的电影。在看的时候，你也不会觉得特别清晰，还是很有所谓“电影感”的。都是诺兰拍的，都是用了胶片 IMAX 格式，《蝙蝠侠：黑暗骑士》是首次将横走片 65mm 胶片 IM…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留置了两个小时左右的尿液标本还可以用于检验吗？]]></title>
-        <id>https://daily.zhihu.com/story/9739242</id>
-        <link href="https://daily.zhihu.com/story/9739242"/>
-        <updated>2021-08-16T23:08:13.000Z</updated>
-        <summary type="html"><![CDATA[菲利普医生，医学科普作者/美短饲养者
-阅读原文
-
-这个问题蛮有意思的，我在临床上也遇到过很多与此相关的趣事。这个回答一边跟大家分析原因，一边讲讲有趣的故事。
-先说结论，尿液检查种类很多，检查目的也不一样，但是为了临床上方便跟患者沟通，一般建议查早晨第一次的排尿。假如门诊患者如果来医院不方便，如果没有特殊检查要求，一般也可以条件放宽到当天任何时段的尿液。但是不建议使用患者保存比较长时间的尿样。必须检查晨尿的话，医生会跟患者沟通的。
-必须检查晨尿的目的包括但不限于：
-1，激素类：最典型的就是早早孕检查的 HCG。因为妊娠女性尿液中 HCG 的浓度不仅显示是否怀孕，还和胚胎发育情况有一定关系。比已知妊娠的女性如果尿液 HCG 突然降低，则提示先兆流产。所以，为了把所有受试者尿样统一起来，规定晨起的第一次排尿作为检测尿样，从最初的“兔子验孕”或者“青蛙验孕”时代就是选用的晨尿。
-有哪些神奇的动物？
-这样再与参考值作对照，就可以相对精准的判断妊娠状态。如果错过了晨起第一次排尿，甚至到医院以后为了早点排尿大量喝水，导致尿液成分稀释，测出的 HCG 偏低，可能会让医生误以为出现了先兆流产。这时候往往要复测一个血 HCG（抽血），因为血液中 HCG 的浓度基本上是恒定的。其他的激素类检查，比如生长激素、促性腺激素等也都是这个道理。但是为了检查的方便，避免上述虚惊一场的发生，临床上越来越多的选择直接抽血检查。
-整个妊娠周期内 HCG 的波动情况
-2，肾功能评估——尿比重：肾脏的一项重要功能就是浓缩尿液以保存宝贵的水分。当一些肾脏疾病发展到肾功能失代偿的时候就会出现尿液过度稀释，尿比重降低的情况。与激素检查的道理接近，晨尿就是为了标准化尿样，因为一般而言不同个体的晨尿都是相对比较均一的，避免了过量饮水引起的尿液稀释问题。所以为了评估肾脏的尿液浓缩功能，慢性肾病、垂体疾病（中枢性尿崩）的尿液检查…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国古代的天文学达到了什么高度？]]></title>
-        <id>https://daily.zhihu.com/story/9739235</id>
-        <link href="https://daily.zhihu.com/story/9739235"/>
-        <updated>2021-08-16T23:08:09.000Z</updated>
-        <summary type="html"><![CDATA[ag獭，好奇而无用的獭獭
-阅读原文
-
-推算日食并不是什么高深技能，公元前数百年的巴比伦天文学家就发现了沙罗周期，发现大约每 6585 日，太阳、地球、月球就会回到相似的位置，发生几乎相同的日食或者月食。中国古代基本也是根据周期来推算日月食的。当然要精确推算日月食的发生时间，持续时长，还是很有技术含量的，这也是中国古代历法的重要内容之一。
-事实上，在明清之交的历法之争中，正是因为钦天监运用传统方法推算的天象有误，朝廷才决定调用懂西洋历法的学者参与新历法的制定。1629 年，钦天监根据《大统历》推算日食发生错误，与此同时，和天主教传教士交好的礼部侍郎徐光启却根据西方历法做出了正确的预报，于是崇祯皇帝批准了改历的请求，也就有了之后的《崇祯历书》。
-*.当然，误差也有可能是因为当值官员水平不够所致。
-“天文”与天文
-《后汉书.天文志》的部分内容
-中国古人所说的天文，和今天我们所说的天文学有所不同。二十四史大多都著有专门的天文志，这里面的天文，主要是关于天象的记录，以及天象与人间的对应关系，大致相当于今天的占星术。
-东西方的古人大多相信上天与人间存在着一定对应关系，喜欢用天象来预测未来，为现实事件找到依据。同样的天象，在不同人的解释下，往往有着不同的含义，影响着普罗大众对现状和未来的看法。因此，古代的大一统王朝往往禁止民间私习天文，以便把对天象的解释权握在官方手中，防止颠覆性言论的出现。
-在中国古代，和今日所说天文学更接近的学科，是历法。古代的历法不同于今天的日历，往往包括日期计算、节气、日月食、五星运动等各方面的内容，以及相关的计算公式，内容非常丰富。编订准确实用的历法，需要长时间的天文观测，以及过硬的数学知识，可以说，这是推动中国古代科学发展的重要动力之一。
-我国古代传统历法的巅峰是元代的授时历。授时历继承和发展了宋元以来的数学、天文观测和仪器制造技术，同时可能还融入了一些伊斯兰…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么化妆后在有些光线角度下看起来粉感很重？]]></title>
-        <id>https://daily.zhihu.com/story/9739251</id>
-        <link href="https://daily.zhihu.com/story/9739251"/>
-        <updated>2021-08-16T23:08:00.000Z</updated>
-        <summary type="html"><![CDATA[胖博士，懂你皮肤问题的清华胖师兄
-阅读原文
-
-彩妆里最主要的成分就是色粉，它能遮盖皮肤的瑕疵，让人看起来光彩动人。但是粉体本身很难均匀附着在脸上，所以需要进行表面处理，然后通过成膜剂，才能实现彩妆的效果。
-当粉体和成膜剂质量不好，或者配合不好的时候，就有可能出现粉感很重的问题。尤其是在某些角度下，有了光影的加持，就更严重了。
-具体来说，有以下三点原因：
-
-有可能是粉体本身质量不好，尺寸太大；
-粉体表面处理和分散不好，发生团聚；
-还有可能是成膜剂的质量太差，发生卡粉；
-粉底（图片来自网络）
-粉体质量不好，尺寸太大
-彩妆里的色粉对尺寸有严格的要求，一般在几微米到十几微米。尺寸越细腻，越能均匀的铺开，一般来说，遮盖能力也就越好。
-色粉（图片来自网络）
-如果觉得很难理解的话，大家可以自行脑补砂子和碎石子的区别。在地上平铺一层碎石子，是不是会有更多的空隙？
-但是尺寸越小，生产工艺也就越复杂。大尺寸的粉体只要用矿石简单研磨就可以，而小尺寸的粉体研磨工艺复杂的多。甚至有些无法通过研磨实现的，要用化学方法生产，成本高的多。
-除了平均尺寸之外，尺寸的分布也很重要。举个例子，同样平均直径是 10 微米，一种色粉的直径范围是 8—12 微米，而另一种色粉的直径是 1-19 微米。前者看起来会细腻的多，工艺复杂的多，成本也高的多。
-当色粉尺寸很小的时候，因为人体视觉的限制，我们看不到细微的颗粒，于是看起来就是光滑连续的粉底。
-而如果里面混入了尺寸大的色粉，加上外面的成膜剂和粉底配方，肉眼就可以看见它们，于是就形成了“粉感”
-
-粉体表面处理和分散不好，发生团聚
-色粉和色粉之间的组成一致，和配方里的其他成分组成不同。于是粉体之间天然倾向于聚集在一起。
-举个例子，大家把面粉加到水里，是不是一不小心就结成了面粉团子？
-电子显微镜下团聚在一起的粉（图片来自网络）
-为了防止粉体的团聚，会把粉体表面处理一下，比如用有机硅包裹一下。粉底液里面除了色粉和成膜剂之外，还会加入不少硅油。所以硅处理过的色粉和含有硅油的配方就变的亲切起来，粉体也更容易分散开来，减少团聚。
-另外在生产粉底液的时候，也会高速搅拌和均质，进一步分散色粉。
-所以如果色粉的表面处理工艺不合格，或者生产工艺不过关的时候，色粉就会团聚在一起，变成一坨色粉。看起来粉感自然也就很重了。
-
-成膜剂的质量太差，发生卡粉
-前面提到，色粉本身附着能力不强，所以需要在粉底里面加入成膜剂。
-大家记得用粉扑的时候，持妆效果就不好吗？然后再去看老版红楼梦这一类的上古电视剧，里面人物的妆容是不是粉感也很重？
-好的成膜剂把色粉牢牢的抓住，在皮肤表面形成一层均匀的膜。于是粉底涂完之后非常服帖，妆感自然持久。
-
-而差的成膜剂则没有办法完全抓住粉体。当粉体在皮肤上堆积的时候，看起来就有很重的粉感，也就是我们常说的卡粉。
-
-所以化妆后某些角度下粉感很重，不是你的化妆技术不行，而是粉底的质量不行。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网产品运营人员的日常工作内容是什么？]]></title>
-        <id>https://daily.zhihu.com/story/9739255</id>
-        <link href="https://daily.zhihu.com/story/9739255"/>
-        <updated>2021-08-16T23:07:51.000Z</updated>
-        <summary type="html"><![CDATA[二船，不断拓宽自我边界
-阅读原文
-
-很多应届同学以为“产品运营”是个很高端很洋气的岗位，进公司做了几天后发现，自己每天都在处理各种琐事，什么策划活动带动大盘 DAU 上涨啥的根本没有，还要各种卑微求求研发做需求。不经感叹：就这？！还需要招一个研究生？还需要招一个名校毕业生？
-但对于应届生而言，大部分运营岗位前期都挺基础、无聊、枯燥的，特别是大厂，你更觉得自己是个无足轻重的螺丝钉。 前排@秦路 大大的运营一天真的很形象。
-我的一段工作经历，是今日头条产品运营，主要是服务平台创作者。类似服务知乎上回答问题的大大们，如果他们用平台发文不爽了、觉得产品设计太沙雕、功能使用不顺手或者有 BUG，都会通过各种反馈渠道到产品运营这里。产品运营作为接用户的第一线，处理这些问题，不能处理的分发到研发或者其他运营那里。
-以上为背景，我说说自己刚开始做产品运营时的一天：
-上午：
-处理产品反馈。反馈一共有四个池子，不同池子对应的是不同级别的用户。四个池子的反馈都需要处理，基本等同于客服，回复和解决用户的各种奇葩问题。
-比如，“为什么我发不了文章了？”一个简单朴素的小问题，于是开始排查，账号是否异常，一看是不当发言暂时被禁言 7 天了。而且是有过站内信通知用户原委的，但还是要来问，你还是要回答。
-问最多的：“为什么我发的文章阅读量只有个位数？”虽然内心想的是，说明你写的烂没人看啊！但如果真这么回复用户，估计就会有“今日头条工作人员辱骂创作者”这种小道消息流传出来了。帮助用户更好的使用平台也是我们的职责，所以还是要认真回复：从哪些方面可以让文章更具有可读性，再附上平台出的一些创作者教程。
-一般早上十点上班，十二点吃饭，所以上午两小时很快就过去了。估计能处理 100 多条反馈。如果遇上 BUG、或者需要找其他部门协助排查的问题，可能就会更慢一些。但我的感觉就是，一上午我都在“说话、沟通”，没时间思考。
-…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9739267</id>
-        <link href="https://daily.zhihu.com/story/9739267"/>
-        <updated>2021-08-16T23:07:42.000Z</updated>
-        <summary type="html"><![CDATA[有哪些让你庆幸及早脱粉的明星？
-
-狂奔的考拉，长大了的相信自己会拥有全世界的小屁孩
-阅读原文
-
-天线宝宝，不多说了，我成熟之后感觉他们太幼稚，和我想像中的不一样了。
-虽然他们陪我度过了幼年时光吧
-阅读原文
-
-医学生能硬核到什么程度?
-
-喆纸鹤，环境工程研究就读ing
-阅读原文
-
-我不知道别人，我就知道我爸。
-那年五六岁被蛇咬了口，跑回去抱住他的腿哇哇的哭。
-过了好一会他才肯把脑袋从报纸里挪开：“哭了这么久还这大声，肯定没毒了，崽～”
-阅读原文
-
-你是通过什么事情才知道自己丑的？
-
-陈观良，入流的小说作者
-阅读原文
-
-？？？
-我是通过这个知道的。
-阅读原文
-
-什么时候让你想逃离你的寝室？
-
-Dear Gakki，划水界精英
-阅读原文
-
-当我泡好一桶方便面结果其他五个人都围上来的时候
-
-
-
-阅读原文
-
-可以进来讲个笑话吗？
-
-知乎用户，人生苦短，看好就买
-阅读原文
-
-有一个同学在群里说，“我写的程序有 bug，怎么办？”
-有个同学回了一句，“可以跑吗？”
-“你说的是程序跑还是人可以跑。”
-“只要有一个能跑就行。”
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cutouts]]></title>
-        <id>https://css-tricks.com/?p=346686</id>
-        <link href="https://ishadeed.com/article/thinking-about-the-cut-out-effect/"/>
-        <updated>2021-08-16T20:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. 
-The first thing …
-The post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML is Not a Programming Language?]]></title>
-        <id>https://css-tricks.com/?p=346318</id>
-        <link href="https://css-tricks.com/html-is-not-a-programming-language/"/>
-        <updated>2021-08-16T14:44:35.000Z</updated>
-        <summary type="html"><![CDATA[HTML is not a programming language.
-I’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …
-The post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Alvaro Montoro</name>
         </author>
     </entry>
 </feed>
