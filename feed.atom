@@ -2,10 +2,709 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T01:13:45.168Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-17T01:17:30.658Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[基于 k8s 的集群稳定架构]]></title>
+        <id>https://toutiao.io/k/h8rg2ec</id>
+        <link href="https://toutiao.io/k/h8rg2ec"/>
+        <updated>2021-09-17T01:17:30.605Z</updated>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformer 代码完全解读]]></title>
+        <id>https://toutiao.io/k/cqyna2w</id>
+        <link href="https://toutiao.io/k/cqyna2w"/>
+        <updated>2021-09-17T01:16:49.075Z</updated>
+        <summary type="html"><![CDATA[代码+注释+讲解。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic 原子类的实现原理]]></title>
+        <id>https://toutiao.io/k/xqomf14</id>
+        <link href="https://toutiao.io/k/xqomf14"/>
+        <updated>2021-09-17T01:16:48.916Z</updated>
+        <summary type="html"><![CDATA[线程安全真的是线程的安全吗？什么是 Atomic？实现一个计数器AtomicInteger 源码分析Atom]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓存一致性？get]]></title>
+        <id>https://toutiao.io/k/bga7ilo</id>
+        <link href="https://toutiao.io/k/bga7ilo"/>
+        <updated>2021-09-17T01:16:48.827Z</updated>
+        <summary type="html"><![CDATA[人人都懂缓存一致性，咱也得懂。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis 列表实现原理之 Ziplist 结构]]></title>
+        <id>https://toutiao.io/k/mhyx23b</id>
+        <link href="https://toutiao.io/k/mhyx23b"/>
+        <updated>2021-09-17T01:16:48.742Z</updated>
+        <summary type="html"><![CDATA[Redis列表类型可以存储一组按插入顺序排序的字符串，它非常灵活，支持在两端插入、弹出数据，可以充当栈和队列]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 WasmEdge 在 WebAssembly 中运行 JavaScript]]></title>
+        <id>https://toutiao.io/k/dn622as</id>
+        <link href="https://toutiao.io/k/dn622as"/>
+        <updated>2021-09-17T01:16:48.649Z</updated>
+        <summary type="html"><![CDATA[WebAssembly 最初是作为“浏览器中的 JavaScript 替代品”。其想法是在浏览器中安全地运行]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这可能是 8 月 GitHub 最火热的开源项目]]></title>
+        <id>https://toutiao.io/k/s122yjk</id>
+        <link href="https://toutiao.io/k/s122yjk"/>
+        <updated>2021-09-17T01:16:48.447Z</updated>
+        <summary type="html"><![CDATA[这期都是什么神仙项目？]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探案：让被盗的数据 “滴血认亲”]]></title>
+        <id>https://toutiao.io/k/etpmui3</id>
+        <link href="https://toutiao.io/k/etpmui3"/>
+        <updated>2021-09-17T01:16:48.348Z</updated>
+        <summary type="html"><![CDATA[每一笔阴暗的交易背后，都有一副明晃晃的镣铐。——引子 2004年，《天下无贼》中葛大爷的一句：“21世纪什么]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非 VIP 用户下载限速，原来是这么实现的]]></title>
+        <id>https://toutiao.io/k/m4uehh8</id>
+        <link href="https://toutiao.io/k/m4uehh8"/>
+        <updated>2021-09-17T01:16:45.445Z</updated>
+        <summary type="html"><![CDATA[在日常工作之余，二狗子其实还是个隐藏的大触，一手素描画得出神入化，不少看过的小伙伴嗷嗷叫着求分享。为了让更多小粉丝能看到自己的作品，二狗子开发了一个提供有版权的素描稿件的下载网站。 二狗子的小网站，…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 TS 实现一个类型完备的事件通讯器]]></title>
+        <id>https://toutiao.io/k/7csao58</id>
+        <link href="https://toutiao.io/k/7csao58"/>
+        <updated>2021-09-17T01:16:45.350Z</updated>
+        <summary type="html"><![CDATA[最近文章点赞数太少了。。。我的七八千粉丝可能都是假粉！ 所以换个震惊点的标题试试。点了收藏、喜欢的也顺手给孩子赏个赞吧！阿伟：TypeScript：我都传了 type 了，能不能给我自动推导出 data 类型啊？本文可理…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 176 期）：中国法院承认 GPL 吗？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html"/>
+        <updated>2021-09-17T00:34:58.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+2021 世界机器人大会在北京举行，一家公司展出了"爱因斯坦"人形机器人，使用中文向学生"授课"。（via）
+本周话题：中国法院承认 GPL 吗？
+开源软件通常带有许可证。大家一直很想知道，如果国内用户不遵守许可证，可以去法院告他吗？
+上周有一条新闻，深圳市中级人民法院一审判决，被告违反了 GPL 许可证，赔偿侵权费50万元。
+
+很多程序员很兴奋，认为这代表 GPL 许可证得到中国法院的认可。
+我仔细读了判决书，觉得跟大家想的不一样，这个案件很复杂，得不出法院认可 GPL 的结论。
+
+我简单说一下案情。
+济宁市罗盒网络科技有限公司（以下简称"罗盒科技"）在 GitHub 开源了软件 VirtualApp，使用了 GPL 许可证。但是，他同时又声明，不得用于商业用途，除非购买商业授权。
+大家觉得，这个声明有问题吗？ 可以既采用 GPL 许可证，又不许用于商业用途吗？
+回答是，这个声明有很大问题。GPL 许可证允许商用，只要你用了这个许可证，别人就可以把你的代码用于商业用途。
+[开源小知识] 
+如果想禁止商用，就不能使用 Copyleft 许可证（比如 GPL），而是要添加一个自己的许可声明，比如"源码只供个人学习，不得商用，除非购买商业许可证"。
+因此，罗盒科技一开始的许可证选择，就有问题，后来果然出了问题。
+有一个叫做"点心桌面"的商业 App，使用了 VirtualApp。罗盒科技就控告开发商福建风灵公司侵权，要求赔偿2000万元。
+罗盒科技起诉的理由，不是对方违反 GPL，没有开源"点心桌面"，而是对方没有付款，就将代码用于商业用…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神舟十二号 3 名航天员即将按计划返回着陆在东风着陆场，过程会是怎样？你有何期待？]]></title>
+        <id>https://daily.zhihu.com/story/9740340</id>
+        <link href="https://daily.zhihu.com/story/9740340"/>
+        <updated>2021-09-16T23:07:21.000Z</updated>
+        <summary type="html"><![CDATA[我们的太空，太空不再高冷 知乎走近你我
+阅读原文
+
+【20210916 追更】神舟十二号载人飞船撤离空间站组合体
+北京时间 2021 年 9 月 16 日 8 时 56 分，神舟十二号载人飞船与空间站天和核心舱成功实施分离。截至目前，神舟十二号航天员乘组已在空间站组合体工作生活了 90 天，刷新了中国航天员单次飞行任务太空驻留时间的纪录。分离前，航天员乘组在地面科技人员的配合下，完成了空间站组合体状态设置、实验数据整理下传、留轨物资清理转运等撤离前各项工作。
+【20210914】过程如何？搞懂神舟十二号载人飞船返回着陆的 7 件事（原创工程版，有点长，慢慢看），就明白了。
+自 2021 年 6 月 17 日发射升空以来，神舟十二号任务的 3 名航天员聂海胜、刘伯明、汤洪波，即将圆满完成在轨 90 天的驻留任务，过程中相继完成了进驻、货船及核心舱物资收纳管理、在轨设备开机调试状态设置试验、两次出舱活动安装了全景相机支架及安装了扩展泵组、大量的在轨科学实验仪器设备展开试验、身体健康及医学监测等任务，经评估，全部预定任务超额完成，即将进入任务的返回着陆段工作。载有“太空 3 人组”的太空老帅航天员的返回舱即将要返回地球·中国·酒泉！（飞船的主着陆场是酒泉东风着陆场。)
+载人飞船的返回着陆技术，是载人航天工程的 3 大关键技术之一。
+这其中，知道了以下七方面的内容，会有助于更好的理解整个极具挑战、惊心动魄的航天员及载人飞船返回着陆过程。
+
+第一件事：航天员和载人飞船返回着陆到底是个什么样的过程，何时开始？何时结束？ 阶段划分？
+将大象放到冰箱需要 3 步，航天员从天和核心舱返回着陆回到酒泉主着陆场，技术上需要五个步骤（阶段）。
+
+分离撤离；
+制动离轨；
+惯性滑行；
+再入大气层；
+着陆。
+
+1 分离撤离段
+
+确定归期后，航天员开始撤离前的各项准备工作：
+物品的转移和整理，
+天和舱设备…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么很多电影大师钟情于固定镜头？]]></title>
+        <id>https://daily.zhihu.com/story/9740349</id>
+        <link href="https://daily.zhihu.com/story/9740349"/>
+        <updated>2021-09-16T23:07:17.000Z</updated>
+        <summary type="html"><![CDATA[一只羊的电影日常，愿望是才识过羊，出羊头地。
+阅读原文
+
+如果把固定镜头的表现方式比喻成一扇窗户，导演就是窗户的设计者，观众就是坐在窗前的人。
+窗户设计在哪里，能从窗子望见什么样的风景，这些都支配于设计者的想法与构思。而对于正坐在窗前的人，在这种情景下往往最容易陷入思考，内心也最为放松和沉静。
+提起钟情于固定镜头的导演，我总会想到侯孝贤、杨德昌、小津安二郎、是枝裕和，再回看他们的电影风格，总是能提炼出两个相同的词汇，“克制”与“淡然”。
+
+而这种电影风格离不开他们的生活经历、性格特质以及想要表达的东西。
+拿小津安二郎说，他一生所创作的作品，基本上都是在讲“家庭”，因此他的电影里无法摆脱那一方“屋檐”所构筑的立体空间。有限的空间避免了镜头的大幅度移动，平静的画面正好符合平淡的家庭日常叙事，并能通过这种稳定的镜头传达出日本民族的美学意境。这也是他为什么热衷于低角度，榻榻米高的水平线，为什么钟情于固定镜头的原因。
+再拿侯孝贤来说，侯孝贤有着属于他自己的“候氏长镜头”，他的长镜头具有客观的纪实性，犹如一种“凝视”。他在长镜头下聚集情绪张力，在空镜头中营造诗意氛围，在固定镜头中保持结构美学。因此观众能够充分的感受到“宁静致远”的古典美学特征和中国风般诗化的表达。
+
+《戏梦人生》中的大部分镜头都是超长的固定镜头拍摄，一方面符合李长碌对自己一生单一枯燥的生活叙述，另一方面又是在暗示人们，不管社会变迁如何，社会发展是前进还是止步不前，对于人们而言，都没有本质区别。
+我始终觉得，越是平静的水面它的底部就越汹涌，越是安静的人他的内心就越炙热。
+这一句话，也同样适用于电影。
+在我看来，固定镜头所传递的情绪要比运动镜头来得更加深刻，它虽然含蓄但能穿透身体直击内心。为什么有导演钟情于固定镜头，大概也是因为他想表达的不是显而易见的东西，而是需要人们静下心来深思和反省的人生考题。也是因为他的生活经历，性格使然，需要这种静止的窗口来传递情绪。
+固定镜头，有它的价值和意义。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熬夜对皮肤的危害可逆吗?]]></title>
+        <id>https://daily.zhihu.com/story/9740359</id>
+        <link href="https://daily.zhihu.com/story/9740359"/>
+        <updated>2021-09-16T23:07:12.000Z</updated>
+        <summary type="html"><![CDATA[赵泠，遗迹是曾经讴歌繁荣的生命留下的缺页的梦。
+阅读原文
+
+那不止是“可逆”的程度。无论“危害”的对象是“皮肤”还是内脏、大脑，熬夜对动物的影响主要来自睡眠时间不足时的肠道氧化水平和激素调节紊乱，可以被白天遮光睡眠和尽可能便宜的抗氧化剂处理。睡眠不足对伤口愈合的干扰和皮肤炎症乃至痤疮的促进可以被对症治疗。
+没必要相信任何鼓吹“神奇”效果的高价护肤品与保健品。
+不要动辄幻想“不可逆”的损伤，更不要在没有科学实验的情况下相信声称只有特定的方法能将其修复的家伙。
+人的慢性睡眠不足与心脏病、2 型糖尿病、癌症、肥胖症、抑郁症等诸多疾病有关，科学家们长期研究睡眠，但大多数研究工作集中在大脑上，一直没有决定性的结果。目前看来，每天睡至少两三个小时，让人脑清除脑脊液里的杂质、对突触进行剪枝等需要在睡眠时进行的生理功能有时间运转，对人类的高级神经活动是有必要的，在当前技术条件下不能用药物替代。熬夜对脑以外的部分造成的影响可能涉及肠道内积累的活性氧分子[1]，这可以被抗氧化剂清理。
+美国哈佛医学院的神经科学家发现了睡眠不足致死（例如连续十天以上的睡眠剥夺造成的猝死）与肠道的因果关系，相关研究结果发表在 2020 年 6 月 4 日的《Cell》杂志上。
+研究人员发现，睡眠不足会导致果蝇和小鼠肠道中的活性氧分子积累，触发氧化应激。通过口服褪黑素、硫辛酸、烟酰胺腺嘌呤二核苷酸等药物的方法清除果蝇肠道内的活性氧分子之后，长期熬夜的果蝇的寿命与保持正常睡眠的果蝇没有差异。通过基因调控以在果蝇肠道中产生过量抗氧化酶也能产生一样的效果。这些方法都不会延长正常睡眠的果蝇的寿命。
+此研究的作者、神经生物学副教授 Dragana Rogulja 说：“我们惊讶地发现肠道在导致死亡的过程中起着重要作用。更让人惊讶的是，睡眠不足导致的过早死亡是可以避免的。”
+如果你要在晚上工作、白天睡觉，睡眠期间卧室能隔音并使用外黑内红的厚窗帘之类挡住光线就没什么特别问题。
+至于夜间喝水、吃饭、定期休息或运动之类，跟白天工作时的注意事项没有区别。那些对抗的不是熬夜，而是长时间保持固定姿势进行脑力或体力劳动。
+如果你要买点瓶装片状食物来安慰自己，你家附近的药房、网络购物平台之类可以提供国产的烟酸片，价格是各路 NMN 保健品的数百分之一。长期睡眠剥夺对神经系统产生不利影响的机制可能和烟酸消耗有关[2]。
+如果你要买护肤品，你家附近的小商店、超市或网络购物平台提供的平价国货不比跨国公司出的那些东西差到哪里去。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪种音乐风格最适合音乐类综艺节目？]]></title>
+        <id>https://daily.zhihu.com/story/9740368</id>
+        <link href="https://daily.zhihu.com/story/9740368"/>
+        <updated>2021-09-16T23:07:02.000Z</updated>
+        <summary type="html"><![CDATA[邹小樱，公众号：乱弹山
+阅读原文
+
+我们通常不会在这里用“音乐风格”去形容，而是用“舞台表演风格”。
+那些抓马的、动静很大的、有夸张的层次感的，是比较适合综艺用的。
+今年，同样有很多综艺，我个人首推《披荆斩棘的哥哥》。像《3189》，《悟空》，《往事只能回味》，《飞云之下》……各种极具特色的舞台层出不穷，令人印象深刻。
+如果你也是《哥哥》的忠实观众，定会对向“大湾区 boys”发出红宝石卡的音乐总监陈伟伦印象深刻。
+我与伟伦老师结识已有 10 年时间，从最早的华语 Trip-Hop 先行者，到左小祖咒制作人、及后来的李宇春御用制作人，伟伦老师今年接了《哥哥》这个大活，他的通透、敏感、对艺术的追求，在音乐层面为节目提供了切实的支撑与保障。
+在节目录制的间隙，我逮住了伟伦，跟他聊了一个多小时电话，得出了这一期信息量爆炸的、关于《披荆斩棘的哥哥》音乐总监陈伟伦之专访。
+分享给大家。
+
+小樱：伟伦老师好！
+陈伟伦：小樱老师好。
+小樱：我就不客气了！首先我想知道，《哥哥》的歌曲，都是怎么定的？我看到有一些非常出乎意料的选曲，比如焦迈奇的《3189》，是刚发的新歌啊。还有康姆士的《你要如何，我们就如何》，这也太冷门了吧！
+陈伟伦：关于选曲，我们有几个宗旨。
+第一，不太想去选热歌，那些在普通综艺节目常见的歌，那些太过“流畅”的歌。我们希望能带给观众惊喜。
+第二，我们希望有多样化。我们选歌的范围很宽，有回忆杀的，经典的，也需要有空间要留给那些创新的歌，比如《3189》。
+第三，我们排除了那些唱跳类的、像是韩团类的歌。
+选歌确实是一个很纠结、很折磨的工作。我有音乐上的专业角度，导演也有他自己的角度；需要考虑哪些歌是更有观众缘的，哪些歌可以做得更艺术化的，哪些歌又能突出哥哥们的特性的，都需要多方面的考量。
+小樱：所以，在选歌时确实是有“这首歌应该由这位哥哥唱”的想法吧？像《飞云之下》，原唱是林…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9740375</id>
+        <link href="https://daily.zhihu.com/story/9740375"/>
+        <updated>2021-09-16T23:06:53.000Z</updated>
+        <summary type="html"><![CDATA[如果一个男生在打游戏但秒回了一个女生的消息，这代表着什么？
+
+知乎用户，自媒体IP经纪|一个虚构的艺术家|真实职业是痛苦术士
+阅读原文
+
+估计是在泉水等复活...
+阅读原文
+
+有哪些「男女的审美差异很大」的例子？
+
+匿名用户
+阅读原文
+
+化了个雀斑妆，女性朋友们统一认为「哇好好看呀！像小鹿一样！！我吹爆！」
+男性朋友们：「像芝麻饼。」
+阅读原文
+
+如果匿名的话，你想告诉异性什么？
+
+商品立方，商品培训公众号:mmmcube
+阅读原文
+
+你们女孩子的洗澡水的温度可不可以不要调那么高？
+阅读原文
+
+猴子为什么喜欢吃香蕉？
+
+知乎用户，咖啡喝完了，去！給我續上
+阅读原文
+
+我也问过杨先森这个问题，在他早晨一口气吃了三个香蕉后……
+回答是：「因为我是程序猿啊！」
+阅读原文
+
+袁谭、袁尚、刘琮、刘琦、刘璋五个人比刘禅如何？
+
+MeRceD3Es，老师
+阅读原文
+
+刘禅：不要拿那几个垃圾和朕比！典韦怎么样？在敌军中一回就死了，放眼天下，除了子龙将军、文鸯和朕，谁还能在敌军当中七进七出？
+孟获：禀陛下，还有臣。
+刘禅：你滚啊！
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Roots and Inheritance]]></title>
+        <id>https://css-tricks.com/?p=351915</id>
+        <link href="https://kittygiraudel.com/2021/08/23/shadow-roots-and-inheritance/"/>
+        <updated>2021-09-16T20:14:20.000Z</updated>
+        <summary type="html"><![CDATA[There is a helluva gotcha with styling a <details> element, as documented here by Kitty Guiraudel. It’s obscure enough that you might never run into it, but if you do, I could see it being very confusing (it would confuse …
+The post Shadow Roots and Inheritance appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minding the “gap”]]></title>
+        <id>https://css-tricks.com/?p=351481</id>
+        <link href="https://css-tricks.com/minding-the-gap/"/>
+        <updated>2021-09-16T14:34:46.000Z</updated>
+        <summary type="html"><![CDATA[You might already know about the CSS gap property. It isn’t exactly new, but it did gain an important new ability last year: it now works in Flexbox in addition to CSS Grid. That, and the fact that I …
+The post Minding the “gap” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy]]></title>
+        <id>https://css-tricks.com/?p=351586</id>
+        <link href="https://css-tricks.com/static-site-generators-vs-cms-powered-websites-how-to-keep-marketers-and-devs-happy/"/>
+        <updated>2021-09-16T14:31:08.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Many developers love working with static site generators like Gatsby and Hugo. These powerful yet flexible systems help create beautiful websites using familiar tools like Markdown and React. Nearly every popular modern programming …
+The post Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philip Kiely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Quality Assurance: From User Requirements To Web Risk Management]]></title>
+        <id>https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/</id>
+        <link href="https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/"/>
+        <updated>2021-09-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elie Sloïm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons To Build A CRM-Powered Website For Your Business]]></title>
+        <id>https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/</id>
+        <link href="https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/"/>
+        <updated>2021-09-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrating a CRM with your business website has numerous benefits. In this article, Zara Cooper explains what these benefits are and why websites should be integrated with a CRM platform.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3人死亡88人受伤 紧急转移安置3212人——四川泸县地震救援现场直击]]></title>
+        <id>http://zhuanlan.zhihu.com/p/410999703</id>
+        <link href="http://zhuanlan.zhihu.com/p/410999703?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T07:34:48.000Z</updated>
+        <summary type="html"><![CDATA[新华社成都9月16日电
+记者16日从四川省泸州市泸县新闻办获悉，截至9月16日11点，发生在四川泸县的6.0级地震已造成3人死亡，3人重伤，85人轻伤。全县居民房屋倒塌1221处，严重损坏3285间，一般受损20004间。
+9月16日，救援人员在泸县福集镇大田社区抢修道路（手机图片）。据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社发
+地震发生后，新华社记者从成都出发奔赴灾区。9点5分，记者在大雨中进入震中嘉明镇，沿途见到有民房围墙倒塌。受地震影响，镇上民房大部分停电，沿街可见小商店货架倒地，群众正在清理商品。
+9点24分，记者抵达福集镇。大雨中，救援人员正挨家挨户排查危房中的居民，并将他们带至临时安置点。在大田社区党群服务中心安置点，工作人员为居民分发月饼、蛋糕等食物。
+
+9月16日，这是当地搭建的应急帐篷。 据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社
+福集镇居民赖建容告诉记者，凌晨4点左右她感觉到轻微震感。4点33分感到摇晃异常剧烈，她穿着睡衣、光着脚就跑了出来。“家里房子的墙体有砖脱落，不敢再进去。”天亮后，她被救援人员带到位于大田社区党群服务中心的广场安置点。
+记者在该安置点看到，工作人员正抓紧冒雨搭建帐篷，一些工作人员负责接收登记救援物资，还有志愿者服务安置群众，送去牛奶、面包、方便面等食品。考虑到降雨导致气温较低，工作人员在安置点帐篷全部搭建好之前，尽可能将老人和孩子安顿在党群服务中心室内。
+
+9月16日，救援人员在泸县福集镇大田社区转移受灾群众（手机图片）。据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社发
+截至9月16日11点，泸县全县共设安置点79个，紧急转移安置3212人，受灾群众人数仍在进一步统计中。
+目前，国家电网泸州供电公司正全力开展电网抢修。此外，记者从四川省公安厅获悉，为保证救援道路畅通，G4215成自泸高速泸县西收费站，G76厦蓉高速泸县收费站、隆昌收费站对地方车辆进行交通管控。
+新华社记者高健钧、袁波、吴光于
+
+来源：知乎 www.zhihu.com
+新华社
+点击下载]]></summary>
+        <author>
+            <name>新华社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四川泸县发生6.0级地震，子弟兵迅疾行动！当地情况如何？有什么自救知识分享一下？]]></title>
+        <id>http://www.zhihu.com/question/487123600/answer/2123867110</id>
+        <link href="http://www.zhihu.com/question/487123600/answer/2123867110?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[武警四川总队官兵紧急驰援地震灾区一线
+解放军报讯 记者吴敏、特约通讯员洪福乐、姜永安报道：上午9时许，武警四川总队抗震救灾前指和360名官兵抵达泸州灾区。今日4时33分，泸州市泸县发生6.0级地震，震源深度10千米。为了人民群众生命财产安全，武警四川总队立即启动应急响应机制，司令员曹善贵第一时间组织召开作战会议，总队副参谋长金泽林率前指赶赴一线救援，泸州支队泸县中队官兵凌晨5时50分赶赴震中排查灾情、展开救援。 暴雨中，避险群众看到武警官兵纷纷求助，官兵们分组有序展开工作，配合当地应急部门和村委会走村入户核查灾情、转移群众、发放口罩等防疫物资。
+
+
+
+
+来源：知乎 www.zhihu.com
+中国军网
+点击下载
+7 个回答，查看全部。
+地震发生后如何自救？
+地震提前 60 秒预警可以挽回多少损失？普通人在这期间如何最大限度自救或减少损失？]]></summary>
+        <author>
+            <name>中国军网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何以「我是嫦娥怀里常抱着的玉兔」为开头写一个故事？]]></title>
+        <id>http://www.zhihu.com/question/484001869/answer/2098788046</id>
+        <link href="http://www.zhihu.com/question/484001869/answer/2098788046?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T06:46:59.000Z</updated>
+        <summary type="html"><![CDATA[〔全文1.7W字，已完结〕
+我是嫦娥怀里常抱着的玉兔，嫦娥在这广寒宫伴了我五百年，我也被天庭囚禁了五百年。
+《月宫》
+壹
+「嫦娥妹妹——」
+我和嫦娥正待在广寒宫里眯着觉，隔着老远就听见天蓬元帅那粗狂的声音。
+自从上次在王母的蟠桃盛会上见过一面，天蓬便独自一人坠入了爱河，此后，广寒宫更是日日都充斥着他的身影。
+要是哪一天他没来，反倒是不习惯了。
+「今日怎么来早了些?」
+我在嫦娥怀里伸了个懒腰，毛茸茸的爪子扒拉着衣裙的月白色飘带，小脑壳在上面蹭了蹭，满脸惬意。
+嫦娥没有回答我的嘟囔，「醒了?要不要再睡会儿?」
+「不了，睡不着。」
+「那乖乖待着，我出去瞧瞧就回来。」
+她将我放到软榻上，我挪动着略显肥胖的身体寻了一个舒服的姿势躺好。
+感觉动作比以往慢了不少，这都要怪天蓬每次带来的伙食实在太好吃，天天被这么喂养，是只兔子都要胖。
+外头的谈话隐约入耳——
+「嫦娥妹妹，正巧俺今儿下界，就弄了点你以前最喜欢吃的糕子，给你送来了，喏，还有玉兔的零嘴，热乎着呢。」
+「这是你买的?」
+「嘿嘿……买的买的，俺给人家钱了，那以前都是误会。」
+「这么多东西，广寒宫除了我和玉兔也没别人，怎么吃得完？下次，还是不要送来了。」
+「没事，玉兔正长个儿呢，能吃！」
+「哎，天蓬！天蓬！」
+……
+我自觉地将爪伸进篮子，坐起身抱着一根胡萝卜开啃，还抽空点评了一下：「这萝卜比上次的新鲜。」
+「你不吃吗？」我把篮子推到她面前。
+「我没胃口。」
+嫦娥不复刚才的婉柔模样，嘴角扯得有些牵强，百无聊赖地坐着，双手绞动着腰间的带子。
+我又塞了一口糕点进嘴，口齿不清：「人间是怎么做出来这么多好吃的……」
+「我也想去看看你以前生活的地方。」
+突然，嫦娥一把扯开了我啃到一半的胡萝卜，差点儿把我两颗门牙磕着。
+不知道哪个字触碰到了她的敏感，她蓦地朝我大吼，「看什么看，一天到晚就知道吃的废物就该老实待着！」
+我听着这话也不恼，五百年的相处，…]]></summary>
+        <author>
+            <name>风神大人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何以「我是嫦娥怀里常抱着的玉兔」为开头写一个故事？]]></title>
+        <id>http://www.zhihu.com/question/484001869/answer/2119100364</id>
+        <link href="http://www.zhihu.com/question/484001869/answer/2119100364?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T06:42:11.000Z</updated>
+        <summary type="html"><![CDATA[（小虐文已完结）
+-1-
+我是嫦娥怀里常抱着的玉兔。
+众仙皆知，天蓬元帅对嫦娥一往情深，可嫦娥连个眼神都懒得给他。然而今天，我怀疑我眼瞎了。
+嫦娥居然靠在了天蓬的怀里，还一脸宠溺。
+幸好我是只兔子，矮矮小小，他们压根注意不到我，我顺利潜伏到了他们的脚下。
+“元帅，求你带我一同去吧。”
+天蓬皱着眉头，可又舍不得推开怀中美人，整个脸热得发烫。
+嫦娥用手抚上他的脸，眼神迷离，“只要你帮我这一次，以后说什么我都听你的。”
+那一抹深情，连我都快要陶醉了，更何况是苦追嫦娥八百年的天蓬。
+但我立马回过神来，狠狠咬了嫦娥的衣角，用力扯她，怎么连这种话都说得出来，万一天蓬说要和她在一起怎么办？这不是把自己卖了吗。
+可出乎我意料的是，天蓬竟然推开了她。
+“他对你就这么重要吗？”
+“是。”
+“即使他完全不记得你了，也没关系吗？”
+“是。”
+“好，我帮你。”
+天啊，这天蓬也算是个痴情种了，男人能有这气度也值得我玉兔敬佩了。
+嫦娥一听天蓬答应了，喜极而泣，一向镇定自若的她，竟然也开始慌乱起来，很久很久，我都没有看到嫦娥笑得如此开怀了。
+“但我法力有限，你最多只能在人间待一年，否则我们都会受到玉帝的惩罚。”
+嫦娥点点头，见我在地上扑腾，把我抱了起来。
+“你把玉兔也带上吧，让它和你做个伴，你一个人在人间，我不放心。”天蓬用力拍了下我的脑袋，“机灵兔，你要好好保护嫦娥，别让她被人欺负了。”
+我似懂非懂地点点头，大概是嫦娥保护我才差不多吧。
+天蓬对着我们念咒语，周围突然亮起一道刺眼的白光，接着是感受到灵魂在飞速地坠落，快到让人失去意识。
+-2-
+“喂，小玉，别睡了，小姐都起来了，你还不快去服侍。”
+我整个人睡得迷迷糊糊，睁开眼的时候，一张蓬头厉齿的脸在我眼前无限放大。
+“啊，鬼啊。”我惊得弹起身子。
+“你个臭丫头，还敢说我是鬼，别以为仗着小姐的宠爱就敢得罪我张妈妈，我在相国府几十年，就连小姐也得给我几分脸面…]]></summary>
+        <author>
+            <name>蘑菇君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
+        <updated>2021-09-16T06:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
+Thank you @ad-m]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神舟十二号 3 名航天员即将按计划返回着陆在东风着陆场，过程会是怎样？你有何期待？]]></title>
+        <id>http://www.zhihu.com/question/486903558/answer/2121459177</id>
+        <link href="http://www.zhihu.com/question/486903558/answer/2121459177?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T05:56:49.000Z</updated>
+        <summary type="html"><![CDATA[【20210916追更】神舟十二号载人飞船撤离空间站组合体
+北京时间2021年9月16日8时56分，神舟十二号载人飞船与空间站天和核心舱成功实施分离。截至目前，神舟十二号航天员乘组已在空间站组合体工作生活了90天，刷新了中国航天员单次飞行任务太空驻留时间的纪录。分离前，航天员乘组在地面科技人员的配合下，完成了空间站组合体状态设置、实验数据整理下传、留轨物资清理转运等撤离前各项工作。
+【20210914】过程如何？搞懂神舟十二号载人飞船返回着陆的7件事（原创工程版，有点长，慢慢看），就明白了。
+        自2021年6月17日发射升空以来，神舟十二号任务的3名航天员聂海胜、刘伯明、汤洪波，即将圆满完成在轨90天的驻留任务，过程中相继完成了进驻、货船及核心舱物资收纳管理、在轨设备开机调试状态设置试验、两次出舱活动安装了全景相机支架及安装了扩展泵组、大量的在轨科学实验仪器设备展开试验、身体健康及医学监测等任务，经评估，全部预定任务超额完成，即将进入任务的返回着陆段工作。载有“太空3人组”的太空老帅航天员的返回舱即将要返回地球·中国·酒泉！（飞船的主着陆场是酒泉东风着陆场。)
+载人飞船的返回着陆技术，是载人航天工程的3大关键技术之一。
+这其中，知道了以下七方面的内容，会有助于更好的理解整个极具挑战、惊心动魄的航天员及载人飞船返回着陆过程。
+
+第一件事：航天员和载人飞船返回着陆到底是个什么样的过程，何时开始？何时结束？ 阶段划分？
+
+将大象放到冰箱需要3步，航天员从天和核心舱返回着陆回到酒泉主着陆场，技术上需要五个步骤（阶段）。
+
+分离撤离；
+制动离轨；
+惯性滑行；
+再入大气层；
+着陆。
+
+
+1 分离撤离段
+
+确定归期后，航天员开始撤离前的各项准备工作：
+物品的转移和整理，
+天和舱设备状态设置，
+神舟十二号载人飞船设置，
+货船设备舱门设置，
+天和核心舱舱门设置，
+货运飞船与核心…]]></summary>
+        <author>
+            <name>我们的太空</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因为你，我们来这问答，因为航天，我们入驻表达！]]></title>
+        <id>http://zhuanlan.zhihu.com/p/410907347</id>
+        <link href="http://zhuanlan.zhihu.com/p/410907347?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T05:38:22.000Z</updated>
+        <summary type="html"><![CDATA[hi，大家好。我是中国航天事业和国防科技工业的中坚力量，航天强国建设和国防武器装备建设的主力军～中国航天科工知乎官方账号，也有很多网友叫我“航小科”，一个有点高冷还有点可爱的航天防务科普小能手。因为你，我们来这问答，因为航天，我们入驻表达！希望在这里，我们一起探知中国航天，分享航天趣事。我们在乎每一个问答和每一次表达，求！友！善！
+
+
+
+中国航天科工
+点击下载]]></summary>
+        <author>
+            <name>中国航天科工</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.16 今天是每日时报陪伴您的第 619 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/16.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/16.html"/>
+        <updated>2021-09-16T03:38:23.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.16 今天是每日时报陪伴您的第 619 天
+[类库] vite-plugin-inspect：非常强大的 vite 插件，可以可视化检查 Vite 插件的中间状态：https://github.com/antfu/vite-plugin-inspect ，相关 twitter 介绍 https://twitter.com/antfu7/status/1436476518113316866
+[文章] 如何做一个有质量的技术分享：https://coolshell.cn/articles/21589.html
+[文章] 设计稿一键导出 Vue/微信小程序 代码：https://mp.weixin.qq.com/s/LWTdiFs0dnuXMxP2OFm99Q
+[文章] 设计稿（UI视图）自动生成代码方案的探索：https://mp.weixin.qq.com/s/BKPSR4pU8tDKcKWJnTXJiQ
+[文章] 在你写代码前后需要做的事：https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/
+前：
+知道你要做什么
+知道未来你做的可能会变成什么
+知道你为什么要做
+知道你为什么现在要做
+有一个计划
+考虑是否有副作用
+思考一下利益相关人员
+后：
+记录一些数据指标
+自己做质量保证
+获得反馈]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产游戏《了不起的修仙模拟器》DLC「武当仙踪」已解锁，体验如何？]]></title>
+        <id>http://www.zhihu.com/question/483819782/answer/2122164746</id>
+        <link href="http://www.zhihu.com/question/483819782/answer/2122164746?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T02:56:07.000Z</updated>
+        <summary type="html"><![CDATA[很高兴能和武当博物馆联名推出《武当仙踪》扩展包，感谢武当的信任。
+按照原计划，正式版后我们会停止大型的内容更新，所以《竹林深处》大概率会是唯一也是最后一个《了不起的修仙模拟器》的DLC，同时我们也发布了公告说会将力量转移到修仙2的开发中。当时我信誓旦旦的跟主策阿鬼说再做就是狗。
+汪汪汪。
+去年一月的时候，我们接到了来自武当山的邀请，说希望能有所合作，而且他们内部有我们的玩家，当时二话不说丢了张五百多小时游戏时间的截图过来。于是我找到阿鬼说要不咱挤点时间加个班再做个DLC？
+阿鬼本来是拒绝的，但是当我告诉他是以天下第一仙山武当山为题材时，他就问我机票订几号的。于是拉上美术我们三人就踏上了武当山之旅。
+
+到达十堰后我们和武当山的同学开了个小会，主要就是表达了我们对道教圣地滔滔不绝的崇敬之情，也提出了些问题，比如他们对我们游戏是怎么看的，对于我们的玩家是怎么看的，对于我们玩家那些意料之外的骚操作怎么看？没想到他们都很支持，基本上一直在说“可以”“都可以”，这也让我们放下了心来。
+碰巧疫情刚过，而且武当山在前两天才结束免费开放，所以我们上山后发现游客非常少，这“包山”一样的体验让我们对这片清雅之地有了很多不一样的体会。加上在武当博物馆了解到了武当文化里那些更加深层次的知识，当下我们就决定：这DLC是一定要做的！
+
+
+
+
+
+回到重庆后我们对着一大堆照片和武当工作人员提供的大量资料陷入了沉思，由于武当山的文化元素极其的精彩和庞大，我们一时间不知道该从什么角度切入才最好，这也带来了不小的压力。
+
+
+最后我们选择了一个适合我们的方向：精神内核。
+我们国家的精神内核有很多，不论是女娲造人夸父逐日的神话，还是道家天人合一，儒家仁义礼智的学理思辨，都深切的影响着生长在这片土地上的我们。在这些精神内核中，有一个概念可谓重要之极，那就是“阴阳”。
+什么是阴阳？作为普通人其实很少会刻意地思考这个概念。…]]></summary>
+        <author>
+            <name>知乎用户（登录查看详情）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中央财经委员会第十次会议提出「在高质量发展中促进共同富裕」，还有哪些内容需要关注？]]></title>
+        <id>http://www.zhihu.com/question/480575874/answer/2118778003</id>
+        <link href="http://www.zhihu.com/question/480575874/answer/2118778003?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T02:27:09.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月17日，中央财经委员会第十次会议研究扎实促进共同富裕问题。那么，到底什么是共同富裕？我们要靠什么来实现共同富裕？有哪些好的经验可以借鉴呢？敬请关注本期#靠什么来实现共同富裕#。
+
+中国三农发布
+点击下载
+1580 个回答，查看全部。
+学者丁一凡说「中国加强政府对市场的监管，与当前所处的历史阶段有关」，如何看待共同富裕和资本的关系？
+浙江高质量发展建设共同富裕示范区第一程主要目标划定，有哪些信息值得关注？]]></summary>
+        <author>
+            <name>中国三农发布</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.08 今天是每日时报陪伴您的第 615 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/08.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/08.html"/>
+        <updated>2021-09-16T02:19:07.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.08 今天是每日时报陪伴您的第 615 天
+[文章] ESModule 系列 ：构建下一代基础设施 PDN：https://mp.weixin.qq.com/s/KmlyjxTphGBMu69cVGbKlg
+[文章] 边缘计算：让 CDN 成为高性能 GraphQL 网关：https://mp.weixin.qq.com/s/ZO1Vpslk3-17YxUVt9Vhrw]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.10 今天是每日时报陪伴您的第 617 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/10.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/10.html"/>
+        <updated>2021-09-16T02:19:07.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.10 今天是每日时报陪伴您的第 617 天
+[类库] 适用于 Node.js 和浏览器的优雅控制台记录工具 consola：https://github.com/unjs/consola]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.09 今天是每日时报陪伴您的第 616 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/09.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/09.html"/>
+        <updated>2021-09-16T02:19:07.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.09 今天是每日时报陪伴您的第 616 天
+[文章] 微软低代码方案，Microsoft Power Fx 一种强类型、声明性、一般用途的函数式编程语言：https://docs.microsoft.com/zh-cn/power-platform/power-fx/overview
+[文章] 高手是如何写出让别人看不懂的选择器：https://juejin.cn/post/7005378226612600863
+#\~\!\@\$\%\^\&\*\(\)\_\+-\=\,\.\/\'\;\:\?\>\<\\\[\]\{\}\|\`\# {
+    color: red;
+}]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.14 今天是每日时报陪伴您的第 618 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/14.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/14.html"/>
+        <updated>2021-09-16T02:19:07.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.14 今天是每日时报陪伴您的第 618 天
+[文章] 用 js 资源的最新思路：https://web.dev/bundling-non-js-resources/
+await import.meta.resolve('...')
+
+[文章] 你知道 Github 中国区谁最有影响力吗？用 github actions 每天自动爬数据给你看 ！：https://juejin.cn/post/7007098437673943076
+一个很有创意的 idea，已经做成了小程序
+[文章] 探索 CSS 绘画 API: Blob 动画：https://css-tricks.com/exploring-the-css-paint-api-blob-animation/]]></summary>
+        <author>
+            <name>每日时报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四川泸县发生6.0级地震，子弟兵迅疾行动！当地情况如何？有什么自救知识分享一下？]]></title>
+        <id>http://www.zhihu.com/question/487123600/answer/2123302406</id>
+        <link href="http://www.zhihu.com/question/487123600/answer/2123302406?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-16T01:34:45.000Z</updated>
+        <summary type="html"><![CDATA[地震自救方法：借助“生命三角”躲震难
+地震发生时我们应该怎么做：家庭避震
+　　冷静判断。地震发生时，至关重要的是要有清醒的头脑。只有镇静，才有可能运用平时学到的地震知识判断地震的大小和远近。记住，近震常以上下颠簸开始，之后才左右摇摆。远震却少上下颠簸感觉，而以左右摇摆为主。
+　　就近躲避。震时是跑还是躲?我国多数专家认为：震时就近躲避，震后迅速撤离到安全地方，是应急避震较好的办法。发生地震时，如没有条件迅速撤离到室外，则不要急着往外跑，而应抓紧求生时间寻找合适的避震场所。
+　　选择合适避震空间。高层居民遇地震时，应立即躲避到结实的桌子或床下，家具旁或墙根、墙角等处可在房屋倒塌后形成三角空间，是相对安全的地点。还可以迅速逃进卫生间、储存室等面积较小的场所，这些小开间的地方是比较安全的地点。不要躲避在阳台、窗边等不安全位置。如住平房，迅速跑到门外。
+　　做好自我保护。选择好躲避处后应蹲下或坐下，脸朝下，额头枕在两臂上;或抓住桌腿等身边牢固的物体，以免震时摔倒或因身体失控移位而受伤;保护头颈部，低头，用手护住头部或后颈;保护眼睛，闭眼以防异物伤害;保护口鼻，有可能时，可用湿毛巾捂住口鼻，以防灰土、毒气。
+　　摇晃时立即关火，失火时立即灭火。更不能随便点明火，因为空气中可能有易燃易爆气体。地震的时候，关火的两次机会：第一次机会在大的晃动来临之前的小的晃动之时。在感知小的晃动的瞬间，即刻互相招呼：“地震!快关火!”关闭正在使用的取暖炉、煤气炉等。第二次机会在大的晃动停息的时候。大的晃动停息后，再一次呼喊：“关火!关火!”并去关火。如在发生大的晃动时去关火，放在煤气炉、取暖炉上面的水壶等会滑落下来，是很危险的。
+地震发生时我们应该怎么做：室外避震
+　　在户外遇到地震时，应该就地选择开阔地，趴下或蹲下避震;不要乱跑，避开人多的地方;不要随便返回室内。要远离山崖、陡坡、河岸及高压线等。避开高大建筑物或构筑物：楼房，特别是有玻璃幕墙的建筑;过街桥、立交桥;高烟囱、水塔下。避开危险物、高耸或悬挂物：变压器、电线杆、路灯、广告牌、吊车等。要保护好头部，避开危险之处。避开其他危险场所：狭窄的街道、危旧房屋、危墙、女儿墙、砖瓦及木料等物的堆放处。
+地震发生时我们应该怎么做：公共场所避震
+　　可朝着没有障碍的通道躲避，听从现场工作人员的指挥，不要慌乱，不要一起拥向楼梯、出口，要避免拥挤，避免被挤到墙壁或栅栏处。在影剧院、体育馆等处：注意避开吊灯、电扇等悬挂物。在商场、书店等处：应躲在近处的大柱子、内墙角，或朝着没有障碍的通道躲避，然后屈身蹲下，用手或其他东西护头;处于楼上位置的，原则上向底层转移为好。但楼梯往往是建筑物抗震的薄弱部位，因此，要看准脱险的合适时机。
+地震发生时我们应该怎么做：学校避震
+　　日本的《地震手册》避震知识中，第一条就明确地写着“要躲在坚固的家具下”。所以，日本教师坚信，最好的办法是“藏在桌下”。但是，这个想法是以日本地震多在数十秒后结束，天花板不会落下为前提的。建筑物、天花板因强震倒塌时，会将课桌等压毁，孩子如果躲在桌子下，后果不堪设想。在教室里，应迅速躲到教室的四个角落，或迅速就地蹲下，用书包、书本等保护头部。在操场或教室外时，可原地不动蹲下，双手保护头部，注意避开高大建筑物或危险物。震后不要回到教室去。千万不要跳楼!不要到阳台上去!不可躲在窗户下!
+地震发生时我们应该怎么做：写字楼内避震
+　　震时保持冷静，震后走到户外。这是避震的国际通用守则，国内外许多起地震实例表明，在地震发生的短暂瞬间，人们在进入或离开建筑物时，被砸死砸伤的概率最大。千万不可在慌乱中跳楼，这一点极为重要。
+　　寻找安全空间躲避。蹲在暖气旁较安全，暖气的承载力较大，金属管道的网络性结构和弹性不易被撕裂，即使在地震大幅度晃动时也不易被甩出去;暖气管道通气性好，不容易造成人员窒息;管道内的存水还可延长存活期。更重要的一点是，被困人员可采用击打暖气管道的方式向外界传递信息，而暖气靠外墙的位置有利于最快获得救助。
+　　需要特别注意的是，当躲在茶水间、卫生间这样的小开间时，尽量离炉具、煤气管道远些。若茶水间、卫生间处在建筑物的犄角旮旯里，且隔断墙为薄板墙时，就不要把它选择为最佳避震场所。此外，不要钻进柜子里，因为人一旦钻进去后便立刻丧失机动性，视野受阻，四肢被缚，不仅会错过逃生机会还不利于被救;躺卧的姿势也不好，人体的平面面积加大，被击中的概率要比站立大5倍，而且很难机动变位。近水不近火。这是确保在都市震灾中获得他人及时救助的重要原则。一旦被困，要设法与外界联系，除用手机联系外，可敲击管道和暖气片。
+
+
+
+
+
+来源：知乎 www.zhihu.com
+鈺Yu
+点击下载
+7 个回答，查看全部。
+地震发生后如何自救？
+地震提前 60 秒预警可以挽回多少损失？普通人在这期间如何最大限度自救或减少损失？]]></summary>
+        <author>
+            <name>鈺Yu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LeetCode 通关：连刷十四题，回溯算法完全攻略]]></title>
         <id>https://toutiao.io/k/lrmbo5p</id>
@@ -11936,407 +12635,6 @@ The post “We had 90% unused CSS because everybody was afraid to touch the old 
 The post Native Search vs. Jetpack Instant Search in Headless WordPress With Gatsby appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Paulina Hetman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你觉得电影《兔子暴力》拍得怎么样？]]></title>
-        <id>http://www.zhihu.com/question/475771670/answer/2068227062</id>
-        <link href="http://www.zhihu.com/question/475771670/answer/2068227062?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-08-18T09:58:49.000Z</updated>
-        <summary type="html"><![CDATA[电影《兔子暴力》摄影指导汪士卿九问九答：
-2021年七夕来临之前，全国局部疫情反弹，部分省市电影院关门，影市惨淡。电影《兔子暴力》则提档到8月14日上映，这是一种直面困难的勇气，人生需要乘风破浪，才能抵达彼岸。
-
-缘起：我荣幸在2019年元旦那一天，（当时还在浙江台州外景拍摄）收到劳雷影业制片人杨菲菲发来的剧本，看完很喜欢，当天回复了我的读后感：
-“杨总，我刚刚仔细看完了剧本，觉得人物关系很细腻 很有生活质感的真实。边缘城市攀枝花和金沙江流域我去过，知道那里的人文地貌，工业空间很特别（历史的痕迹）城市给人有一种疏离感 ，同时山水天感觉很近。回忆和现实都可以拍摄的很诗意（幻觉 梦境 玄外之音）剧本很多琐碎生活的日常细节很耐看，母女、水青的同学关系具有张力。 我也喜欢舞蹈部分展示了丰富人物的心理外化，在制作上摄影灯光与演员、美术部门的配合十分重要，感觉导演风格还是作者化态度，关于影像如何风格化来帮助导演来叙事，需要与导演进一步沟通。”
-第二天劳雷方励总加我微信，他回顾了我参加2016年电影《百鸟朝凤》宣发mv拍摄的故事，他又把我推荐给监制李玉和导演申瑜。3月初我回到北京后的一天，在公司第一次见到导演，记得很清楚的是导演问我曲婷（万茜）开的小汽车，你觉得什么颜色合适？我没有思索说，黄色吧。（潜意识里是因为觉得曲婷是一个潜在危险的角色，另外对攀枝花的黄色的芒果印象很深）。导演和制片人哈哈大笑，原来在之前的筹备和美术设计中车就是黄色的，大家直觉一致是好的开始。
-
-接下来的3月到7月大家就开始紧张的筹备和拍摄，因为劳雷公司的流程清晰，主创团结一致，电影在7月提前2天杀青。时隔一年，2020年8月在北京补拍了一场戏，宣告完成剪辑，随后调色混音，审查通过，10月入围了2020东京国际电影节。
-
-
-
-诗意是生活中影像真实的力量，哪怕总被忽视，即便是书写生命的悲剧、宿命、幻灭、甚至死亡，隧道的…]]></summary>
-        <author>
-            <name>Wangfilms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Interactive Gantt Chart Component With Vanilla JavaScript]]></title>
-        <id>https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/</id>
-        <link href="https://smashingmagazine.com/2021/08/interactive-gantt-chart-component-vanilla-javascript/"/>
-        <updated>2021-08-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will code a Gantt chart as a reusable Web component. We will focus on the architecture of the component, rendering the calendar with CSS Grid and managing the state of the draggable tasks with JavaScript Proxy Objects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anna Prenzel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[媒体刊文指出剧本杀风靡，抄袭盗版问题泛滥，相关问题是否很严重？应如何解决？]]></title>
-        <id>http://www.zhihu.com/question/480078479/answer/2065815893</id>
-        <link href="http://www.zhihu.com/question/480078479/answer/2065815893?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-08-18T03:00:09.000Z</updated>
-        <summary type="html"><![CDATA[开门见山，这是由于剧本杀在疫情以来风靡，导致众多对剧本杀不甚了解的投资者进入剧本杀行业所带来的必然结果，当然也是每个文化产业（姑且称剧本杀为文化产业吧）的必经阶段
-法制日报的这个文章所指的盗版问题有二，一个一个来谈吧。
-一.店家为了节约成本选择直接购买盗版剧本。
-首先文章中所提出的「很多店家为了节约成本，会选择直接购买盗版剧本。」这个问题看似十分严重，会严重影响整个剧本杀行业的生态，导致劣币驱逐良币。但我个人倒不是很担心。原因有三：
-正版剧本杀店家的抵制
-目前从我的角度看，正是由于盗版横行带来严重结果大家很清楚（损害了所有正版店家等利益）因此所有的剧本杀店家都在不约而同的抵制盗版剧本杀。每当一个店家被曝光出使用盗版剧本，他在该城市的剧本杀圈子中基本宣告「社死」。
-为什么呢？
-因为当这种事发生时，每个正版店家从老板到 DM 乃至客服，往往都会发朋友圈等一些社交平台上来对这家使用盗版剧本的店家进行谴责，而这群人的朋友圈里剧本杀玩家的浓度相当之高，一旦消息开始传播，不到一天，这个城市绝大多数的剧本杀爱好者就都会知道「有一家店用盗版剧本。」大家也会去自觉的抵制。这时候有人可能会问，剧本杀店家抵制可以理解，毕竟这触及到了利益，玩家为什么会大量的去抵制呢？这就要引出第二个原因⬇️
-玩家的抵制。
-无论是盗版剧本还是使用盗版剧本的店家，带给玩家的游戏体验一定是极差的。
-首先，盗版剧本使用的纸张与修订技术往往是较差的。每一个剧本从构思，到展会测车，再到最后的完善和制作与发行，中间是过程是繁琐且辛苦的。做一个不恰当的比喻，可以说每一部剧本都是作者和发行的孩子，更何况他们都指望这个孩子挣钱。因此发行往往都会将剧本（包括但不限于剧本本身的装订、剧本使用纸张、线索卡的制作工艺、道具）包装的非常好。同时好的包装也是剧本的重要加分项。现实中也发生过一些剧本因华丽的包装来吸引众多店家购买，或吸引玩家体验。…]]></summary>
-        <author>
-            <name>爱吃猹的瓜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 个超棒的 JavaScript 简写技巧]]></title>
-        <id>https://toutiao.io/k/k0f3aud</id>
-        <link href="https://toutiao.io/k/k0f3aud"/>
-        <updated>2021-08-18T01:06:36.820Z</updated>
-        <summary type="html"><![CDATA[如果你喜欢写代码——真的，真的很喜欢写代码——你代码写得越少，说明你的爱意越深。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度优先搜索 DFS（二）]]></title>
-        <id>https://toutiao.io/k/7de3ggm</id>
-        <link href="https://toutiao.io/k/7de3ggm"/>
-        <updated>2021-08-18T01:06:36.736Z</updated>
-        <summary type="html"><![CDATA[LeetCode 113. 路径总和 II题意：给出一棵二叉树，给定一个目标数值targetSum，输出所有]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 种堆内缓存算法，赠源码和设计思路]]></title>
-        <id>https://toutiao.io/k/x1rr1o7</id>
-        <link href="https://toutiao.io/k/x1rr1o7"/>
-        <updated>2021-08-18T01:06:36.669Z</updated>
-        <summary type="html"><![CDATA[FIFO,LRU,LFU]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超详细 Java 15 新功能介绍]]></title>
-        <id>https://toutiao.io/k/k6zujsr</id>
-        <link href="https://toutiao.io/k/k6zujsr"/>
-        <updated>2021-08-18T01:06:36.595Z</updated>
-        <summary type="html"><![CDATA[Java 15 在 2020 年 9 月发布，虽然不是长久支持版本，但是也带来了 14 个新功能，这]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线上真实问题：如何正确设置保活]]></title>
-        <id>https://toutiao.io/k/8ubxd1n</id>
-        <link href="https://toutiao.io/k/8ubxd1n"/>
-        <updated>2021-08-18T01:06:36.436Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从全局视角来看接口测试]]></title>
-        <id>https://toutiao.io/k/ggpq0u4</id>
-        <link href="https://toutiao.io/k/ggpq0u4"/>
-        <updated>2021-08-18T01:06:36.364Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里二面：什么是 mmap？]]></title>
-        <id>https://toutiao.io/k/qsuypsu</id>
-        <link href="https://toutiao.io/k/qsuypsu"/>
-        <updated>2021-08-18T01:06:35.785Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分布式事务之最终一致性实现方案]]></title>
-        <id>https://toutiao.io/k/1gsejz4</id>
-        <link href="https://toutiao.io/k/1gsejz4"/>
-        <updated>2021-08-18T01:06:35.718Z</updated>
-        <summary type="html"><![CDATA[这篇文章是《关于分布式事务的理解》的后续篇：分布式事务之最终一致性实现方案。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新生代农民工，必读！]]></title>
-        <id>https://toutiao.io/k/wswq9zl</id>
-        <link href="https://toutiao.io/k/wswq9zl"/>
-        <updated>2021-08-18T01:06:35.655Z</updated>
-        <summary type="html"><![CDATA[你与 BAT 技术大牛，只差一份「码农周刊VIP会员」的距离！]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何看待《科学》发文，中年发福不是因为新陈代谢变慢?]]></title>
-        <id>https://daily.zhihu.com/story/9739272</id>
-        <link href="https://daily.zhihu.com/story/9739272"/>
-        <updated>2021-08-17T23:07:43.000Z</updated>
-        <summary type="html"><![CDATA[KellyWeaver，公共卫生 / 心血管流行病学
-阅读原文
-
-研究具体方向不同，只能简答一二。如有错漏，万望同行不吝斧正。
-解读研究之前，先简要照顾一下占知乎用户比例一半的非中年用户：
-“人到中年真的会大概率自动长胖吗？”
-对，概率真的不低，很多人到了中年都会不知不觉变胖，尤其是男的。
-不信问问你老板你上司和你的前辈朋友们，他们会带着慈爱又羡慕的眼光看着年轻的你给出答案的。
-（当然，这只是很多人的大体趋势，并不是所有人）
-（我知道有的人没有长胖，你们这些没有长胖的就行行好闭闭嘴，不要在评论区秀优越了！中年新胖子看了心会痛的惹！！）
-然后再简要回答题目问题：
-“中年发福是不是因为新陈代谢变慢？”
-如果中年发福的具体定义是指“在 30~60 岁这个区间，很多人都慢慢长胖”，那么：
-不是。
-这篇论文的结论基本站得住，中年发福的主要原因可能不是大家以为的“身体自己的问题”（也即不是因为新陈代谢随年龄增长自动变慢）。
-看完前面的一句话回答，你肯定还想问：
-“那我中年发福是谁的问题？”
-这个问题，说实话，对每一个单独的人来说，要给个准信还真有点难，毕竟各人情况不同。
-不过，至少从这篇研究的结果来看，虽然我们还不清楚有多少人是吃多了胖的，但我们可以确定：很多人真的是因为动少了。
-
-Q1、这篇研究的结果能信吗？
-能。
-不同于绝大多数其他的被知乎观众过度关注的所谓“新科学发现”，这篇文章，无论是研究设计还是方法学，都没什么大问题。
-研究人群上，样本量很大，套了双标水法这种昂贵的金标准都还有六千多个被试，仿佛让我隔着屏幕都闻到金钱燃烧的味道。另外，被试来自数十个国家，结构很多样，外推性也很不错。因为测的是基础代谢率和总代谢率这种基本只受人体自己的基因和体力活动影响的指标，所以只要排除掉营养不良的人和早产儿之后，剩下的人只要测了体力活动，把这个混杂因素控制住了，剩下的代表性也不用太考虑。
-测…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塔利班究竟是什么组织？能否用简单易懂的方式讲解一下？]]></title>
-        <id>https://daily.zhihu.com/story/9739303</id>
-        <link href="https://daily.zhihu.com/story/9739303"/>
-        <updated>2021-08-17T23:07:39.000Z</updated>
-        <summary type="html"><![CDATA[丧心病狂刘老湿，会讲点儿故事，略懂点儿历史，稍有点儿意思。
-阅读原文
-
-1979 年苏联入侵阿富汗，美国人决定通过巴基斯坦对阿富汗境内的反抗势力进行扶持。因此在巴基斯坦境内搞起了大量的阿富汗难民营，这些难民营是由美国出钱出物资出训练、沙特出钱、巴基斯坦出地方出人搞起来的，在苏联入侵阿富汗时期，这些难民营长期为阿富汗境内的反苏武装提供人力资源；为了确保这些“难民”的战斗力，中情局是直接参与军事训练的。
-那个这个难民营跟塔利班又是什么关系呢？
-在长达十年的入侵结束之后，苏联人在阿富汗元气大伤，被迫撤离。阿富汗境内的大小反苏势力很快陷入了混战之中。1994 年某个小军阀的手下奸杀了三名女性，被当地一名参加过反苏联武装的毛拉带着 30 个伊斯兰学校的学生给伏击了，这个毛拉就是后来的塔利班初代目，穆罕默德·奥马尔。
-
-由于得罪了军阀，奥马尔只好带着学生流亡到巴基斯坦，结果跟巴基斯坦阿富汗难民营中的学生一拍即合，组成了塔利班，“塔利班”这个词在波斯语中指的就是“经文学校的学生”。
-那么学生为什么会有战斗力呢？
-为了打击苏联，美国国家安全顾问布热津斯基提出了用伊斯兰宗教思想对抗共产主义无神论的神奇构思。为此美国布拉斯加大学奥马哈分校的阿富汗研究中心专门编写了一套充满极端主义思想的普什图语教科书，并通过中情局输送到阿富汗与巴基斯坦的难民营中。这些教科书鼓励学生参加圣战，宣扬暴力。同时美国的宣传机器开足马力，在伊斯兰世界进行圣战教育，号召人们跟崇尚无神论的共产主义国家战斗到底。
-所以巴基斯坦的阿富汗难民营里，有一大堆接受过军事训练、又充斥着极端思想的学生。这些人在奥马尔的带领下很快形成了一股新的武装力量，并受到了巴基斯坦的全力支持。
-那为什么巴基斯坦又会支持塔利班呢？
-由于殖民主义的历史遗留问题，阿富汗与巴基斯坦之间存在着一条很有争议的边境线。阿富汗的主体民族是普什图人，然而由于这条奇葩边境…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVA《新世纪福音战士剧场版：终》8 月 13 日上线流媒体，看完你有什么感想？]]></title>
-        <id>https://daily.zhihu.com/story/9739279</id>
-        <link href="https://daily.zhihu.com/story/9739279"/>
-        <updated>2021-08-17T23:07:35.000Z</updated>
-        <summary type="html"><![CDATA[白头豕，个人公众号：白头豕。关注文艺，历史，思想，时事。
-阅读原文
-
-感谢庵野秀明，以“夕死可也”的执着燃烧他的才华和生命，终于完成了《Eva》。《终》为 Eva 的二十五年做出了一个最好的不完美结局。
-片尾曲响起
-看着不断上升的演职表，默默地听完片尾曲《one last kiss》。这种感觉就像自己的一部分灵魂，在 eva 的剧院里坐了二十几年，不断地循环地听着这首曲子，终于等到了那一声休止符，可以满足地离开剧场，回归到现实的生活了。
-通过《终》，我才第一次感觉到自己终于完全看懂了 《Eva》；今天带着对 Eva 的理解看完 B 站的纪录片 《再见了所有的福音战士！庵野秀明的 1214 日》之后，这种信念更加强了。我也迫切想把自己的理解分享给其他所有热爱 Eva 的观众们。毕竟 “理解”二字，才是对剧中所有的人物，以及庵野秀明本人的最大尊重。
-庵野在内部试映会后，湿润着眼睛说没有赢得观众的理解
-直接从结论说起，相信很多观众都看到了，《Evangelion：终》的故事和现实世界是融合在一起的。尤其是第四段，通过 Guff 之门 进入的反宇宙，已经不再区分 eva 的故事世界，和创作 eva 的现实世界。剧中所有角色，也和他们在现实世界中的精神来源融合在了一起。
-通过《终》，庵野秀明不但补完了 eva 故事中的角色，完成了告别，也把他二十五年里来分给 Eva 世界里的灵魂，收回给了现实的自己。我为他感到高兴
-庵野手持 DV， 在故乡火车站为最后一幕实地取景等待 Marry 的真嗣坐的位置也和真嗣一模一样庵野秀明手持 DV 从楼梯口奔向光明，为剧中的分镜准备素材
-为了创作 Eva 的世界，庵野秀明把自己的灵魂主要分给了三个角色，渚薰，碇源堂，碇真嗣；而这三个角色，却又都不是庵野秀明本人。理解了这一点，就能真正看懂 Eva 的故事。
-与现实中，作为 Eva 创作者的庵野秀明最接近…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动物有没有类似人的感情？]]></title>
-        <id>https://daily.zhihu.com/story/9739284</id>
-        <link href="https://daily.zhihu.com/story/9739284"/>
-        <updated>2021-08-17T23:07:24.000Z</updated>
-        <summary type="html"><![CDATA[赵泠，遗迹是曾经讴歌繁荣的生命留下的缺页的梦。
-阅读原文
-
-许多动物的神经活动与行为看起来有类似人的感情或情绪。
-
-站在怀疑的角度，你对世界和自身的认知都经过你的感官与脑（或你以为是感官与脑的某种东西）的处理，你实际上无法知道其它生物 / 他人的真实感受，你并不知道他人有没有感情，也不知道你自以为的感情是不是你以为的那个样子。目前看来你无法改变这现状，那么“看起来有”在很大程度上就足够了。
-题目谈到的“本能”在生物学上是动物行为学的一项假设，指“无需后天学习就能表现的、有一定复杂程度而非反射的先天行为”，目前并无证据显示它存在。后天学习的影响非常难以排除，例如在空间站羽化的蝴蝶可以在数分钟内学会在微重力下飞行。许多学者为了简化表达而使用“本能”这个词语，你不要太当真了。
-题目谈到的“乌鸦反哺”是误解，成年乌鸦帮助父母照料新的一批后代约 2 到 3 年，然后就会离开。某些人还可能将乌鸦间分享食物和巢寄生当做“反哺”。
-
-你可以将情绪分为先天情绪和后天情绪，前者跟较为复杂的神经系统与内分泌调节、生存本能绑定在一起，后者来自同种生物间的交流、后天学习、社会性活动。
-目前，人能稳定地识别出“情绪”的最简单生物是果蝇之类昆虫，意味着情绪比脊椎还要古老。人比较擅长识别哺乳类的情绪，现已知道哺乳类大脑中有三种神经回路分别负责三类情绪反应：
-
-产生积极行为的回路负责快乐，使动物乐于探索周围的世界。
-产生战斗或逃跑反应的回路负责恐惧和愤怒，使动物判断逃跑或战斗。
-产生消极行为的回路负责不安之类，使动物的行动迟缓下来、停止探索或冒险。
-
-最近几十年有大量实验证据显示，哺乳类的愤怒、恐惧、悲伤、厌恶四种情绪各有自主神经系统反应，关联到特定的本能行为，与生存息息相关。
-
-相比之下，希望、失望、骄傲、疏离感之类情绪缺少特定的神经回路，需要后天习得，通常有社会方面的作用，例如羞耻可以帮人维持自己在社区…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在机器人行业的专业人士眼里，机器人行业目前的情况如何？]]></title>
-        <id>https://daily.zhihu.com/story/9739294</id>
-        <link href="https://daily.zhihu.com/story/9739294"/>
-        <updated>2021-08-17T23:07:19.000Z</updated>
-        <summary type="html"><![CDATA[贾子枫，耕读传家，传道受业解惑，造我的变形金刚。
-阅读原文
-
-机器人行业整体肯定是欣欣向荣，但是具体到各家公司，家家有本难念的经。
-曾经听前辈说过，当一个行业爆炸式增长的时候（这里主要是指非软件或平台类提供的产品。这种边际成本接近零的不符合以下论述），行业内老大有吃不完的肉，老二有啃不完的骨头，老三有喝不完的汤。目前来看，国内机器人行业大部分细分方向还没有经历过这个阶段。
-行业总体量还是很小。引用一下工信部装备工业一司的官方数据。简单总结，对于规模以上企业（年营收超过 2000 万）工业机器人行业营收 531.7 亿元，利润 17.7 亿；特种机器人营收 28.8 亿，利润 1.2 亿；服务机器人营收 103.1 亿，利润 0.7 亿[1]。相比 2019 年服务机器人大幅亏损 18.9 亿，2020 年能够扭亏为盈可能与防疫需要物理隔离和消杀机器人的市场增长有关。
-官方数据我是完全相信的，不过并不知道统计口径是怎样。比如仅服务机器人就可以是一个非常宽泛的概念，从无人驾驶车，低速运送车，园区清洁车，到酒店餐厅的服务机器人，家里的扫地机器人，甚至无人机，机器狗，人形机器人玩具等等都可以算作机器人。不知道是哪些产品划分在了机器人的领域。实际上，机器人行业总产值，与其被关注的程度来说，真的太小了。
-大趋势从技术发展的角度实际上是比较好判断的。比如我现在看自己七年前的回答，讲的都大差不差。但是想判断发展过程中具体哪个企业能抢得先机，这并不是件容易的事情。
-想做机器人，有什么好的发展方向？
-具体到几个上市公司来看，沈阳新松机器人（300024），2020 年亏损 4 个亿，机器人及相关的系统集成业务实现收入为 10.40 亿元[2]。埃斯顿营收和利润均增长，埃夫特则继续亏损。科沃斯，石头科技，以扫地机器人为主营业务的上市公司，2020 年业绩和公司市值都有大幅增长。海康威视旗下的海康机器人，2020 年收入 13.6 亿，这里包含物流 AGV 和智能相机。海康机器人副总裁吴永海估计 2020 年的 AGV 市场是 70 亿[3]。从这几家公开的财报来看，移动机器人现在是处于高速发展期。
-从整个机器人行业的玩家来看，入场的重量级公司越来越多了。早先在差不多 2014 年的时候，说到机器人，只有在百度，余凯博士带领的深度学习研究院有相关项目。当然百度可能受到谷歌 2013 年收购一批机器人公司的影响。到 2021 年的现在，不论是 BAT 还是 TMD，都至少有一个机器人实验室，研究也是偏向智能移动机器人方向。华为、大疆等等原本更偏向于生产制造的高科技公司，在无人车、移动机器人领域的手笔就更大了。小米也在 2021 年 8 月 10 号发布了怀胎十月潜心研发的机器狗。
-我们在生活中真的能感受到机器人时代的来临么？我自己感受就是无人机确实越来越多；公共场所的移动机器人虽然没啥用但是也摆了不少；酒店和餐厅的服务机器人确实被云迹科技、擎郎智能、普渡科技等等几家公司的产品统治了；最显著的还是周围朋友开始比较多的咨询我扫地机器人的品牌型号问题。
-行业内的感觉就是从 WRC 世界机器人大会之后，相关的名字听起来的高大上的会议越来越多；创业者和资本对机器人的关注度也越来越高；高校的机器人专业和做机器人方向研究的老师也越来越多，机器人操作系统（ROS）的入门学习者也越来越多。
-但是国内机器人行业存在的问题这些年来改善的程度非常有限，希望是不要再陷入到工业软件、半导体芯片之类行业的尴尬境地：做出突破创新的研究者比较少；高水平的开发者凤毛麟角；引领式的好产品非常稀缺。所以为什么很多行业内优秀的年轻人对大疆有一种图腾式的崇拜？因为在大疆，做出突破的科学家、高水平的开发者、引领式的好产品这三样全部都有。
-偏题了。。机器人行业 2021 年整体的情况总结下：关注度非常高，实际行业的产值一般。智能移动机器人处于高速发展时期，但是爆炸式增长什么时候会到来还无法预料。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9739296</id>
-        <link href="https://daily.zhihu.com/story/9739296"/>
-        <updated>2021-08-17T23:07:14.000Z</updated>
-        <summary type="html"><![CDATA[拥有稀有姓氏是种怎样的体验？
-
-春来君，干啥啥不行，吃馒头第一名。
-阅读原文
-
-想起来一个笑话。
-我叫宇文天（复姓宇文），在初中教数学。班上有一个孩子一直叫我yu老师，让我很尴尬。
-有一次我找到他，“以后你叫我宇文老师就行”。
-他愣了一秒，“可，可是您是教数学的啊”
-阅读原文
-
-中国计生协面向社会征集「三孩」宣传标语口号，弘扬婚育新风哪些口号可以朗朗上口？
-
-李劼，喜欢写东西，希望写的东西有人喜欢
-阅读原文
-
-“只生一个好少”
-阅读原文
-
-在目前所有影视作品里最强的存在是谁？
-
-柳如婳，法律出版 | 公号是麦读
-阅读原文
-
-
-
-
-阅读原文
-
-有哪些有名的，想讽刺他人无能，却暴露自己无知的段子？
-
-知乎用户，你为什么不问问神奇海螺呢？
-阅读原文
-
-“我同桌是个傻逼！！！”
-“你同桌才是个傻逼！！！！”
-阅读原文
-
-有什么看穿别人心理的小技巧?
-
-Lling，。。
-阅读原文
-
-摸头发：喜欢你
-咬嘴唇：喜欢你
-看你：喜欢你
-冲你笑：喜欢你
-秒回你消息：喜欢你
-对你冷：想彰显自己，喜欢你
-不看你：害羞，喜欢你
-盯着你看：对你感兴趣，喜欢你
-摸下巴：对你感兴趣，喜欢你
-搓手手：对你感兴趣，喜欢你
-跺脚脚：想到你怀里，喜欢你
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX, to Whom?]]></title>
-        <id>https://css-tricks.com/?p=346697</id>
-        <link href="https://css-tricks.com/dx-to-whom/"/>
-        <updated>2021-08-17T21:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Dave points to Sarah’s post on Developer Experience (DX) at Netlify. Part of what Sarah did there is lay out what the role means. It’s a three-part thing:
-Integrations Engineering (e.g. features)
-Developer Experience Engineering (e.g. building integrations 
-…
-The post DX, to Whom? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.17 泛型尝鲜]]></title>
-        <id>https://toutiao.io/k/w5e14zp</id>
-        <link href="https://toutiao.io/k/w5e14zp"/>
-        <updated>2021-08-17T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[今天，Go的1.17版本终于正式发布，除了带来各种优化和新功能外，1.17正式在程序中提供了尝鲜的泛型支持，这一功能也是为1.18版本泛型正式实装做铺垫。意味着在6个月后，我们就可以正式使用泛型开发了。那在Go 1.18正式实装之前，我们在1.17版本中先尝鲜一下泛型的支持吧。
-泛型有什么作用？ 在使用Go没有泛型之前我们怎么实现针对多类型的逻辑实现的呢？有很多方法，比如说使用interface{}作为变量类型参数，在内部通过类型判断进入对应的处理逻辑；将类型转化为特定表现的鸭子类型，通过接口定义的方法实现逻辑整合；还有人专门编写了Go的函数代码生成工具，通过批量生成不同类型的相同实现函数代替手工实现等等。这些方法多多少少存在一些问题：使用了interface{}作为参数意味着放弃了编译时检查，作为强类型语言的一个优势就被抹掉了。同样，无论使用代码生成还是手工书写，一旦出现问题，意味着这些方法都需要重复生成或者进行批量修改，工作量反而变得更多了。
-在Go中引入泛型会给程序开发带来很多好处：通过泛型，可以针对多种类型编写一次代码，大大节省了编码时间。你可以充分应用编译器的编译检查，保证程序变量类型的可靠性。借助泛型，你可以减少代码的重复度，也不会出现一处出现问题需要修改多处地方的尴尬问题。这也让很多测试工作变得更简单，借助类型安全，你甚至可以少考虑很多的边缘情况。
-Go语言官方有详细的泛型提案文档可以在这里和这里查看详情。
-如何使用泛型 前面理论我们仅仅只做介绍，这次尝鲜还是以实践为主。让我们先从一个小例子开始。
-从简单的例子开始 让我们先从一个最简单的例子开始：
-package main import ( "fmt" ) type Addable interface { type int, int8, int16, int32, int64, uint, uint8, uint16, uint32, uint64, uintptr, float32, float64, complex64, complex128, string } func add[T Addable](a, b T) T { return a + b } func main() { fmt.Println(add(1,2)) fmt.Println(add("1", "2")) } 这个函数可以实现任何需要使用+符号进行运算的类型，我们通过定义Addable类型，枚举了所有可能可以使用add方法的所有的类型。比如我们在main函数中就使用了int和string两种不同类型。
-但是如果这时我们使用简单的go run命令运行，会发现提示语法错误：
-$ go version go version go1.17 darwin/arm64 $ go run ~/main.]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何评价国产动画《眷思量》第十一集？]]></title>
-        <id>http://www.zhihu.com/question/480037354/answer/2066582680</id>
-        <link href="http://www.zhihu.com/question/480037354/answer/2066582680?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-08-17T15:30:08.000Z</updated>
-        <summary type="html"><![CDATA[知乎的大家好，这周有在尽量调整多休息补觉，知乎也尽量发得比上周早了些，且不用赶着交很多反馈，有空多聊两句。
-播到第11集了，很多线索也展现出来，开篇玄哥抓住窥探灵识的点，但这个岛水很深，相信大家看到现在也能感觉到，所以奉眠没有把握是安全的，镜玄也认同了。
-
-且这次奉眠在火芝问题上肯帮镜玄，也让两人关系从之前剑拔弩张的矛盾中有所缓和。毕竟奉眠没有带娃经验，对于怎么跟叛逆少年沟通她不经历一些事也不知道。
-
-
-
-
-而镜玄其实隐忍惯了，性子本就比较沉稳，不是太难忍的事，他会持续惯常冷静模式的。但对屠丽会例外。
-这次他从前面集的预感，到这集真的从丽崽口中听到准备离岛，情绪第一次失控，虽然只有一瞬间，马上就意识到并先支走丽崽。对我来说也足以体现玄哥心里对这段羁绊的在乎。岁月里的陪伴对玄哥来说丽崽早就是他想守护好的存在。突然知道真的会离开相信换谁都会意难平吧。
-
-他捶桌子突然克制住的那一下，有一层是在努力调整收敛情绪，毕竟以玄哥的实力，真的用力锤下去，恒水居这层都保不住*罒▽罒*  ，动静太大就算周围有结界保护也不好收场。
-而丽崽这集也把我很想表达的性格通透的点找到合适的事件表达出来了。她懂是她豁达的立足点，但她不会妥协，仍然有明确的目标去实施，但“恒老”的生气也会让她反思，虽然方向有些乌龙～～丽崽你凭自己身为凡人的寿命是送不走玄哥的(ฅ>ω<*ฅ)
-到这一集，屠丽这个角色的塑造，进行完了大部分铺垫，她于我是特别的，可能成长过程中一直碰壁导致的不服气吧，普通女孩为何不能当主角？用实力证明自己成为更优秀有地位的人，对我来说比天生含着金汤匙要更动人，毕竟生来富贵是少数，大多数都要在岁月中拼搏，只有具备丽崽拼搏豁达的精神，才是立足于世间必备的生存技能。所以这次任性地要表达这样一个特立独行的女主，是清澈透亮又是豁达坚毅的！
-
-这集对两位主角都是性格细化丰满的一集，对配角展现较多的是小侯爷萧霁；强…]]></summary>
-        <author>
-            <name>赵禹晴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo]]></title>
-        <id>https://css-tricks.com/?p=346449</id>
-        <link href="https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/"/>
-        <updated>2021-08-17T14:53:41.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been working on the same project for several years. Its initial version was a huge monolithic app containing thousands of files. It was poorly architected and non-reusable, but was hosted in a single repo making it easy to work …
-The post From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Leonardo Losoviz</name>
         </author>
     </entry>
 </feed>
