@@ -22,6 +22,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352089",
+          "author": "Chris Coyier",
+          "description": "This is a good tweet from Harry:\nSimple yet significant thing all developers should keep in mind: CSS resources (fonts, background images) are not requested by your CSS, but by the DOM node that needs them [Note: slight oversimplification, but \n…\nThe post Resources aren’t requested by CSS, but by the DOM appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/",
+          "publishedOn": "2021-09-20T23:16:14.000Z",
+          "wordCount": 463,
+          "title": "Resources aren’t requested by CSS, but by the DOM"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352274",
+          "author": "Chris Coyier",
+          "description": "I’ll never forget one of Karen McGrane’s great lessons to the world: truncation is not a content strategy. The idea is that just clipping off text programmatically is a sledgehammer, and avoids the kind of real thinking and planning that …\nThe post Embracing Asymmetrical Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.bennadel.com/blog/4102-embracing-asymmetrical-design-and-overcoming-the-harmful-effects-of-text-overflow-ellipsis-in-css.htm",
+          "publishedOn": "2021-09-20T19:17:33.000Z",
+          "wordCount": 956,
+          "title": "Embracing Asymmetrical Design"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352283",
+          "author": "Chris Coyier",
+          "description": "It’s not every day you see a new processor for building websites that reinvents the syntax for HTML and CSS and JavaScript. That’s what imba is doing.\nThat’s an awful lot of vendor lock-in, but I guess if you get …\nThe post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://imba.io/",
+          "publishedOn": "2021-09-20T19:13:36.000Z",
+          "wordCount": null,
+          "title": "imba"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351917",
+          "author": "Temani Afif",
+          "description": "Nowadays, creating complex shapes is an easy task using clip-path, but adding a border to the shapes is always a pain. There is no robust CSS solution and we always need to produce specific “hacky” code for each particular …\nThe post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-polygon-border/",
+          "publishedOn": "2021-09-20T14:36:50.000Z",
+          "wordCount": 3611,
+          "title": "Exploring the CSS Paint API: Polygon Border"
+        },
+        {
           "id": "https://css-tricks.com/?p=352082",
           "author": "Robin Rendle",
           "description": "My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …\nThe post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -497,6 +533,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
+          "author": "hello@smashingmagazine.com (Ken Harker)",
+          "description": "Content scraping is a fact of life on the Internet. When you think of web scraping, you probably do not think about the scrapers turning around and immediately serving your entire, whole page content on another website. But what if your site content is being re-published?  It might be already happening.",
+          "link": "https://smashingmagazine.com/2021/09/imposter-domains-republishing-website/",
+          "publishedOn": "2021-09-20T11:30:00.000Z",
+          "wordCount": 3957,
+          "title": "Are Imposter Domains Re-Publishing Your Website?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4504ea89-0356-45c7-a7c1-a5c360ecc471/imposter-domains-republishing-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.",
@@ -886,6 +936,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/304f3j8",
+          "author": null,
+          "description": "Spring事件机制原理和实战",
+          "link": "https://toutiao.io/k/304f3j8",
+          "publishedOn": "2021-09-21T01:11:08.877Z",
+          "wordCount": 133,
+          "title": "三分钟快速上手 Spring 事件机制"
+        },
+        {
+          "id": "https://toutiao.io/k/88px9ws",
+          "author": null,
+          "description": "教你学会如何写 Shell 脚本",
+          "link": "https://toutiao.io/k/88px9ws",
+          "publishedOn": "2021-09-21T01:11:08.813Z",
+          "wordCount": 430,
+          "title": "一文教你如何学会写 Shell 脚本"
+        },
+        {
+          "id": "https://toutiao.io/k/cm0o91b",
+          "author": null,
+          "description": "微服务的陷阱微服务架构（Microservice Architect）是一种架构模式。",
+          "link": "https://toutiao.io/k/cm0o91b",
+          "publishedOn": "2021-09-21T01:11:08.719Z",
+          "wordCount": 151,
+          "title": "微服务的几个陷阱"
+        },
+        {
+          "id": "https://toutiao.io/k/admo20p",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/admo20p",
+          "publishedOn": "2021-09-21T01:11:08.610Z",
+          "wordCount": 557,
+          "title": "影响性能的 Kotlin 代码（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/r1phx01",
+          "author": null,
+          "description": "Flink吐血整理，面试准备这一篇就够了",
+          "link": "https://toutiao.io/k/r1phx01",
+          "publishedOn": "2021-09-21T01:11:08.533Z",
+          "wordCount": 226,
+          "title": "Flink 吐血总结，学习与面试收藏这一篇就够了"
+        },
+        {
+          "id": "https://toutiao.io/k/e1sblxd",
+          "author": null,
+          "description": "详细的介绍和区分常用的相关系数的概念、计算方式以及适用条件（附Python实现代码）",
+          "link": "https://toutiao.io/k/e1sblxd",
+          "publishedOn": "2021-09-21T01:11:08.465Z",
+          "wordCount": 220,
+          "title": "如何选择合适的相关系数？"
+        },
+        {
+          "id": "https://toutiao.io/k/szucx0p",
+          "author": null,
+          "description": "你们一直吐槽我写水文，好的我直接写个没啥用的文。看你们怎么喷。",
+          "link": "https://toutiao.io/k/szucx0p",
+          "publishedOn": "2021-09-21T01:11:08.373Z",
+          "wordCount": 135,
+          "title": "写了一个没啥用的文件传输工具"
+        },
+        {
+          "id": "https://toutiao.io/k/6uvskld",
+          "author": null,
+          "description": "你与 BAT 技术大牛，只差一份「码农周刊VIP会员」的距离！",
+          "link": "https://toutiao.io/k/6uvskld",
+          "publishedOn": "2021-09-21T01:11:08.299Z",
+          "wordCount": 83,
+          "title": "假期别闲着！快来吧！"
+        },
+        {
+          "id": "https://toutiao.io/k/wg35d8p",
+          "author": null,
+          "description": "ClickHouse 的自定义函数，了解一下 ？",
+          "link": "https://toutiao.io/k/wg35d8p",
+          "publishedOn": "2021-09-21T01:11:08.245Z",
+          "wordCount": 358,
+          "title": "大家想要的 ClickHouse UDF 这次终于来啦"
+        },
+        {
+          "id": "https://toutiao.io/k/3ir552v",
+          "author": null,
+          "description": "格局打开",
+          "link": "https://toutiao.io/k/3ir552v",
+          "publishedOn": "2021-09-21T01:11:08.173Z",
+          "wordCount": 280,
+          "title": "Flutter 手势探索：原理与实现的背后"
+        },
         {
           "id": "https://toutiao.io/k/l5h2n30",
           "author": null,
@@ -3252,105 +3392,6 @@
           "publishedOn": "2021-08-23T01:01:17.935Z",
           "wordCount": 429,
           "title": "Filebeat + ELK 配置及常用操作"
-        },
-        {
-          "id": "https://toutiao.io/k/sk8t0jp",
-          "author": null,
-          "description": "在多租户，多应用的情况下，对资源进行隔离能有效的保障系统安全。本文简要介绍了PHP-FPM使用多个进程池隔离增强安全性的操作步骤，如果条件允许，更建议使用docker进行资源隔离 - PHP-FPM使用多个进程池隔离增强安全性 PHP - tlanyan",
-          "link": "https://toutiao.io/k/sk8t0jp",
-          "publishedOn": "2021-08-22T08:41:40.000Z",
-          "wordCount": 336,
-          "title": "PHP-FPM 使用多个进程池隔离增强安全性"
-        },
-        {
-          "id": "https://toutiao.io/k/rhvklro",
-          "author": null,
-          "description": "并发编程系列第七集",
-          "link": "https://toutiao.io/k/rhvklro",
-          "publishedOn": "2021-08-22T01:05:12.255Z",
-          "wordCount": 454,
-          "title": "并发编程（七）：Reentrantlock"
-        },
-        {
-          "id": "https://toutiao.io/k/j8tgo23",
-          "author": null,
-          "description": "小样本学习致力于在数据资源稀少的情况下训练出比较好的模型。",
-          "link": "https://toutiao.io/k/j8tgo23",
-          "publishedOn": "2021-08-22T01:05:12.188Z",
-          "wordCount": 649,
-          "title": "小样本学习及其在美团场景中的应用"
-        },
-        {
-          "id": "https://toutiao.io/k/cemwgzn",
-          "author": null,
-          "description": "消息队列高频面试考点",
-          "link": "https://toutiao.io/k/cemwgzn",
-          "publishedOn": "2021-08-22T01:05:11.997Z",
-          "wordCount": 115,
-          "title": "面试官问：如何保证 MQ 消息是有序的？"
-        },
-        {
-          "id": "https://toutiao.io/k/xinyvxg",
-          "author": null,
-          "description": "随着 Visual Studio Code 1.59.0 正式版本的发布，全新的插件测试 API 也从试验版",
-          "link": "https://toutiao.io/k/xinyvxg",
-          "publishedOn": "2021-08-22T01:05:11.933Z",
-          "wordCount": 179,
-          "title": "终于来了！微软正式推出 VS Code 测试 API"
-        },
-        {
-          "id": "https://toutiao.io/k/7n84pl9",
-          "author": null,
-          "description": "开发必须要掌握的自动化部署",
-          "link": "https://toutiao.io/k/7n84pl9",
-          "publishedOn": "2021-08-22T01:05:11.862Z",
-          "wordCount": 138,
-          "title": "初探自动化部署 Jenkins 安装及配置"
-        },
-        {
-          "id": "https://toutiao.io/k/v90tm3b",
-          "author": null,
-          "description": "使用 Vue.js 构建可以在 Android 和 iOS 上运行的跨平台移动应用程序",
-          "link": "https://toutiao.io/k/v90tm3b",
-          "publishedOn": "2021-08-22T01:05:11.727Z",
-          "wordCount": 655,
-          "title": "开发 App 新选择：使用 Vue Native 构建移动应用"
-        },
-        {
-          "id": "https://toutiao.io/k/7eoe7fm",
-          "author": null,
-          "description": "权限隐私的发展趋势越来越严格和规范。在日常的客户端开发当中如何保证权限隐私的使用合理合规显得尤为重要。",
-          "link": "https://toutiao.io/k/7eoe7fm",
-          "publishedOn": "2021-08-22T01:05:11.636Z",
-          "wordCount": 93,
-          "title": "Android 端权限隐私的合规化处理实践"
-        },
-        {
-          "id": "https://toutiao.io/k/6xcvtu3",
-          "author": null,
-          "description": "有赞多集群的落地实践，以及如何使用Karmada进行多集群管理。",
-          "link": "https://toutiao.io/k/6xcvtu3",
-          "publishedOn": "2021-08-22T01:05:11.336Z",
-          "wordCount": 91,
-          "title": "Kubernetes 多集群架构探索"
-        },
-        {
-          "id": "https://toutiao.io/k/3a69xjq",
-          "author": null,
-          "description": "美国当地时间2021年8月16日，Go 1.17版本在经过两个RC版本之后正式发布！本文概要介绍Go 1.17版本中都有哪些值得大家关注的变化。",
-          "link": "https://toutiao.io/k/3a69xjq",
-          "publishedOn": "2021-08-22T01:05:11.269Z",
-          "wordCount": 213,
-          "title": "Go 1.17 中值得关注的几个变化"
-        },
-        {
-          "id": "https://toutiao.io/k/drxu3lx",
-          "author": null,
-          "description": "ElasticSearch是一个基于Apache Lucene的开源搜索引擎。我们都知道Apache Lucene是一个很高效的全文本搜索引擎库，但说到底它还是一个库，所以用起来很不方便，而ElasticSearch就是在其基础上实现的，它屏蔽了Lucene的复杂底层实现，提供了分布式的特性，同时对外也提供了相应的Restful的API。所以，总得来说，ElasticSearch其实上手很容易，本文就从最基本的操作开始来介绍一下ElasticSearch相关的内容。 ElasticSearch的安装 相关的安装很简单，大家可以参见官网：https://www.elastic.co/guide/en/elasticsearch/reference/7.14/install-elasticsearch.html，这里就不详细介绍了。 Cluster的创建 我们都说ElasticSearch是一个分布式的搜索引擎，提到分布式显然离不开Cluster的概念。那么ElasticSearch是如何创建Cluster的呢？ 空的Cluster 首先这里有几个概念，第一个就是node，通常来说一个cluster就是由一个或者多个node组成的，这些node具有相同的名字，也就是cluster的名字（Cluster.name）。在cluster中有一个node会被选举成为master，它用来管理整个cluster的改变，比如创建/删除 index，增加或者删除node。任何node都可以选举成为master，当然我们希望任何时候都只有一个master存在。 对用户来说，它是可以和cluster中的任何node来进行交互的，当然也可以和master来交互，被连接的这个node负责到内部相应的node来获取相关的信息或进行相关的操作，并负责返回对应的response给用户。 一个只有一个node的cluster如下图所示，因为只有一个node，所以它也必然会成为master。 增加Index 首先我们来理解一个概念，那就是shard，shard其实就是一个Lucene的instance，我们的文本都存储在shard上，并且在其上进行index。我们可以认为shard其实就是一个数据容器，文本存在它上面，然后它是在cluster中的node上进行分配到的。随着后期数据的增长或者减少，ElasticSearch会自动地在node上迁移shards来保持平衡。但是需要注意的是，应用并不直接和shard通信，而是和index进行通信。 Shared也有primary和replica shard之分，replica shard其实也很好理解，它其实primary的备份，用来提供redundant备份的。当然它也可以服务一些读请求，比如搜索和查询文本。 下面我在上面这个只有一个node的cluster中创建一个称之为blogs的index，这里我们设置三个primary shards，每一个shard都有一个replica shard。 这样之后，整个cluster就如下所示了： 从这个图中，我们可以清楚地看到，node1上有三个primary的shards的，但是因为我们只有一个node，所以其实没有办法做replica的shard，因为primary和replica的shard不能放在同一个node上，否则就达不到我们所说的redundant的作用了。 这种情况下的cluster其实是很脆弱的，也就是说只要这一个node出了问题，我们整个系统就不能工作了。 增加Failover 为了解决我们上文提到的单点失效的问题，我们需要在cluster中增加的node。这个时候增加一个node之后，我们的cluster状况就如下图所示： 我们可以看到所有的primary shard这个时候都有了一个replica的shard。这也就意味着一个node的失效，我们仍然可以继续工作而不出问题。 当然为了达到primary和replica同步的效果，任何primary的文档的修改，都需要在primary更新之后同步到replica中，当然这里也有异步，同步等多种更新的方式，不同的方式有其优缺点，我们会在后面详细介绍。 水平扩展 有了Failover之后，我们的cluster工作得很好，随着数据量的增加，我们会发现现有的节点可能不能支撑三个shard的流量要求，这个时候就需要进一步扩展，我们可以增加第三个节点，并且重新分配各个shard在节点中的位置。如下图所示： 这个例子中，我们分别从node1以及node2中各移出了一个shard放到了node3中，从而达到某种意义上的平衡。这样一来我们就可以更好的平衡各个node的硬件资源了（比如CPU，Memory，网络IO等等） 我们这里的六个node其实是由上文创建时候的number_of_replicas和number_of_shareds决定的，假如我们发现六个node还不能满足要求，其实是可以动态更新这个值的，比如说我们可以replica的数量修改为2，如下所示： 这样一来整个cluster就会有九个node了，如下所示： Failover的处理...",
-          "link": "https://toutiao.io/k/drxu3lx",
-          "publishedOn": "2021-08-21T23:16:35.000Z",
-          "wordCount": 232,
-          "title": "ElasticSearch 基本概念之 Cluster 介绍"
         }
       ]
     },
@@ -4032,6 +4073,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740492",
+          "author": null,
+          "description": "史秀雄Steve，心理咨询师、2019苹果最佳播客Steve说主播\n阅读原文\n\n人终究会死，那么活着的意义是什么？\n会问这个问题的人，应该是以下的两个群体之一：\n第一，你是个好奇和爱思考的人\n第二，你遭遇了挫败、创伤、痛苦或者颓废，进而对自己的人生产生了疑惑\n而大家给出的答案，大多也是以下两类之一：\n第一，人生有很多值得享受的细节，活着就是为了去体验它们\n第二，人生存在着一些伟大的境界，活着就是为了去发现它们\n\n很不幸的是，这两类答案往往是第一群人写给第二群人的，而这当中的问题在于：写答案的人往往在假设看答案的人没有发现过生活中的美妙细节，也不相信人生的确存在伟大的境界。诚然，有的人可能的确没有想过这些事情，尤其是生活阅历尚浅的人，那么对未来可能性的描绘是会有启示的作用。\n可是如果看答案的人已经经历过了很多呢？如果他体验过了美妙的时刻，也相信伟大境界存在的可能性，但是依然质疑活着的意义呢？如果你解答这个问题的方式，是去重述和强调对方已经知道的事情，这实际上是在进一步确认他现有的信念体系是无效的，无法证明人生意义的。结果会不会反而让对方更加绝望呢？\n这也是心理咨询当中的一大挑战：咨询师会遇到许多对生活感到绝望和无意义的来访者，而在这样的情况下许多新手咨询师会忍不住用“画饼”的方式去鼓励来访者，让他意识到你只要把当下扛过去了，未来会有好事情等着你。\n这样的方式从来都不管用，还会起反作用。\n你的来访者可能会觉得你并不理解他，也不愿意站在他的角度看待问题。他可能表面认同，但心里觉得站着说话不腰疼。他还可能觉得你不敢面对他所感受到的这种绝望感和虚无感，在用自欺欺人的方式逃避这个问题。总之，对来访者提出这样的问题时，我从不会试图安慰对方，因为没有什么好安慰的。\n你可能会惊讶，“没有什么好安慰的？”，这听上去好冷血，怎么可能是心理咨询师说出来的话呢？\n\n这就要引出我的核心观点了：人的存在…",
+          "link": "https://daily.zhihu.com/story/9740492",
+          "publishedOn": "2021-09-20T23:07:14.000Z",
+          "wordCount": null,
+          "title": "人终有一死，那么人生有何意义？为什么要继续活着？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740490",
+          "author": null,
+          "description": "segelas，电影学硕士已毕业，但仍旧略懂皮毛\n阅读原文\n\n谈一谈个人的看法。\n武侠片这个名词，或许更接近于类型片的概念。如果从这一点出发，那么武侠片的“死亡”，或许要从其在片中元素、主题上的“丰富化”说起。当武侠不再是我们惯常认知中的那种“套路”与“模式”，而拥有了导演的更多独特性表达，便有了更强的作者性，而武侠也就变成了导演构建自我表达的平台和工具。\n在这个层面上讲，当武侠电影展示出了更多的作者性时，那个大众习惯性认为的“武侠片”，或许就是“死”了。比起一次次的套路化复制，它更多地成为了走向与主题完全个人化的东西，难以做完全统一的严谨归类 ---- 我们显然不能将《东邪西毒》《英雄》《武侠》视作同一类作品，而他们也与更早期的张彻的那些电影完全迥异。\n因此，武侠片是否“死了”？由于它的作者化、个性化，对于传统模板的愈发打破，或许“是”。但是，从另一个角度上说，新时代的武侠电影，导演依然以武林中人为表现对象，依然围绕着侠客们的内心世界，依然表达着武侠于自己眼中最值得赞扬的部分。\n\n武侠片，依然是武侠唱主角，甚至比原来的类型化武侠片更深入、更本质、更关乎于武侠的精神层面内容。曾经的金庸改编作品，多以核心人物的情感线索与微观矛盾为主，而较少侧重金庸原作中的“家国”与“自由”之精神内核，而《英雄》《卧虎藏龙》这样的作者性电影里，我们却可以看到这样的涉及。那么，从这个意义上，武侠片又没有真正地死，反而“活”得更丰富、更内涵了。\n如果以“传统认知武侠片的死亡“为标准，那么作者性程度最高的作品，其实就可以看作是”死亡“的标志。但与此同时，它却又是武侠片挖掘深度之新篇章的生之标志。\n\n王家卫的《一代宗师》，或许就是这样一个标志。\n相对于《东邪西毒》等片的艰深晦涩，《一代宗师》应该算是王家卫最为平易近人的一部作品了。均匀分布的动作戏，最大限度保证了观众的情绪。但非常明显的是，《一代宗师》…",
+          "link": "https://daily.zhihu.com/story/9740490",
+          "publishedOn": "2021-09-20T23:07:06.000Z",
+          "wordCount": null,
+          "title": "武侠片是不是死了？武侠片死于哪部电影？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740482",
+          "author": null,
+          "description": "猫研所，猫咪知识精准科普平台\n阅读原文\n\n这是因为猫咪有很强的障碍记忆能力！\n所以，像这样的障碍↓\n图自：youtube\n这样的↓\n图自：Gifer\n还有这样↓\n图自：Gifer\n猫咪都可以轻松躲避。\n为什么猫咪走路不会被绊倒？\n猫咪在走路时，眼睛会提前确认障碍物，当走到障碍物前时，不用再确认障碍物位置和高度，会直接前后脚跨过：\n图自：引文 1\n而人是不同的，我们在走路时会低下头看着障碍往前走。\n当人遇到楼梯会低下头确定位置\n为什么猫咪不需要低头走路呢？这是因为猫咪在抬起前脚后，会记住前脚抬起的高度，再把后脚抬到同样的高度，就能轻松跨过障碍物了。\n而猫咪表现出来的的这种记忆能力，实际上是有正经名称的，叫“障碍记忆”，它能保护猫咪的后脚在行走过程中不被撞到。\n图自:引文 1\n在猫咪正常行走过程中，前后脚抬起的时间间隔只有 0.8 秒，所以“障碍记忆”通常也只需维持 0.8 秒。\n可如果在猫咪前腿刚跨过障碍物时，突然打断猫咪的行走，TA 的后腿还能“记得”障碍物吗？\n猫咪是否会忘掉障碍存在？\n早在 2006 年，加拿大阿尔伯塔大学心理学系的一个团队，就对猫咪进行了这方面的实验研究。\n实验 1\n▌验证猫咪障碍记忆的持久度\n通过喂食打断猫咪的行走，在猫咪恢复行走后，观察猫咪后腿是否会抬起跨过障碍物。\n\n实验过程\n\n➤ 在猫咪行走的路中央放置一个障碍物（障碍物的高度为 7.2cm）。\n\n1.虚线:没有障碍物的轨迹\n2.实线:遇到障碍物后的轨迹\n\n➤ 在猫咪前腿跨过障碍物时，通过给猫咪喂食，中断猫咪行走(几秒钟到几分钟)。\n图自：引文 1\n➤ 然后悄悄挪走障碍物。\n➤ 通过移动食物鼓励猫咪向前行走。观察猫咪能否会在原先障碍物的位置抬起后腿。\n图自：引文 1\n实验结果\n\n猫咪在行走过程被打断 10 到 200 秒后，后腿依旧会在原障碍物的位置抬高到与前腿相同的高度，并且做出跨过障碍物的姿势。\n甚至在少数的情况下，猫咪保留了长达 10 分钟的障碍记忆。\n实验 2\n▌验证猫咪障碍记忆的精确度\n在猫咪行走的道路上再添加一个障碍物，验证猫咪在行走被打断以后，能否准确地记得两个障碍物的位置。\n\n实验过程\n\n➤ 在上个实验猫咪行走的道路上，再加入另一个障碍物。\n图自：引文 1\n➤ 在猫咪的两只前脚越过两个障碍物后，通过给猫咪喂食来中断猫咪行走（几秒钟到几分钟）。\n猫咪分开跨过两个障碍物(虚线) 猫咪直接跨过两个障碍物(实线)\n➤ 再用食物引诱猫咪向前走，观察猫咪在行走被打断以后，后腿能否准确跨过两个障碍物。\n\n实验结果\n\n猫咪依然记得两个障碍物的位置以及两个障碍物之间的间隔距离，并顺利跨过了两个障碍物。\n所以，实验表明猫咪对障碍物位置、大小和高度的记忆不受短暂停顿的影响。\n这种避障记忆有什么作用？\n➤ 躲避天敌\n猫咪是非常谨慎的动物，任何动静都会引起 TA 们的注意，而 TA 们也会尽量去隐藏自己，不出现声响，避免暴露自己的行踪而受到袭击。\n➤ 抓捕猎物\n猫咪的障碍记忆能在一定程度上降低行走时产生的动静，避免在伏击其他动物时，因为后腿不小心踩到障碍物发出声响，而惊跑自己的猎物。\n家养猫咪也保留下这种避障记忆的能力，让 TA 们在平时的生活中，不会因为眼睛观察不到后腿而撞到障碍物。\n图自:youtube\n既然猫咪拥有如此强的避障能力，为什么还会经常“不小心”将东西碰倒碰掉呢？\n图自:youtube\n这就可能是因为猫咪的好奇心，或是太无聊而——\n故意为之！\n图自:youtube\n资料来源：\n[1] McVea, D. A. (2006). Long-Lasting Memories of Obstacles Guide Leg Movements in the Walking Cat. Journal of Neuroscience, 26(4), 1175–1178.\n[2] McVea, D. A., Taylor, A. J., & Pearson, K. G. (2009). Long-Lasting Working Memories of Obstacles Established by Foreleg Stepping in Walking Cats Require Area 5 of the Posterior Parietal Cortex. Journal of Neuroscience, 29(29), 9396–9404.\n[3] https://www.petful.com/behaviors/cats-memories/\n\n责任编辑：LNS\n本文为猫研所原创，谢绝任意转载\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740482",
+          "publishedOn": "2021-09-20T23:07:00.000Z",
+          "wordCount": null,
+          "title": "猫为什么能够精确躲避障碍物？尤其是后腿?",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740486",
+          "author": null,
+          "description": "简单心理Uni，学心理咨询，到简单心理Uni\n阅读原文\n\n题主你好，这个得看是在什么场合下遇到的什么关系的人了。但是别担心，大部分情况下不会让人觉得反感。\n一是因为现在大部分人都更关注于自己，如果和社恐的人做不来朋友会及时止损，远远到不了反感的程度；\n二是因为现在大家对于“社恐”不再陌生，如果不理解也至少能保持礼貌相处。\n拥有社交焦虑和恐怖的人不表示没有亲密的朋友，题主如果你自己本身就是一个社恐，评判和责备自己只会让你的痛苦更深一步。\n尝试去接受自己对于社交的焦虑，接受自己本来的样子吧。\n\n我是一个有社交焦虑的人，很害怕在公众场合得到过度的关注。\n有一年过生日，我和朋友们在餐厅吃饭。突然，我的一个朋友拿出了为我准备的生日蛋糕，点燃了蜡烛，高声祝我生日快乐。\n结果餐厅的服务员们看到了，就纷纷聚集过来，他们本着提供优质服务的态度，准备为我合唱生日歌。\n看着朋友和服务员热情的笑脸，我的心跳直线飙升，手心开始出汗。我无法拒绝他们，却也无法坦然地接受这样大张旗鼓的祝福。\n这个场景一直深深地留在我的脑海里，因为对于社恐来说这太可怕了，就像是被公开处刑。\n\n01、社恐怕的到底是什么？\n社交焦虑，也称为社交恐惧 / 社恐。它与单纯的“内向”并不一样，具有社交焦虑的人会过分监控和关注自己在社交时的行为，并且会对自己的言行做出负面的评价。\n比如和同事在电梯里相遇时，我的内心便会上演几万字的小剧场：\n“我要不要打招呼，我觉得我应该打个招呼吧，如果不打招呼会显得很冷漠，但是同事已经进来半天了，现在再突然打招呼会不会显得很奇怪？……还是打个招呼吧。\n我靠，怎么已经到了，我为什么最后也没有打招呼。完了，同事一定觉得我很没有礼貌……”\n还有就是，我经常在和朋友聊得热火朝天时，突然心里一凉，暗暗琢磨自己刚才某句话的措辞可能不太合适，天哪，我蠢死了，我为什么要说那句话。\n@Relatable Doodles…",
+          "link": "https://daily.zhihu.com/story/9740486",
+          "publishedOn": "2021-09-20T23:06:54.000Z",
+          "wordCount": null,
+          "title": "社恐的人会让人觉得很反感吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740481",
+          "author": null,
+          "description": "伯益，期期艾艾，行迈靡靡\n阅读原文\n\n可以符合，也可以不符合。这看你买不买账。\n漫威漫画本质上是幻想作品，故不符合现实科技理论是可以理解并在一定范围内容忍的。\n由于很多科技阿宅喜欢漫威，他们会努力地用尽可能符合哲学逻辑的方式帮助编剧去让“设定”看起来更“合理”（符合科学理论）一些。“维度”论就是其中之一，这一粉丝理论在 80 年代后被官方手册采纳并认可。\n90 年代《奇异博士：至上尊者》Vol.1 第 21 期增页的手册类故事“黑暗维度传奇”，奇异博士以科学角度解释无限光谱中的多元维度。\n不同于通常理解上的按照时间线进行解构的分法，漫威的多元宇宙结构中还有一种观察方式是“无限光谱论”Infinite Spectrum，即按照现实世界的三维空间结构进行解析，在任一维度的数轴上，都存在着 0-∞的刻度，现实物质世界的三维之下的有限无界的世界常被称为“口袋维度”pocket-dimension，三维以上的特异性异维度空间常被称为“额外维度”extra-dimension，多元宇宙也可以视为这无穷多的维度中存在的世界之和（不过很多情况下额外维度与口袋维度经常混用）。而诸多不符合我们认知中的超能力现象，都可以是认为相关人物借用了其余维度的力量。\n通常所说的“能量守恒定律”/ 热力学第一定律，前提是观察对象是宏观状态并处于物理定义中的“封闭系统”。如果某个人物可以源源不断地从额外维度或者某个口袋维度获取能量 / 物质，这样在形式上就不违背热力学第一（守恒）及第二（熵增）定律了。\n比如蚁人等皮姆粒子使用者，其变大或变小的质量来源，就源于“微宇宙”Microverse 中的一个口袋维度 Kosmos；镭射眼 Cyclops 的冲击射线其实是一种特殊的非现实粒子束，来自于某个与他的眼睛相连的未知口袋维度。夜行者 Nightcrawler 等变种人的传送超能力也与口袋维度相关。\n多玛姆 Dommarmu、梦魇 Nightmare 等威胁着多个世界的恶魔 / 邪神，其领域通常都是位于高于现实的额外维度中；起源于地球的诸神，则大多居住于与地球相连的口袋维度，比如阿斯加德 Asgard、奥林匹斯 Olympus、大罗天 Ta-Lo 等。魔法师们通常做出的那些无法用科技解释的表现，多半都是靠借用这些神魔及其领域的能量实现的，索尔这种神魔的力量也可以以此解释。\n当然，以上都是不怎么硬的伪科学，大部分编剧直接是以纯粹唯心的角度塑造魔法与超能力的，他们根本不在乎上面的解释。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740481",
+          "publishedOn": "2021-09-20T23:06:46.000Z",
+          "wordCount": null,
+          "title": "超级英雄符合能量守恒定律吗?",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740528",
+          "author": null,
+          "description": "你见过哪些搞笑的新闻报道?\n\n乔殿夏，擅长做梦 擅长幻想 想让你开心\n阅读原文\n\n记者：这位大妈您好。请问一下雾霾对您的生活有没有造成什么影响呢？\n老人：影响可大喽。首先你得看清楚，我是你大爷……\n\n\n阅读原文\n\n王者荣耀中有没有你是因为技术而被别人称为外挂？\n\n夏虫不可语冰\n阅读原文\n\n因为太菜被怀疑是电脑算吗\n阅读原文\n\n在国内的星巴克跟店员说英语以练习口语，会被人投以白眼吗？\n\ndodo，注册建筑师/装比的逗比/专利权人/闲人\n阅读原文\n\n\n\nSalut！\n\n\n阅读原文\n\n为什么一个编程论坛会起名叫Stack Overflow，多么不吉利的名字?\n\ndhchen，Ph.D. in Mathematics\n阅读原文\n\n我猜题主是炼丹的，否则不会在意吉利与否\n阅读原文\n\n有个广东男朋友是什么体验？\n\n寒江雪，热爱生活的姑娘\n阅读原文\n\n我东北的，在“街”这个字上找到了共鸣\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740528",
+          "publishedOn": "2021-09-20T23:06:40.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740477",
           "author": null,
@@ -5630,56 +5731,6 @@
           "publishedOn": "2021-08-22T23:07:00.000Z",
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739429",
-          "author": null,
-          "description": "Phosphates，北京大学 化学+物理+围棋+毽球; UCSD Ph.D.\n阅读原文\n\n太长不看版：\n\n选用特定的材质——长余辉材料（夜明珠），可以使得夜晚照样能发光；还记得本科时，这就是我们无机化学实验中的一节。无机化学实验是分批做的，我和一个室友先做，而另外两个室友下周才做。当我们做完这个实验时，老师让每人留下一些给他们做光谱测试，剩下的可以自己带回宿舍。于是我们就将样品装在透明的样品袋里，然后晚上睡觉前我们就扔在桌上后，上床睡觉了。结果有个还没做这个实验的室友，半夜起来上厕所时，被我们桌上的绿光给吓到了。\n但是上述方法并不是直接储存的光子，而是电子被激发到了 trapped state，之后再逐渐发光释放能量。——相当于是将现货转化为了期货。\n实际上，光子是粒子数不守恒的，会实时与容器壁发生相互作用，所以单纯的光子是没法被储存的。但是，可以储存含有光子成分的准粒子——比如 Polariton；或者像 1.中所说的方法，转化成电子的能量。关于 3. 的具体讨论可见下面这个回答。\n\n光子无法被储存，因为光子数不守恒\n光子这玩意儿，在统计力学中有个与其他物质非常不同的性质——光子的化学势为 0，所以光子数不守恒！\n这是因为光子会和容器壁发生相互作用，下面举一个例子。比如容器壁中肯定会有电子，光子可以激发电子到一个更高的能级从而被吸收；出于高能级的电子也可以跃迁回来从而释放出光子。另外，一个较高能量的光子可以激发电子从基态 0 到激发态 3，但是从激发态 3 跃迁回来时，可能释放 1 个光子（直接 3->0），也可能释放 2 个光子（3->2->0），也可能是 3 个或者 4 个。所以显然光子数是不会守恒的。因此，绝对 100%反射率的容器壁是不可能存在的，因为一定会与光子发生相互作用的。\n对于粒子数守恒并且存在粒子间作用力的物质，你总能通过各种方式试图获得凝聚态——你可以通过加压以减小粒子间距离，并且降温以降低粒子的热运动使得吸引力呈主导，最终你能获得凝聚态。但是对于光子这种粒子数不守恒的，如果你加压的话，容器壁就吸收了光子，从而不会剩下多少了。\n可能有些人会希望通过磁约束来避免容器壁与光子的直接接触。但是很遗憾，光子不带电，所以无法使用磁约束。\n什么是长余辉材料？夜明珠是如何发光的？\n长余辉属于一种光致发光。我们一般听说的光致发光包括荧光和磷光。\n所谓荧光，当分子吸收入射光的能量后，其中的电子从基态\n\n（假设是单线态，绝大多数情况）被激发到了单线态激发态\n\n，随后经由非常快的（短于\n\n秒）内转换过程无辐射跃迁至能量稍低的单线态激发态\n\n，最后再释放光子回到基态\n\n。通常荧光的持续时间很短，因为每一个过程都是瞬间完成的。一旦光源停止，几乎瞬间停止发光[1]。\n\n所谓磷光，如果当激发到单线态激发态\n\n，并内转换到\n\n后，如果此时发生系间跨越（intersystem crossing）过程无辐射跃迁至能量较低且具有不同自旋多重度（一般为三线态）的激发态\n\n，随后内转换到\n\n，最后释放光子回到基态\n\n。随后从\n\n回到\n\n在热力学上是有利的，但是由于这是从三线态到单线态的转变，在跃迁选择规则上是禁戒的，所以需要较长的时间来完成——一般可以长至数小时。所以如果你有磷光材料的话，也是可以用来延迟发光的[2]。\n\n（在以上的讨论中，\n\n和\n\n的存在不是必需的，如果不方便理解的话可以自行略去）\n而长余辉材料与上述两种都不太相同——夜明珠就是用的这种发光方式。根据维基百科介绍，目前长余辉材料的发光机理尚未完全研究透彻，但是我们知道的是，它其中涉及到电子的 trapped state，类似于 energy trap。最后发光的方式类似于荧光过程，但是延迟时间又类似于磷光过程[3]\n\n比如在一种长余辉材料\n\n中[4]，就是\n\n的电子先被激发，然后能量被转移给\n\n使得其电子处于 trapped state。之后就会逐渐释放能量从而发光——在黑夜之中能清晰可见。但是此时你并不是将光子直接储存在了容器之中，而是将其转化成了电子的能量，之后再缓慢释放出来——相当于是将现货转化成了期货。\n\n还记得这就是北京大学化学学院无机化学实验课上的一门实验，当年我们也制备了这个材料。无机化学实验是分批做的，我和一个室友先做，而另外两个室友下一周才做。我们做完这个实验，老师让每人留下一些给他们做光谱测试，剩下的可以自己带回去。于是我们的样品就装在样品袋里，然后睡觉前我们就扔在桌上，然后上床睡觉了。结果有个还没做这个实验的室友，半夜起来上厕所时，被我们桌上的绿光给吓到了。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739429",
-          "publishedOn": "2021-08-21T23:07:59.000Z",
-          "wordCount": null,
-          "title": "我白天把光装进袋子里，为什么晚上打开袋子里面的光就不见了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739416",
-          "author": null,
-          "description": "耗子领袖\n阅读原文\n\n我觉得这个问题不能单纯地从心理学的角度出发去解读，既然这个现象是较为普遍存在的[1]，而不是因人而异，那必然是存在进化和神经上的基础。\n（为了保持阅读的流畅性，我认为比较基础性的知识我不再详细解释，而是会放到注释里。）\n我个人认为，应该是负面心境导致脑内五羟色胺水平紊乱（一般是降低）[2]，引发强迫样思维 / 回忆[3]，忍不住一遍又一遍体验当初那不开心的感觉。\n\n最最极端的例子就是PTSD（创伤后应激障碍）了，它最典型症状就是创伤性再体验症状[4]。\n所以这个问题就被我狡猾地升级成“为什么经历应激创伤事件后会出现创伤性再体验症状”，就好像做人就要喝最烈的酒，做研究，当然就要上最猛的范式（手动狗头）。\n例如，PTSD 患者伴随着杏仁核五羟色胺受体可利用性降低，这可能导致放大对负面情绪的反应[5][6]。\nHC 是健康人对照组，就是上面蓝色柱子\n而另一个研究发现，降低PTSD 患者的五羟色胺水平会加重患者面对创伤相关刺激的负面情绪反应，而用五羟色胺再摄取抑制剂（SSRIs，提高五羟色胺水平）可以抑制PTSD 症状[7]。\n写到这里，我发现用 PTSD 来回答这个问题还是不够贴切（但我也舍不得删...），一个更好的模型是抑郁症，临床上发现抑郁症和强迫症经常出现共病的情况[8][9][10][11]，即得了一个也容易得另一个，例如抑郁症患者经常伴随着强迫性思维（obsessional thinking），而导致他们共病的基础也被认为是五羟色胺系统紊乱。\n所以我的结论就是，人们面对负性事件时，大脑的情绪系统做出反应，使我们体内的五羟色胺水平发生了变化，这种变化有可能引发强迫性回忆和负性情绪放大。\n尽管论证的过程不是特别严谨，但我觉得说得通，但注意上述只是我个人整理现有文献的综合看法，并非学界下的结论。\n为什么要进化出这种生理机制呢？我猜可能是为了让动物更好地记住教训和负面刺激，让你回避危险并思考解决方案，并预演下次再碰到这种事时的情景（所以会不断回放），以提高动物的生存率吧。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739416",
-          "publishedOn": "2021-08-21T23:07:53.000Z",
-          "wordCount": null,
-          "title": "为什么人们愿意沉浸在负面情绪中？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739383",
-          "author": null,
-          "description": "赵泠，遗迹是曾经讴歌繁荣的生命留下的缺页的梦。\n阅读原文\n\n在播放的内容波长、亮度、刷新率适当的时候，视力不太差的动物可以观看影视作品；在播放的声音频率、响度适当的时候，听力不太差的动物可以听到音频。“能不能理解”“有无乐趣可言”在子非鱼的层面上无法判断，不深究这个的话，看起来动物可以根据互动视频做出人们预期的部分反应，至少能对视频达到和对周围的事物相似的理解程度——原本就看不懂的东西，例如偏微分方程，写在纸上和显示在屏幕上都不懂。\n看起来，黑猩猩、猫狗之类可以从看视频和 / 或听音频中获得一定的乐趣。人们并没有给海豚和章鱼看过什么正经玩意，但章鱼跟水族馆里的摆设玩得看起来不错，这包括而不限于砸水箱、喷水来短路水箱上方的灯。\n2013 年的一项研究表明，狗可以根据视觉线索选出屏幕上的狗的图像并将它们分组，狗辨认屏幕上的狗的能力高于辨认非狗之物[1]——这可能是长期演化的繁殖相关识别能力。在音频方面，狗对电视发出的狗的声音、友好的人声、玩具的响声做出的反应多于一般杂音。狗的品种可能会影响它对电视的反应：嗅觉敏锐的猎犬对视觉效果不那么感兴趣，而牧羊犬喜欢看到移动的物体。\n历史上，低帧率的显像管电视的图像被狗当做简单的运动或光线闪烁。二十一世纪初，在 HDTV 上出现了针对狗的电视频道，称为 DogTV[2]，播放面向狗的高帧率视频信号（狗眼适合的帧率约 75 赫兹），按照狗能识别的色彩（黄色、蓝色及其组合）着色，包含狗耳能听到的高频声音，节目内容有放松（例如狗在草地上伸懒腰）、刺激（例如狗在南加州冲浪）、生活（狗对响起的门铃做出反应并服从主人的命令）等，每段节目长 3~6 分钟以适应狗的观看习惯。\n猫也经常在人家里看电视，表现出可以识别电视屏幕上的不同轮廓和动作并对电视发出的声音做出反应。猫眼适合的频率约 70~80 赫兹，并对红色识别能力较弱。猫有时会试图攻击电视上的虫子和老鼠。\n你可以预期黑猩猩喜欢看黑猩猩生活相关的节目，其余动物大抵也是关注同物种胜过对它们来说“不知所云”的人类肥皂剧。\n\n大猩猩 Koko 能对人类影视节目做出一定的反应。\n\n大猩猩 Koko 用手语解释看到的电影https://www.zhihu.com/video/1409966164039131136\n\n在斯图加特动物园进行的实验证明，播放倭黑猩猩打架的视频会让观看视频的倭黑猩猩感到紧张，播放倭黑猩猩进食、玩耍、交配的视频则无此影响。\n\n他人如何获得乐趣、有无乐趣可言，在子非鱼的层面上同样无法判断。不深究这个的话，人们通常会对看到的东西进行模式识别、匹配、预测并以镜像神经元等触发共情，在看到符合预期的内容时触发奖励机制，在看到严重不符合预期的内容时触发战斗反应和 / 或镇痛机制（并随后因并无真正的危险而出现回调），诸如此类。视频·音频在你那极度复杂的大脑皮层神经连接网络里激起的更多反应是目前不能精确解析的。\n节肢动物基于逐行扫描的复眼在观看显像管电视时获得的图像，根据帧率的差异，可能跟节目内容出现极大的偏差。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739383",
-          "publishedOn": "2021-08-21T23:07:46.000Z",
-          "wordCount": null,
-          "title": "动物能通过观看影视作品获得乐趣吗？动物喜爱观看的影视作品可能是什么样的？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739393",
-          "author": null,
-          "description": "Calvin，一枚聪明又傲娇的硬件工程师！\n阅读原文\n\n前面有几位职场专家讲的都已经很全面了， 我从个人真实经历和在职员工的角度提供点看法。\n我在秋招面试时，真的被主管老板问过这个问题！\n我是 16 年硕士毕业参加的思科中国研发中心硬件设计工程师的秋招，不像互联网、华为这种大厂一年招几百个人，思科在华研发中心不大，一年应届生也就招几十个人。 具体到某一个组可能就招一两个。\n主管老板面试是最后一轮，之前已经经历了简历海选、基础笔试、英语口语面试。因为我是跨行业找工作，当时硬件笔试效果一般，英语口语尚可。主管老板进来时我都不知道这个是经理，只是以为面试官的另外一个同事，所以没有太在意。\n当时他看了看我简历，特意问了我同学毕业后的求学情况。 我如实回答，本科同学大概 1/3 出国，1/3 读研， 1/3 工作， 而研究生同学大部分就业了，继续升学的很少。 然后我发现他特意问了下我同学中出国的去了什么地方，当时感觉只是闲聊。 完了最后一个问题就是问我职业规划。\n我之前准备过这个问题， 就直接说了一个五年规划，大概是第一年尽快适应公司业务逻辑，掌握工作必备的基础知识。 三年之内把工作具体内容都摸过一遍，能够独立承担小型项目，并且在前三年内都加强自我学习。 五年之内有自己精通的项目，能够独立承担中高难度项目。\n主管不置可否，只是点点头， 然后问我有没有出国计划？ 我当时很纳闷，只是笑着摇摇头说没有。 \n... \n后来入职两三年后聊起这个事情我才知道个中原因：硬件设计这个行业，培养周期长，可能一个优秀的工程师培养好就需要 5 年， 且成熟行业需求和供给都低。 如果招一个心性不定的人可能没过两三年人就跳槽走了，那样培养的精力就白费了。 另一方面，我们主管之前培养过几个应届生，但是最后总感觉软实力方面差点意思，所以这次校招想招一个学校好点，综合素质不错的人培养一下，而是不是专业非常对口对他来…",
-          "link": "https://daily.zhihu.com/story/9739393",
-          "publishedOn": "2021-08-21T23:07:42.000Z",
-          "wordCount": null,
-          "title": "为何面试时都会问你的职业规划呢？该如何回答呢？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739438",
-          "author": null,
-          "description": "Alexandria，THU生物狗\n阅读原文\n\n先说结论，可以，而且一定可以\n实际上，这个问题的本质是一个拓扑学问题，而 MC 的地图生成机制决定了这个问题的答案\n这个问题用更抽象的概念来总结，可以提炼为一个更明确的问题：\n一个欧氏平面上有且只有两种颜色，任意一个完整颜色边界所对应的曲线是否封闭？\n奶牛的黑白花纹这是该问题环境下的一个经典情景——在我们忽略掉那只左下角奶牛和她的牛奶的前提下\n对应到 MC 上，首先我们知道，一个自然生成的 MC 地图中的实体方块有固体方块和液体方块两种；因此地表方块也只有两种形态，固体和液体。\n显然，在传统意义上固体方块为陆地，液体方块为海洋。至于河流，湖泊和水洼，它和海洋在拓扑学上没有本质上的区别，除了大小和形状。比如连通海洋的河流可以看作海洋的延伸，两个海洋被一条跨越陆地的河流所联通则可以看作一个海洋，湖泊和水洼则可以看作微型的海洋。还有一个特例是岩浆池，将其算作液体看待\n但是地下暗河不行，作为一个三维概念它不在地表，因此在这个二维问题中不参与讨论\n此外，尽管 MC 的地图有高山和峡谷，但总体而言是一张无限大的平面，也就是欧氏平面，而不是像地球一样的球面或者带洞的甜甜圈形状\n因此我们将一张 MC 地图的所有地表方块投影到欧氏平面上。至于水边的树冠和伸出水面的悬崖，可以在这个过程中忽略。（尽管算上它们也不会对结果产生本质影响）\n于是就产生了上面这种奶牛图。唯一的问题在于，我们需要用哪种颜色代表陆地？哪种颜色代表海洋？\n其实都可以，因为我们研究的是色块的边界而不是色块本身，陆地和海洋的填色不会改变边界的形状，因此不会影响到问题的实质\n那么，如果是色块边界必是闭合曲线，则一定可以环游海洋回到原点。如果存在不是闭合曲线的情况，则未必可以返回。\n显然，边界的意义是区分两个色块。那么当边界两侧的两种色块的面积均有限的时候，这个边界必然是封闭曲线\n比如…",
-          "link": "https://daily.zhihu.com/story/9739438",
-          "publishedOn": "2021-08-21T23:07:38.000Z",
-          "wordCount": null,
-          "title": "在我的世界中一直沿着海岸线走，能否走回原地？",
           "itunes": {}
         }
       ]
