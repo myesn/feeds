@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352210",
+          "author": "Chris Coyier",
+          "description": "Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …\nThe post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/container-units-should-be-pretty-handy/",
+          "publishedOn": "2021-09-22T23:09:44.000Z",
+          "wordCount": 805,
+          "title": "Container Units Should Be Pretty Handy"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352388",
+          "author": "Chris Coyier",
+          "description": "When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …\nThe post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://giuseppegurgone.com/twitter-html/",
+          "publishedOn": "2021-09-22T21:09:12.000Z",
+          "wordCount": 1146,
+          "title": "Twitter’s div Soup and Uglyfied CSS, Explained"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352074",
+          "author": "Sarthak Duggal",
+          "description": "Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …\nThe post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/",
+          "publishedOn": "2021-09-22T14:33:10.000Z",
+          "wordCount": 2540,
+          "title": "How to Implement Logging in a Node.js Application With Pino-logger"
+        },
+        {
           "id": "https://css-tricks.com/?p=352328",
           "author": "Chris Coyier",
           "description": "CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. \n🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS \n…\nThe post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -542,24 +569,6 @@
           "publishedOn": "2021-08-24T14:30:50.000Z",
           "wordCount": 1860,
           "title": "Introduction to the Solid JavaScript Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350264",
-          "author": "Chris Coyier",
-          "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
-          "publishedOn": "2021-08-23T17:16:38.000Z",
-          "wordCount": 1292,
-          "title": "Detecting Media Query Support in CSS and JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350160",
-          "author": "Chris Coyier",
-          "description": "We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: \n// Adds to browser history\nhistory.pushState({}, \"About Page\", \"/about\");\n\n// Doesn't\nhistory.replaceState({}, \"About Page\", \"/about\");\nJavaScript is also capable of replacing any content in the …\nThe post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/native-javascript-routing/",
-          "publishedOn": "2021-08-23T14:28:14.000Z",
-          "wordCount": 832,
-          "title": "Native JavaScript Routing?"
         }
       ]
     },
@@ -568,6 +577,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
+          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "publishedOn": "2021-09-22T15:00:00.000Z",
+          "wordCount": 725,
+          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "author": "hello@smashingmagazine.com (Matthieu Cneude)",
@@ -903,20 +926,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
-          "author": "hello@smashingmagazine.com (Portia Burton)",
-          "description": "In this article, you’ll learn how to save hours of tedious work of writing, updating, and correcting technical documentation. In this article, you will learn how to automate your documentation workflow with Vale and GitHub Actions.",
-          "link": "https://smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/",
-          "publishedOn": "2021-08-24T13:00:00.000Z",
-          "wordCount": 3235,
-          "title": "How To Automate Documentation Workflow For Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/68266575-8f47-415b-9c91-7004a02944ee/action-github-1.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -995,6 +1004,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/rxxhy1d",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/rxxhy1d",
+          "publishedOn": "2021-09-23T01:15:26.250Z",
+          "wordCount": 597,
+          "title": "ARM64 平台基于 openEuler + iSula 环境部署 Kubernetes"
+        },
+        {
+          "id": "https://toutiao.io/k/w135wjq",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/w135wjq",
+          "publishedOn": "2021-09-23T01:15:26.150Z",
+          "wordCount": 816,
+          "title": "Xcode 13 正式版发布，来看看有什么新特性"
+        },
+        {
+          "id": "https://toutiao.io/k/71k28io",
+          "author": null,
+          "description": "在《如何利用 Flink CDC 实现数据增量备份到 Clickhouse》里，我们介绍了如何cdc到ch，今天我们已久使用前文的案例，来sink到hudi，那么我们开始吧",
+          "link": "https://toutiao.io/k/71k28io",
+          "publishedOn": "2021-09-23T01:15:25.941Z",
+          "wordCount": 662,
+          "title": "如何用 Flink 整合 Hudi，构架沧湖一体化解决方案"
+        },
+        {
+          "id": "https://toutiao.io/k/ljze6yl",
+          "author": null,
+          "description": "理解泛化是深度学习中尚未解决的基本问题之一。为什么在有限的训练数据集上优化模型会在保留的测试集上获得良好的性",
+          "link": "https://toutiao.io/k/ljze6yl",
+          "publishedOn": "2021-09-23T01:15:25.852Z",
+          "wordCount": 174,
+          "title": "理解深度学习泛化的新视角"
+        },
+        {
+          "id": "https://toutiao.io/k/0wbw2nc",
+          "author": null,
+          "description": "《5G Mobile Networks：A Systems Approach》中文版，希望能让互联网行业的朋友们能够了解移动通信网络的一些基本概念、网络架构和演进方向。",
+          "link": "https://toutiao.io/k/0wbw2nc",
+          "publishedOn": "2021-09-23T01:15:25.778Z",
+          "wordCount": 227,
+          "title": "写给互联网工程师的 5G 书（三）：基础架构"
+        },
+        {
+          "id": "https://toutiao.io/k/dqkzxhc",
+          "author": null,
+          "description": "golang中已经给我们封装好了系统调用的相关函数，只要调用相关函数传入所对应的参数即可，go中的系统调用相关函数都放在syscall包下，如在调用sys_getcwd，获取当前工作目录的绝对路径：",
+          "link": "https://toutiao.io/k/dqkzxhc",
+          "publishedOn": "2021-09-23T01:15:25.688Z",
+          "wordCount": 214,
+          "title": "系统调用跟踪：ls 功能实现（二）"
+        },
+        {
+          "id": "https://toutiao.io/k/dsr2yzw",
+          "author": null,
+          "description": "公众账号开发，微信支付开发调试不在烦！",
+          "link": "https://toutiao.io/k/dsr2yzw",
+          "publishedOn": "2021-09-23T01:15:25.636Z",
+          "wordCount": 157,
+          "title": "教您 10 分钟搭建一个内网穿透服务"
+        },
+        {
+          "id": "https://toutiao.io/k/zvf0wr1",
+          "author": null,
+          "description": "Krita 和 Photoshop 是众所周知的用于开发数字绘画、照片编辑和数字设计的应用程序。您可能知道",
+          "link": "https://toutiao.io/k/zvf0wr1",
+          "publishedOn": "2021-09-23T01:15:25.492Z",
+          "wordCount": 509,
+          "title": "Krita 与 Photoshop 哪个更好？"
+        },
+        {
+          "id": "https://toutiao.io/k/4xj3xkz",
+          "author": null,
+          "description": "操控型、教练型、顾问型、协调型",
+          "link": "https://toutiao.io/k/4xj3xkz",
+          "publishedOn": "2021-09-23T01:15:25.307Z",
+          "wordCount": 69,
+          "title": "管理者的四种不同授权风格"
+        },
+        {
+          "id": "https://toutiao.io/k/pct8qgx",
+          "author": null,
+          "description": "我们知道，subscribeOn() 方法通过接收一个 Scheduler 参数，来指定对数据的处理运行在特定的线程调度器 Scheduler 上。若多次执行 subscri...",
+          "link": "https://toutiao.io/k/pct8qgx",
+          "publishedOn": "2021-09-23T01:15:22.891Z",
+          "wordCount": 1435,
+          "title": "RxJava 容易忽视的细节：subscribeOn() 方法没有按照预期地运行"
+        },
         {
           "id": "https://toutiao.io/k/8ef0b5i",
           "author": null,
@@ -3361,96 +3460,6 @@
           "publishedOn": "2021-08-25T01:05:27.491Z",
           "wordCount": 238,
           "title": "Android 分区存储常见问题解答"
-        },
-        {
-          "id": "https://toutiao.io/k/sswnl63",
-          "author": null,
-          "description": "用了一段时间的 typescript 之后，深感项目中使用     typescript 的必要性，它能够提前在编译期避免许多 bug，如很恶心的拼写问题。而越来越多的 package 也开始使用 typescript，学习 typescript 已是势在必行。",
-          "link": "https://toutiao.io/k/sswnl63",
-          "publishedOn": "2021-08-24T05:41:32.000Z",
-          "wordCount": 1137,
-          "title": "TypeScript 实用小技巧"
-        },
-        {
-          "id": "https://toutiao.io/k/sm7d3s1",
-          "author": null,
-          "description": "源码中解读setContentView渲染流程",
-          "link": "https://toutiao.io/k/sm7d3s1",
-          "publishedOn": "2021-08-24T01:04:29.217Z",
-          "wordCount": 1552,
-          "title": "Android 高手进阶之 Activity.setContentView 渲染流程详解"
-        },
-        {
-          "id": "https://toutiao.io/k/3es2ncu",
-          "author": null,
-          "description": "Containerizing Apache Hadoop Infrastructure at Uber",
-          "link": "https://toutiao.io/k/3es2ncu",
-          "publishedOn": "2021-08-24T01:04:29.062Z",
-          "wordCount": 587,
-          "title": "Apache Hadoop 基础设施容器化在 Uber 的实践"
-        },
-        {
-          "id": "https://toutiao.io/k/3znrfgl",
-          "author": null,
-          "description": "今天是农历七月十五，一年一度中元节。",
-          "link": "https://toutiao.io/k/3znrfgl",
-          "publishedOn": "2021-08-24T01:04:28.856Z",
-          "wordCount": 215,
-          "title": "开源单机存储引擎之 LSMTree"
-        },
-        {
-          "id": "https://toutiao.io/k/gmj5viv",
-          "author": null,
-          "description": "在JavaScript 中，call、apply 和 bind 是 Function 对象自带的三个方法，这三个方法的主要作用是改变函数调用过程中的 this 指向",
-          "link": "https://toutiao.io/k/gmj5viv",
-          "publishedOn": "2021-08-24T01:04:28.791Z",
-          "wordCount": 261,
-          "title": "JavaScript 中 call()、apply()、bind() 的用法"
-        },
-        {
-          "id": "https://toutiao.io/k/5cpgmtk",
-          "author": null,
-          "description": "从SSO出发谈谈登录态保护，码字不易，还望多多支持",
-          "link": "https://toutiao.io/k/5cpgmtk",
-          "publishedOn": "2021-08-24T01:04:28.701Z",
-          "wordCount": 466,
-          "title": "从 SSO 出发谈谈登录态保护"
-        },
-        {
-          "id": "https://toutiao.io/k/1voyqzo",
-          "author": null,
-          "description": "相对于静态配置方式，基于文件发现机制是一种更加常用的方式，通过监听JSON和YAML格式文件变更事件进行动态target加载",
-          "link": "https://toutiao.io/k/1voyqzo",
-          "publishedOn": "2021-08-24T01:04:28.637Z",
-          "wordCount": 407,
-          "title": "轻松搞定 Prometheus 文件服务发现"
-        },
-        {
-          "id": "https://toutiao.io/k/6zdp35c",
-          "author": null,
-          "description": "Web 浏览器日益强大，网站和 Web 应用程序的复杂性也在增加。几十年前需要超级计算机的操作现在可以在智能",
-          "link": "https://toutiao.io/k/6zdp35c",
-          "publishedOn": "2021-08-24T01:04:28.504Z",
-          "wordCount": 432,
-          "title": "使用 Face-api.js 在 Web 上进行人脸检测"
-        },
-        {
-          "id": "https://toutiao.io/k/uhe6c6r",
-          "author": null,
-          "description": "基本上库都卡死了",
-          "link": "https://toutiao.io/k/uhe6c6r",
-          "publishedOn": "2021-08-24T01:04:28.418Z",
-          "wordCount": 50,
-          "title": "容易引起雪崩的两个处理"
-        },
-        {
-          "id": "https://toutiao.io/k/0772b9m",
-          "author": null,
-          "description": "Python 为什么要在 19 年前引入 enumerate() 内置函数？",
-          "link": "https://toutiao.io/k/0772b9m",
-          "publishedOn": "2021-08-24T01:04:28.327Z",
-          "wordCount": 246,
-          "title": "[译] 联合迭代器与生成器，这个内置函数真香"
         }
       ]
     },
@@ -3459,6 +3468,51 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/412390150",
+          "author": "中国航天科工",
+          "description": "月满中秋，阖家团圆。   \n中国载人航天工程于1992年9月21日由中国政府批准实施，代号“921工程”，是中国空间科学实验的重大战略工程之一。\n1992年9月21日，中央政治局常委会批准我国载人航天工程按“三步走”发展战略实施。2010年9月25日，中央政治局常委会议批准《载人空间站工程实施方案》，载人空间站工程正式启动实施。\n\n\n\n中国航天科工\n点击下载",
+          "link": "http://zhuanlan.zhihu.com/p/412390150?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-22T12:09:42.000Z",
+          "wordCount": 15,
+          "title": "921逢中秋，航小科祝您中秋快乐！"
+        },
+        {
+          "id": "http://www.zhihu.com/question/487438148/answer/2132277635",
+          "author": "中国军网",
+          "description": "他们，在边疆、在海岛、在深山密林、在大漠沙场……他们坚守战位，用忠诚书写对家国安康的祝愿。\n\n来源：知乎 www.zhihu.com\n中国军网\n点击下载\n17 个回答，查看全部。\n你们的家乡过中秋节都吃什么？\n中秋节，你快乐吗？怎么过的呢？",
+          "link": "http://www.zhihu.com/question/487438148/answer/2132277635?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-22T09:22:51.000Z",
+          "wordCount": 18,
+          "title": "中秋节，你最难忘的一次团圆是什么样的？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/486711749/answer/2120870917",
+          "author": "AI蜗牛车",
+          "description": "说几个生活的小例子把，可能更体现算法的输出。\n一、门禁\n也是我常出现的一个问题，那就是比如门禁，自己老是忘记带卡。\n但是人脸识别，可以解决这个问题，导致卡现在基本上都不带了\n二、现金\n小的时候总是丢钱，长大了，虽然有了钱包，偶尔也生怕钱包丢了。\n而现在可以各种人脸支付，钱包都不用带了，更不用说丢钱了。\n三、语音识别\n平时如果互相语音，我这边非常吵的时候，就只能等静了再看，现在可以直接语音翻译来看。\n以上都是AI带来的快捷\n而更多的问题在于信息的泛滥。\n由于AI训练需要大量的数据。\n比如推荐算法，会让你很难看到新颖的东西。\n比如对抗生成，会让很多马赛克消失，换脸，某种意义上是一种（侵权）\n比如大数据环境下，信息冗杂严重，信息眼花缭乱，也会让人没法沉静。\n\n\n来源：知乎 www.zhihu.com\nAI蜗牛车\n点击下载\n3 个回答，查看全部。\n云、大数据、人工智能时代，谈到对数据的个性化需求，哪些场景值得一提？\n大数据互联网时代真的好吗?",
+          "link": "http://www.zhihu.com/question/486711749/answer/2120870917?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-22T03:53:40.000Z",
+          "wordCount": 12,
+          "title": "身处大数据和人工智能时代，你认为算法对你的生活产生了怎样的影响？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/487183458/answer/2130804237",
+          "author": "钧正平",
+          "description": "在幽闭的环境下因缺氧窒息而死，会有多痛苦？口唇、颜面会被憋得青紫，会不自觉地想要大口呼吸，身体会不由自主地进入痉挛状态，甚至会撕扯掉自己的衣服，临终的面容往往极其狰狞和难看。\n然而，在1953年的6月26日朝鲜战场上某个被炸塌的坑道里，当氧气耗尽的时候，这个男人的遗容却非同一般的安详。他穿好整整齐齐的军装、戴好军帽、盖好被子，面容平静地等待死亡的降临。最后陪在他身边的，是一张家人的照片。\n1953 年 1 月 22 日，中国人民解放军一军奉命改编为中国人民志愿军一军入朝参战。该军七师19团团长名为康致中。此时，抗美援朝战争已经进入了最后的阶段。经过两三年的惨烈厮杀，志愿军和联合国军在朝鲜半岛中部数百公里的战线上形成对峙——在联合国军一方，现代化火力和混凝土工事在山脊线上构成空前坚固的防线，火炮、轰炸机和机枪可以轻易把前沿变成一片火海；而在志愿军一方，勤劳而坚韧的士兵把一座座山挖空，巧妙并且坚固的坑道防线也足以让所有幻想前进的敌人付出血的代价。\n虽然双方均没有力量再发动大的攻势打破战争平衡，但小的攻防却几乎每时每刻都发生着。这一点，在志愿军方面来说是更加主动和积极的。这其实不难理解，对一个经历过无数苦难，刚刚才实现民族独立和解放的国家而言，那些质朴的官兵会下意识地认为，只要每往前攻克一个阵地，就让战火远离人民一点，祖国的安全就多一分回旋空间。\n这原本是1953年春季攻势第二阶段的一次小的军事行动——19团团长康致中将奉命带领部队攻击临津江畔笛音里西北的无名高地。但不幸的是，就在进攻发起前，由于情报泄露，19团指挥所所在196.0高地遭到联合国军的集中轰炸。倒塌的土石将坑道所有进出口全部掩埋，包括康致中在内，指挥所一百多名志愿军官兵全部在坑道里窒息而亡。直到两个月后，工兵把那个炸塌的坑道口挖开，人们才看到他安安静静地躺在床上。\n康致中是抗美援朝战争中牺牲的最后一名志愿军团长。据资料记载，他的遗体被装殓于一个炮弹箱内，安葬于朝鲜江原道铁原郡的一处志愿军墓地。其实从第四次战役开始，有成千上万志愿军官兵牺牲在这片名叫“铁原”的地方。他们的浴血奋战最终在康致中牺牲的一个月后收到了回报——世界上最强大的十七国联军最终放弃了与他们继续作战的想法，被迫签订了停战协议。\n当呼吸愈发沉重，当眼前黑暗降临，他和他们会想些什么？也许，他会回想起出征临别前与妻儿拍“团圆照”的这一幕：你看，照片上的妻子面色凝重，孩子的眼里写满好奇，唯有他留下的表情却是决然与轻松。其实别人不知道，这便是一名志愿军战士能带走和能留下的全部了。\n什么是团圆？对于大多数人来说是家人闲坐，灯火可亲；但对于那个年代的他和他们而言，团圆则是哪怕我粉身碎骨、魂飞魄散，也要保山河无恙、亲人安好。\n我是钧钧，感谢您阅读我的观点。\n\n\n\n来源：知乎 www.zhihu.com\n钧正平\n点击下载\n25 个回答，查看全部。\n你见到最幸福的一张照片是什么？\n你人生中最幸福的一张照片是什么样的？",
+          "link": "http://www.zhihu.com/question/487183458/answer/2130804237?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-22T03:48:56.000Z",
+          "wordCount": 38,
+          "title": "哪张照片让你懂得了团圆的意义？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/488083809/answer/2132775937",
+          "author": "Rachel品吆",
+          "description": "有一段旅行因为特殊的光亮，将一辈子住在我的记忆里。每当我疲惫不堪，闭上眼睛都会回到当初那个温暖松弛、魔幻震撼，满心满眼熠熠生辉的地方。\nBread feeds the body, indeed, but flowers feed also the soul. 面包能补足肉身，而花朵能丰满灵魂。 - The Koran 古兰经\n\n我要说的「旅行之光」真实存在。\n但它不是极光，甚至不来自太阳或天空。除了亲历者，可能很少有人能想象，地球上还有另一种更加宏大神奇的光亮，那就是「黑夜中的荧光海」。\n\n它是大自然的免费馈赠，美感却比得上百万特效的电影场景。\n真正的醉后不知天在水，满船清梦压星河。\n从海底观赏「星星的呼吸」，闪烁的波光会美到让你忘却了自己的呼吸。\n\n白天的海岛艳烈热情，晚上却像换装一般清凉神秘。\n当你第一次来到这里，会突然觉得天地混沌了起来。\n看近处，仿佛置身云端仰俯星河；望远方，又好像海底世界仙气升腾。\n\n那光不是静冷的，它随着海水搅动着、蔓延着，层层叠叠得来到你的脚下。\n越来越近，越来越响。\n刷，刷，刷。\n终于和人类拥抱碰撞，迸发出「哗啦」一声绽放。\n\n万物静谧修养，月光皎洁修长。\n只有荧光海里的小生物趁着黑夜忙碌得翻滚。\n我站在夜空中感受着湿暖微咸的海风，发丝是轻盈的，皮肤是湿润的，心灵在云做的枕头和水做的摇篮里缓缓下沉。\n世界和谐美好，天地万物合一。\n\n这是我去过最不可思议的地方，也是最想带孩子重游的海滩。欢迎来到我的「人生旅行愿望清单」之 ——波多黎各荧光海。\n\n01 荧光海是什么？\n荧光海的学名叫做Bioluminescence Water（生物发光海域），是一种叫做鞭毛藻（dinoflagellates）的极小的单细胞组织带来的发光现象。\n鞭毛藻其实非常普通，但在一片海域中大量生存却十分少见。大概要一加仑的水里有成千上万的这种生物才能用肉眼看出来。\n在你轻触…",
+          "link": "http://www.zhihu.com/question/488083809/answer/2132775937?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-22T02:22:54.000Z",
+          "wordCount": 398,
+          "title": "在路上的哪个瞬间让你发现「旅行成为疲惫生活中的一束光」？"
+        },
         {
           "id": "http://www.zhihu.com/question/486830339/answer/2127889662",
           "author": "钧正平",
@@ -4115,15 +4169,6 @@
           "publishedOn": "2021-08-26T03:53:18.000Z",
           "wordCount": 109,
           "title": "记忆中，最体现科比特质的一场比赛"
-        },
-        {
-          "id": "http://www.zhihu.com/question/21831384/answer/2081202766",
-          "author": "次元研究",
-          "description": "如今的国产动画电影在创作风格上普遍呈现“日美中”三国的混搭，刻薄地说，就是“用中国题材，以美国形式，讲日式二次元故事”。\n《大圣归来》在2015年暑期档斩获的9.54亿元票房和因该片而流行开的“自来水”概念，被认为是“国漫崛起”的重要标志（“国漫”这个词将动画与漫画混为一谈，但作为一个已经在大众媒体流传开来的经典误用，本文仅在此使用一次，特此注明）。相比于“昙花一现”的“国产科幻崛起”，仅针对成年观众的国产三维动画长片这一细分门类来说，这六年来创作者与市场给予了一定的持续性正向反馈。如今的大陆电影市场上，国产动画电影是一条热门赛道，不仅是每个档期必备的重要种子选手，催生了如《哪吒：魔童降世》50.35亿元的票房奇迹，甚至已经在特殊档期能够承载“救市”的期待（如今年7月上映的《白蛇2：青蛇劫起》），制片方借助IP实现“电影宇宙”的构建也不再是空谈。\n可以说，国产动画电影这一类型片种在大陆市场上的持续性输出和商业成功是具有开创性的，无论是从横向还是纵向观察，在任何一个电影市场上都是少见的——完全可以说，国产动画电影的发展，正是近年来“讲述中国故事”这一文化路线的实操成果。\n然而，这条赛道越发热门，竞争就越发激烈，每年试图分一杯羹的“炮灰”数不胜数。即使是在市场上得到良好反馈的作品，也不一定满足了创作者和观众热情饱满的期待；对国产动画电影的火爆现状终究会归于沉寂的担忧声音，在每一部“出圈”的动画电影上映时都会响起。实际上，当初业界惊呼“产业崛起”时的高涨情绪，经过六年之后，逐渐被某种流于日常的平庸感所攫取：这一行业和类型到了现在，已经没什么“惊奇”可言。\n虽然作品还在持续不断地推出，票房也都基本达到预期，然而国产动画电影在翻过高山之后，似乎进入到一个波澜不惊的平庸期：目所能及的尝试与突破都已走到尽头，依然信心高涨的创作者们身后，观众和市场仿佛在暗中酝酿一场改换门庭的暗影危机。\n\n…",
-          "link": "http://www.zhihu.com/question/21831384/answer/2081202766?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-08-24T11:30:09.000Z",
-          "wordCount": 127,
-          "title": "中国动画现在的发展如何？"
         }
       ]
     },
@@ -4132,6 +4177,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740555",
+          "author": null,
+          "description": "Leoplod，相信德性即知识可以少生很多气。\n阅读原文\n\n要评价这个举措，得从本质上理解为什么偶像会“娘炮化”？\n《武则天》里有句话：“只要你把一个男人放进女人的处境里，他就会成为一个女人。”\n偶像们所处的地位是什么呢？\n实际上无非是千百年来女性所处的位置：\n被凝视、被赏玩\n因为偶像不是演员或歌手，偶像唯一的商品就是作为景观的他们自身，而不是作品。\n这使得他们必然为了最大争取曝光而奋力讨得观众欢心——媚众，然而在大多数偶像的贫乏认识里，能够讨得人欢心的形象，就是女人的形象——这种认识是无意识的。\n当我们能够接受“性别”不只是自然的，还是后天的社会塑造，这一切就清晰了。\n这意味着我们必须在“偶像”的个人心理层面之外，寻找其“娘炮”的社会存在基础。否则一切所谓的“禁止”都将落到空处。\n那么是什么他们都不自觉的力量，促逼他们走向这条道路？\n“偶像”的本质是什么？\n偶像的本质不是人，而是“使得偶像成为偶像的东西”，这个东西必然是脱离偶像本人现实生活的“纯粹形式”——这一形式已经被德波在一定程度上揭示出来的，那就是“景观”。\n偶像的物质存在当然是一个活生生的人，但是只有他持续以景观的方式被曝光、呈现出来，他才能成为一个现实的“偶像”——换言之，“景观呈现”才是偶像的真实生命所在。\n或者说，一个素人只要能以景观的形式持续被曝光，他就能成为“偶像”。\n偶像不存在表象和本质两个维度，偶像的视觉表象就直接是本质。\n“在现代生产条件无所不在的社会，生活本身展现为景观（spectacles）的庞大堆聚。直接存在的一切都转化为表象。” ——居伊·德波《景观社会》\n这就是为什么我们管“消灭偶像的景观呈现”叫做“封杀”，因为当我们禁止一个偶像将自己以“景观”的方式呈现出来，我们就等于“谋杀”了他。\n在这个问题下，一定会有人舞弄他并不了解的概念，告诉我们，实际上国家不是在打击娘炮，而是在打击资本。\n因…",
+          "link": "https://daily.zhihu.com/story/9740555",
+          "publishedOn": "2021-09-22T23:07:00.000Z",
+          "wordCount": null,
+          "title": "北京广电局要求杜绝「娘炮」审美取向，如何定义「娘炮」审美？或将带来哪些影响？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740544",
+          "author": null,
+          "description": "知乎用户，公众号“洒家君泽”(sajiajunze)，欢迎交流\n阅读原文\n\n武侠片的兴盛，因为满足了两方面的需求：奇观展示和文化传承。它的没落，也因为这两方面的衰竭。\n前者容易理解。起先靠拼命，之后靠特效，几乎半个世纪里，武侠总能展现最令人称奇的影像奇观，中国商业大片时代，也是《英雄》带来的。不过，之后特效技术成熟，好莱坞电影大面积引入，人们不会再为一片竹林打斗啧啧称奇了。一批龙虎武师退休，武侠动作也变得越发僵硬，近年来看过最好的武打动作，居然还是《浪客剑心》。\n不过，即便没了奇观，倘若依然有着文化的底子，有着大众的寄托，那么武侠片不至于这么快衰落。更深层的原因，是江湖没了——或者说，江湖原本只是一个虚幻，与现代中国从未紧密相连。\n什么是江湖？\n江湖原本是个地理概念，而且不是泛指，江是长江，湖是洞庭湖，在古代中国就已经很有名。春秋时期，越国离江湖不远，范蠡辅佐勾践，灭吴称霸，但他知道勾践小心眼，于是“乘扁舟浮于江湖”，就此离开权利中枢。\n江湖保全了范蠡，范蠡也成全了江湖。自此之后，江湖便与庙堂相对，成了权力之外另一个空间。这空间不再是实指，而是一种生存环境和行为模式的概括。在江湖里，人们疏离政权，与主流秩序拮抗，往往与流动人口、商业贸易、各色行当，特别是与下层流民及其“灰色”活动相连。\n于是江湖涵括的内容越发复杂。江湖里有英雄好汉，也有乌龟王八蛋，有“人在江湖”的写意和无奈，也有“江湖郎中”这样的底层生存伎俩。江湖，在不同的时代和叙述中，染上了神秘莫测、吉凶难料的量子态色彩。\n江湖里的人，离开了家乡，却又进不了庙堂。帝制时代，家国同构，朝廷是中央政府，由核心家族（皇族）和权力集团（百官）共同组成，地方政府则是由中央政府派遣，他们共同组成了“庙堂”。但皇权不下乡县，地方官员大多对上负责而不对地方负责，治理地方，主要依靠乡贤、幕友、胥吏等本地人。\n宗族、村落里都是熟人，大家常常…",
+          "link": "https://daily.zhihu.com/story/9740544",
+          "publishedOn": "2021-09-22T23:06:54.000Z",
+          "wordCount": null,
+          "title": "为什么武侠片衰落了？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740540",
+          "author": null,
+          "description": "爱范儿，数字公民的糖\n阅读原文\n\n苹果软件工程高级副总裁 Craig Federighi 是这样概述其特性的：\n\n与家人亲友保持联系\n找一处心无旁贷\n运用智能技术，搜寻所需信息\n探索身边世界\n\n围绕着这 4 点，我们从刚安装好的 iOS 15 正式版中，逐一体验并整理了 20+ 个实用新功能，下面就跟随文章来一探究竟吧。\n\n懒人目录\n\n实况文本（Live Text）\n空间音频\n通知\na. 外观\nb. 通知摘要\nc. 静音通知\n专注模式（Focus）\na. 通知\nb. 主屏\n聚焦搜索\n照片\na. Memory Mixes\nb. 属性查看\niMessage\nSafari\nFaceTime\na. 空间音频\nb. 人像模式\nc. 语音突显模式 / 宽谱模式\n辅助功能\na. 放大器\nb. 图像描述\nc. 语音操控\n天气\n拟我表情（Memoji）\n闹钟\n有待上线的功能\na. FaceTime 中的 SharePlay\nb.《查找》网络对 AirPods 的支持\nc.《钱包》电子身份证\nd. 视觉查找（Visual Look Up）\n\n1. 实况文本（Live Text）\niOS 15 中实用性最强、体验最惊艳的功能莫过于「实况文本」，轻轻松松就能实现照片中文本的提取和和快速应用。\n无论是相机正在拍摄的画面、已经拍好的照片，还是屏幕截图、网页图片，整个系统中的照片都能够通点击后时显示文字，支持复制、粘贴、查找及翻译。\n比如打开相机，当摄像头识别到文字便会出现「实况文本」的符号，点击即可对文本内容进行操作。像电话、地理位置这类信息，还支持被识别为链接，以便速跳转。\n\n▲ 拍摄照片时可识别文字\n在如豆瓣、备忘录等 app 中，双击输入框，选择「来自相机的文本」，也可以调用摄像头识别文字。\n\n▲ 在输入框调用相机可直接识别文字\n相册中长按图内文字即可快速选中。从这几个月的使用体验来看，识别准确…",
+          "link": "https://daily.zhihu.com/story/9740540",
+          "publishedOn": "2021-09-22T23:06:46.000Z",
+          "wordCount": null,
+          "title": "苹果 iOS 15 正式版 9 月 21 日推送，更新后有哪些新玩法？有必要更新吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740545",
+          "author": null,
+          "description": "电子骑士，风雨如晦，鸡鸣不已\n阅读原文\n\n\n《一直游到海水变蓝》是一部独特的纪录片，它记录的，不是一个人或者一件事，而是一个群体：作家；一种记忆：乡土；一个时代：从建国初到改革开放后的七八十年代；更准确地说，影片通过作家的个人讲述，描绘了我们如何一步步走到今天的各种图景，让我们跟着这些人物与故事，思索过去、思索我们与土地的关系、思索文学的意义、思索未来的生活……\n贾樟柯导演，通过他的“艺术家三部曲”，似乎在寻找一种新的与艺术和生活对话的方式：就像 2019 年刚去世的新浪潮祖母阿涅斯·瓦尔达做的那样！采访完贾樟柯导演，我有种感觉，很想拿起几本国内当代的长篇小说，重新沉浸到关于故乡、城镇、成长和梦想的故事当中去！\n\n电子骑士：\n这个片子给的我感受还挺深的，因为这些人多少都跟我有点关系——我是北师大中文系毕业的。莫言、梁鸿，都曾在北师大文学院学习，算我的正宗校友、系友。还有苏童，也是北师大中文系的师兄。（贾樟柯插话：余华也是吧？余华在那教书。还有欧阳江河，现在也在北师大）我们上学的时候，正好就是读他们的作品，读当代文学读得最多的时候。所以看这个片子就有很深的同感，因为里面提到的东西对我都很熟悉。\n先问问您这个片名的由来，大家好像都比较感兴趣。影片里，最后一部分只有余华说的这一句话，然后就被用做了片名。光看片名的话，观众可能会有很多想象，没想到影片是与土地和故乡有关的，很少与大海有关。所以您为什么就想到要用这句话来当片名？\n贾樟柯：\n一开始我们开机拍摄的时候，这个片子叫做《一个村庄的文学》。最近几年，我是每年都有很长时间在老家的一个村庄里生活。特别是夏季，基本上在村子里度过。待的时间久了，感同身受，觉得乡村是一个需要被我们重新谈论的一个场所。\n过去我们中国是农业社会，农业国家。现在城市化特别迅猛，城市里面大部分人都有乡村经验。乡村塑造了我们，包括我们的下一代，他们也承接了我们很多…",
+          "link": "https://daily.zhihu.com/story/9740545",
+          "publishedOn": "2021-09-22T23:06:36.000Z",
+          "wordCount": null,
+          "title": "《一直游到海水变蓝》是一部怎样的纪录片？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740562",
+          "author": null,
+          "description": "Lucia Joyce，Hamelinbeats音乐制作人，B站LuciaJoyce\n阅读原文\n\n流行音乐的价值就在于能够口口相传，成为大众接受的文化。因此如果说一首歌烂大街了，那恰恰证明流行音乐在商业上是成功的（coldplay-yellow;周杰伦 - 告白气球；林俊杰 - 期待爱）。芭乐、小情歌、流行舞曲、鸡汤民谣永远会占据流行乐的主体，而以父之名、止战之殇这样的歌曲永远是流行乐巅峰的少数派，我们要正视这个现实。我认为目前中国流行乐重要的不是提高质量，而是保住底线。\n如今我们看到口水歌越来越多，质量越来越差，其实是由两个因素决定的。\n\n流行音乐在商业上取得成功的门槛越来越低。08 年金融危机后唱片业式微，而新一代的特征是传播途径为王。由于音乐市场在 14 亿人口中的不断下沉，传播能力而不是歌曲质量成为决定要素。一首歌只要能够有传播潜质，不需要经过专业的编曲、混音，歌词写的越接地气越简陋越好。最后导致音乐市场劣币驱逐良币的现象，即使是专业的音乐人也没有精力再去顾及歌曲质量，整个行业的水准就被拉低了。\n由于 1 的作用，大多数的流行音乐因为传播渠道的收窄变得“不流行\"了（谭维维 -3811），而极小部分的流行音乐垄断了绝大多数的传播渠道，抢占了网络热门话题（肖战 - 光点，吴牙 - 大碗宽面）。即使是在网上有一定流行度的优秀歌曲（宫阁，ice paper, 苏紫旭，祁紫檀等），也需要借助各种各样的非音乐渠道才能传播（知乎，B 站）。还有一点就是音乐版权化过程中的矫枉过正，很多歌手的歌曲只有在一个平台上才能收听，如何做到流行？在流行乐界，不流行=不起眼=质量低。这是一个残酷却真实的铁律。\n\n很多非常流行的歌曲质量也一点也不低哦。阿肆的热爱 105°的你是一首 future bass 风格的结构精巧的歌曲。谁能想到”天空是蔚蓝色，窗外有千纸鹤“是来自一首写给妈妈的暖心嘻哈。抛开时代的有色眼镜，蜡笔小新的 MOM 真的比听妈妈的话差很多嘛？不必因为梗刷的太频繁所以觉得他们质量不高。毛不易和中岛美嘉的新歌《生活在别处的你》在各大平台高调宣传，能说是质量低吗？问题是，和他们热度一样的歌曲基本都是什么呢，沙漠骆驼、学猫叫、盗将行，这不讽刺嘛。\n讲了以上的部分，我们就可以发现，根本问题不是要提高流行歌曲的质量，而是让本来质量就高的流行音乐真正流行起来。想要让流行歌曲质量高，根本的是对渠道动手，压制住流量为王的气焰。克服流量为王，仅仅靠技术和算法是不够的，我们需要真正雇用有节操的业界人员，培养一代有操守、有思想的乐评人。通过他们的力量，将流量导入更多优秀而被忽视、挤压的流行音乐。\n让坏的流行音乐不流行，让好的流行音乐流行。就这么简单。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740562",
+          "publishedOn": "2021-09-22T23:06:28.000Z",
+          "wordCount": null,
+          "title": "流行音乐是不是质量变差了？怎样的音乐才算质量高？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740564",
+          "author": null,
+          "description": "你闻过最难闻的物质是什么?\n\n衰变的光阴\n阅读原文\n\n阅读原文\n\n你与军车和警车有哪些有趣的故事或体验？\n\n你好福音，一吃就胖\n阅读原文\n\n阅读原文\n\n你因为知乎买过一些什么东西？感觉如何？\n\n陈少侠，来公众号【绮梦美人汇】找我玩儿\n阅读原文\n\n去年我买了一个鼠标，因为知乎。因为有一个回答特别特别长，我又不怎么感兴趣看，就拼命的咕噜滚动轴，后来，滚动轴坏了，买了个鼠标。\n\n\n\n谢谢各位的点赞和评论，我已经知道了摁下还可以翻。\n阅读原文\n\n如何评价「湾区升明月」2021 大湾区中秋电影音乐晚会？\n\n刘七七\n阅读原文\n\n谢霆锋王菲、谢霆锋陈小春、黄晓明陈伟霆、陈伟霆阿 Sa、赵丽颖林允、刘烨张杰、刘恺威魏大勋、邓紫棋华晨宇、方力申钟欣潼。\n一般情况下不会同台的人，在这里全都集齐了。\n阅读原文\n\n文身有哪些意义？\n\n张大壮，big壮，偶尔装个b。\n阅读原文\n\n2006 年的时候，我想在身上纹身，觉得非常社会，很酷，我精挑细选了图案，最后选中了一只龙，看起来就霸气十足，于是纹身师开始动手，纹了第一下觉得，哎呦卧槽这么疼，然后就放弃了。于是身上只留下了这个。\n\n但是不重要。。毕竟我的目的是在身上纹身，而不是纹什么，现在已经做到了不是吗？我就想纹个美人痣不行吗！！！\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740564",
+          "publishedOn": "2021-09-22T23:06:23.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740505",
           "author": null,
@@ -5728,66 +5833,6 @@
           "description": "当代中国有谁称得上幽默大师？\n\n臀总，公众号：虎臀，欢迎围观：）\n阅读原文\n\n阅读原文\n\n什么是真正的吃货？\n\n臀总，公众号：虎臀，欢迎围观：）\n阅读原文\n\nLike this:\n\n\n\n阅读原文\n\n《蜘蛛侠：英雄无归》首支预告中透露了哪些信息？「多元宇宙」中会发生什么故事？\n\n大白羊，沉默不语的大白羊\n阅读原文\n\n注意预告片最后这个 ps5 的广告画面，三个手柄一定是在明示蜘蛛侠三代同框要来了！（手动狗头）\n\n\n\n阅读原文\n\n《家有儿女》中的刘星一家收入有多少？\n\nMoonsea，周而复始生生不息\n阅读原文\n\n那时羡慕刘梅一出差，刘星他们吃泡面吃到想吐的日子，\n如今我也过上了这样的日子\n阅读原文\n\n《扫黑风暴》高明远费尽心机培养麦佳竟是要送人？这一行为你怎么看，其中又暗含哪些道德与法律问题？\n\n知乎用户，长泽雅美路人粉\n阅读原文\n\n这个问题邀请隔壁剧组回答你。\n\n学民族舞，学乐器，学茶道，这么漂亮的女孩，为了什么啊？不就是爱情嘛，只不过是属于高官的爱情罢了。\n阅读原文",
           "link": "https://daily.zhihu.com/story/9739547",
           "publishedOn": "2021-08-24T23:07:14.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739507",
-          "author": null,
-          "description": "Moriarty K，狱事莫重于大辟，大辟莫重于初情，初情莫重于检验\n阅读原文\n\n下面这个图就是现实中人掉进钢水里的情况：\n\n死者是个 34 岁的土耳其工人，厂里的清洁员，想不开就跳了，跳下去之后明显看出镜头闪了一下，这是因为人体水分较多导致的局部爆炸，这种属于小型液相爆炸，当量不会很大，只不过人很快就会无了。\n这种情况下尸体残骸难以分离，为了方便下葬，工厂只能用带有遗骸的钢水铸了一块同样体重的钢块作为尸体移交给死者家属，这也是国外很多地方发生类似事情的处理方式。\n--------\n2007 年 4 月 18 日早上 7 时 45 分，辽宁省铁岭市清河特殊钢有限公司发生了一起事故，钢水包整体脱落，里面的钢水倒向了正在进行工作交接的会议室。\n38 名员工当即死了 32 人，还有 6 人受伤。\n\n32 名工人，这里面有的是父子，有的是夫妻，被永远的融进了一块大钢饼里，受伤的 6 名工人烧烫伤也非常严重，其中一人甚至达到了百分之九十八的烧烫面积。\n据一幸存者回忆：\n“当时我在钢包附近正在哈腰拿工具，突然听到钢包吊车闸发出尖叫声，钢包快速下滑，吊车闸失灵了！我抬脚就跑，钢包下坠过程中好像磕到了台车上，一下子倾斜，钢水就涌向附近的会议室了，钢水一千多摄氏度啊，落到地上，再溅身上，热浪涌上来，把衣服都烤着了，我什么也顾不上了，只顾往前跑，才捡了一条命。”\n--------\n同样的事情在今年也有发生，新闻标题叫“包钢集团职工跳入钢水自杀”，对此包钢集团发出的声明内容如下：\n王龙，男，出生于 1987 年 7 月，参加工作时间是 2010 年 7 月，是包钢钢管公司一名炼钢工，于 2021 年 3 月 24 日夜班当班时失踪。钢管公司立即组织人员进行寻找，经过调取后台监控录像，显示王龙于 3 月 24 日 22:54 在 7 号转炉挡火门处先将安全帽及手套扔下渣道，随后跳入渣罐身亡。\n目前…",
-          "link": "https://daily.zhihu.com/story/9739507",
-          "publishedOn": "2021-08-23T23:07:50.000Z",
-          "wordCount": null,
-          "title": "人掉进钢水里，是先觉得疼还是没觉得就先融化了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739493",
-          "author": null,
-          "description": "Drdentist，合作与咨询➕微信: E-Drdentist\n阅读原文\n\n即使这波问的是果香，那。。。我也来凑凑热闹，香水纯属个人爱好，无恰饭，如果你问我哪里买，我只能说你自己努力找找吧。。。\n\n我个人认为香水不仅仅是体现在它的味道，同时代表着一个人的气质，给人的感觉，即使是同一款香水不同的人用，当它与你的自身散发的气味融合，所展现出来的效果都是不一样的，所以这同时是具有个人特色的象征。\n来点儿冷门的打开新世界大门。。。排名不分前后。。。\n阿蒂仙 无花果 LArtisan Parfumeur Premier Figuier\n阿蒂仙 无花果 L'Artisan Parfumeur Premier Figuier\n像是整棵无花果树都在里面， 前调是青绿带着点点涩意的无花果叶的味道，十分还原。之后掰开了颗无花果，散发出明确的甜， 游泳杏仁牛奶带出了淡淡的奶油感， 把无花果的柔滑变现的淋漓尽致， 还有椰奶甜而不腻的幼滑。尾调的檀香带着点点的水果味，变化有些唐突。\n 阿蒂仙 黑 缪斯极致版 LArtisan Parfumeur Mure et Musc Extrem\n阿蒂仙 黑 缪斯极致版 L'Artisan Parfumeur Mure et Musc Extreme\n以黑莓为主题的香总是显得比较低龄化，毕竟酸酸甜甜，但是这一款意外的是个例外，上皮肤最先感到的竟然是木香， 这很阿蒂仙， 有点柠檬的酸味， 竟然比较中性， 而且也有点成熟。黑莓的味道随后渐渐显现，有麝香做伴，并没有酸甜得夸张，麝香的皂感很好地提升了整支香的格调，可惜的是随着黑莓的味道渐强，有点像被稀释了的蓝莓果汁或者嚼过的蓝莓口香糖。\n前调是微微酸苦的黑莓，有点涩，第反应是药香，十五分钟后慢慢的变轻只留下淡淡的凉和浅浅的苦， 这时候大概是 3 度的甜度， 点都没有侵蚀性。 40 分钟后， 可以闻到香调里较为活泼的浆果…",
-          "link": "https://daily.zhihu.com/story/9739493",
-          "publishedOn": "2021-08-23T23:07:45.000Z",
-          "wordCount": null,
-          "title": "有什么水果味儿的香水推荐吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739498",
-          "author": null,
-          "description": "叽哩哇啦，写小说搞时尚的\n阅读原文\n\n1、选对领口很重要\n\nT 恤的领口工艺决定了它的质感\n一件优质的 T 恤领口最好选择二本针\n很多大码妹子是不是跟我一样\n如果穿不对 T 恤就显得脖子又短又胖？？？\n\n所以遮起来不如露出来\n选 T 恤的时候也可以尽量选择大领口 t\n\n2、识别衣服面料\n\n想要质感有型，可以选择棉麻面料\n想要垂坠感和高级感就可以选择天丝醋酸面料哦\n\n如果不确定一件衣服好不好，也可以用克重来判断\n一般来讲 145-155g 之间是比较优质的选择\n3、不同皮肤搭配不同颜色\n\n冷暖皮肤不同，也可以穿不同颜色的衣服来中和\n\n在自然光下观察手臂血管的颜色\n如果血管为紫色、棕红就是冷色调\n如果是绿色、蓝绿就是暖色皮哦！\n如果同时存在就是自然皮啦(((o(*ﾟ▽ﾟ*)o)))\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739498",
-          "publishedOn": "2021-08-23T23:07:36.000Z",
-          "wordCount": null,
-          "title": "夏天既不挑身材，又显得时尚不会撞衫的T恤有吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739492",
-          "author": null,
-          "description": "猫研所，猫咪知识精准科普平台\n阅读原文\n\n先说结论：\n如果把「笑」定义为：感到开心 / 满足 / 幸福时嘴角上扬的动作，那么猫咪是不会笑的！\n那某音上这样的视频又是怎么回事呢？↓\n图自：某音图自：某音图自：某音\n当然是 P 的啦！\n但看评论，居然有不少人信以为真……\n10.2W 赞？此时所长的表情如图 图自：无穷小亮\n为什么说猫咪不会笑？\n笑是一种心理状态的表达，一般情况下笑更多地用来表达高兴和快乐，由脸部肌肉动作为表现方式。\n它大都是由于人体感官接触外界的事物或语言，转变为信息传入大脑皮层，而后通过大脑对脸部，甚至全身的肌肉发出运动的命令而产生的。\n比如，看到你前老婆甜美的笑容后你也会不自觉的嘴角上扬 图自：网络\n虽然猫咪有足够多的面部肌肉来实现“笑”这个动作，但猫咪并不会用嘴角上扬来表达开心的情绪。\n行为学家 Nicky Trevorrow 认为，猫咪为了更好地在野外生存，已经进化到不会表露出情绪。\n图自：网络\n猫科动物需要显得坚强和自信，尤其是在遇到其他猫科动物和竞争者时。\n如果表现出恐惧和焦虑等情绪，等于是在告诉其他捕食者它很弱；如果表现出兴奋和好奇，则是在告诉其他捕食者它并不是很有经验。\n我们平时看《动物世界》也能发现，厉害的捕食者，都是一副刁刁的样子~\n自信、从容、优雅 图自：网络\n而如今的家养猫咪，因为对环境和人足够信任，会时常表现出满足、兴奋、恐惧等情绪。\n家猫：我不管，我要铲屎官亲亲抱抱举高高 猫祖先：丢人！ 图自：网络\n但即便如此，家猫在表达情绪时也不是通过嘴角上扬、下撇等面部表情，而是用肢体语言和声音。\n为什么我们会误以为猫咪在笑\n那除了上面明显是 PS 的图片 / 视频，为啥猫咪总给我们一种在笑的错觉？\n比如这样 图自：网络\n那是因为猫咪天生微笑唇！\nM 形状的嘴唇被称作“微笑唇”，在自然无表情状态下，嘴角也会呈现微微上扬的姿态。\n微笑唇让人看起来更有亲和力 图自：网络\n而猫咪生来就有更加标准的（W 形状）微笑唇。\n图自：网络\n这导致猫咪只要眯眼、张嘴、头微微上扬，看起来就像是在笑。\n一些猫咪正常的行为动作，截取其中的一帧，就能造成猫咪在笑的假象。比如：\n➤ 裂唇嗅反应\n当猫闻到某些气味，特别是像尿液这样富含信息素的气味时，会触发“裂唇嗅反应”。这种行为的特点是嘴唇卷曲、歪头、眼睛眯着，有时看起来像是猫咪在坏笑。\n图自：网络\n➤打喷嚏\n跟我们人类一样，猫咪打喷嚏时会抬头、眯眼、张嘴，因为自带微笑唇的原因，有些瞬间看起来像是在笑。\n喷嚏没打出来……图自：网络\n➤打哈欠\n网上绝大多数猫咪“笑”的图片，其实都是截取的猫咪打喷嚏的瞬间。\n图自:giphy\n➤ 应激张嘴\n猫咪严重应激时，可能会出现瞳孔放大、张嘴、吐舌头的行为，常见于带猫咪乘车、外出时，但很多人把这种猫咪严重的不适，解读为开心、兴奋…\n图自:giphy\n➤小狗喘\n猫咪剧烈运动后、过热、有心肺系统异常（如心脏病）时，可能像小狗一样张嘴、吐舌头喘气，面部看起来跟应激张嘴类似。\n图自:giphy\n既然这些猫咪都不是在笑，那猫咪是如何表达开心的呢？\n猫咪靠肢体语言表达情绪\n上文也提到了，虽然喵主子们面无表情，但可以通过肢体语言表达 TA 们的情绪。\n有下面这些情况，说明你家猫咪此刻心情愉悦~\n01. 缓慢眨眼\n猫咪不是不会微笑，而是 TA 们的微笑藏在眼睛里。\n行为学家认为，只有在感到放松无压力时，猫咪才会对面前的对象展露出慢慢半闭双眼，再缓缓睁开的动作，看起来就像人们发自内心微笑时的眼睛状态。\n图自:giphy\n因此，缓慢眨眼又被叫做猫咪的微笑。\n02. 尾巴向上\n尾巴是猫咪表达情绪的重要途径之一。\n当猫咪尾巴笔直向上或笔直顶端稍有弯曲，说明猫咪此刻是非常轻松快乐的，常见于迎接主人回家时。\n图自:pinterest\n03. 耳朵朝前\n猫咪的耳朵比 TA 们的嘴更有表现力，虽然我们无法通过猫咪的嘴巴判断 TA 是否在微笑，但通过耳朵可以。\n如果猫咪耳朵直立，耳朵口自然向前，说明猫咪愉快、放松。\n图自：aminoapps\n04. 发出咕噜声\n如同人会微笑，狗摇尾巴一样，猫咪通常会在心情“还蛮安逸”的情况下发出“咕噜”声。（有时猫咪不舒服、恳求 / 示弱也会发出咕噜声）\n图自:giphy\n如果当你抚摸猫咪、陪在猫咪身边时，猫咪发出咕噜咕噜的声音，说明此刻的 TA 很快乐和满足。\n05. 翻肚皮\n猫会向你走来或跑过来，然后扑倒在地，开始打滚。\n这是一个充满爱意的问候，意思是 TA 们想要你的注意，尤其是当他们大咧咧地朝你露出肚皮时。\n图自:giphy\n虽然小猫咪们不会像我们一样咧嘴微笑，但 TA 们的肢体饱含情绪，铲屎官只要细心观察，就能读懂主子的喜怒哀乐啦~\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739492",
-          "publishedOn": "2021-08-23T23:07:32.000Z",
-          "wordCount": null,
-          "title": "猫咪真的会笑吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739489",
-          "author": null,
-          "description": "五百，导演\n阅读原文\n\n我是《扫黑风暴》导演五百，绿藤市民请多指教！\n《扫黑风暴》已经播出了一段时间，感谢大家对于这部作品的厚爱，褒奖与批评均已收到。很惊喜的发现我们在拍摄中埋藏的细节都被大家注意到了，隔着屏幕感同身受是作为创作者最开心的部分。这次来到知乎，我尝试回答下大家的一些疑惑。\n【真实的困难】\n很多媒体和朋友都有问到这个作品拍摄中最大的困难是什么，通常概念上的时间、剧本等等是每个作品都会遇到的只是程度的差别而已，这个作品最大的困难是【真实案件】。大家都知道这部剧是几个真实案件取材改编的，真实事件很精彩有冲击力却也是最大的难点，真实展现的哪些部分是最有效的？这个作品要用什么风格的影像表现真实？呈现的真实是否是观众认知中可接收到的真实？\n在前期看了大量的卷宗和审讯的视频后我们决定把案件拆散用碎片的细节放入我们的故事主线，不能是纪录式的表达也不能过度戏剧化的描述罪案，这个【合理的真实性】是创作过程中我们一直在反复讨论的。比如我们在真实的审讯视频中看到一个人从审讯开始一周后满头黑发中就有一捋白发，一个月之后有一半的头发已经白了，三个月之后头发就全变白了。这是我们从审讯视频中看到的，这个真实的冲击力当时就震撼了我们，我把他套用到了董区长的身上，大家后续会看到。演员们也都主动要求下到基层去体验，刑事犯罪和警察这个职业不是我们日常生活频繁接触到的，更何况要表现的是一线刑警。吴越老师饰演的副局长贺芸我们就提前找了一个真正的女副局长让吴越老师跟在她身边，了解女警察局长工作、生活究竟是个什么样子，最终让表演无限接近真实。\n【要警示非推理】\n剧本开发过程是极致焦灼的，几个案件打散揉碎了联系在一起使得我们剧中的线索极其繁复，要保证剧情逻辑和人物线索的顺畅对我们是一种考验。《扫黑风暴》是和以往作品比较不同的点是这部剧集的意义不仅在“推理”更在“警示”。\n在剧本的打磨过程中，我们要让这些案件和人物线索具有“可观性”还要让大众了解违法行为总是伪装藏匿在我们身边，要警惕也要自省，哪怕只是影响了一个人，这个作品的社会意义是会让我们自豪的。\n【李成阳没有家】\n这样精致着装的李成阳，我们从头到尾没有展现过李成阳的家。\n其实曾经是有李成阳家里的戏的，但我提出了一个问题，一个背负着 14 年冤情，曾被多年追杀，最爱的师傅又含冤离世，经历这种遭遇的人家里应该是什么样子？一尘不染？破败不堪？都不对，大仇未报何以为家。最终我们就把所有李成阳家里的戏换到各个场景去拍摄了。\n李成阳一丝不苟的着装是为了掩饰他深藏在心中的执念，为了让自己跟新的身份能够融合，而耳鸣这个应激性反应是不断提醒着李成阳和提醒观众，他没有忘记曾经的身份和伤痛。唯一能够让他放松警戒的就是那个馄饨铺，那是他年轻时候跟师傅一起吃饭的地方，充满了幸福回忆的地方。\n【黄希很难】\n黄希让观众前期看到的是扁平的热血记者，其实这个角色前期都只是铺垫，后面的变化很难。黄希曾想做一名法医，因恐惧错过了解救一名被绑架的女孩便放弃了法医的职业转身做了记者，小姨贺芸是她崇拜的偶像也是她做事情的榜样。所以她和林浩很像，都是带着理想去做事情，有自己要坚守的正义，林浩是做刑警抓捕坏人，黄希是希望通过曝光去让更多人警惕犯罪、预防犯罪，所以她在调查中很急切冲动，甚至和刑警起了冲突，其实都是根植于角色本身的成长环境和理想，当她发现林浩和自己有同样的理想和目标时这种就冲突自然化解了。最后当黄希自己发现曾经的精神偶像小姨竟然与正义背道而驰的时候，她的精神崩塌了，这些心里变化的表达是非常难的，特别感谢专门空出档期来友情帮忙的江疏影，黄希这个角色她完成的非常好。\n【感谢】\n大家看剧后都在讨论《扫黑风暴》全员演技在线，很感谢孙红雷、刘奕君还有吴越、王志飞、刘之冰、宁理，他们很成功的诠释了自己的角色，也让观众们记住了这些角色。\n当然也有吴晓亮、苏可、张艺兴、江疏影这些青年演员，他们对角色的理解和把控都带给我很大的惊喜。毋庸置疑这个作品很幸运的拥有了这些非常优秀的演员，他们敬业、专业，我相信《扫黑风暴》一定会塑造出很多让观众印象深刻的经典影视形象。\n \n由衷的感谢喜欢《扫黑风暴》的“绿藤市民们”，也感谢中政委对这部剧的专业指导，感谢腾讯平台对这部剧的认可和支持，致敬扫黑英雄也请相信国家对扫黑除恶的决心，正义会迟到真的不会缺席。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739489",
-          "publishedOn": "2021-08-23T23:07:24.000Z",
-          "wordCount": null,
-          "title": "《扫黑风暴》中哪些内容是有真实案例的？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739515",
-          "author": null,
-          "description": "你能给我讲一个笑话么？\n\n小炫神\n阅读原文\n\n从前有只乌鸦，它口很渴，它看到了一只装有水的瓶子，可是瓶子太深，水太浅，于是它从河边衔来一颗颗石子丢到瓶中，终于，乌鸦喝到了水，它转念一想:卧槽，我刚刚是不是到了河边\n\n平时上学没时间看，感谢大家，最后评论也有蛮好玩的我选了几个\n\n\n\n还有人私信表情包\n\n\n\n阅读原文\n\n四个月没工作，找到工作后却发现不想上班了，我该怎么办？\n\n聪明的小花，一个聪明可爱的小姑凉\n阅读原文\n\n想起来我朋友和我说的一个事，他们公司经常加班，然后有个人猝死了，后来来了一个妹子，坐那个位子，大家都没告诉她猝死的事。某天晚上加班，妹子有段代码不会写，就让男朋友远程帮忙写，然后去吃饭了。然后，产品经理路过她位子的时候，看了一眼她电脑，发现电脑在自动一行一行的写代码。\n第二天，那个产品经理就辞职了......\n阅读原文\n\n有好感的女生喜欢海贼王，而我只是略有了解，怎么开始聊天呢?\n\n一般通过小狗，普通文科女大学生\n阅读原文\n\n那你去看呗，看完你就不喜欢女生只喜欢海贼王了\n阅读原文\n\n如何看待最近比较流行的废话梗？反映了怎样的社会心理？\n\nYoung\n阅读原文\n\n记录一下 我整理的一些衍生出来的废话梗\n1.但凡有一点意义，也不至于一点意义没有\n2.窗前明月光，疑是明月光\n3.但凡你这句话沾点边，也不至于一点边不沾\n4.刨去内涵不谈，你这句话还是蛮有内涵的\n5.中国有句老话叫做：有句老话说得好\n6.我在绷不住的时候是绷不住的\n7.上次看到这句话的时候还是上次\n8.听君一席话，如听一席话\n9.三句话让男人听了我说三句话\n10.这女的长的不差的话，应该挺好看的\n11.卑鄙是卑鄙者的前两个字，高尚是高尚者的前两个字\n12.股票规律找到了，不是涨就是跌\n13.我曾在极度愤怒的情况下非常生气\n14.埃及的面积竟然比俄罗斯、中国和美国的面积总和还要小\n15.这个点还没睡的一定都还没睡吧\n16.能说出这种话的人一定能说出这种话\n17.周瑜打黄盖，打的是周瑜，挨打的是黄盖\n18.雪崩的时候，没有一片雪花是不崩的\n19.两百万元放在我们县城，那可是足足能买到价值两百万的房子呢\n20.太喜欢她了 ，尤其是眼睛长在鼻子上面 ，嘴巴长在鼻子下面 ，鼻子长在脸中间 ，太性感了\n21.震惊，反人类的设计竟然都是人类设计的\n22.说一句没有十年脑溢血说不出来的话：我有十年脑溢血！\n23.我前脚刚走，后脚就跟上了\n阅读原文\n\n如何一句话惹怒你这个行业？\n\n关原不嫉，关注我，专业收拾小人！\n阅读原文\n\n阴阳合同的借贷不用还！\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739515",
-          "publishedOn": "2021-08-23T23:07:20.000Z",
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
