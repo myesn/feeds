@@ -2,10 +2,423 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://myesn.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-23T01:15:26.290Z</updated>
+    <updated>2021-09-24T01:10:48.951Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://myesn.github.io/feeds/index.html"/>
     <link rel="self" href="https://myesn.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[批处理 ETL 已经消亡，Apache Kafka 才是数据处理的未来？]]></title>
+        <id>https://toutiao.io/k/bcp3tn2</id>
+        <link href="https://toutiao.io/k/bcp3tn2"/>
+        <updated>2021-09-24T01:10:48.894Z</updated>
+        <summary type="html"><![CDATA[Neha Narkhede 做了 ‘ETL 已死，而实时流长存’ 的演讲，并讨论了企业数据处理所要面对的不断变化的格局。]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 张图解锁 Spring 的整体脉络]]></title>
+        <id>https://toutiao.io/k/bynegiy</id>
+        <link href="https://toutiao.io/k/bynegiy"/>
+        <updated>2021-09-24T01:10:48.759Z</updated>
+        <summary type="html"><![CDATA[5000字长文~  扶我起来，我还能更~]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hadoop 学习与面试 8000 字，收藏这一篇就够了]]></title>
+        <id>https://toutiao.io/k/xagkm7n</id>
+        <link href="https://toutiao.io/k/xagkm7n"/>
+        <updated>2021-09-24T01:10:48.637Z</updated>
+        <summary type="html"><![CDATA[8000字hadoop学习与面试总结，去大厂这一篇就够了]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大规模并行图计算：从理论到实践]]></title>
+        <id>https://toutiao.io/k/y5m41c4</id>
+        <link href="https://toutiao.io/k/y5m41c4"/>
+        <updated>2021-09-24T01:10:48.572Z</updated>
+        <summary type="html"><![CDATA[图是实体组之间联系的有用理论表示，并已用于数据科学中的各种目的，从按受欢迎程度对网页进行排名和绘制社交网络，]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易云音乐基于 Flink + Kafka 的实时数仓建设实践]]></title>
+        <id>https://toutiao.io/k/5q30h0c</id>
+        <link href="https://toutiao.io/k/5q30h0c"/>
+        <updated>2021-09-24T01:10:48.490Z</updated>
+        <summary type="html"><![CDATA[网易云音乐数仓建设实战经验分享]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有备无患（GitHub 热点速览 v.21.38）]]></title>
+        <id>https://toutiao.io/k/c2uwe7a</id>
+        <link href="https://toutiao.io/k/c2uwe7a"/>
+        <updated>2021-09-24T01:10:48.357Z</updated>
+        <summary type="html"><![CDATA[Switch 破解系统备份游戏资料，开源软件备份文件系统…万物皆有备]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解：为可折叠设备构建响应式 UI]]></title>
+        <id>https://toutiao.io/k/qp8mttr</id>
+        <link href="https://toutiao.io/k/qp8mttr"/>
+        <updated>2021-09-24T01:10:46.142Z</updated>
+        <summary type="html"><![CDATA[为可折叠设备和大屏设备优化您的应用Android 设备的屏幕尺寸日新月异，随着平板和可折叠设备的普及度越来越高，在开发响应式用户界面时，了解您应用的窗口尺寸和状态显得尤为重要。 Jetpack WindowManager 现已进…]]></summary>
+        <author>
+            <name>Top-DEV-News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 177 期）：iPad 的真正用途]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html"/>
+        <updated>2021-09-24T00:31:18.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五是十一假期，周刊会提前一天，9月30日周四发布。）
+本杂志开源（GitHub: ruanyf/weekly），欢迎提交 issue，投稿或推荐科技内容。
+周刊讨论区的帖子《谁在招人？》，提供大量程序员就业信息，欢迎访问或发布工作/实习岗位。
+封面图
+
+23岁的宁夏青年董书畅，今年6月份在西藏阿里地区，拍到了一张完美的日环食照片。最近获得了英国格林威治天文台评选的2021年天文摄影冠军照片。（via）
+本周话题：iPad 的真正用途
+大家的平板电脑，都用来干嘛？
+根据我的观察，第一位的用途都是看视频，其次是玩游戏。
+
+如果有人说，平板电脑是生产力工具，那属于胡说。无论是学习和工作，它远远不如笔记本电脑好用和强大。
+我曾经幻想，外出时使用平板电脑开发。结果发现根本不可行，要什么缺什么，开发体验极差，最多只能紧急时登录服务器，或者偶尔改一下仓库代码。
+但是，我最近发现有一个用途，平板电脑大大强于笔记本，几乎可以说，是为这种用途量身定制的工具。
+那就是普通人的视频处理。
+
+专业级别的视频处理，平板电脑肯定是不行的。但是，普通人偶尔剪剪视频，它真的是利器，尤其是 iPad pro。
+我使用 GoPro 拍摄旅游视频，每次要导入桌面设备处理，非常麻烦。要是身边没有笔记本电脑，就只能等到旅行结束再说。手机倒是可以剪视频，但是对于 2K 或 4K 分辨率，处理起来很慢。
+
+今年上半年，苹果公司发布了新的 M1 架构的 iPad Pro。我眼前一亮，这个硬件配置跟 Mac mini 是一样的，而我们已经知道，后者的视频处理能力很强。
+而且，iPad Pro 采用 Type-C 接口，可以直接连移动硬盘，导出文件。它的大屏也适合视频预览。总之，种种特点都表明这个设备特别适合视频处理。
+
+入手以后，经过几个月的试用，它的表现跟我预想的基…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到底什么是摇滚？]]></title>
+        <id>https://daily.zhihu.com/story/9740583</id>
+        <link href="https://daily.zhihu.com/story/9740583"/>
+        <updated>2021-09-23T23:07:29.000Z</updated>
+        <summary type="html"><![CDATA[声音图书馆，音乐人文 | 公众号：Soundlibrary声音图书馆
+阅读原文
+
+其实早期的摇滚起源，距离我们已经很遥远，所以趣味性并没有那么强，音乐恐怕也很难投现代人的喜好。然而对历史的了解是为了我们更好的体验当下，而既然要梳理摇滚乐的发展，那么早期的状况还是要稍作讨论的。
+《在路上》作者：杰克·凯鲁亚克
+1947 年，第二次世界大战结束。在经历了近现代史将近半个世纪世纪的战火纷飞之后，伤痕累累的人类文明终于迎来了一个相对漫长而平稳的和平年代。五十年代，经济飞速发展，物质水平提高，新一代在和平的天空中长大的年轻人们渐渐走入了他们的青春期和成年期。与他们的父辈们不同，他们从出生起就衣食无忧，也不用担心颠沛流离的生活。那时，全美国都在追求“战后恢复经济建设，要奋斗要努力要追逐物质财富”，可是，偏偏就是有那么一批人，开始对这种生活产生了幻灭感，并对于人与自然关系进行反思，于是这些人就纠结，苦恼，通过吸毒、滥交、麻醉自己获得存在感，或感受那种存在。这就是“垮掉的一代”的开端，其中比较有代表性的文学作品就是杰克·凯鲁亚克《在路上》。这与中国八十年代末九十年代初改革开放时的状况相似，张楚曾经在自己的专辑扉页上写，“这是 94 年的春天，空气里有一种富裕的气氛，每个人似乎都站在一场洪流之中，等待着来自欲望的冲击”。面对时代大潮，有些人选择了随波逐流，而逆流者，在面对于这种压力时，坍塌或发生于内心，对变革的存在产生了疑问，或表现在外，选择种种不为主流社会所接受的行为以表现自己的存在感，就会变成“垮掉的一代”。
+这里之所以要先讲“垮掉的一代”，是因为其成长几乎与摇滚乐的成长是同期的，而它的精神内核，与后来逐渐成型的摇滚乐的精神内核是一脉相承的。而使摇滚乐流行起来，走上历史的舞台，使其成为新的音乐形式的代表的，正是这群“垮掉的一代”。不那时候，最典型的青年形象就是开着一辆歪歪扭扭小巴车走在乡…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何把青菜炒得更美味？]]></title>
+        <id>https://daily.zhihu.com/story/9740573</id>
+        <link href="https://daily.zhihu.com/story/9740573"/>
+        <updated>2021-09-23T23:07:24.000Z</updated>
+        <summary type="html"><![CDATA[蜜桃厨房，更多美食与烹饪技巧，都在微信公众号「蜜桃厨房」 等着你~
+阅读原文
+
+好吃的青菜首先肯定是翠绿爽口的
+比如我们在外面餐厅吃到的
+但是，很多时候，我们在家就是做不出那个口感和味道！
+我以前觉得炒青菜嘛~~ 那可不简单吗
+但是，每次做出来菜叶子蔫蔫巴巴的，口感也不好
+后来经过我不断摸索，原来是我低估了炒青菜
+炒青菜有它的一些小技巧的，不是简单的下油下菜放盐炒熟就完了这么简单的事
+
+今天我就来唠唠怎么才能炒出清脆爽口好吃的青菜吧一般呢青菜可以根据它们的特征来选择做法
+这样才能大大的突出这个食材本身的口感和风味
+首先这一步如果做对了，炒青菜就成功一大半了
+接下来就来说道说道青菜的特征以及该怎么根据这些特征去选择最好的做法吧
+常见的青菜有
+生菜，油麦菜，上海青 ，菜心，芥蓝，茼蒿，西洋菜，菠菜，空心菜，西洋菜等等等
+
+（不知道你们怎么理解青菜的，每个地区不一样，但是在广东，青色的绿叶蔬菜都算青菜，不要杠我！！不然我会拿出广东人眼中的各种青菜跟你进行一场“植物大战僵尸”，恶战到底）
+
+常见的做法呢就是爆炒，白灼，上汤，啫啫等
+第一：对于叶子很薄茎很脆的青菜，如生菜，油麦菜，上海青最适合的做法就是爆炒！！
+
+这类青菜很容易熟，要保持它们清脆的口感，最好的做法就是急火快炒
+时间一般控制在 1 分钟左右就起锅，根茎稍微粗一点的就 2-3 分钟
+不要恋战！！
+但是要做到快速炒熟
+还要有这样一口大铁锅是最好的，锅太小了青菜倒下去容易受热不均匀，导致出水就失去爽脆的口感了
+
+来以爆炒生菜为例说说吧
+食材就这些啦
+生菜 250 克 蒜蓉 3 瓣 蚝油 15 克 食用油适量
+做法其实就是最简单的炒青菜的流程
+热锅倒油，下青菜，放盐调味
+但是呢，有些细小的细节，直接影响到这道简单的青菜能不能做的好吃
+
+首先把生菜根部切掉然后洗干净
+清洗的时候，在水里加几滴白醋浸泡十分钟左右，可以防止青菜里面的…]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馒头放在空气里会变硬，而饼干放在空气里变软，是什么原因呢？]]></title>
+        <id>https://daily.zhihu.com/story/9740565</id>
+        <link href="https://daily.zhihu.com/story/9740565"/>
+        <updated>2021-09-23T23:07:16.000Z</updated>
+        <summary type="html"><![CDATA[李小来，食品科学博士，粮食加工
+阅读原文
+
+回答问题之前考大家一个问题，你们认为馒头皮，馒头瓤及馒头心三者的水分含量一样吗？如果不一样，那么他们的排序是怎样的？
+————————————————————正文——————————————————
+我的观点与 @中科院物理所 的答案一致，馒头变硬主要是由于淀粉老化的原因，饼干变软主要是吸水导致。
+对于饼干，大家观点一致，因为在焙烤过程中，饼干内水分大量散失，导致其水分含量很低，在空气中就会吸水慢慢软化，变的不那么脆了。
+对于馒头，主要是因为馒头失水呢，还是因为淀粉老化呢？很肯定的是两者都有影响，但是主要因素在于淀粉老化。我们可以想一下，如果我们把馒头真空包装或者是放在冰箱，那么水分的散失总会减慢吧，可是馒头依然会变硬，而且放冰箱可能变硬速度更快，这也可以看出淀粉老化在改变馒头变硬方面还是起主导作用的。
+淀粉的老化很多人都清楚，其实就是淀粉糊化后在防止过程中淀粉分子链通过分子内或分子间氢键的结合、排列和聚集，重新形成有序化排列的过程。
+淀粉糊化老化示意图
+但是细心的你可能会发现一个现象，那就是馒头或者是淀粉质食品，在做好后冷却放置过程中，他的硬度也好，品质也好，会存在一个快速变化的过程，也许新鲜馒头放置 1-2 小时，就变得没那么松软了，但是这个快速变坏的过程之后，好像品质劣变又开始变的慢了起来，这是因为淀粉老化它本身就不是一个匀速的过程。
+一般而言，淀粉的老化过程可分为短期老化和长期老化。其中，短期老化发生在淀粉糊化后的初始阶段，主要是直链淀粉分子开始聚集形成三维网络结构，速度很快；长期老化则一般会持续几周时间，主要是由于具有高分支结构的支链淀粉完成，因为支链淀粉分支较多，所以在聚合时受到较强的抑制作用，老化进程相对较慢。这也是为什么刚开始淀粉质食品品质劣变较快，后面就开始缓慢变化的原因。当然，长期老化在整个淀粉老化过程中占主要作用，也是导致淀粉质食品品质变化的主要原因。
+其实淀粉质食品的水分散失跟淀粉老化也是有很大关系的。因为食品本身的持水能力就影响了它内部的水分是否容易失去，恰好淀粉老化后其吸水能力下降, 导致淀粉内部水分析出散失，进而使食品变干变硬, 食用品质大幅下降。
+有没有什么办法不让淀粉老化呢？很抱歉，目前没有办法不让淀粉老化，但是有很多方法可以延缓淀粉老化，让淀粉质制品的品质劣变速度变慢，比如我们加一些单糖(如葡萄糖等)、低聚糖(如蔗糖等)和多糖(如果胶等食用胶体等），或者是加一些盐，脂类，乳化剂等，都可以有效地延缓淀粉老化，当然这些也是在很多食品中有应用。
+最后，开头的答案是：馒头的水分是由内至外逐渐增加的，也就是馒头皮>馒头瓤>馒头心，你答对了吗？
+参考资料：Shujun Wang et al. Starch Retrogradation: A Comprehensive Review[J]. Comprehensive Reviews in Food Science and Food Safety, 2015, 14(5) : 568-585.
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在年轻人们为什么开始流行用 MBTI、九型人格等标签交友了？这类测试科学性如何？]]></title>
+        <id>https://daily.zhihu.com/story/9740572</id>
+        <link href="https://daily.zhihu.com/story/9740572"/>
+        <updated>2021-09-23T23:07:11.000Z</updated>
+        <summary type="html"><![CDATA[壹心理，专业而有趣的心理服务平台，为大众心理健康提供解决方案。
+阅读原文
+
+MBTI 与九型人格测试，准确度有限，缺乏实验证明其信效度。（信度是指可靠性，效度是指有效性）
+所以，从实验的角度来说，这类测试并不完全科学。
+而其在年轻人中流行，可能是其符合了交友中的相似性、能带给人安全感，同时是个不错的社交货币。
+（一）通过相似性拉近关系
+社会心理学家西奥多·纽科姆（Theodore Mead Newcomb）在 1961 年进行过一个实验。他们让性格特征相似的学生住在一起，也让特征相异的学生一起居住。纽科姆发现，性格特征相似的同学彼此更友善，而且容易成为好友；而那些特征相异的同学即使天天生活在同一个屋檐下，依旧难以相互喜欢并建立友谊。
+除此之外，大量的实验研究都证明了人际吸引的相似性原则，相似会导致人际之间的吸引，他们会更容易相互接纳和喜欢。许多时候，正是因为那个人有着和自己相近的一些地方，才让我们对对方的好感爆棚，产生了触电的感觉。性格或者生活习惯相似，往往是许多情侣不知不觉走近彼此的原因。
+通过人格测试与彼此分享，大家可以通过测试，在感觉上获得最大程度的相似性，筛选出和自己相像的朋友，从而快速拉近彼此的关系。
+（二）通过增添人际信息来提升安全感
+在社交中，我们本能地希望环境和自身处于掌控中，进而获得安全感。如果我们对新朋友的信息完全未知，那我们就会陷入恐惧与不安中。
+这就像，大多数人进入到陌生的社交环境中，都会感觉到焦虑与紧张。
+这种焦虑的来源，很大程度上来自大脑会对未知的恐惧，所以大脑会试图收集、抓取更多信息来降低焦虑。
+而人格测试，则根据双方的测试结果，提供了一些的双方信息，在某种程度上，会降低彼此之间的不安全感，进而减少疏离和防御，从而也更容易亲密。
+（三）社交货币
+MBTI 与九型人格测试，不管其准不准，在社交的时候，都可以作为一种谈资与话题。
+上次朋友聚会，大家拉着彼此相互做 MBTI 测试题，然后测完后大喊，“我一猜你就是！”，接着围绕着 MBTI 聊了好久。
+对于很多人来说，他们并不相信 MBTI 和九型人格测试，但大家喜欢，当做话题一起聊聊天，也是个不错的选择。
+MBTI 与大九人格测试，能在一定程度上帮助大家了解自己，同时也会帮助大家社交，想玩的话，不妨试一试。
+但这类测试，并不能作为对人格的准确判断，如果想对自我有更深了解，可以寻求心理专业机构和人员的帮助。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么《红楼梦》里贾元春在皇宫过得不快乐？]]></title>
+        <id>https://daily.zhihu.com/story/9740591</id>
+        <link href="https://daily.zhihu.com/story/9740591"/>
+        <updated>2021-09-23T23:07:03.000Z</updated>
+        <summary type="html"><![CDATA[雲绯，哈迷微信号：戈德里克山谷
+阅读原文
+
+在宫廷中过得不快乐是从上到下的常态，除非在前朝后宫每条路都混得志得意满，比如武则天那样的才能感到快乐。至于很多影视剧里的皇宫充满的所谓快乐，可以明白地告诉题主，这些快乐并不是真实的。我说的不是真实的，并不是指那些后宫娱乐活动就是假的，而是那些快乐的神态和笑容不是真实的，而是装出来的。
+在各种档案中可以看到清朝宫廷有各种各样的娱乐活动，种种过节的仪式和游戏等。这些活动，其实也是后宫工作的一部分，各种繁文缛节的规矩把宫人困宥地如同木偶，每一个人，上至皇帝下到擦地的小太监，都是皇宫这个大戏台上的演员。他们按照剧本扮演自己的角色，绝不能越过自己身份的雷池一步。皇宫没有半点自由可言，哪怕是皇太后皇帝也不能想吃什么就吃什么。无论尊卑，谁也不允许睡懒觉，哪怕是皇帝想赖床，太监也会在旁边吆喝着让你睡不了。
+人生困宥在这样的牢笼里，很容易憋出心理疾病，说白了，皇宫就是个住宿条件较好的监狱罢了。每天做什么都有严格规定，皇子们要凌晨起来上课，学业压力远远超过今天的孩子，而且没有寒暑假。皇子皇女也大多不能跟生母见面，妃嫔非特殊情况不能见娘家人，所以说皇宫是个没人性的地方。
+
+皇宫中的苦闷在很多地方都能看出来，曾有宫人安排 cosplay 的游戏，装扮成平民百姓，在伪造的市井街道上卖货买货，熙熙攘攘。甚至还有太监扮演小偷，模仿宫外百姓的日常情趣，皇帝和后妃就兴致盎然地看着取乐。
+唐中宗有一次心血来潮大发慈悲，给宫女放半个晚上的假，让她们在元宵节出宫到民间看灯。可是看完灯回宫点昴的宫女只剩一半，其余的全部投奔自由去了。
+而且皇帝微服私访这种事绝少见，千万别被电视剧给骗了。皇帝出行大多采取巡游的方式，这样花费甚大，因此很多皇帝为了节约开支减少巡游。如果前朝政治晦暗，危机四伏，皇帝压根都不会离开紫禁城这个政治中心，连承德行宫都不会去，比如雍正皇帝（人一走等回来的时候宝座可能都是别人的了）。如此一来，宫人的苦闷和思乡更加可想而知了。
+再说说贾元春在皇宫中不快乐的事情。
+
+首先，贾元春在宫里并不得宠，这是显而易见的事实。大家千万别被省亲时的烈火烹油给唬了。很多妃嫔的晋升和皇帝是否喜欢她们并不挂钩。后宫就像一个投资公司，哪个妃嫔的娘家立了战功或者其他功劳，等于多给皇家投资了，皇帝就算不喜欢这个妃子，也会给她晋升。贾元春在皇宫中不得宠，甚至还是站在某种挺危险的地带上，这一点贾府是深知的。所以贾政生日的时候，宫里太监来约见，把一大家子吓得心惊胆战，显然他们担心贾元春出了什么大事，而这些苗头他们早就看到了。如果元春在皇宫里过得舒舒服服，贾府压根也不会这么紧张。
+如果皇帝喜欢贾元春，至少看在她的面上不会让贾家落到“白茫茫大地真干净”的下场上。但是从贾府最终结果看，皇帝对贾元春没有丝毫感情。她的晋封与皇帝的宠爱没有关系，只能是跟贾府自身有关。皇帝也不是为所欲为的，为了某些政治目的，一时忍气吞声是常有的事，甚至要忍耐许多年。
+
+而且皇帝是个苦差事，做皇帝的人注定有严重的心理障碍。从末代皇帝溥仪身上就可以看得出，他一个没权的逊帝都从不知关心他人为何物，盛世的皇帝不可一世，对自己的妃嫔和宫人又会怎样？所有人都得忍着。乾隆的辉发那拉氏在更年期的时候终于忍受不了，闹了一次断发出家，结果如何呢？她贵为皇后，还有皇子，葬礼的规制却还不如常在和答应。
+皇宫里的人，不能有自己的脾气和性格，只能等着慢慢憋死。贾元春在宫中活得战战兢兢，精神痛苦自然不足为奇。如果再卷入政治斗争，只有天赋秉异的强人才能撑下来。必须承认的是，大多数人都是普通人，没有那么大的力量。
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
+        <id>https://daily.zhihu.com/story/9740592</id>
+        <link href="https://daily.zhihu.com/story/9740592"/>
+        <updated>2021-09-23T23:06:57.000Z</updated>
+        <summary type="html"><![CDATA[如果男朋友对你冷暴力，该怎么做，才能回到过去？
+
+入江直男，做个直男，多喝热水。
+阅读原文
+
+阅读原文
+
+一个人的绘画水平能有多低？
+
+蘇蘇阿
+阅读原文
+
+一个舍友画的 答案是鲁迅....（棺材板我都快压不住了）
+
+关键是我还猜对了
+阅读原文
+
+大学见到心动的男生该怎么追？
+
+呜哄哄，无知者
+阅读原文
+
+首先要确认他是不是一个 gay
+别问我怎么知道的…
+阅读原文
+
+有哪些「面具戴久了, 就摘不下来了」的故事?
+
+像少年拉菲迟，万茜给我点过赞
+阅读原文
+
+照片 P 多了，以为照片里面的那个就是自己，然后素颜照镜子，吐了。
+阅读原文
+
+媒体发文称宣扬暴力、灵异，变味的「剧本杀」引担忧，此类「剧本杀」需要被限制吗？
+
+郁刚，啊我是想拍科幻片的怪大叔导演…chinadv的blue7就是我
+阅读原文
+
+问：正能量的剧本杀是啥样的？
+答：一个密室里寻找谁是做好事不留名的那个人
+问：如何做正能量游戏：
+答：
+运营类：开局每人 500 块钱，去工厂上班，想尽办法保证自己活下来、并且隐瞒所有家人的情况下给希望工程捐更多的款。
+GTA 类：不断升级改造你的共享单车，保护更多的过马路的老奶奶不被丧心病狂闯红灯的泥头车碾死，救的人越多排名越高（失控玩家主题）
+吃鸡类：跳伞进入疫区，用各种方法救活各种濒死 NPC，其他小组一旦被你抢先救活，就会把装备交给你，并握住你的手嘱托你要救更多的人。
+#创意你们拿走万一赚钱帮我捐给希望工程吧#
+阅读原文]]></summary>
+        <author>
+            <name>知乎日报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Your Page Title on a Google Search Engine Results Page?]]></title>
+        <id>https://css-tricks.com/?p=352279</id>
+        <link href="https://css-tricks.com/what-is-your-page-title-on-a-google-search-engine-results-page/"/>
+        <updated>2021-09-23T18:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …
+The post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With GraphQL Caching]]></title>
+        <id>https://css-tricks.com/?p=352381</id>
+        <link href="https://css-tricks.com/working-with-graphql-caching/"/>
+        <updated>2021-09-23T14:32:01.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve recently started working with GraphQL, or reviewed its pros and cons, you’ve no doubt heard things like “GraphQL doesn’t support caching” or “GraphQL doesn’t care about caching.” And for most, that is a big deal.
+The official …
+The post Working With GraphQL Caching appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jamie Barton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Build True Edge Apps With Cloudflare Workers and Fauna]]></title>
+        <id>https://css-tricks.com/?p=352487</id>
+        <link href="https://css-tricks.com/learn-how-to-build-true-edge-apps-with-cloudflare-workers-and-fauna/"/>
+        <updated>2021-09-23T14:31:12.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+There is a lot of buzz around apps running on the edge instead of on a centralized server in web development. Running your app on the edge allows your code to be closer to …
+The post Learn How to Build True Edge Apps With Cloudflare Workers and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jacob Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
+        <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
+        <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
+        <updated>2021-09-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[军队文职上岸是一种怎样的体验？]]></title>
+        <id>http://www.zhihu.com/question/480982101/answer/2071916643</id>
+        <link href="http://www.zhihu.com/question/480982101/answer/2071916643?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-23T04:02:24.000Z</updated>
+        <summary type="html"><![CDATA[2020年2月24日，空降兵部队医院内科楼呼吸科，一场特殊的入党宣誓仪式正在举行。
+“我志愿加入中国共产党，拥护党的纲领，遵守党的章程，履行党员义务，执行党的决定……”
+
+庄严的宣誓声来自该病区的相对清洁区，一位肩扛文职军衔的94年小姑娘，在心内科廖奕华书记的带领下，在干部空勤科的邓静修医生、呼吸科的刘瑛医生、董鑫医生、刘燕护士长的见证下，戴着口罩，面对党旗，高举右拳，眼神坚定，铿锵宣誓。在抗击疫情的一线正式成为一名中国共产党预备党员。
+
+这位在特殊的时间、特殊的地点加入党组织的90后小姑娘叫刘娟，文职人员，是一名呼吸科的医生。入党仪式礼成后，身材娇小的她激动不已，她对笔者说道：“此时此刻，我身在武汉防控一线，怀着激动的心情接受着党的洗礼，倍感光荣，同时又深感压力。今后我会时刻以一名共产党员的身份严格要求自己，甘于奉献，勇于牺牲；为人民群众的生命健康，勇往直前，用实际行动来证实初心。”
+
+刘娟出生在湖北省荆州市公安县南平镇，是家里的独生女。1998年发生洪灾，南平镇是洪水重灾区，人民英雄李向群为了南平镇的抗洪救灾，牺牲在了一线。那个时候的刘娟听说李向群先进事迹后，深受感动，暗暗在心里告诉自己要向烈士那样全心全意为人民服务，不怕苦，不怕累，不怕牺牲。
+2012年，刘娟考入湖北中医药大学，在大学里刘娟受到了更加全面系统的党的理论知识学习，更坚定了共产主义信仰，积极向党组织靠拢，并一直以党员的标准要求自己。
+
+刘娟研究生毕业后，考上了空降兵部队医院文职人员。在集训过程中，刘娟对党和军队有了更深的了解。明白作为军人要严格地做到令行禁止和不讲条件的执行，牢固树立姓军为兵，姓军为战的思想。刘娟很快从地方人员转变为军队人员，真切感受到担负的使命和责任。
+回到医院后，刘娟很快投入住院医师的工作，认真负责，尽心尽力为患者减轻痛苦。
+
+今年1月，随着新冠病毒在武汉迅速蔓延，面对病毒的挑战，刘娟没有退缩，一直坚守在一线。
+在科室缺乏防护装备的时候；在病患人数不断增加，病人的体温此起彼伏、病情变化迅速的时候；在值班24小时，双手颤抖，病例仍然写不完的时候，刘娟没有气馁，再苦再累，风险再大，作为一名医生，救死扶伤是使命。
+面对生病的武汉，疫情是敌人，要打赢这场攻坚战，就要载着军医的使命，坚守岗位，将自己的所学所得发挥最大效用。
+
+刘娟的入党介绍人呼吸科主任严峻告诉笔者，年前有位进医院的患者，入院的时候病情危重，俯着身子坐在轮椅上，双手微颤，呼吸急促，额头满布汗水，大大的眼睛布满红血丝，极度缺氧。
+当时因为新冠指南未出，治疗方案尚未统一，医院还没有特别有效的抗病毒药物，采取对症处理，把氧气开放到最大，但患者仍呼吸困难，不能平卧。患者的检查结果出来后，发现情况很糟糕，科室要给患者家属下病危通告，但不把真实情况告诉患者。
+刘娟不顾自己工作的繁忙，一有空就会去病房查房，告诉患者情况还好不要有太大压力，并不断地鼓励他积极配合治疗，保持好的心态，共同把这段最难熬时间扛过去，病自然就好了。科学的药物治疗，加上刘娟每天的不断鼓励，患者情况出现慢慢的好转，指脉氧上升，可以平躺睡眠，可以不戴氧气，可以下地活动，直到精神好转，顺利出院。
+同为刘娟入党介绍人的呼吸科护士长刘燕告诉笔者，有一位70岁的老爹爹，是个孤寡老人，一直独居在家。这个爹爹是刘娟接诊的，比较有意思的是爹爹住进来的时候，塞给刘娟一张纸条，上面密密麻麻写着自己的症状流水：什么时候发病、怎么不舒服、用过什么药、服药后有什么不适等等。
+刘娟知道这是个很“讲究”的爹爹，便放心地告诉爹爹他们会采取怎样的治疗方式，爹爹也会每天塞给她一张早早就写下的单子，详细记录了他的症状、体征。因为老人入院住得急，有一些生活用品没带，又怕自己外出传染给别人，就在当天塞给刘娟的症状流水中加了一栏：需要帮忙采购的生活用品。
+刘娟看到后，二话没说，第二天上班前按照“购物单”的要求买了物品送过去，爹爹很感激。爹爹的病情恢复得也很快。爹爹出院的时候刘娟正好在查房，看见爹爹正好在写纸条，凑过去看，上面密密麻麻写了自己回家的注意事项，什么时候解除隔离。这些都是刘娟平时告诉爹爹的，看来爹爹都听得很认真。
+
+“用爱拥抱每一天，用心呵护每一人。”这是刘娟常常挂在嘴边的一句话，也是她的人生信条。
+“行动是最好的入党誓言，不管龙潭虎穴，哪怕九死一生，我绝不畏惧。”
+这就是我们火线入党的同志——刘娟，用娇小的身躯奋力抵住疫情的蔓延。
+
+来源：知乎 www.zhihu.com
+我们的天空
+点击下载
+118 个回答，查看全部。
+有没有靠谱的军队文职课程？
+备考军队文职学习视频应该看哪家的？]]></summary>
+        <author>
+            <name>我们的天空</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[军队文职上岸是一种怎样的体验？]]></title>
+        <id>http://www.zhihu.com/question/480982101/answer/2083243001</id>
+        <link href="http://www.zhihu.com/question/480982101/answer/2083243001?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-09-23T04:01:40.000Z</updated>
+        <summary type="html"><![CDATA[很多人对于军队文职不了解，甚至不知道是干嘛的，其实这也很正常
+军队文职是从18年才开始大规模的面向社会开始招生的，还是太年轻了
+给大家总结了一些军队文职的相关经验和问题，感兴趣的话就点进来看看吧
+
+
+来源：知乎 www.zhihu.com
+文职君
+点击下载
+118 个回答，查看全部。
+有没有靠谱的军队文职课程？
+备考军队文职学习视频应该看哪家的？]]></summary>
+        <author>
+            <name>文职君</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARM64 平台基于 openEuler + iSula 环境部署 Kubernetes]]></title>
         <id>https://toutiao.io/k/rxxhy1d</id>
@@ -491,6 +904,19 @@ Bread feeds the body, indeed, but flowers feed also the soul. 面包能补足肉
 在你轻触…]]></summary>
         <author>
             <name>Rachel品吆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.09.22 今天是每日时报陪伴您的第 620 天]]></title>
+        <id>https://wubaiqing.github.io/zaobao/2021/09/22.html</id>
+        <link href="https://wubaiqing.github.io/zaobao/2021/09/22.html"/>
+        <updated>2021-09-22T01:48:56.000Z</updated>
+        <summary type="html"><![CDATA[2021.09.22 今天是每日时报陪伴您的第 620 天
+[类库] 阿里云微前端解决方案：https://github.com/aliyun/alibabacloud-alfa
+[类库] 检测 DOM 元素大小调整的库：https://github.com/Akryum/vue-resize
+[类库] pro-components 是解决中、后台类的应用，的业务级组件库，提供更高程度的抽象。Ant Design 团队开发：https://github.com/ant-design/pro-components]]></summary>
+        <author>
+            <name>每日时报</name>
         </author>
     </entry>
     <entry>
@@ -12836,408 +13262,6 @@ The post One Way to Convert Code Indentation appeared first on CSS-Tricks. You c
 The post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Eli Penner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软件开发中的时区问题]]></title>
-        <id>https://toutiao.io/k/kmc7oay</id>
-        <link href="https://toutiao.io/k/kmc7oay"/>
-        <updated>2021-08-25T07:44:51.000Z</updated>
-        <summary type="html"><![CDATA[本文总结几类项目中跟时区相关的问题，给大家分享一些基本的时区知识，以及如何在软件开发和测试中注意考虑时区因素，以避免因时区而导致系统功能的问题。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating A Public/Private Multi-Monorepo For PHP Projects]]></title>
-        <id>https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/</id>
-        <link href="https://smashingmagazine.com/2021/08/public-private-multi-monorepo-php-projects/"/>
-        <updated>2021-08-25T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo explains how to use a "multi-monorepo" approach for making the development experience faster, yet keeping your PHP packages private. This solution can be especially beneficial for PRO plugin creators.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElasticSearch 基础之分布式存储]]></title>
-        <id>https://toutiao.io/k/q1fwpsv</id>
-        <link href="https://toutiao.io/k/q1fwpsv"/>
-        <updated>2021-08-25T04:40:53.000Z</updated>
-        <summary type="html"><![CDATA[我们在之前的文章中讨论了ElasticSearch中cluster的创建，也了解了Shard的概念，本文就来聊聊ElasticSearch的数据是如何在各个shard中保存和查询的。 文本和Shared的关系 我们知道index的文本是会保存到一个primary的shard中，那么ElasticSearch是如何知道某个文本是属于哪一个shard的呢？比如说我们要保存文本的时候，是应该把它保存到shard1还是shard2，读取的时候又是应该到shard1中查找还是shard2中查找，这些都是如何决定的呢？ 这个问题乍一听起来好像还蛮神秘，其实仔细一想也很简单，只有有一个统一的基于某个id的算法就可以实现了。在ElasticSearch中，它是通过下面这个公式来计算的： 这里routing的值默认就是文本的id（当然也可以自定义），这样一来我们就可以把某一个文本指定到特定的shard中。 从这个公式也可以看出来我们为什么需要对primary shard的数目做一个限制，只允许在index创建的时候设置，而且不允许改变，如果改变了，那么所有的根据这个公式算出来的shard值就会发生变化，之前保存的内容就有可能再也找不到了。 Primary和Replica shards之间的交互 为了我们后面的解释方便，先假设相关的cluster结构如下图所示，也就是说整个cluster由三个node组成，然后有两个primary的shards，每一个primary的shard有两个replica。 写操作 写操作包括新建，index和删除文本等，对写操作来说需要首先在primary shard中完成，然后再拷贝到相应的replica中。简单的流程示意图如下所示： 客户端发送新建，index或者删除的请求到node1. Node1会根据文本的id来计算属于哪个shard，假设我们计算后发现这个文本属于shard0，它会把相应的请求指向shard0 primary所在的node，也就是node3. Node3会在primary shard上执行请求，当请求成功之后会把相应的请求在forward对应的replica所在的节点，也就是node2和node1. 当所有的replica shard都回复成功之后（这里其实是可以设置是同步等还是异步处理），它会向node1返回成功，然后node1在向客户端返回成功的response。 大体的流程就是我们上面所示意的，不过这里还是有几个地方需要注意的： Replication：就是我们上面提到的如何进行replica的处理，默认的值是sync，也就是说只有replica也处理了相关的请求，才会返回response给相应的节点。另外一个设置是async，也就是说当primary处理完成之后就会立即返回response给相应的节点，当然它也会异步把请求forward给replica的节点，只是说replica的节点何时能处理完成就没有保证了。 Consistency：通常来说，在进行写操作之前primary需要检查一下是否有大多数节点是有效的，这样可以保证这个写不会出问题，比如你不会写到一个网络有问题的节点等。通常我们这里所说的大多数是通过这个算式来计算的： 这里我们可以把consistency设置为1（只有primary），all（所有的primary+replica）或者quorum也就是大多数等。 Timeout：ElasticSearch如何判断一个节点是有效的，默认来说是这个超时是一分钟。当然你也可以设置成别的值，比如说50ms，30s等等。 读操作 文本的读相对来说就简单了很多，既可以从一个primary的shard读也可以从一个replica进行读。大概的流程如下所示： Node1接收到了一个读请求。 Node1根据id计算出来这个文本是在shard0上，我们可以看到三个节点都有shard0的数据，所以都可以被选择，这里随机选择了node2来获取数据。 Node2返回文本给node1，然后node1再返回对应的结果给客户端。 这里的第二步如何选择哪一个节点也是有讲究的，有点类似负载均衡的做法，就是大概的意思还是希望各个节点的访问和处理尽量均匀。比如说可以使用round-robin来轮询。 读写结合的操作 比较常见的读写结合的操作就是进行局部更新（Partial Update）。大概的示意图如下所示：...]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 模块化开发实践]]></title>
-        <id>https://toutiao.io/k/v7cew96</id>
-        <link href="https://toutiao.io/k/v7cew96"/>
-        <updated>2021-08-25T01:05:31.015Z</updated>
-        <summary type="html"><![CDATA[本文主要讲述了Android客户端项目如何进行模块化设计、开发、以及老项目改造，提供一个可落地实施的参考方案。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活久见！TCP 两次挥手，你见过吗？那四次握手呢？]]></title>
-        <id>https://toutiao.io/k/4pjvxh6</id>
-        <link href="https://toutiao.io/k/4pjvxh6"/>
-        <updated>2021-08-25T01:05:30.915Z</updated>
-        <summary type="html"><![CDATA[TCP两次挥手，你见过吗？那四次握手呢？]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你家的云原生应用，打过这些 “疫苗” 了吗？]]></title>
-        <id>https://toutiao.io/k/mm46939</id>
-        <link href="https://toutiao.io/k/mm46939"/>
-        <updated>2021-08-25T01:05:30.812Z</updated>
-        <summary type="html"><![CDATA[有关云原生容器的安全设计与实践]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手动实现一门图灵完备的编程语言：Brainfuck]]></title>
-        <id>https://toutiao.io/k/wnlkzfs</id>
-        <link href="https://toutiao.io/k/wnlkzfs"/>
-        <updated>2021-08-25T01:05:30.710Z</updated>
-        <summary type="html"><![CDATA[首先，它是一门编程语言叫 brianfuck ， 然后，它是一门图灵完备的编程语言。\x0a那么什么是图灵完备呢？我们还需要先从图灵机说起。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue Router 10 条高级技巧]]></title>
-        <id>https://toutiao.io/k/09dw5xv</id>
-        <link href="https://toutiao.io/k/09dw5xv"/>
-        <updated>2021-08-25T01:05:30.601Z</updated>
-        <summary type="html"><![CDATA[前言Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 JWT 来保护你的接口服务]]></title>
-        <id>https://toutiao.io/k/70kuvcy</id>
-        <link href="https://toutiao.io/k/70kuvcy"/>
-        <updated>2021-08-25T01:05:30.471Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InnoDB 是如何存数据的？yyds]]></title>
-        <id>https://toutiao.io/k/8urc6ku</id>
-        <link href="https://toutiao.io/k/8urc6ku"/>
-        <updated>2021-08-25T01:05:30.368Z</updated>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K8s 工程化：K8s 中的 Java 应用出现 OOM 后怎么办？]]></title>
-        <id>https://toutiao.io/k/3gh5u1j</id>
-        <link href="https://toutiao.io/k/3gh5u1j"/>
-        <updated>2021-08-25T01:05:30.261Z</updated>
-        <summary type="html"><![CDATA[完整代码在文末背景前段时间，线上系统出现了两次持续时间比较长的事故。这两次事故暴露我在某些方面的不足。同时，]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Rust 进行系统编程：构建一个迷你 Shell]]></title>
-        <id>https://toutiao.io/k/9wjra8r</id>
-        <link href="https://toutiao.io/k/9wjra8r"/>
-        <updated>2021-08-25T01:05:30.158Z</updated>
-        <summary type="html"><![CDATA[关注「Rust编程指北」，一起学习 Rust，给未来投资大家好，我是胖蟹哥。在介绍性的第 1 部分中，我们讨]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubhouse 如何使用 Python 每天处理十亿个请求？]]></title>
-        <id>https://toutiao.io/k/vdyiyjd</id>
-        <link href="https://toutiao.io/k/vdyiyjd"/>
-        <updated>2021-08-25T01:05:30.088Z</updated>
-        <summary type="html"><![CDATA[2021 年初，Clubhouse 开始经历爆发式增长时期。在两个月的时间里，我们从每分钟不到 1 万个后端请求增加到超过 100 万个后端请求，我们必须迅速适应以在现有堆栈上每天处理数十亿个请求。而且我们只有两名全职后端工程师。这是一个关于我们扩展服务并将 Python 工作..]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需五步，实现数据分析闭环]]></title>
-        <id>https://toutiao.io/k/u089rci</id>
-        <link href="https://toutiao.io/k/u089rci"/>
-        <updated>2021-08-25T01:05:30.042Z</updated>
-        <summary type="html"><![CDATA[来源：接地气学堂很多做数据的同学，光看着自己写报告，看不到自己的建议被落地，常心怀缺憾。觉得不能像产品/运营]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理想的团队成员]]></title>
-        <id>https://toutiao.io/k/ps0j3xm</id>
-        <link href="https://toutiao.io/k/ps0j3xm"/>
-        <updated>2021-08-25T01:05:29.955Z</updated>
-        <summary type="html"><![CDATA[有篇文章我一直想写，但至今没落笔——“理想的团队什么样”，周末读完一本书后发现，理想的团队成员才是本真......]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实战篇：断点续传？文件秒传？手撸大文件上传]]></title>
-        <id>https://toutiao.io/k/6r8vmz2</id>
-        <link href="https://toutiao.io/k/6r8vmz2"/>
-        <updated>2021-08-25T01:05:29.822Z</updated>
-        <summary type="html"><![CDATA[各位看官大家好，今天给大家分享的又是一篇实战文章，希望大家能够喜欢。]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] Dockerfile 文件全面详解]]></title>
-        <id>https://toutiao.io/k/h2n9sqn</id>
-        <link href="https://toutiao.io/k/h2n9sqn"/>
-        <updated>2021-08-25T01:05:27.697Z</updated>
-        <summary type="html"><![CDATA[Docker 可以通过读取 Dockerfile 中的指令自动构建镜像。 Dockerfile 是一个文本文档，其中包含了用户创建镜像的所有命令和说明。 一、 变量变量用 $variable_name 或者 ${variable_name} 表示${variable:-word}表…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 分区存储常见问题解答]]></title>
-        <id>https://toutiao.io/k/hovqhs2</id>
-        <link href="https://toutiao.io/k/hovqhs2"/>
-        <updated>2021-08-25T01:05:27.491Z</updated>
-        <summary type="html"><![CDATA[要在 Google Play 上发布，开发者需要将应用的 目标 API 级别 (targetSdkVersion) 更新到 API 级别 30 (Android 11) 或者更高版本。针对新上架的应用，这个政策自 8 月开始生效；现有应用更新新的版本，这个政策的…]]></summary>
-        <author>
-            <name>Top-DEV-News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哪个知名画家最喜欢画自画像？]]></title>
-        <id>https://daily.zhihu.com/story/9739527</id>
-        <link href="https://daily.zhihu.com/story/9739527"/>
-        <updated>2021-08-24T23:07:45.000Z</updated>
-        <summary type="html"><![CDATA[翁昕，艺术经纪人；《如何看懂艺术1、2》两册各大平台发售中
-阅读原文
-
-太长不看：
-自画像中蕴涵着艺术家的很多心思。既有艺术主张上的，也有个人情感上的。这和大多自画像并非用来销售，所以艺术家们发挥余地更大有关。在一些艺术家的自画像上，甚至包含着他的整个人生。毕加索就是一个非常适合用来展现自画像艺术价值的艺术家。
-长：
-要说才华横溢、画风多变的艺术家，绕不开毕加索；要说精力充沛、笔耕不辍的艺术家，绕不开毕加索，要说自负自恋，忍不住要画自画像以明志的艺术家，更是绕不开毕加索。他的自画像，远不只是要「大家记得我长这个帅气样子」，而是包含很多个人的抱负、主张、甚至是自己都不愿面对的、内心深处的真情实感。
-由于他这一辈子自画像实在太多，无法一一列举，我就先挑他这一辈子里特别有代表性的说说吧。
-毕加索，《自画像》，1896 年（15 岁），毕加索博物馆，巴塞罗那
-这幅自画像藏于毕加索的故乡巴塞罗那，可以说是他「梦开始的地方」。毕加索的父亲已经看出自己的儿子是块材料，但想象力有限的他最大的希望就是儿子可以成为一个功夫扎实的学院派画家。此时无论是他还是毕加索本人，距离日后给人留下深刻印象的「嘴歪眼斜」风格还有十数年的光景。在这幅早期自画像上，也确实留有他从古代大师处学习的痕迹，只要稍加对比，观众要发现它和伦勃朗自画像的相似之处并非难事。
-伦勃朗，《自画像》，1640 年，国家美术馆，伦敦
-但是也正是从毕加索的这幅自画像上，我们看到了一个神情严肃、眉头紧锁、气宇不凡（至少自命不凡）的年轻人，他无疑对自己所处的现状是有不满的。这会儿的毕加索只是知道自己绝不能落入前人留下的风格之中。他得搞点新东西出来，至于这不同于以往的新东西是什么，他也不清楚。这是一种迫切求变却找不到方向的迷茫与狂躁。所谓「龙岂池中物，乘雷欲上天」。但是现在没雷。
-在这幅画完成一年后，毕加索和美术学院的同学们只是听说在不远的巴…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么平价的牌子床单被罩四件套吗？]]></title>
-        <id>https://daily.zhihu.com/story/9739533</id>
-        <link href="https://daily.zhihu.com/story/9739533"/>
-        <updated>2021-08-24T23:07:38.000Z</updated>
-        <summary type="html"><![CDATA[姚蔚铭，纺织品化学工程师（神秘职业） 纺织品问题请付费咨询
-阅读原文
-
- 
-1：明确建议1）不建议无脑依靠品牌选购产品
-因为纺织品加工并不是单独一家企业就拿完成的，同一品牌的不同款式基本上都是不同供应商完成的。质量与性价比并不和品牌好坏正相关。
-从面料成分和规格挑选才是最关键的。
-2）不要陷入纯棉神话
-棉花虽然是最常使用的纺织品材料，但在吸湿、透气、亲肤方面，还有比他更好的成分。根据自己喜好来选择。
-2：支数是什么？对舒适感有和影响？（追求高支数无意义）
-支数（英支）其实是一个纺织专业术语，专门用来恒量纱线细度的单位。
-英支：1 磅原料可以纺多少个 840 码长,定义为多少支纱.（单位"S"）
-换成人话来讲
-就是
-数值约大纱线越细，触感就越柔软。
-一般有 32S、40S、60S、80S、100S（S 是支数的单位）
-支数越大舒适感越好，相应的加工难度也越高
-选购时，确实是支数越大越好
-但是！
-普通消费者选购时，60S、80S 完全足够了，追求更高的支数舒适感只是略微提升，但价格能翻好几倍。（因为纺纱加工难度陡然提升）
-所以我的个人建议是
-追求高支数意义不大，60S、80S 足以。（300 以内最常见）
-钱包鼓的无脑 100 支甚至以上
-3：支数造假
-其实 60S 往上就已经属于细特细纱线了，总之就是很难纺了。
-真 100 支的棉纱线做的四件套，卖个一两千往上是非常正常的。（也有四五百的就是很少见）
-假如你看到这个（我直接爆笑如雷，资本家也当活菩萨了？？？）
-
-这种 99.99%就是支数造假（当然不排除 0.01%资本家化身活佛的可能性）
-很多半瓶子水瞎晃荡的假纺织科普，只会一味告诉你选购高支数面料，这种商家也特意迎合消费者把支数标的虚高。
-这个价格能有 80 支就非常不错了
-很多店是把经纱 80 支 + 纬纱 80 支，叫成 160 支。
-简直就是坑爹误导消费者啊！！！（这…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记忆中，最体现科比特质的一场比赛]]></title>
-        <id>https://daily.zhihu.com/story/9739517</id>
-        <link href="https://daily.zhihu.com/story/9739517"/>
-        <updated>2021-08-24T23:07:33.000Z</updated>
-        <summary type="html"><![CDATA[张佳玮，新书：《NBA75年：篮球群星闪耀时》
-
-以前聊到过：
-我觉得，最体现科比个人特质的比赛，不是 81 分、三节 62 分、34 分钟 56 分、四连 50 分之类。
-而是 2009 年西部半决赛湖人对火箭之战，第二场。
-
-皮尔斯曾经比较科比、麦蒂、卡特、甜瓜、勒布朗。
-麦蒂是小前锋身材里的组织后卫，投篮起跳点高到你盖不到，所以你总得琢磨别让他进入投篮位置。
-卡特是投篮起跳很快，同时第一步惊人，所以特别需要在意防守的尺寸。
-勒布朗壮而又快，而且一个肩膀就能卡到身位，而且左右手全能，不停的身体接触也让你疲倦。你可以尝试让他跳投。
-甜瓜是个独特的家伙，又壮，又能投，而且袭篮的步伐很好，而且在任何点都能投篮。这让他难以取舍。
-针对科比，皮尔斯没说某个单项。他说科比的可怕是：他会无休止地反复来搞你，从一切可能的角度，用一切可能的方式来搞你。
- 
-巴图姆刚去开拓者时，麦克米兰教练简单告诫他：
-防麦蒂？防他强投；防勒布朗？限制他突破。
-防科比？“祝你好运。”
-
-2009 年西部半决赛第一场，姚明的光荣之战。众所周知，在斯台普斯球馆，姚明面对湖人三塔包围，28 分 10 篮板，最后带伤归来终结比赛。
-那场火箭的另一个隐藏英雄是巴蒂尔：科比得了 32 分，但用了 31 发投篮。
-其中对位巴蒂尔时，22 投 8 中。
-巴蒂尔尽量将科比左手突破，陷入夹击陷阱，不让科比进罚球线，用遮脸防守干扰科比的视线，尽量让科比投长距离的跳投。
-
- 
-我们都知道，巴蒂尔是个完美的头脑型防守专家。他的身体天赋不过中人之资。研究对手，解读对手的偏好。比赛中，他逼迫对手往协防陷阱里走，让对手投篮时面前总有只手在。在对手外围活动时阻断传球线路，逼迫对手到不舒服的地方接球。他的身体接触，是当对手到内线时才进行的。因此，他的打法总是很干净。在长达 48 分钟的比赛里，巴蒂尔是 NBA 最好的粘防者之一。他将防守当作…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些年看名侦探柯南，你学到了哪些知识？]]></title>
-        <id>https://daily.zhihu.com/story/9739541</id>
-        <link href="https://daily.zhihu.com/story/9739541"/>
-        <updated>2021-08-24T23:07:24.000Z</updated>
-        <summary type="html"><![CDATA[hello
-阅读原文
-
-这个问题勾起我当年想写一篇柯南中的知识点整理，然后……就没有然后了
-毕竟柯南里的知识太多了，我虽有一颗雄心壮志，奈何同时也生了副懒骨。
-TV001 云霄飞车杀人事件
-关键词：福尔摩斯
-
-介绍了英国小说家柯南道尔的侦探小说《福尔摩斯探案集》，会击剑，爱拉小提琴等等。小读者可以大致了解这个享誉全球的探案名作和它的主人公。
-TV011 钢琴奏鸣曲「月光」杀人事件
-关键词：钢琴曲月光
-
-这首贝多芬创作的《升 c 小调第十四钢琴奏鸣曲》更为人熟知的名字叫《月光》，据说是贝多芬献给恋爱对象朱丽法塔·贵恰尔第的，动漫中朱丽法塔·贵恰尔第的，动漫中由小兰来演奏也是别有一番风味。
-TV018 六月新娘杀人事件
-关键词：氢氧化钠
-
-氢氧化钠大家应该都不会陌生，初中化学就告诉我们俗称“烧碱”、“火碱”、“苛性钠”的 NaOH 是无臭，白色，不挥发固体，它易溶于水，同时放出大量的热。属于强碱，具有腐蚀和刺激作用。如果像本集中的老师那样口服的话会产生严重疼痛，口喉和食道灼伤，呕吐、虚脱而可能死亡。它不是剧毒物质，所以最后老师救回来了，可喜可贺。
-TV023 豪华客轮连续杀人事件
-关键词：素描
-
-原来面包屑是可以用来做橡皮的。人们用橡皮擦字，到现在只有两百多年的历史。在橡皮发明之前，人们是用面包或海绵来擦掉铅笔字的。而现在用面包屑做橡皮多是为了打调子吧，使调子更加柔和些。但是一般人都是用纸巾或者很软的橡皮比较多，用面包大概也就豪华客轮上的土豪了。
-TV027 小五郎同学会杀人事件
-关键词：武藏坊弁庆 站立死亡 死亡时间
-
-武藏坊弁庆是日本平安时代末期的僧兵，源义经的家臣。他追随义经南征北战，舍命护主，是身中万箭而死。（顺带，弁庆义经的君臣关系和是为日本人所称颂的，M7 就有关于这两人的事迹。） 而这里的案子是说在剧烈运动下猝死，人体肌肉中的蛋白质会快速凝固，所以弁庆可以站立死亡…]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞎扯 · 如何正确地吐槽]]></title>
-        <id>https://daily.zhihu.com/story/9739547</id>
-        <link href="https://daily.zhihu.com/story/9739547"/>
-        <updated>2021-08-24T23:07:14.000Z</updated>
-        <summary type="html"><![CDATA[当代中国有谁称得上幽默大师？
-
-臀总，公众号：虎臀，欢迎围观：）
-阅读原文
-
-阅读原文
-
-什么是真正的吃货？
-
-臀总，公众号：虎臀，欢迎围观：）
-阅读原文
-
-Like this:
-
-
-
-阅读原文
-
-《蜘蛛侠：英雄无归》首支预告中透露了哪些信息？「多元宇宙」中会发生什么故事？
-
-大白羊，沉默不语的大白羊
-阅读原文
-
-注意预告片最后这个 ps5 的广告画面，三个手柄一定是在明示蜘蛛侠三代同框要来了！（手动狗头）
-
-
-
-阅读原文
-
-《家有儿女》中的刘星一家收入有多少？
-
-Moonsea，周而复始生生不息
-阅读原文
-
-那时羡慕刘梅一出差，刘星他们吃泡面吃到想吐的日子，
-如今我也过上了这样的日子
-阅读原文
-
-《扫黑风暴》高明远费尽心机培养麦佳竟是要送人？这一行为你怎么看，其中又暗含哪些道德与法律问题？
-
-知乎用户，长泽雅美路人粉
-阅读原文
-
-这个问题邀请隔壁剧组回答你。
-
-学民族舞，学乐器，学茶道，这么漂亮的女孩，为了什么啊？不就是爱情嘛，只不过是属于高官的爱情罢了。
-阅读原文]]></summary>
-        <author>
-            <name>知乎日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrollbar Reflowing]]></title>
-        <id>https://css-tricks.com/?p=350486</id>
-        <link href="https://css-tricks.com/scrollbar-reflowing/"/>
-        <updated>2021-08-24T19:13:30.000Z</updated>
-        <summary type="html"><![CDATA[This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …
-The post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architecting With Next.js]]></title>
-        <id>https://css-tricks.com/?p=350253</id>
-        <link href="https://www.netlify.com/events/architecting-with-nextjs"/>
-        <updated>2021-08-24T19:12:23.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Free event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.
-Join us for a special event where we’ll highlight business 
-…
-The post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to the Solid JavaScript Library]]></title>
-        <id>https://css-tricks.com/?p=346597</id>
-        <link href="https://css-tricks.com/introduction-to-the-solid-javascript-library/"/>
-        <updated>2021-08-24T14:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.
-This …
-The post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Charlie Gerard</name>
         </author>
     </entry>
 </feed>
