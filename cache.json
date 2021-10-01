@@ -31,6 +31,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352475",
+          "author": "Tobias Günther",
+          "description": "A commit can be something that helps us stay on top of things. It can be a container for related changes that belong to one and only one topic, and thereby make it easier for us to understand what happened.\nIn this post, we’re talking about what it takes to produce the \"perfect\" commit.\nThe post Creating the Perfect Commit in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-the-perfect-commit-in-git/",
+          "publishedOn": "2021-09-30T14:29:36.000Z",
+          "wordCount": 2013,
+          "title": "Creating the Perfect Commit in Git"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350620",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nOf the languages that browsers speak, I’d wager that the very first one that developers decided needed some additional processing was HTML. Every single CMS in the world (aside from intentionally headless-only CMSs) …\nThe post Comparing HTML Preprocessor Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-html-preprocessor-features/",
+          "publishedOn": "2021-09-30T14:00:00.000Z",
+          "wordCount": 2286,
+          "title": "Comparing HTML Preprocessor Features"
+        },
+        {
           "id": "https://css-tricks.com/?p=352723",
           "author": "Ollie Williams",
           "description": "Chrome developer advocate Jake Archibald called 2016 “the year of web streams.” Clearly, his prediction was somewhat premature. The Streams Standard was announced back in 2014. It’s taken a while, but there’s now a consistent streaming API implemented …\nThe post Web Streams Everywhere (and Fetch for Node.js) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -578,24 +596,6 @@
           "publishedOn": "2021-09-01T14:37:38.000Z",
           "wordCount": 800,
           "title": "Some Typography Links VII"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350788",
-          "author": "Chris Coyier",
-          "description": "I think this is good advice from Silvestar Bistrović:\nAn enabling selector is what I call a selector that does a job without disabling the particular rule.\nThe classic example is applying margin to everything, only to have to remove …\nThe post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/",
-          "publishedOn": "2021-08-31T20:17:25.000Z",
-          "wordCount": 374,
-          "title": "You want enabling CSS selectors, not disabling ones"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350690",
-          "author": "Chris Coyier",
-          "description": "You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …\nThe post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/application-specific-links/",
-          "publishedOn": "2021-08-31T14:30:21.000Z",
-          "wordCount": 1042,
-          "title": "Application-Specific Links"
         }
       ]
     },
@@ -604,6 +604,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.",
+          "link": "https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/",
+          "publishedOn": "2021-09-30T08:00:00.000Z",
+          "wordCount": 2474,
+          "title": "A Time Of Transition (October 2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8987d365-d643-429d-b840-56ff195a9da5/oct-21-autumn-vibes-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/",
           "author": "hello@smashingmagazine.com (Addy Osmani)",
@@ -939,34 +953,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
-          "author": "hello@smashingmagazine.com (Dirk Weber)",
-          "description": "What exactly is a displacement filter? In this article, Dirk Weber explains the SVG `feDisplacementMap` filter primitive with a good number of examples to demonstrate the concept of animated displacement maps.",
-          "link": "https://smashingmagazine.com/2021/09/deep-dive-wonderful-world-svg-displacement-filtering/",
-          "publishedOn": "2021-09-01T10:30:00.000Z",
-          "wordCount": 5584,
-          "title": "A Deep Dive Into The Wonderful World Of SVG Displacement Filtering",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/92af7db6-94b4-4e48-8e20-875af2d5e024/deep-dive-svg-displacement-filtering.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/state-management-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.",
-          "link": "https://smashingmagazine.com/2021/08/state-management-nextjs/",
-          "publishedOn": "2021-08-31T14:00:00.000Z",
-          "wordCount": 2894,
-          "title": "State Management In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7be7a6e9-5d44-4941-8a6c-dfee3435cc9b/state-management-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1045,6 +1031,87 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/01lhd6r",
+          "author": null,
+          "description": "本文从源码角度分析了 ld64 的主体工作原理，实际应用中工程可结合自身需求对 ld64 进行定制来修复特定问题或者实现特定功能。",
+          "link": "https://toutiao.io/k/01lhd6r",
+          "publishedOn": "2021-10-01T01:15:22.250Z",
+          "wordCount": 2341,
+          "title": "深入 iOS 静态链接器（一）：ld64"
+        },
+        {
+          "id": "https://toutiao.io/k/razs9sg",
+          "author": null,
+          "description": "代码生成技术科普文",
+          "link": "https://toutiao.io/k/razs9sg",
+          "publishedOn": "2021-10-01T01:15:22.109Z",
+          "wordCount": 1088,
+          "title": "ASM 与 Presto 动态代码生成简介"
+        },
+        {
+          "id": "https://toutiao.io/k/6u3nm86",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/6u3nm86",
+          "publishedOn": "2021-10-01T01:15:21.880Z",
+          "wordCount": 1966,
+          "title": "字节 React + TypeScript 实践总结篇"
+        },
+        {
+          "id": "https://toutiao.io/k/rmtthaf",
+          "author": null,
+          "description": "我要触发 GC！",
+          "link": "https://toutiao.io/k/rmtthaf",
+          "publishedOn": "2021-10-01T01:15:21.360Z",
+          "wordCount": 498,
+          "title": "Go 什么时候会触发 GC？"
+        },
+        {
+          "id": "https://toutiao.io/k/6k5ve1v",
+          "author": null,
+          "description": "在过去几年中，用于文本摘要等任务的自然语言生成研究取得了巨大进展。然而，尽管实现了高水平的流畅性，神经系统仍",
+          "link": "https://toutiao.io/k/6k5ve1v",
+          "publishedOn": "2021-10-01T01:15:21.256Z",
+          "wordCount": 230,
+          "title": "ToTTo：受控表到文本生成数据集"
+        },
+        {
+          "id": "https://toutiao.io/k/p2sogse",
+          "author": null,
+          "description": "不会golang debug？ 今天土拨鼠给大家带来一篇实用技巧的分享。",
+          "link": "https://toutiao.io/k/p2sogse",
+          "publishedOn": "2021-10-01T01:15:21.144Z",
+          "wordCount": 738,
+          "title": "Golang 调试分析的高阶技巧"
+        },
+        {
+          "id": "https://toutiao.io/k/e2ipbrc",
+          "author": null,
+          "description": "值得收藏！去之前一定好好看看~",
+          "link": "https://toutiao.io/k/e2ipbrc",
+          "publishedOn": "2021-10-01T01:15:21.028Z",
+          "wordCount": 99,
+          "title": "你们要的环球影城攻略，来了"
+        },
+        {
+          "id": "https://toutiao.io/k/8pbs9cx",
+          "author": null,
+          "description": "你与 BAT 技术大牛，只差一份「码农周刊VIP会员」的距离！",
+          "link": "https://toutiao.io/k/8pbs9cx",
+          "publishedOn": "2021-10-01T01:15:20.582Z",
+          "wordCount": 83,
+          "title": "十一长假干嘛呢？快来吧！"
+        },
+        {
+          "id": "https://toutiao.io/k/tm5eo26",
+          "author": null,
+          "description": "背景 Table 表格组件在 Web 开发中的应用随处可见，不过当表格数据量大后，伴随而来的是性能问题：渲染的 DOM 太多，渲染和交互都会有一定程度的卡顿。通常，我们有两种优化表格的方式：一种是分页，另一种是虚拟…",
+          "link": "https://toutiao.io/k/tm5eo26",
+          "publishedOn": "2021-10-01T01:15:18.331Z",
+          "wordCount": 1265,
+          "title": "一顿操作，我把 Table 组件性能提升了十倍"
+        },
         {
           "id": "https://toutiao.io/k/pvq2wz7",
           "author": null,
@@ -1719,6 +1786,15 @@
           "publishedOn": "2021-09-24T01:10:46.142Z",
           "wordCount": 514,
           "title": "详解：为可折叠设备构建响应式 UI"
+        },
+        {
+          "id": "https://toutiao.io/k/bue7e8t",
+          "author": null,
+          "description": "工具选型是一个复杂的过程，需要综合很多信息才能做出合适的选择。我们知道任何技术决策都是权衡利弊的结果。将决策上下文和最终选择的Cons & Pros记录下来，即便将来发现这个选择不再合适的时候，也能清楚的追溯到先前决策的细节，会为下一步决策提供更加充分的依据。",
+          "link": "https://toutiao.io/k/bue7e8t",
+          "publishedOn": "2021-09-23T07:33:08.000Z",
+          "wordCount": 193,
+          "title": "如何合理地选型工具"
         },
         {
           "id": "https://toutiao.io/k/rxxhy1d",
@@ -3501,96 +3577,6 @@
           "publishedOn": "2021-09-02T01:07:25.566Z",
           "wordCount": 122,
           "title": "PostgreSQL 数据目录深度揭秘"
-        },
-        {
-          "id": "https://toutiao.io/k/8eqeeh0",
-          "author": null,
-          "description": "nio与多线程是绝配",
-          "link": "https://toutiao.io/k/8eqeeh0",
-          "publishedOn": "2021-09-01T01:13:42.359Z",
-          "wordCount": 536,
-          "title": "[推荐] 深度长文：从 bio 到 nio 到 aio，再到响应式编程"
-        },
-        {
-          "id": "https://toutiao.io/k/qxynml6",
-          "author": null,
-          "description": "DDD首先考虑的是业务语言，而不是数据和行为",
-          "link": "https://toutiao.io/k/qxynml6",
-          "publishedOn": "2021-09-01T01:13:42.274Z",
-          "wordCount": 61,
-          "title": "DDD 之于逛逛内容营销中的应用"
-        },
-        {
-          "id": "https://toutiao.io/k/u5j4cq8",
-          "author": null,
-          "description": "Flink 助力京东实时计算平台朝着批流一体的方向演进。",
-          "link": "https://toutiao.io/k/u5j4cq8",
-          "publishedOn": "2021-09-01T01:13:42.200Z",
-          "wordCount": 390,
-          "title": "Apache Flink 在京东的实践与优化"
-        },
-        {
-          "id": "https://toutiao.io/k/xs8l2kb",
-          "author": null,
-          "description": "背景之前在测试反弹shell时，测试发现：某厂商会根判断程命令是否是bash、sh等脚本解释器，如果修改ba",
-          "link": "https://toutiao.io/k/xs8l2kb",
-          "publishedOn": "2021-09-01T01:13:42.126Z",
-          "wordCount": 169,
-          "title": "如何改变进程名称"
-        },
-        {
-          "id": "https://toutiao.io/k/gpas4sf",
-          "author": null,
-          "description": "但随着视频业务快速发展，类单体的PHP架构在多个⽅⾯遇到了瓶颈和问题……",
-          "link": "https://toutiao.io/k/gpas4sf",
-          "publishedOn": "2021-09-01T01:13:41.997Z",
-          "wordCount": 154,
-          "title": "短视频 Go 研发框架实践"
-        },
-        {
-          "id": "https://toutiao.io/k/ccgfexe",
-          "author": null,
-          "description": "要在Vue应用中使用web worker，我们可以使用vue的web worker包装器",
-          "link": "https://toutiao.io/k/ccgfexe",
-          "publishedOn": "2021-09-01T01:13:41.871Z",
-          "wordCount": 165,
-          "title": "[译] Web Worker 在 Vue 中的实际应用"
-        },
-        {
-          "id": "https://toutiao.io/k/ys9n8c2",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/ys9n8c2",
-          "publishedOn": "2021-09-01T01:13:41.267Z",
-          "wordCount": 592,
-          "title": "ESModule 系列 ：构建下一代基础设施 PDN"
-        },
-        {
-          "id": "https://toutiao.io/k/j95sviy",
-          "author": null,
-          "description": "指望看完 DDIA 就能做 Infra？还是来看看顶会论文吧！",
-          "link": "https://toutiao.io/k/j95sviy",
-          "publishedOn": "2021-09-01T01:13:41.171Z",
-          "wordCount": 448,
-          "title": "VLDB 2021 论文推荐（一）"
-        },
-        {
-          "id": "https://toutiao.io/k/uokpkyl",
-          "author": null,
-          "description": "源码分析创建Dialog所需的上下文为什么必须是Activity？",
-          "link": "https://toutiao.io/k/uokpkyl",
-          "publishedOn": "2021-09-01T01:13:40.987Z",
-          "wordCount": 854,
-          "title": "Android 进阶之 Dialog 对应的 Context 必须是 Activity 吗？从源码详细分析"
-        },
-        {
-          "id": "https://toutiao.io/k/pj6r7lr",
-          "author": null,
-          "description": "欢迎闲来无事的大小朋友们一起来玩 Python！",
-          "link": "https://toutiao.io/k/pj6r7lr",
-          "publishedOn": "2021-09-01T01:13:38.740Z",
-          "wordCount": 782,
-          "title": "从零开始，配置一个趁手的 Python 开发环境"
         }
       ]
     },
@@ -3599,6 +3585,96 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/415766384",
+          "author": "盐选奇妙物语",
+          "description": "又是一年开学季！大朋友小朋友们在暑假有读到好看的故事吗？在等待秋天到来的日子里，知友们最喜爱的十个专栏故事也新鲜出炉啦～\n这个月里，有能让人回忆起大学兄弟和青春的科幻故事，也有读到冷汗直流的推理故事，有正中泪点的言情故事，更有斩不断理还乱的现实情感～\n一起跟随本奇奇的步伐探寻 ta 们的故事吧～\n\n问题：为什么身边的朋友慢慢地都不打游戏了？\n作者 @张冉\n大学里，舍友一拳打碎显示器切断自己手指这事儿成了传奇，人人都知道 213 寝室有位精神不太正常的星际高手……>>>\n知友点评：看了开头只觉得文笔很稳，看到最后发现那只是锦上添花，盐选会员表示感动极了\n本文已收录盐选专栏：\n知乎盐选 | 再见，老七\n问题：警察在讯问嫌疑人时遇到过哪些神回复？\n作者 @页面异常\n12 年前，我还在刑警队的时候，见证过一场「神级审讯」。而审讯人，是一个刚入队不久的警校实习生。\n那件事之后，我一直无比庆幸一点——他是警察。>>>\n知友点评：作者利用精彩的推理故事操纵了我\n本文已收录盐选专栏：\n知乎盐选 | 天生犯罪者\n问题：你身边有比较虐心的爱情故事吗?\n作者 @枝枝为只只\n我妈打电话来的时候，我正在帮陆河收拾卧室。\n自从上个月，陆河把家里的备用钥匙放到了我手里。这段时间，我几乎每天都会过来。>>>\n知友点评：凭我征战言情十几载的生涯，我敢断定男主绝对是小舅舅\n本文已收录盐选专栏：\n知乎盐选 | 暧昧失温\n问题：如何以「太子与太子妃十分恩爱，但我是太子的侧妃」写篇文章？\n作者 @许久望川\n太子与太子妃十分恩爱\n但我是太子侧妃。\n笑死，我嫁进来太子府三年，就吃了三年他们的狗粮。\n太子和太子妃赏月，我就在旁边吃月饼，只给他们剩了五仁馅的。>>>\n知友点评：作者乃德云社旗下德雨社的高徒吧\n本文已收录盐选专栏：\n知乎盐选 | 良娣她独得恩宠\n问题：怀孕时让你最崩溃的瞬间是什么?\n作者 @睡莲开的那一天\n怀…",
+          "link": "http://zhuanlan.zhihu.com/p/415766384?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T09:45:57.000Z",
+          "wordCount": 49,
+          "title": "令人心动的 10 个盐选故事（八月存档）"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489928113/answer/2147976666",
+          "author": "空军在线",
+          "description": "无侦-7、无侦-8、攻击-2无人机，你最看好哪一个呢？小编带你一起去看。\n小编带你看航展 之“无争锋空军在线：小编带你看航展 第三弹：“无人”争锋！\n\n\n空军在线\n点击下载\n延伸阅读：\n如何评价珠海航展上展出的彩虹七号无人机？\n怎么评价2018年珠海航展上展出的彩虹七无人机？",
+          "link": "http://www.zhihu.com/question/489928113/answer/2147976666?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T05:46:50.000Z",
+          "wordCount": 14,
+          "title": "多款新型无人机首次亮相珠海航展。你最关注哪种类型无人机？你对我国无人机的发展有哪些期待？"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/415709935",
+          "author": "申屠",
+          "description": "NBA发言人迈克-巴斯表示，因为不接种疫苗违反当地疫苗接种规定而缺席比赛的球员，不会获得相应的薪水。\n众所周知的是，旧金山和纽约对于球员在当地主场比赛有严格的疫苗接种规定。而身处两地的三支球队里，只有纽约尼克斯一家已经全员接种疫苗。\n\n\n\n\n\n相对而言，他们的确定性更大，至少不存在某位球员缺席一半赛季的可能性，所以今天咱们来聊聊这支纽约人心目中的正统血脉，尼克斯队。\n\n纽约上赛季组了一支平民球队——球队里名头最响亮的人物是罗斯和兰德尔，但罗斯拿MVP已经是十年前了，兰德尔之所以为人所熟知，主要是因为他在湖人呆过——然后请来治军严厉且以防守著称的锡伯杜教练。\n最终这支被称作“烂泥”的球队，在并不被外界关注的情况下，一鼓作气冲上了东部前四，给球迷们制造了巨大的惊喜。\n\n\n\n\n\n但细细想来，这个惊喜似乎有些虎头蛇尾。任何一支东部第四的球队被以下克上，以“绅士横扫”的姿态首轮出局，都将面临球迷的各种指摘，更何况他们还是唯一一支季后赛首轮被以下克上的球队。\n除非他们是纽约，是已经接近小十年没进过季后赛，一度被球迷认为烂到无可救药的纽约。因为他们是纽约，所以进了季后赛就算成功，若是其他东部强队，早就被喷的翻出第十八代户口本了。\n\n但纽约这个“虎头蛇尾”的成绩，也和他们的阵容脱不开干系。\n上赛季纽约的首发是小佩顿+布洛克+巴雷特+兰德尔+诺埃尔，罗斯、伯克斯、奎克利和吉布森撑着替补。\n\n\n\n\n\n这套首发阵容，一眼看过去最大的特点就是能防，每个点都能保证平均水准以上的防守能力。\n\n但再仔细一看，这套阵容不能防不行，因为进攻太差，只能用防守来弥补。小佩顿除了持球组织一下，个人进攻能力基本为0；布洛克是个3D类型的投手；巴雷特和诺埃尔都没有三分。\n所以纽约上赛季场均得分联盟倒数第五，场均失分104，和湖人齐平。也正因为如此，兰德尔被逼得成了球队的组织前锋，进攻端三分、强攻、组织样样都得他来，兰…",
+          "link": "http://zhuanlan.zhihu.com/p/415709935?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T04:10:28.000Z",
+          "wordCount": 109,
+          "title": "沃克和富尼耶来到纽约，但尼克斯还是罗斯的球队？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489572898/answer/2147617884",
+          "author": "纪永臣",
+          "description": "一、感谢航空工业邀请，有点受宠若惊！\n二、既然歼20是四代（五代）隐形战机，那这一代战机最核心的战法就是“悄悄的进去、悄悄的出来”，就算发生战场遭遇战，也是以尽快逃脱为核心战法。隐形战机的战术运用特征，决定了歼20飞行员主要技能是如何掌握战机性能和敌我战场态势，而不是炫酷的超机动动作。由此决定了歼20飞行员的培训完全可以在“模拟器”上完成，不需要上歼20教练机上感受，因此也没有必要专门研制歼20双座教练机。\n三、杨总曾经说过，歼20会是一个大家族。那这个大家族总会有什么？首先是歼20基本型好，就是现在已经装备部队的制空战机，其作战对象敌方战斗机、预警机和加油机；其二是战斗轰炸机，其作战对象是敌人后方固定目标，包括雷达、指挥机构、电网或其他基础设施，执行这类任务的歼20一定双座配置；其三是无人战机的指挥机，未来空战态势向无人化演变，但现场指挥需要有人战机承担，执行这类任务的歼20一定要双座配置。\n四、基于上诉观点，双座歼20 的出现，说明中国空军战略转型已经完成，攻守兼备以攻为主。\n五、双座歼20将首先推出战斗轰炸机型号，这在技术上没有障碍，只是机体上做一番取舍。这样的工作对航空厂家而言没有难度，无非是指标权衡费一番功夫。\n六、双座歼20无人战机指挥机型号，机体无需另行研制，可以借用歼20战轰型的。但歼20无人机指挥机的作战模式确实要费尽心机，因为这是开创性工作。一切都在酝酿之中，吾等少说为佳。\n七、歼20还有一个发动机配置问题，等涡扇15成熟之后，歼20的红外隐身会更加完善。\n八、夸一夸中航工业，潜心苦行几十年终于堪当大任了。各种机型全面开花，型号推陈出新。只要有型号就有人才，只要有人才就有未来；我坚信高高在上的美国航空工业将无法持续，他们几年搞一个型号会葬送人才队伍，这才是美国空军部长彻夜难眠的原因所在；中航工业现在可以释放一些烟雾，美国空军处于一个迷茫状态，急中必然出错......\n（图片选择网络）\n\n\n\n\n\n\n来源：知乎 www.zhihu.com\n纪永臣\n点击下载\n52 个回答，查看全部。\n如何评价空军试飞员将驾驶J20在珠海航展公开亮相？\n如何评价空军发言人宣布中国空军歼20战机将亮相珠海航展？",
+          "link": "http://www.zhihu.com/question/489572898/answer/2147617884?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T03:43:52.000Z",
+          "wordCount": 67,
+          "title": "珠海航展新闻发布会上，歼 20 总师杨伟回应了关于歼 20 双座的相关信息，如何看待他的回应?"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489785273/answer/2147838840",
+          "author": "三剑客",
+          "description": "今天是9月30日，烈士纪念日。\n剑客想和大家认真探讨一下敬畏烈士、崇尚保卫英雄的话题。\n因为剑客始终觉得，保卫我们的民族英雄，是每名中国人的责任与良知；如果恶意抹黑和诋毁我们的英雄，那是昧着良心在做事，就是在忘本和辱没列祖列宗。中国历代都不缺乏汉奸，对烈士和英雄的不敬重，真的与汉奸何异？\n英雄，是一个国家光辉历史的记忆，是一个民族坚挺不屈的脊梁，是社会发展的重要坐标，也是历史进步的力量源泉。列宁曾说，忘记历史就意味着背叛。但实际上，比忘记历史更可怕的是对历史的歪曲，对民族英雄的故意诋毁和诬蔑。习主席指出：“一个有希望的民族不能没有英雄，一个有前途的国家不能没有先锋。”\n很多人想问剑客，保卫英雄是不是只是我们国家这么重视了？其实，崇尚英雄和保卫英雄这种关系到国家前途命运、关系民族信仰和社会发展稳定的大事，没有哪个国家敢怠慢。哪个国家怠慢了，必遭大祸！\n1941年冬天一个寒冷的夜晚，一个放火烧德军马厩的年轻女孩被抓住了。风雪寒冬，尽管女孩弱不禁风，但面对法西斯德军的严刑拷打，她没有吐露半点秘密，直到被罪恶的敌人推上绞刑架。这位名叫卓娅的年轻女孩英勇就义，激起苏联人民气贯长虹般的斗志，最终取得反法西斯战争的胜利。\n然而，在卓娅牺牲50年后，这位苏联英雄却再次被推上“绞刑架”。不过，刽子手不再是德军法西斯，而是一篇由苏联人撰写、所谓“解读真相”的文章。文章诡辩称，“卓娅当年烧的不是德军马厩，而是普通老百姓的民房，是当时愤怒的村民把她抓住后扭送给德军的。”英雄在谎言的淹没中轰然倒地，整个苏联的人心在谎言中由惊讶到徘徊到动摇。此时，正是苏联解体前夕。\n苏联解体后，受西方价值观影响，甚至在西方势力的直接资助下，俄罗斯出现了一种否认、歪曲甚至篡改历史的现象，其中歪曲二战真相、贬低和侮辱英雄的不良倾向日益加剧。许多影视片、教科书和文学作品将苏联说成是发动第二次世界大战的罪人，苏军对欧洲的解放…",
+          "link": "http://www.zhihu.com/question/489785273/answer/2147838840?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T03:42:14.000Z",
+          "wordCount": 44,
+          "title": "9 月 30 日是烈士纪念日，今天该如何缅怀他们，才能走得更有力？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489785273/answer/2147814891",
+          "author": "中部号角",
+          "description": "#烈士纪念日#  中部战区陆军第81集团军某合成旅英雄营，组织刚下连的新兵和入党积极分子前往红一师和铁甲元勋英雄园，向烈士雕像敬献鲜花、重温入党誓词，激励广大官兵传承红色血脉，汲取信仰力量，奋斗强军！\n\n来源：知乎 www.zhihu.com\n中部号角\n点击下载\n230 个回答，查看全部。\n今天是我国第八个烈士纪念日。我们可以通过怎样的方式来纪念他们？你有哪些话，想对英烈诉说？\n去参加烈士陵园可以发朋友圈吗？",
+          "link": "http://www.zhihu.com/question/489785273/answer/2147814891?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T03:23:27.000Z",
+          "wordCount": 30,
+          "title": "9 月 30 日是烈士纪念日，今天该如何缅怀他们，才能走得更有力？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489785273/answer/2147711322",
+          "author": "中国退役军人",
+          "description": "9月30日\n是烈士纪念日\n每一个中国人都该铭记的日子\n近代以来\n据不完全统计约有2000万名烈士英勇牺牲\n他们用生命和无畏捍卫民族尊严\n用英勇和热血为后世迎来新生\n\n烈士纪念日\n定在国庆前一天\n就是要我们铭记\n没有抛头颅、洒热血的英烈\n就没有今天繁荣富强的中国\n今天全国8个省份24座烈士陵园\n线上线下共同致敬英烈\n\n\n\n\n\n\n24座烈士陵园一览：\n辽宁省沈阳抗美援朝烈士陵园\n浙江省宁波樟村四明山革命烈士陵园\n江苏省连云港市海州区青龙山革命烈士陵园\n云南省宣威市虎头山红军烈士陵园\n浙江省丽水松阳县烈士陵园\n浙江省杭州市革命烈士纪念馆\n浙江省台州市解放—江山岛烈士陵园\n江苏省南京市雨花台烈士陵园\n江苏省扬州市高邮市烈士陵园\n江苏省盐城市革命烈士陵园\n江苏省如皋市烈士陵园\n江苏省无锡革命烈士陵园\n江苏省海门区烈士陵园\n安徽省亳州皖北烈士陵园\n河北省邢台市冀南烈士陵园\n河北省秦皇岛烈士陵园\n河北省张家口市察哈尔烈士陵园\n江西省抚州烈士陵园\n云南省文山烈士陵园\n云南省屏边烈士陵园\n云南省昭通市威信县扎西红军烈士陵园\n云南省麻栗坡烈士陵园\n云南省西畴县南疆烈士陵园\n广西壮族自治区烈士陵园\n\n\n来源：知乎 www.zhihu.com\n中国退役军人\n点击下载\n230 个回答，查看全部。\n今天是我国第八个烈士纪念日。我们可以通过怎样的方式来纪念他们？你有哪些话，想对英烈诉说？\n去参加烈士陵园可以发朋友圈吗？",
+          "link": "http://www.zhihu.com/question/489785273/answer/2147711322?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T02:28:56.000Z",
+          "wordCount": 91,
+          "title": "9 月 30 日是烈士纪念日，今天该如何缅怀他们，才能走得更有力？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/488676448/answer/2147045974",
+          "author": "素素拓拓的旅行派",
+          "description": "推荐海南西海岸。这里人相比三亚来说，真的少太多了。而且处于半开发状态，适合年轻人结伴来此自驾游。\n\n（1）海南乐东黎族自治县龙沐湾——号称最美日落海滩\n被称为最美日落海滩是有原因的，龙沐湾的整个海滩全部面朝西方，无任何遮挡，整个海岸线绵延漫长，不管身处哪一个位置，都能看到最完整的日落。日日皆不同，夕阳的光晕是有层次的。\n\n看过很多国家，很多地点不同的日落之后，我们俩依然对看一场完整的日落乐此不疲，我想或许是因为我们内心，永远充满对大自然本色的倾慕。倾慕它的善变多端，层次分明，色彩斑澜。\n在龙沐湾，客观的说这里没什么商业化，很多人觉得不方便，但是我们很喜欢。\n太划算了！海南三亚一路向西，人少景美的龙沐湾了解一下\n当整个太阳一股脑儿地掉进大海里，整个海面都变得通红，张扬得像目中无人的野兽，尽情释放所有热烈。海浪也变得通红，层层叠叠循环往复地扑向沙滩。观看的人并不多，起码还可以随时拍摄一张四顾无人的剪影。\n\n\n登上远处的瞭望塔，拍摄一段延时摄影。记录下太阳消逝的整个过程。把半小时浓缩成一分钟。也是很美的事情。\n在龙沐湾我们遇到很多从其他省市来到海南工作的年轻人，我们在和他们的交谈中，感受到了发自内心的骄傲和自豪。\n龙沐湾日落海滩的工作人员告诉我们，他当年来到这儿的时候，整个沙滩都是荒凉的什么都没有，是他们从零开始打造，有了水上项目，还有露营场地，健身器材等设施，也给当地年轻人提供了很多就业机会。他们说那儿的日落百看不厌，他们就希望有更多人可以知道龙沐湾，去感受他们的幸福，体验他们为游客打造的这片乐园。\n（2）海南东方市白查村——最后一个船型屋\n\n\n\n白查村的茅草房犹如一艘艘倒扣的船，村民习惯称之为“船形屋”。\n白查村是海南船形屋保存得最完整的自然村落之一。现在只剩下房子，村民均已搬出。我们去的当天，加上我们不到10个参观的游客。\n传说当年黎族的祖先坐船来到海南岛，岛上什么都没有，他们就把船翻出来当作房子居住，后来为了纪念自己的祖先，黎族人依然把房子建设成倒扣的船型结构。\n我们看到的村子，每一个茅草屋都不一样，大大小小，还有不同的用处，有粮仓有商店，是非常独特的原始风貌，也是独属于海南的人文历史。\n\n（3）海南乐东黎族自治县莺歌海盐场——青春灿烂的日子\n海南莺歌海盐场，有历史的“天空之境”，原来沧海变盐田不是传说\n莺歌海盐场建于1958年，莺歌海盐场是海南岛最大的海盐场，也是中国三大海盐场之一。\n我们当时听了莺歌海盐场工作人员的介绍，得知建设盐场时，是退伍和转业的五千多名解放军参与建设的，当年这些支持建设的人，同时也带来了先进的文化，比如歌舞，音乐，电影等。是属于父辈的激情燃烧的历史。\n莺歌海人，不光用汗水换来了白花花、亮晶晶的原盐，同时也给后人留下了更加宝贵的精神财富：莺歌海精神。\n\n\n\n郭沫若也曾赋诗：“盐田万顷莺歌海，四季常春极乐园。驱遣阳光充炭火，烧干海水变银山。”\n\n\n\n我们在工作人员的带领下，有幸体验了耙盐，当日烈日当空照，我们刚尝试了几下就汗如雨下，可以感知当年开发盐场时，父辈人吃苦耐劳精神。\n（4）温德姆至尊豪廷——推荐附近住宿\n\n\n五星级，酒店对面就是龙沐湾海滩。步行过去即可。度假村人不是很多。房子之间有摆渡车。\n可以租黎族服饰穿一穿。感受少数民族风情。\n\n来源：知乎 www.zhihu.com\n素素拓拓的旅行派\n点击下载\n24 个回答，查看全部。\n国庆节要不要出游？\n2021 年的国庆节你在哪座城市？有什么出游计划？",
+          "link": "http://www.zhihu.com/question/488676448/answer/2147045974?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T02:27:49.000Z",
+          "wordCount": 171,
+          "title": "2021 年国庆节可以去那些低风险的地方游玩？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489859299/answer/2147658980",
+          "author": "SoulframEE",
+          "description": "因为有不少朋友都在问，所以把我们最近全员内部邮件整理公开给大家看看。其实，办公司最开心的时候，莫过于面对全体成员说出最后那几句话看着大家欢呼雀跃的时候了。\n欢迎对我们后续项目有进一步兴趣的UE大神们随时私信我~\n\n\n++++++++++分割线++++++++++\n\n\n灵游坊的全体同事们：\n今年是灵游坊成立的第十年，哪怕是从开始做手游算起，也有七年了。\n在行业中，有些同样从业年限的同行朋友，已经达到了非常顶尖的成就，但也有更多的同行已经不再从事这个行业。磕磕碰碰的十年历程中，我们做出了一些小成绩，也有不少的失败和遗憾，虽然没有商业大成，但也颇具特色，乐在其中。\n“挥剑破局，不堕凶道”，正如影之刃中的侠客们既要打败敌人，又要坚守内心。企业的发展总有许多坎坷，有一些需要我们做出改变，但支撑我们发展的，却是那些不变的东西：\n我们始终坚持原创IP，从不改编，代工，依赖大IP授权，也不涉及经典名著和真实历史。从多年前我在大学宿舍中独自创作的《雨血》独立游戏，一直到《影之刃1~3》的手游三部曲，我们创造了一个混搭了武侠和幻想元素的架空世界“影境”。\n在精神内核上，中国古典侠义精神，近现代新武侠浪潮的启发，“虽千万人，吾往矣”，“路见不平，拔刀相助”的英雄气概，又或是“人在江湖，身不由己”的惆怅，构成了我们一个个架空原创人物及故事的基本框架。在外在表现上，我们深入研究中国传统美术技法与现代动画技术的融合，创造了水墨笔触+传统配色+飘逸的动作设计相结合的全新视觉范式，以及在琵琶，尺八，马头琴等传统乐器中融入摇滚，电子音乐现代元素的音乐风格。我们的架空世界依托于脚下这片土地深厚的文化底蕴而打造，体现着中华文化中一些独有的思考和审美。 \n\n我们坚持一种独特的研发模式，这种研发模式不强调程序，策划，美术之间泾渭分明的专业分工，而是将每个人首先赋予“游戏玩家”和“综合开发者”的属性，并鼓励每个人跳出…",
+          "link": "http://www.zhihu.com/question/489859299/answer/2147658980?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T02:22:02.000Z",
+          "wordCount": 79,
+          "title": "如何看待腾讯入股手机游戏《影之刃》开发商灵游坊，持股 25% ？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/489461328/answer/2147678167",
+          "author": "中国文艺网",
+          "description": "内地娱乐尤其是偶像行业，在引进日韩偶像工业模式基础上，已经发展成了今天“全民制作人+练习生成团出道”的模式，进而全面“发扬光大”的道路。这就有了今天内地娱乐偶像工业年复一年生产出的一茬又一茬的有着高度同质化和套路化形象的偶像产品，由此也呈现愈演愈烈之势。\n事实证明，行业的发展是期待“不同”的。如今，在女性审美领域，千篇一律的“白幼瘦”和“网红脸”已经反噬行业自身，审美疲劳的民众开始追求更加有辨识度的形象。因而，从行业健康角度来看，恰恰需要的是有魅力的审美和人格、有差异的产品和品牌。另一方面，偶像自身亦苦“娘”久矣。为了维持行业灌输给他们的那种单一的、所谓的“受欢迎”形象，他们不得不时刻节食、随时精致，甚至不惜削骨整容，在已经很“卷”的审美赛道上努力应对同行间的激烈竞争，还必须认清现实，面对隔年就被下一茬偶像替代的危机和命运。而更为重要的是，被如此精神文化食粮“投喂”的民众也鲜明地表达了自己的意愿：演技在线的老戏骨再次成为香饽饽，甚至于“四大天王”时代的怀旧照片被网友翻出来，复古风又开始流行。\n但是行业的困境、从业者的苦楚、民众的不满都难以改变资本的行为。在没有外力介入的情况下，资本在这条已经要被“耗”尽的审美道路上，究竟要再奔多久，我们很难判断。文化产品是一种特殊商品，当有着逐利性和滞后性，并已被资本左右的市场无法做出有效调节时，宏观调控就显得尤为重要。今天，市场在文艺创作生产的配置中起到的作用愈发重要，文艺从业者在自律的同时，更好发挥政府的调控功能、行业自身的引导和自律功能，对不良现象和行为进行及时纠偏，是当前应该迫切解决的课题。\n\n来源：知乎 www.zhihu.com\n中国文艺网\n点击下载\n73 个回答，查看全部。\n如何看待人民网发微博关于污点艺人禁用规定，引来 的控评？\n光明日报批艺人浓妆艳抹，有哪些信息值得关注？艺人应该做出哪些改变？",
+          "link": "http://www.zhihu.com/question/489461328/answer/2147678167?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-09-30T02:09:29.000Z",
+          "wordCount": 15,
+          "title": "如何看待光明日报刊文批艺人浓妆艳抹？【光明日报：别让“浓妆艳抹”遮住艺术真实之美】?"
+        },
         {
           "id": "http://zhuanlan.zhihu.com/p/415204503",
           "author": "航空工业",
@@ -4390,33 +4466,6 @@
           "publishedOn": "2021-09-02T06:43:34.000Z",
           "wordCount": 19,
           "title": "《魔道祖师》动画配乐数量达 100 首，有哪些令你记忆深刻？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/484034122/answer/2097402256",
-          "author": "新京报",
-          "description": "北京环球影城开园当天门票价格638元，“贵宾体验”显示售罄\n9月1日，北京环球度假区宣布将于9月14日起正式向公众发售包括北京环球影城指定单日门票在内的多种票务产品，度假区内的两家酒店也将同步开启预订。以同程旅行、携程旅行、去哪儿旅行、飞猪旅行等为代表的北京环球度假区旅游渠道官方授权合作伙伴已做好票务发售预订准备工作，等待票务预订开启。\n\n\n\n\n\n北京环球度假区旅游渠道官方授权合作伙伴。图/北京环球度假区官网截图\n北京环球影城指定单日门票将采用四级票价结构，推出淡季日、平季日、旺季日和特定日门票。其中，淡季日门票价格为418元，平季日门票价格为528元，旺季日门票价格为638元，特定日门票价格为748元。\n新京报记者在北京环球度假区微信小程序上发现，小程序已上线“在线购票”页面，预订页面已显示自9月20日起至12月12日的入园票价，但尚无法进行预订。根据页面显示，9月20日至10月1日，为638元的旺季门票价格；10月2日至7日，为748元的特定日门票价；10月1日至11月14日的周一至周四，为528元的平季日门票价格，周五至周日为旺季门票价格；11月22日至12月12日的周一至周四，为418元的淡季日门票价格，周五至周日为平季日门票价格。\n\n\n\n\n\n新京报记者注意到，飞猪旅行上的“北京环球度假区旗舰店”现已上线三大产品，分别为北京环球影城指定单日票价（315元-748元）、北京环球度假区指定项目优先就座机会各1次（400元）、北京环球度假区指定项目优先就座机会无限次（500元），均在9月14日零点开售。\n\n\n\n\n\n除此之外，北京环球度假区还公布了“贵宾体验”“私享贵宾体验”的价格，分别为1200元起、1700元起，其中，“贵宾体验”的基本价格包括1位游客，“私享贵宾体验”基本价格包括最多3位游客。“贵宾体验”和“私享贵宾体验”的价格均包含入园门票、环球优速通等，此外还可享受贵宾入园快速通、专属绝佳观演席位、全程专属导览服务、免排队玩遍景点等服务，另外，“私享贵宾体验”还可以拥有优先IP互动、代客泊车等服务。\n目前，9月20日的“贵宾体验”和“私享贵宾体验”均显示已售罄，9月21日至10月1日，“贵宾体验”价格为1900元，“私享贵宾体验”的价格为2900元；10月2日，“贵宾体验”和“私享贵宾体验”的价格分别为2300元、3800元；10月3日至5日的“贵宾体验”和“私享贵宾体验”的价格分别为2800元、5000元。\n\n\n\n\n\n\n值得关注的是，北京环球度假区内的两家度假酒店——环球影城大酒店及诺金度假酒店的预订价格也在今日公布，于9月14日零时开售。其中，环球影城大酒店的房价为1590元起，诺金度假酒店的房价定为2756元起。入住北京环球度假区环球影城大酒店及诺金度假酒店的游客可享有提前一小时入园的礼遇。\n\n\n\n\n\n\n作为北京环球度假区首批官方授权合作伙伴之一的同程旅行表示，将在线上同步销售环球影城门票、酒店及相关产品。门票开售信息公布后，用户可以登录同程旅行App或小程序，查看环球影城门票产品和开售时间，并参与抢购。同程旅行也邀请了同程旅行体验官，第一时间为用户分享环球影城的出游攻略和消费体验。\n随着北京环球度假区开园时间临近，越来越多的用户在各大旅行平台搜索并关注相关机票、酒店及门票产品信息。同程旅行大数据显示，对环球度假区开园关注度最高的游客主要来自京津冀周边地区。\n北京周边2-5小时高铁圈内的华中、华东及东北地区的游客也跃跃欲试，对他们来说，只要一个周末就可以前往体验。华南和西南部分地区的游客关注点则集中在中秋、国庆的拼假游，计划在节假日和家人同行。而距北京环球度假区更远的省市居民对此较为“佛系”。\n\n\n\n\n\n图/同程旅行供图\n北京环球度假区的开幕，也带动了全国主题乐园的旅游关注度。同程旅行大数据显示，8月以来，不断释放新消息的环球影城赢得了游客的关注。上海迪士尼、北京欢乐谷、珠海长隆海洋王国等众多主题乐园都是国内游客中短途旅行的热门之选。\n\n\n\n\n\n图/同程旅行供图\n从区域分布上来看，国内关注度排名前30的主题公园较多集中在京津冀、长三角、珠三角地区，湖南、湖北、安徽等地也有两个以上的主题公园上榜。同程旅行负责人介绍，今年以来，中国游客出行频次显著提升，尤其以48小时左右的周边短途休闲旅游为主，很多游客会在周末或小长假就近选择主题乐园，和亲人朋友共同度过闲暇时光。\n北京环球度假区提醒广大游客，北京环球影城主题公园门票采用实名制购票和验票机制，游客须从官方及官方授权渠道预订及购买门票。游客从非正规渠道购买门票存在无法入园的风险。\n新京报记者：王真真编辑：李铮 校对 卢茜\n\n来源：知乎 www.zhihu.com\n新京报\n点击下载\n169 个回答，查看全部。\n火车无座票价应该打折吗？\n一手票务的票价一般是多少？可以估计吗？",
-          "link": "http://www.zhihu.com/question/484034122/answer/2097402256?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-01T12:49:09.000Z",
-          "wordCount": 99,
-          "title": "北京环球影城 9 月 14 正式开放预订，票价 418 元起，具体情况如何？这个价格你可以接受吗？"
-        },
-        {
-          "id": "http://zhuanlan.zhihu.com/p/404658754",
-          "author": "资源中国",
-          "description": "一点一线皆是河山。\n\n来源：知乎 www.zhihu.com\n资源中国\n点击下载",
-          "link": "http://zhuanlan.zhihu.com/p/404658754?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-01T07:05:03.000Z",
-          "wordCount": 16,
-          "title": "一点一线皆是河山"
-        },
-        {
-          "id": "http://www.zhihu.com/question/456525633/answer/2096523881",
-          "author": "姚仙",
-          "description": "如何评价游戏仙剑奇侠传1\n\n\n知乎的各位朋友大家好，感谢知乎的邀请，分享我对《仙剑奇侠传1》想法。\n\n\n《仙剑奇侠传》名字由来\n当年受到《勇者斗恶龙》和《轩辕剑二》的启发，想做一部有刻骨铭心爱情的RPG游戏成了我们的目标。于是做完《大富翁2》之后，从未做过RPG的我开始规划《仙剑奇侠传》。在当时我们的认知，RPG的和其他类型游戏最大的不同的就是带有说故事。起初，受到环珠楼主《蜀山剑侠》的影响，加上也喜欢金庸大师的武侠小说，所以最初构思的故事有仙侠也有武侠。加上我也喜欢读历史，尤其从安史之乱前后唐朝从极盛走向乱世这段历史，所以最初就选择“安史之乱”做为剧情的时代背景，讲述一个少年侠客在这乱世中的成长故事。当时的我们想呈现一个有武侠、有玄幻、有历史、有爱情、有聊斋的故事。呵呵，现在想起来那时候太贪心了，于是第一年写的剧情越写越收不住，后来几乎全作废，第二年推倒重来。\n\n\n自小因为背诗而喜欢上李白和杜甫，所以常希望着游戏中他们能登场。两人都是盛唐时期的大诗人，但因经历不同、诗风迥异：描写悲情的时候需要杜甫，写一个逍遥侠客的时候需要李白。我尤其向往李白描述的侠客精神，那首《侠客行》是真的代表了中国“侠”的境界。\n\n\n……十步杀一人，千里不留行。事了拂衣去，深藏身与名。\n\n\n本来想以这首诗的名字来命名这个游戏，但这名字金庸大师已经用了，所以最初加上前缀为《逍遥侠客行》。因为故事中的主人公，那个年少侠客的名字就叫李逍遥——是的，这就是李逍遥名字的由来，他之所以姓李就是因为我喜欢李白，名为“逍遥”则是这个人物的性格，少年侠客嘛，就是要自由不羁，逍遥快活的。但是后来随着剧本的大改，越来越觉得《逍遥侠客行》的名字不完全适合，后来重新想新名字《仙剑奇侠传》，同时兼具仙与侠的元素，而且有种潇洒不羁感。\n\n\n女娲传说\n在决定必须带有玄幻、神话的成分之后，选择哪位神仙成为游戏中的核心元素呢？我想要一…",
-          "link": "http://www.zhihu.com/question/456525633/answer/2096523881?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-01T03:51:01.000Z",
-          "wordCount": 52,
-          "title": "如何评价游戏《仙剑奇侠传 1》？"
         }
       ]
     },
@@ -4425,6 +4474,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9740804",
+          "author": null,
+          "description": "营养师顾中一，上过福布斯榜的营养师\n阅读原文\n\n不少轻食外卖蔬菜量不够、种类固定，大量打底的球生菜其实营养价值低，不如清汤麻辣烫更能补充多种蔬菜。\n还有些轻食外卖热量不低、糖盐未必少、含有深加工肉类，点时擦亮眼睛。\n\n我发现了轻食的一些缺点，要拿麻辣烫做补充，今天就来给大家分析一下。\n「轻食」是啥？\n「轻食」这个词火了很久了，大家眼里的「轻食」应该是低热量、低盐、低糖、高纤维的，往往烹饪程度比较低，食材也比较多样，真正能做到这几点的饭菜确实更加健康，餐后的血糖反应比较小、对肠胃的负担轻，也有利控制体重或者减肥。\n不过，轻食外卖点多了就会发现，有的并不是那么好……\n蔬菜真的够吗？\n这是我平时点轻食最常遇到的槽点。\n大家可能觉得一顿轻食至少能把一天的菜吃够吧，或者相比于「正常」吃饭至少菜更多吧……然而未必。\n不少轻食套餐里的蔬菜是生的，体积很大、看着很多、满满一盒，但实际一称远达不到膳食指南推荐的量（每天 300-500g），有的甚至连 1/3 都不够。而且对于一些人来说会难吃到根本吃不完，勉强吃下之后胃也不太舒适。\n\n体积很大的一盒生蔬菜，其实不到 100g\n还有一些放了焯过水的蔬菜，但肉眼可见每种就几小块 / 片，也是不够的。\n蔬菜营养好吗？\n另外，轻食餐里最常被拿来打底的是球生菜，它含水量高达 95.6%，营养价值并不高，维生素 C、叶酸、维生素 A 原含量都微乎其微，钾含量也不给力，100g 里的钾不足每日需求量的 1/10。\n如果可以选的话，还是推荐你选罗马生菜和皱叶生菜，营养价值高不少。\n如果没有的话苦菊也不错，可以再来点紫甘蓝补维生素 C、芝麻菜补钙。\n\n食材真的很多种吗？\n就单独一顿来看食材的丰富度其实还是不错的，每个套餐里可能有 6-10 种食材，但如果多点几顿就会发现一个问题：受轻食制作方式和保质期的制约，可选的食材实际上总是那几种。\n尤其是蔬菜部分比较明显…",
+          "link": "https://daily.zhihu.com/story/9740804",
+          "publishedOn": "2021-09-30T23:08:36.000Z",
+          "wordCount": null,
+          "title": "长期吃外卖轻食是否健康？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740798",
+          "author": null,
+          "description": "俞晓，华东理工大学 | 生物材料学博士 | 护肤品研发\n阅读原文\n\n作为一个护肤品业内人士，最近“刷酸”这两个词可以说在朋友圈传的沸沸扬扬。\n长话短说，起因就是药监局在网上公布了一篇科普文章：《科学认识“刷酸”美容》。这下可好，自从这篇文章出现之后，自媒体上爆出了一系列文章，每一篇的标题就让人心惊胆战：《刷酸，被药监局点名！》、《大热的刷酸该静静了》、《刷酸化妆品要凉了》等等。事实到底是怎么样的？刷酸还可以不可以呢？以及是不是可以每天都刷酸呢？\n要回答上面这些问题，首先要搞清楚什么才叫刷酸？\n“刷酸”其实是一种化学换肤术，又称化学剥脱术，是将化学制剂涂在皮肤表面，导致皮肤可控的损伤后促进新的皮肤再生。要注意了，“刷酸”是一种严格的医美行为，需要在有资质的医院或者美容院进行。\n各类化学剥脱试剂\n绝大多数的消费者熟悉的酸可能是果酸（羟基乙酸、乳酸、柠檬酸等）、水杨酸。但实际上，医院刷酸时用的酸远远不止这几种酸。果酸中还可能使用葡糖酸内酯、乳糖酸、麦芽糖酸这类生物酸；非果酸类的有丙酮酸、苯酚、杜鹃花酸、三氯乙酸乃至复合型的 Jessner's Peel 等多种酸或复合酸。\n不同试剂作用深度不同\n不同的酸的选用，可以作用到不同的皮肤层。刷酸的浓度通常比较高，根据不同酸有 30%、50%、70%的浓度范围。大部分酸类的 pH 值都很低（非酸类的剥脱试剂 pH 可以很高），远远低于 3.5 这根线。在刷酸的过程中，可不仅仅是一刷了之。整个刷酸过程包括了刷酸前的处理、刷酸（浓度、时间等选择）、刷完酸后用试剂中和等，是一套非常科学而严谨的“手术”，需要专业人士来实施。当然，刷酸之后其实还是挺痛的。既然要承受疼痛，那必然也是因为其能解决一些护肤所解决不了的问题：严重的痘印、痤疮、严重的色素沉着和光老化问题等等。\n刷酸过程\n所以，第一个结论就是：我们要严格分清所说的刷酸是什么。刷酸是医美，不是…",
+          "link": "https://daily.zhihu.com/story/9740798",
+          "publishedOn": "2021-09-30T23:08:26.000Z",
+          "wordCount": null,
+          "title": "可以每天都刷酸吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740796",
+          "author": null,
+          "description": "胡厨厨，一枚烹饪老师\n阅读原文\n\n相比煎炒烹炸这些热菜，凉拌菜的步骤要更少一些，所以在风味上很容易不如热菜。所以想做好凉拌菜，更需要花心思和注意细节。\n作为专业厨师，我总结一下几点秘籍：\n1.好吃的凉拌汁\n2.高品质的调料\n3.合理运用小料和呛油等技巧\n凉拌菜的本质就是食物蘸汁水，所以汁水的酸甜咸辣的比例很重要；还有高品质的调料，调配出来的味汁自然会是更好。\n下面让我用 4 道好吃又家常的凉拌菜，来说说我的秘籍吧！\n\n刀拍黄瓜\n夏天没人能拒绝刀拍黄瓜吧？\n这道菜虽然很大众，但做好还是要注意很多细节的。\n首先黄瓜要挑整根粗细均匀，表皮上的刺小而密，并且不扎手的，这样吃起来脆而不松、水分足。另外黄瓜削皮不要太干净，因为皮里也自带一些风味，卖相也会更好一些，如果黄瓜够嫩，还可以不削皮。\n\n削好的黄瓜切去头尾后，啪啪拍上几刀，力度一定要控制好，拍完的黄瓜散而不断最佳，这一步是这道菜的灵魂。因为拍可以让黄瓜内部顺着经络裂开，这样调料就能顺着裂缝流进内缝，更加入味好吃，像手撕包菜也是一个道理。\n\n黄瓜拍好了，再改刀成适口的大小，下面我们来准备配菜。\n大蒜拍好切末，再加小米辣圈、干辣椒和花椒、还可以根据喜好来点熟芝麻。\n\n锅中烧油，然后淋在备好的小料上，油温一定要热，要到嗞啦作响的程度，这样才能激发出小料的香味。\n淋过油后，拿来做菜香味会更足，而且热油还萃取了小料的香味，最后拌在黄瓜上更加好吃。\n\n加入调料拌匀，调味料的用量：生抽 3 勺、香醋 2 勺、蚝油 0.5 勺、糖 1 勺、红油 1 勺、芝麻油 0.5 勺、盐 1/3 勺。\n这里的重点是，最好用香醋和白糖。因为香醋是由糯米酿造的，相对来说香味突出且柔和，酸味也不刺激，再加上糖的调和，吃进嘴里是酸爽不呛口的感觉。\n等开饭了再把调料和黄瓜拌匀就可以了，我一般还喜欢加点洋葱和花生米，洋葱除了可以吃，还能增加香味！\n\n提醒大家一点，千万…",
+          "link": "https://daily.zhihu.com/story/9740796",
+          "publishedOn": "2021-09-30T23:08:16.000Z",
+          "wordCount": null,
+          "title": "有哪些把凉拌菜做得好吃的秘诀？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740790",
+          "author": null,
+          "description": "平海鸥鸣，求知 好奇心 Valar Dohaeris！\n阅读原文\n\n诚然，这个问题还没有确定的答案，但我试着从地质证据来看液态海洋可能的存在时间是什么？大洋的水从哪里来？那个时间段的特殊的环境是什么样的？这几个问题出发，去讨论从探讨海洋是什么时候形成的和可能的形成机制。这些尽可能的帮助我们理解海洋是如何形成的。\n首先，我们先讨论液态海洋可能的存在时间。如果想知道液态海洋可能的存在时间是什么？那么就要知道最初的水是什么时候形成的，如何形成的。而如果想知道水是怎么来的，那必然要去讨论地球是怎么形成的，或者说在地球形成过程中，水是如何产生的。\n1. 地球的形成\n从早期假说开始，地球的形成就是和太阳系的形成联系在一起的，这就是“星云说”。\n在太阳系形成的过程中，外围物质先是聚成石质和冰质的尘埃颗粒，再由颗粒作为凝聚核的物质团块相互碰撞和黏合，形成若干千米大小的星子（planetesimals），星子再碰撞结合为月球或者火星大小的星胚（planetary embryos），最终形成地球一类的内行星。远离太阳的星胚主要由各种冰质颗粒构成，因此可以形成引力强大的原行星，吸引氢、氦等元素；而太阳在形成过程中又将氢、氦“吹”向远处，集合在这类星胚周围形成巨大的外行星。行星的发育过程很快，太阳系形成以后 10 万年就产生了星胚，1000 万年后就形成了地球的雏形，相当于现在地球质量的 64%（图 1 Jacobson，2003；Stevenson，2008）。\n图 1 地球形成的过程\n据估算，太古宙早期太阳光度（Solar luminosity）比现在低 25%，如果地球上的大气成分与今相似，23 亿年前地球上的海水都应当在冰点之下。但是地质记录表明，三四十亿年前就有沉积岩、就有微生物，这就是天文学家提出的“早期太阳黯淡悖论（Faint young Sun paradox）”（Sagan an…",
+          "link": "https://daily.zhihu.com/story/9740790",
+          "publishedOn": "2021-09-30T23:08:08.000Z",
+          "wordCount": null,
+          "title": "海洋是如何形成的？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740786",
+          "author": null,
+          "description": "丁香妈妈，为学习型妈妈服务\n阅读原文\n\n自主入睡是宝宝睡眠之路上的终极目标，谁都希望自己家娃能放在床上，不吵不闹不用哄，安静的睡去，皆大欢喜。\n奶睡、抱睡……则被妈妈们视为自主入睡的拦路虎。\n对于自主入睡，我们最大的误解就在于，认为这是一个「人类天生就具有的能力」。\n「我们自己困了累了沾枕头就睡，为什么孩子就不行？」\n宝宝自主入睡的能力并不是天生就有的，是需要去培养的。\n对于婴儿来说，困意来临一种难过的体验，不自觉地就会哭闹，也就是「闹觉」。\n宝宝需要逐渐学习如何自行放松和入睡，还没学会的时候，就需要大人们出手和帮助。\n吃奶、抱抱、拍拍，都能让宝宝从一个疲劳却又高度兴奋状态，过渡到睡前的一个身体和精神上都相对平和的状态。\n这个过程的 「哄」，是积极正面的。\n所以，哄睡并不是洪水猛兽，是有效让婴儿安静下来的过程，它存在的意义是让孩子入睡前的状态更佳。\n不管哪种哄睡方式，用得对，能帮助宝宝培养自主入睡的能力，用的不对，就变成了「坑」。\n▶ 1. 奶着睡\n母乳喂养的妈妈都习惯给孩子奶睡，很多却发展成「不奶不睡」，可能还会导致严重的乳头依赖以及夜奶。\n这个关键点就在于「奶、睡分离」，不应该是宝宝吃着奶睡着，而是睡前适当吃奶安抚。\n用母乳安抚宝宝平静下来后，及时拔出，可以多次尝试，加上抱、拍安抚，乳头只是一个安抚用具，不是必要依赖。\n▶ 2. 抱着睡\n「抖、晃、摇」，每次抱睡哄睡，不是练出肌腱炎的「有氧运动」，就是大家一起嗨的「广场舞」。\n这里推荐用减缓「运动」强度 + 减少「运动」时间相结合的方式，让宝宝们接受在较为静止的状态下入睡。\n妈妈们可以试试，从满屋子溜达哄睡变成小范围来回踱步，再弱化为原地轻微左右摇摆；不要摇晃宝宝到完全睡着，可以尝试在宝宝平静时暂停安抚，给宝宝一点时间去尝试新的入睡方式。\n在温和得「抱起安抚，放下睡觉」过程中，抱起安抚的时候，可以安抚到宝宝彻底平静，再把他放上床。\n▶ 3. 放下睡 \n从怀里睡过渡到放下睡，难点就是「落地醒」。\n这个时候，可以用 拍睡安抚 + 声音安抚。\n4 月龄以下的宝宝推荐用「嘘拍法」，白噪音或嘘声辅助，有节奏地轻拍宝宝；4 月龄后的宝宝可以鼓励宝宝，用儿歌，唱摇篮曲来替代「嘘」声。\n有的宝宝严重哭闹，原地安抚不了也不用勉强，结合 抱起放下法，观察宝宝情况，哭闹 — 原地安抚 — 哭闹 — 抱起安抚 — 平静 — 放下，不要焦虑，多尝试。\n▶ 4. 陪着睡\n陪睡的苦恼在于，人一走娃就醒，不走娃就睡。\n可以试试从躺着陪娃睡觉，到坐着陪娃睡觉，等宝宝适应了，再慢慢的挪远一些，直至离开。\n因为拉开了跟宝宝之间的空间距离，家长也可以进一步尝试减少肢体接触性的安抚，多用「隔空喊话」的语言安抚，表示：妈妈一直都在。\n不管是哪种哄睡方式，最终的终极目标都是——自主入睡。\n如果有足够的时间，可以用循序渐进的方法，把一个一个坎都跨过去，用一个安抚方法取代另一个安抚方法，宝宝最终可以完成「自己睡」过程。\n如果宝宝家长想快点达到效果，也可以选择现有的比较常见的睡眠训练体系，比如说「安睡女士撤离法」，不管宝宝目前的入睡方式是哪一种都适用：\n\n1～3 晚：床边安抚，可以抱起安抚；\n4～6 晚： 离开床稍远一点，尽量不要抱起安抚；\n7～9 晚： 撤离到卧室门边，保持语言安抚；\n10～14 晚：撤离到卧室外，只有在有需要的时候，回应宝宝。\n\n最后想说的是，科学育儿很重要，但是妈妈和宝宝都接受的方式，才是最好的方式。\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740786",
+          "publishedOn": "2021-09-30T23:08:01.000Z",
+          "wordCount": null,
+          "title": "哄婴儿睡觉有什么好经验？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9740848",
+          "author": null,
+          "description": "女生宿舍室友在做直播，感觉很不舒服，怎么办？\n\n薛定谔的BUG，愿天堂没有电商\n阅读原文\n\n你也开直播，直播她直播，不开美颜和滤镜\n阅读原文\n\n有七个国，秦国为什么只灭了六个国 ?\n\n陈老师的忠实粉丝\n阅读原文\n\n因为最后一个秦国，秦始皇留给自己儿子秦二世，把他给灭了\n阅读原文\n\n第一次去男朋友家受委屈应该发作吗？\n\n十三，六月十三和十月十三\n阅读原文\n\n就你家拿出炒花生米当主菜，刘禹锡都得向你家请教陋室铭 2 的撰写\n阅读原文\n\n如何以“我姐姐美若天仙”为开头写一篇小说？\n\n卡卡，天坑专业\n阅读原文\n\n我姐姐美若天仙\n……\n我姐姐把这个问题推荐给了我\n……\n让我想想，该怎么拍马屁\n才能安全活到明天\n……\n阅读原文\n\n老友记里选一个做朋友，你选谁？\n\nBing，前端／老友记\n阅读原文\n\n肤浅，又没说只能选主角。我选瑞秋的妹妹，吉儿。理由也很简单。她会给朋友送船。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9740848",
+          "publishedOn": "2021-09-30T23:07:53.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9740742",
           "author": null,
@@ -6031,66 +6140,6 @@
           "description": "你见过哪些非常虚荣的人？\n\nKinmook，兴趣男，爱好女\n阅读原文\n\n在食堂本想打 6 元的青菜面，看到后面是心动的妹子，果断点了碗牛肉面\n阅读原文\n\n什么时候你感受到了父母的爱？\n\n万金油，欢迎和我互关的朋友加微信聊天，我相信有趣的人终究是会相遇的。\n阅读原文\n\n我爸妈打孩子在小区里是出了名的，\n连别人家的孩子见了我爸妈都害怕。\n我爸妈对学习成绩的要求高得过分，\n只要没考班级第一名就会挨骂挨打。\n我爸妈的抠门儿也到了一定的境界，\n衣服只有旧的，零食玩具想都别想。\n我一直怀疑我不是他们亲生的孩子，\n直到他们全款给我在北京买房买车。\n阅读原文\n\n人类拍摄到的首张黑洞照片，和之前科幻电影中的黑洞有何相似和不同？\n\n刘大帅，看看\n阅读原文\n\n70 后，80 后估计对黑洞照片有种久别重逢的感觉\n \n（图片来自网络，侵删）\n\n\n\n阅读原文\n\n10版《红楼梦》犯过哪些低级错误?\n\n孤松奇石何承渠，生文龙，不幸。用文龙，朝廷不幸。杀文龙，公不幸。\n阅读原文\n\n健康丰满林黛玉，尖嘴猴腮薛宝钗，马猴入宫贾元春，谈笑风生贾迎春，囧脸鹌鹑贾探春，身形魁梧贾惜春，八戒娘化史湘云，头戴红花冷妙玉，哮喘患者王熙凤，唱诗班主李宫裁，蛇精养成秦可卿，毫无印象贾巧姐\n阅读原文\n\n你经历过最害羞的事是什么？\n\n知乎用户\n阅读原文\n\n媳妇生产住院，和临床夫妻照面，总要寒暄些什么。于是礼貌的和男的说：你们家媳妇真漂亮啊\n阅读原文",
           "link": "https://daily.zhihu.com/story/9739848",
           "publishedOn": "2021-09-01T23:07:14.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739782",
-          "author": null,
-          "description": "KnowYourself，关照自我与内心，引领身心健康的生活方式\n阅读原文\n\n放弃从外部世界寻找乐趣，而多从自身内部寻找火花，建立起真正的“生活兴趣”。\n“觉得自己的生活好没有意思，尽管一直在尝试寻找有意思的事情，但是觉得都好无趣”，孤独而无聊，已经成为了很多人对自己生活的评价。\n但我认为，很多时候我们为摆脱无聊和孤独而作出的努力，都并不是真正意义上的对于“生活兴趣”的找寻，我们可能都错误地理解了“有意思的生活”该是什么样子，才会做出那么多徒劳无功的尝试。\n要对抗孤独和无聊，我们需要首先明白，什么才是真正的对生活的兴趣。\n来看今天的回答。\n\n01.“生活兴趣”究竟是什么？\n心理学家 Paul J. Silvia 把兴趣称为“知识型的情绪（knowledge emotion）”。\n所谓“知识型的情绪”，和我们熟知的喜怒哀乐不一样，指的是能引发我们对“知道更多”好奇的情绪。比如，困惑、惊奇、敬畏都属于知识型的情绪，他们都指引人们去知道更多。\n众所周知，兴趣是最好的老师，促进我们学习和探索。但大家可能不知道，兴趣也可以平衡人们对不确定性的负面感受(Kashdan,2004)。\n比如一个人失业在家，面对生活的不确定性，害怕再次失败。但如果 ta 能对一份渴望得到的工作产生兴趣，这种兴趣感会让 ta 产生对未来的好奇，而缓解不确定性带来的负面感受。\n* 对于生活兴趣，人们有一些常见的误解，阻碍了他们培养出兴趣。\n误解 1: “不需要做什么，我就可以对某件事物一直感兴趣。”\n很多人可能觉得兴趣是一劳永逸的，比如有人认为只要找到自己感兴趣的工作，就能对工作一直保持兴趣，于是频繁换工作。\n但现实是，日子久了，上班依然如上坟，兴趣又变成了煎熬。\n一个人对事物的兴趣会随时间产生变化，“三分钟热度”是常态，要对一件事物产生经久不衰的兴趣、始终觉得 ta 很有意思，需要我们首先投入经年累月的努力。…",
-          "link": "https://daily.zhihu.com/story/9739782",
-          "publishedOn": "2021-08-31T23:07:25.000Z",
-          "wordCount": null,
-          "title": "你是用什么对抗孤独和无聊的呢？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739789",
-          "author": null,
-          "description": "星球研究所，一群国家地理控，专注于探索极致世界\n阅读原文\n\n走，去探索两个世界的同一种风景！\n\n我们从未像今天这样关注火星，但地球与火星之间的空间阻隔最远可达到4 亿千米，我们中的大多数人此生都不会有机会踏上火星亲身领略红色星球的风采。\n▼\n01. 冬季火星一瞥，北极冰盖之外还可见到大面积冰霜，底图@ESA，由火星快车号轨道器拍摄，标注@陈随 / 星球研究所\n然而，即使无法亲自登临火星，我们也可以在地球找到类似的风景，因为在辽阔的太阳系里地球与火星源出同门、形同姊妹。\n\n 01 · 碰撞的世界 ·\n密集而繁多的撞击坑是火星地表给人留下的第一印象，直径大于 10km 的撞击坑就超过了 2 万个。\n▼\n02. 火星南半球的海拉斯撞击坑，它是火星上肉眼可见的最大撞击坑，凹下地表 8000 多米，长 2500km，宽 1300km，底图@ESA，由火星快车号轨道器拍摄，地表以上的淡蓝色是火星大气层，标注@陈随 / 星球研究所\n在地球，撞击坑的数量和规模都远不及火星，但一些巨大的撞击坑，仍给人们带来相似的震撼。\n例如，加拿大的曼尼古根撞击坑，虽然经历了超过 2 亿年的风雨侵蚀，但仍保留下直径约 72km 的环形洼地，从太空俯瞰时，令宇航员们印象深刻。\n▼\n03. 加拿大魁北克省曼尼古根撞击坑，该坑的原始直径约为 100km，如今仅剩直径约为 72km 的环形洼地，被建成水库，底图@NASA，由国际空间站拍摄，标注@陈随&amp;amp;郑艺 / 星球研究所\n再比如，位于塔吉克斯坦的卡拉库尔撞击坑，直径约为 52km，干燥的高原地表颇似火星，特别是冬季封冻后，寒冷荒凉的感觉尤甚。\n▼\n04. 卡拉库尔撞击坑地处帕米尔高原，是距离中国最近的大撞击坑，海拔约 4000 米，底图@NASA，由 Landsat8 号卫星拍摄，标注@陈随&amp;amp;郑艺 / 星球研究所\n这些由星体撞击产生…",
-          "link": "https://daily.zhihu.com/story/9739789",
-          "publishedOn": "2021-08-31T23:07:17.000Z",
-          "wordCount": null,
-          "title": "在地球上，有没有哪些地方看起来很像火星？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739766",
-          "author": null,
-          "description": "声音图书馆，音乐人文 | 公众号：Soundlibrary声音图书馆\n阅读原文\n\n当然。\n这就要从十九世纪那一段时间说起。\n\n十九世纪末期，一场全新的音乐变革已经蓄势待发。这种变革，不是孤立也不是一蹴而就的，而是伴随着人类经济文化的发展、审美偏好的转变、以及对更新奇的事物的渴求与好奇心一同诞生的。在浪漫主义后期，已经开始出现了无调性与个性化情感表现创作的苗头，而这将成为现代音乐的萌芽。旋律变得越发自由，和声、半音的变化越发色彩丰富，音乐的体裁利用也更加灵活，小型化的音乐创作也展现出了它们表达上更多的灵活性。到了 20 世纪之后，这样的音乐创作将逐渐成为主流——而在现代与非现代之间，我们很难说清这一条分界线到底在哪里，不过从时间线上而言，一般倾向于将它描述为，印象主义音乐。\n\n印象主义这个名词来源于美术界。作为 19 世纪晚期活动在巴黎及其周围的一个颇具有影响力的绘画流派。顾名思义，印象派多倾向于采用流动的光感和模糊的线条感来描摹事物，而不是纤毫毕现的表现细节，从而使画面与观赏者之间形成一种沟通的氛围感。对于音乐家来说，印象主义音乐的出发点也一样——他们厌倦了浪漫主义的繁琐、华丽和沉重，并且尝试用截然相反的方式来反抗这种音乐“霸权”。\n德彪西就是一位充分充分运用了这种印象主义艺术创作方式的音乐家。他本人就热衷于与印象主义画家们混在一起，甚至以自称“莫奈的学生”为荣。他的作品经常从画作中寻找灵感，并且也经常冠以画面感十足的标题。\n\n克劳德 德彪西\n德彪西生性热爱浪漫和自由，自幼受到法国的印象派艺术熏陶。他 11 岁进入巴黎音乐学院，并展示出了自己热衷于打破陈规的创造天分。随后他又在 1880 年前后接触到了俄国穆索尔斯基的作品，并被这种新颖的和声色彩深深感动。\n\n在大量吸收了东方音乐、西班牙舞曲和早期黑人音乐的特点，结合了印象派的艺术手法之后，德彪西逐渐形成了自己的独特风格。他热衷于采用全音阶和平行进行，于是音乐充满了奇特的神秘感；同时他又打破了陈旧的逻辑性和反复严谨的结构，于是让音乐表达变得更加自由。他已经完全不是这种全新的音乐创作方式对 20 世纪的现代音乐具有划时代的意义。\n\n德彪西博物馆\n德彪西一生创作的作品不多，并于 1918 年就因癌症逝世了。他的作品以反传统的标题音乐为主，后期也创作过歌剧《佩利亚斯与梅丽桑德》，交响诗《大海》和《前奏曲》但是知名度不高。但是除了对现代音乐创作的特别意义之余，他的作品充满了画面感和想象力，欣赏台阶并不高，因此非常适合很多入门的古典音乐爱好者。另外，虽然被称作印象主义音乐的代表人物，但是德彪西本人并不怎么接受这种说法，而他本身擅长描述的梦幻感和想象力更接近象征主义的表达方式。\n《牧神午后前奏曲》\n《牧神午后前奏曲》是德彪西与 1982-1894 年，取材于马拉美同名诗作《牧神午后》所创作的，也是他的第一部具有代表性的印象主义作品。在马拉美的诗作中，包含着梦幻而含糊的已经，而德彪西则试图用音乐将它描摹出来。\n\n《牧神的午后》插画 爱德华·马奈\n凉爽的清晨如欲抗拒，即被暑气窒息，\n哪有什么潺潺水声？唯有我的芦笛\n把和弦洒向树丛；那仅有的风\n迅疾地从双管卢笛往外吹送，\n在它化作一场旱雨洒遍笛音之前，\n沿着连皱纹也不动弹的地平线．\n这股看得见的、人工的灵感之气，\n这仅有的风，静静地重回天庭而去。\n （译文节选自飞白）\n德彪西在早期一度深受柏辽兹的影响，后来，他试图消除这种影响，而在创作上，也不是严格的追随马拉美的诗歌，而是试图用自己的音符描绘意境。音乐和诗歌中基调统一的只有情感——关于牧神在午后的欲望和梦幻，但是这幅梦幻的色彩可以是截然不同的。在这里德彪西选用了三种木管乐器——长笛，双簧管和单簧管。伴随着竖琴的刮奏和圆号的轻柔色彩，德彪西展现了音乐无限可能的扩展性和多姿多态的表达方式。\n建议试听曲目：Prelude a L'Apres-Midi D'un FauneAchille-Claude Debussy - Misbelieving Baby\n\n德彪西在音乐的表达中更侧重于对乐器音色的运用，就如同绘画中的色彩，而织体则是描绘出的斑驳光影和空间感，而在这样的表达方式中，和声、节奏和旋律都变的模糊甚至不那么重要了。这种手法后来被 20 世纪音乐的一些革命性的现代主义艺术家所采用的，也就是通过音色和织体，而不是主题的展开来创作音乐。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739766",
-          "publishedOn": "2021-08-31T23:07:07.000Z",
-          "wordCount": null,
-          "title": "德彪西的音乐有色彩吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739770",
-          "author": null,
-          "description": "素素拓拓的旅行派，旅行者里最好的段子手|情侣旅游博主｜Vlogger\n阅读原文\n\n首先，我们来了解下，为什么北京环球度假区万众瞩目。\n\n中国第一个环球影城主题乐园。\n功夫熊猫盖世之地是环球主题公园首个功夫熊猫主题景区；\n变形金刚基地是全球首个变形金刚专属主题景区；\n北京环球度假区规模最大的过山车当属——霸天虎过山车；所乘坐的骑乘设施是由汽车人驰斯达变形而成。也是专门为景点设计的新角色。\n环球城市大道电影院拥有全北京银幕最大的新一代 IMAX 商业影院激光影厅，超酷炫！\n\n【北京环球影城有什么值得玩呢？】已经有幸体验过三天两夜的我们，告诉你真实体验！\n住在酒店的好处就是晚上闭园后可以溜出来趁没人拍合影\n所有骑乘项目都值得坐！\n\n因为所有骑乘项目都比较温和，只有哈利波特的禁忌之旅，会略晕，某些场景会吓人。可能会闭上眼睛感受下黑暗。其他的都不刺激。\n！！！！以下是我们全部体验过一遍之后，推荐的项目！！！\n（不要一大早直奔哈利波特，太火了，人非常多）\n第一站【变形金刚基地】：\n\n「霸天虎过山车」超级刺激！！！想感受刺激的一大早就直奔这里吧，从静止到时速 104 公里只需要 4.5 秒。骑乘设施是由汽车人驰斯达变形而成。\n骑乘项目「保卫火种源」温和略刺激，非常享受，沉浸式体验一起对抗霸天虎很带感！还可以体验下什么叫做自由落体。\n「变形金刚面对面」注意这是拍照时刻～\n\n第二站【功夫熊猫盖世之地】：\n直言不讳，这是我的最爱。作为环球主题公园首个功夫熊猫主题景区，不会失望！整个景区是室内的，凉爽别致，像是步入世外桃源般的传说之境。所有项目都很温和。\n\n骑乘项目「神龙大侠之旅」：顺流而下见证功夫世界。\n「旋转武侠」&「灯影传奇」任你选，一个是梦幻转不停的旋转木马，一个是光影渐变的古风式旋转秋千。\n隐藏彩蛋「智慧仙桃树」会讲故事哦。但是能不能碰到讲故事，需要看缘分。有可以从小程序【北京环球度假区官方】，查看演出时间。\n午饭推荐「平先生面馆」：牛肉面 / 肉包子 / 担担面\n功夫熊猫园区的【智慧仙桃树】\n第三站【侏罗纪世界努布拉岛】：\n\n推荐「奇遇迅猛龙」，直接和逼真的迅猛龙互动拍照。\n骑乘项目「侏罗纪世界大冒险」，深入热带荒野，感受恐龙朝你奔跑而来的恐惧。\n在入园处有可能还会偶遇手持小恐龙的表演者。\n\n第四站【小黄人乐园】：\n\n买一个「小黄人冰淇淋」拍拍拍，也要记得去「小黄人见面会」和小黄人拍照。\n骑乘项目「神偷奶爸小黄人乐翻天」和演出「欢乐好声音巡演」非常推荐。\n购物推荐：买一个小黄人爆米花桶 or 小黄人车，背着它拍照也好看诶～！\n\n 第五站【未来水世界】\n\n特级表演。温馨提示，最前排可以和演员互动泼水，但是注意防水，会浑身湿透。\n下午两点开始表演，需要提前半小时抵达。具体时间可能有改动。建议官方小程序随时查看开演时间。提前去占座哦。绿色座位最好。\n\n第六站：【哈利·波特的魔法世界】\n\n为什么要把哈利·波特放在傍晚呢？因为逛完霍格莫德巫师村就可以直接看城堡灯光秀啦！\n骑乘项目「哈利·波特与禁忌之旅」非常非常逼真，特别声明：这是整个行程中我和素素都有闭眼睛的骑乘项目！记得买个互动魔杖，按照地图寻找互动点，可谓妙趣横生。\n晚餐推荐「三把扫帚」餐厅，点一杯黄油啤酒（ps，冷藏的好喝），推荐猪排套餐和烤鸡套餐，量超足！一份套餐才 100 多块，真的很大份，如图所示。（特此声明：仅单指在景区内猪排价格，没有之前说的四五百那么夸张！！拿日常在家吃饭花多少钱来比较的，请直接绕道，猪排见下方视频内）\n\n第七站：【好莱坞】\n\n要记得看「灯光，摄像，开拍！」，跟着大师走进幕后，感受光影魅力。\n这里也有「环球影城商店」，建议购物放在最后。\n\n我们入住的【环球影城大酒店】，当早晨醒来拉开窗帘，就可以看到阳光铺满了好莱坞大道，斑驳的光影交织在一起，如梦如幻。从这里开始，从这一秒开始，就可以踏入电影的奇幻世界。\n\n还有功夫熊猫主题的房间。\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739770",
-          "publishedOn": "2021-08-31T23:06:57.000Z",
-          "wordCount": null,
-          "title": "北京环球度假区将于 9 月 20 日正式向公众开放，你最期待哪个景区？有哪些地方值得打卡？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739779",
-          "author": null,
-          "description": "segelas，电影学硕士已毕业，但仍旧略懂皮毛\n阅读原文\n\n谈一谈个人的看法。\n这是一部关于玩家的电影，但却绝非是只为了讨好玩家的电影。利用很多非常“游戏化”的要素，它描述了规则的甜美与压力，对其麻木的被动享受与情感的自由反抗，描述了游戏与区别于游戏的现实。由此，它带来了自己对于“玩家群体”与“小众文化”正确定位的观点。\n如果翻开类似作品的列表，我们便会意识到它的价值。事实上，在一堆所谓“致敬亚文化”的小圈子自闭式狂欢之作里，我们几乎找不到与本作类似的表达内容。\n\n对于男主角来说，他受到约束的规则便是游戏世界的代码所决定的规则。这一点从开场就有体现，他在清晨醒来，遵循着系统为他设计好的行为轨迹：穿一样的衣服，看着一样的鱼，拉起同样次数的窗帘。而他在拉起窗帘时看到“真相”的诡异表情，已经让他隐约的反抗意识有所体现。而当他在购买咖啡时一反常态地选择卡布奇诺，以及在银行抢劫时、与其他例行公事地卧倒在地的 npc 完全不同的行为，都让他的反抗意识得到了更具体的表现。\n而诱发这一切的，便是有些烂俗的“爱情”了。在电影开场，第一次让男主角产生了超出系统对他设定的非 npc 行为的，正是对于女主角的爱情萌生。在这一幕中，女主角一路复述着 npc 固定的台词，只是到了他的面前说出了“这句没听过”，便是男主角对于其他 npc 的超越表现。\n因此，对于这部电影中的“爱情”诱发因素，也有着和一般作品里不同的用法——对于本不应有任何情感的程序人 npc 来说，爱情的萌生即代表了它的人类化，对于自身“被设定好生活”的命运挣脱，是一种自由的追求。\n\n以爱情为核心主线，电影围绕着男主角与女主角的交互展开。对于他来说，他面临的最终难关，便是真正的“变成人类”——突破系统设定对他的终极限制，突入到人类玩家交流区中。\n在这里，导演非常聪明地展现了自己对于网络游戏的认知：虚弱条、空气墙与掉线区域。在一般的游戏…",
-          "link": "https://daily.zhihu.com/story/9739779",
-          "publishedOn": "2021-08-31T23:06:52.000Z",
-          "wordCount": null,
-          "title": "如何评价电影《失控玩家》？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9739799",
-          "author": null,
-          "description": "为什么飞机商务舱一直拉着帘子？\n\n非著名青年律师，我有平安如江河。\n阅读原文\n\n不让你发现他们可以提前半个小时到。\n阅读原文\n\n经常出差住酒店，一般你会常备哪些物品？\n\n手写客，卖字维生 公众号“手写客”\n阅读原文\n\n只带了一颗啥都能将就的心…\n阅读原文\n\n现在看来，显卡等等党到底是赢了还是一败涂地了？\n\n左丘复明，「大权谋」逆天改命之学，盛衰荣辱之道\n阅读原文\n\n侄子是游戏爱好者，死肥宅一名，多次劝说无果。\n为了更好的游戏体验，他本打算购入一张好的显卡，但显卡价格一直涨。\n贫穷的侄子舍不得出高价买，于是做了 JS 痛恨的等等党。\n但等来等去，显卡价格一路飙升。侄子没办法，只好暂时放下电脑，去玩户外了，想着显卡跌价再买。\n一年下来，体重下降了 30 斤，性格变得阳光了，还谈了一个漂亮的女朋友，最后忘记了显卡这回事。\n阅读原文\n\n你的家乡有哪些你「吃不起」的美食？\n\n莽特特特，CDA二级建模分析师|阿布吐司作者\n阅读原文\n\n\n\n\n阅读原文\n\n你有一个永远都忘不掉的名字吗？\n\n艾原，凡所忧者皆虚惊一场，凡所搏者皆功不唐捐\n阅读原文\n\n李华。\n这个名字惊艳了我的高中英语时光。\n社交活动挺多，天天跟外国朋友打交道，成天参加英语讨论，时不时出国游玩，却连英语作文都不会写。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9739799",
-          "publishedOn": "2021-08-31T23:06:47.000Z",
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
