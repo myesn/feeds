@@ -31,6 +31,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353415",
+          "author": "Laurie Voss",
+          "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jamstack-developers-favorite-frameworks-of-2021/",
+          "publishedOn": "2021-10-12T14:30:47.000Z",
+          "wordCount": 1002,
+          "title": "Jamstack Developers’ Favorite Frameworks of 2021"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353317",
+          "author": "Chris Coyier",
+          "description": "Google Analytics is powerful analytics software. A common way to use it is to just slap the JavaScript snippet on every page template you have and let it collect basic data about unique visitors and pageviews and such. That’s  useful, …\nThe post WooCommerce + Google Analytics appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-google-analytics/",
+          "publishedOn": "2021-10-12T14:28:26.000Z",
+          "wordCount": 958,
+          "title": "WooCommerce + Google Analytics"
+        },
+        {
           "id": "https://css-tricks.com/?p=352907",
           "author": "Chris Coyier",
           "description": "Why would a company promote a native app over their perfectly usable website?\nWe’d have to ask them, I suppose. But it’s hard not to see this push to native as a matter of priorities: that these companies consider native \n…\nThe post Those “Get The App” Banners appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -632,6 +650,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
+          "author": "hello@smashingmagazine.com (Gaurav Khanna)",
+          "description": "React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.",
+          "link": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
+          "publishedOn": "2021-10-12T12:00:00.000Z",
+          "wordCount": 2341,
+          "title": "Useful React APIs For Building Flexible Components With TypeScript",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8fbb65d7-6494-4494-9a78-099e178b83da/react-apis-building-flexible-components-typescript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
+          "author": "hello@smashingmagazine.com (Matthew Talebi)",
+          "description": "UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.",
+          "link": "https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/",
+          "publishedOn": "2021-10-12T10:30:00.000Z",
+          "wordCount": 2174,
+          "title": "Bridging The Gap Between Designers And Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f89855fe-fbaf-4d96-80a4-189aa27e8afb/gap-between-designers-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/10/autofill-dark-pattern/",
           "author": "hello@smashingmagazine.com (Alvaro Montoro)",
           "description": "A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.",
@@ -966,20 +1012,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
-          "description": "There are way too many options in Web Animations API to pick them up that easily. Learning how timing works and how to control the playback of several animations at once makes for a solid foundation on which to base your projects on.",
-          "link": "https://smashingmagazine.com/2021/09/orchestrating-complexity-web-animations-api/",
-          "publishedOn": "2021-09-13T09:00:00.000Z",
-          "wordCount": 3012,
-          "title": "Orchestrating Complexity With Web Animations API",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cc4a9b5f-fd83-4fc0-9966-6f98707d1466/orchestrating-complexity-web-animations-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1040,6 +1072,132 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/z9n7vn0",
+          "author": null,
+          "description": "如题。",
+          "link": "https://toutiao.io/k/z9n7vn0",
+          "publishedOn": "2021-10-13T01:13:54.208Z",
+          "wordCount": 617,
+          "title": "关于《数据仓库知识体系》的超全指南"
+        },
+        {
+          "id": "https://toutiao.io/k/okvu6af",
+          "author": null,
+          "description": "移动互联网时代失速，但依然有机会做年轻人的「精神角落」。",
+          "link": "https://toutiao.io/k/okvu6af",
+          "publishedOn": "2021-10-13T01:13:53.611Z",
+          "wordCount": 197,
+          "title": "复盘豆瓣：在算法和社交中反复摇摆"
+        },
+        {
+          "id": "https://toutiao.io/k/nbyqv4r",
+          "author": null,
+          "description": "Ray已经完成了1.7.0版本的release，C++ API作为其中一个highlight功能正式集成到wheel包里发布。",
+          "link": "https://toutiao.io/k/nbyqv4r",
+          "publishedOn": "2021-10-13T01:13:53.529Z",
+          "wordCount": 545,
+          "title": "C++ 分布式编程来了"
+        },
+        {
+          "id": "https://toutiao.io/k/hl85qrd",
+          "author": null,
+          "description": "自C++11起，shared_ptr从boost转正进入标准库已有10年了。然而当C++程序员们在谈论shared_ptr 的线程安全性时，还时常存在分歧。确实关于这个问题是不能直接了当地用安全或不安全来简单回答的，下面我来探讨一下。",
+          "link": "https://toutiao.io/k/hl85qrd",
+          "publishedOn": "2021-10-13T01:13:53.430Z",
+          "wordCount": 249,
+          "title": "当我们谈论 shared_ptr 的线程安全性时，我们在谈论什么"
+        },
+        {
+          "id": "https://toutiao.io/k/cnqzc9n",
+          "author": null,
+          "description": "大厂技术  高级前端  Node进阶点击上方 程序员成长指北，关注公众号回复1，加入高级Node交流群前言相",
+          "link": "https://toutiao.io/k/cnqzc9n",
+          "publishedOn": "2021-10-13T01:13:53.340Z",
+          "wordCount": 907,
+          "title": "你的第一个 Docker + React + Express 全栈应用"
+        },
+        {
+          "id": "https://toutiao.io/k/v10fj5r",
+          "author": null,
+          "description": "JSON Web Token 简称Jwt ，一个jwt实际上就是一个字符串，它由三部分组成， 头部、载荷与签名，这三个部分都是json格式。",
+          "link": "https://toutiao.io/k/v10fj5r",
+          "publishedOn": "2021-10-13T01:13:53.199Z",
+          "wordCount": 1097,
+          "title": "JWT 怎么实现操作不掉线？"
+        },
+        {
+          "id": "https://toutiao.io/k/0m5pyi6",
+          "author": null,
+          "description": "最近这段时间使用Google搜索查个技术问题总是经常误入到一些垃圾站，什么“小X知识网/xspdf.com.",
+          "link": "https://toutiao.io/k/0m5pyi6",
+          "publishedOn": "2021-10-13T01:13:53.097Z",
+          "wordCount": 133,
+          "title": "使用谷歌中文搜索终于可以远离垃圾 SEO 站了"
+        },
+        {
+          "id": "https://toutiao.io/k/rjyiorb",
+          "author": null,
+          "description": "GreatSQL正式开源啦",
+          "link": "https://toutiao.io/k/rjyiorb",
+          "publishedOn": "2021-10-13T01:13:53.020Z",
+          "wordCount": 103,
+          "title": "面向金融级应用的 GreatSQL 正式开源"
+        },
+        {
+          "id": "https://toutiao.io/k/9g5ma6x",
+          "author": null,
+          "description": "FAST Agile是本文作者提出的一种敏捷方法，其依赖团队的自组织特性，轻量化敏捷流程，以最终交付为核心关注点，适配从小到大各种规模的团队。",
+          "link": "https://toutiao.io/k/9g5ma6x",
+          "publishedOn": "2021-10-13T01:13:52.933Z",
+          "wordCount": 126,
+          "title": "一分钟搞懂 FAST Agile"
+        },
+        {
+          "id": "https://toutiao.io/k/vr8buxr",
+          "author": null,
+          "description": "百万行代码没什么可怕，是一个正常的节点，仍然可以像几万行代码那样敏捷。",
+          "link": "https://toutiao.io/k/vr8buxr",
+          "publishedOn": "2021-10-13T01:13:52.808Z",
+          "wordCount": 401,
+          "title": "前端 100 万行代码是怎样的体验？"
+        },
+        {
+          "id": "https://toutiao.io/k/8tb0cdi",
+          "author": null,
+          "description": "CQRS",
+          "link": "https://toutiao.io/k/8tb0cdi",
+          "publishedOn": "2021-10-13T01:13:52.722Z",
+          "wordCount": 115,
+          "title": "CQRS 是个什么东东？"
+        },
+        {
+          "id": "https://toutiao.io/k/eo0g39p",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/eo0g39p",
+          "publishedOn": "2021-10-13T01:13:51.217Z",
+          "wordCount": 426,
+          "title": "两数相除"
+        },
+        {
+          "id": "https://toutiao.io/k/vc8ixq7",
+          "author": null,
+          "description": "【导语】：CodeTour（代码之旅）是微软官方开发的 VS Code 扩展，允许记录和回放代码的演练和思路。 简介CodeTour 是一个 VS Code 插件，允许记录和回放代码库的演练和思路。我们通常都是通过代码注释或者文档来解…",
+          "link": "https://toutiao.io/k/vc8ixq7",
+          "publishedOn": "2021-10-13T01:13:50.872Z",
+          "wordCount": 142,
+          "title": "微软开发的神器，来感受一下神奇的代码之旅"
+        },
+        {
+          "id": "https://toutiao.io/k/6wzei0e",
+          "author": null,
+          "description": "王超的个人博客",
+          "link": "https://toutiao.io/k/6wzei0e",
+          "publishedOn": "2021-10-13T01:13:50.248Z",
+          "wordCount": 894,
+          "title": "数据结构：堆和常见算法问题"
+        },
         {
           "id": "https://toutiao.io/k/zsus9yc",
           "author": null,
@@ -3334,105 +3492,6 @@
           "publishedOn": "2021-09-14T01:11:48.909Z",
           "wordCount": 469,
           "title": "谈谈我这些年对前端框架的理解"
-        },
-        {
-          "id": "https://toutiao.io/k/d5p7mw6",
-          "author": null,
-          "description": "本文将从技术选型开始，为大家介绍Presto高性能引擎在美图的实践。使大家了解Presto引擎的优缺点，适合的使用场景，以及在美图的实践经验。",
-          "link": "https://toutiao.io/k/d5p7mw6",
-          "publishedOn": "2021-09-13T01:10:45.630Z",
-          "wordCount": 146,
-          "title": "Presto 高性能引擎在美图的实践"
-        },
-        {
-          "id": "https://toutiao.io/k/p9oe4sw",
-          "author": null,
-          "description": "非功能测不好做，定义困难居首个\\x0a资源计划要求高，人员水平还要好",
-          "link": "https://toutiao.io/k/p9oe4sw",
-          "publishedOn": "2021-09-13T01:10:45.541Z",
-          "wordCount": 71,
-          "title": "非功能性测试更要做好的几件事"
-        },
-        {
-          "id": "https://toutiao.io/k/ql650fu",
-          "author": null,
-          "description": "小伙伴们周末好呀，这次来更新一波学习资源啦~ 👍之前推荐过一些书，这次我们就来看看 4ye 平时常关顾的一",
-          "link": "https://toutiao.io/k/ql650fu",
-          "publishedOn": "2021-09-13T01:10:45.468Z",
-          "wordCount": 189,
-          "title": "这 5 个 GitHub 项目 + 3 个网站，助你一飞冲天"
-        },
-        {
-          "id": "https://toutiao.io/k/xdg9kw7",
-          "author": null,
-          "description": "面试时候问到索引，常常会顺嘴问一句索引下推。给我五分钟，图文并茂，带你get索引下推。",
-          "link": "https://toutiao.io/k/xdg9kw7",
-          "publishedOn": "2021-09-13T01:10:45.382Z",
-          "wordCount": 170,
-          "title": "五分钟搞懂 MySQL 索引下推"
-        },
-        {
-          "id": "https://toutiao.io/k/inuemwy",
-          "author": null,
-          "description": "本文重点介绍了下优化器的基于规则的其中一部分优化，更多的偏重于SQL中的基本操作符。",
-          "link": "https://toutiao.io/k/inuemwy",
-          "publishedOn": "2021-09-13T01:10:45.293Z",
-          "wordCount": 981,
-          "title": "庖丁解牛：图解 MySQL 8.0 优化器查询解析篇"
-        },
-        {
-          "id": "https://toutiao.io/k/mg7w3o9",
-          "author": null,
-          "description": "静态 HTTP 服务的几个用途：静态网页的 HTTP 服务，以访问浏览如：生成的文档、博客等公开文件的 HT",
-          "link": "https://toutiao.io/k/mg7w3o9",
-          "publishedOn": "2021-09-13T01:10:45.187Z",
-          "wordCount": 145,
-          "title": "小技巧：如何快速开启一个静态 HTTP 服务？"
-        },
-        {
-          "id": "https://toutiao.io/k/c4yzbh1",
-          "author": null,
-          "description": "加入「码农周刊VIP会员」，一起牛起来！",
-          "link": "https://toutiao.io/k/c4yzbh1",
-          "publishedOn": "2021-09-13T01:10:45.119Z",
-          "wordCount": 92,
-          "title": "字节跳动正式开源 CloudWeGo"
-        },
-        {
-          "id": "https://toutiao.io/k/nvgsoo1",
-          "author": null,
-          "description": "关于算法迭代的一些思考！",
-          "link": "https://toutiao.io/k/nvgsoo1",
-          "publishedOn": "2021-09-13T01:10:45.080Z",
-          "wordCount": 57,
-          "title": "如何做好算法迭代"
-        },
-        {
-          "id": "https://toutiao.io/k/v8xvo08",
-          "author": null,
-          "description": "神经网络(NN) 的成功通常取决于它对各种任务的泛化能力。然而，设计可以很好泛化的神经网络具有挑战性，因为研",
-          "link": "https://toutiao.io/k/v8xvo08",
-          "publishedOn": "2021-09-13T01:10:44.928Z",
-          "wordCount": 135,
-          "title": "模型搜索简介：一个用于寻找最佳机器学习模型的开源平台"
-        },
-        {
-          "id": "https://toutiao.io/k/l020ane",
-          "author": null,
-          "description": "我们先假设存在这么一个用于描述特定业务错误的类，就叫它 SomeError 吧，它拥有： type 和 data 两个属性。于是当你抛出该异常的时候，你是这么写的： new SomeError('someType1', { someTypeProp1: 1 })…",
-          "link": "https://toutiao.io/k/l020ane",
-          "publishedOn": "2021-09-13T01:10:42.544Z",
-          "wordCount": 257,
-          "title": "TypeScript：我都传了 type 了，能不能给我自动推导出 data 类型啊？"
-        },
-        {
-          "id": "https://toutiao.io/k/uc47ibi",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/uc47ibi",
-          "publishedOn": "2021-09-13T01:10:41.838Z",
-          "wordCount": 11922,
-          "title": "[译] cgroupv2 权威指南（内核文档, 2021）"
         }
       ]
     },
@@ -3441,6 +3500,24 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/338779063/answer/2147374702",
+          "author": "季節",
+          "description": "小时候听师傅说，几乎所有修行者，筑基都是用的面向过程一脉唯一的上古功法，名曰《C》，这门功法所有人均可修炼，无所谓灵根，直指大道。\n但是，一旦到达先天之后，这功法几乎无法寸进，且要禁欲，直到老去，因为《C》没有对象。看着修炼其它无名功法之人，都很快已经能飞天遁地，甚至飞升成仙，没有灵根者只能转修其它功法。\n于是有\"非大毅力者无法修练《C》\"的说法。\n但是凡是使用《C》修炼到了金丹期者，被称为针仙。针仙肉身强大，神鬼莫测，甚至可以手撕其它修炼者的法宝。他们御针而行，其肉身攻击力之强，可以轻易诛杀元婴期面向对象修炼者，他们的武器只有一根不起眼的本命指针，却有\"指针一出，虽远必诛\"的说法。但是如果指针被夺，运气好修为废去，运气不好当场暴毙。\n除了隐世宗门，这九州有七大宗门冠绝天下，被称为七冠。\n分别是，寸草堂，刀域，橘门，镜山，白蛇谷，彷徨派，深情岭\n其中，寸草堂的大门写着一行\"谁言寸草心，报得三春晖\"。修炼的是一门叫做《C艹》的功法。其祖师爷是一位天才，他发现找到对象的《C》修炼者可以逐渐突破指针期的瓶颈。于是他取其精华，将对象融入《C》中，在攻克《C》无法进入金丹期的问题同时，还保留主要修炼肉身的特性，更是创造除了类似于QT这样强大的重型武器，看似可以与《C》修炼者一较高下。但是因为《C艹》的修炼需要有对象，因此修炼者必然无法将肉身修炼到极致，还是弱《C》修炼者一分。尤其是，有一种秘术被开发出来，叫做《找不到对象》，《C艹》修炼者被攻击到甚至可能会直接灰飞烟灭。\n而刀域，橘门分别修炼的是《.NET秘典》《JVM仙典》，这两个都是筑基功法，炼出刀气和橘里橘气，使用它们可以修炼《C＃》《JAVA》，均十分沉稳。\n而镜山，白蛇谷，彷徨派，以及深情岭风格有些不同。他们的功法分别是《JavaScript》《Python》《PHP》《SQL》，这些功法的特点是，解释型功法。它们与其它功法修炼真元不同，它们修炼精神力，以调动天地元力作为主要手段，甚至先天者转修《python》当天就可以释放出\"禁法\"。\n修炼《Python》的白蛇谷之所以吃香，是因为他们盛产炼丹师。\n《PHP》的修炼者与世无争，因此有着超然的地位，他们手拿念珠，见人便口颂：\n\"PHP是最好的功法。\"\n由于大家知道这只是《PHP》的第一卷中的九字真言而已，所以没人去争辩什么。\n深情岭的《SQL》说是修真功法不如说是兵法，擅长排兵布阵，《SQL》一出，众仙归位。因此深情岭的人是其它门派都交好的对象。\n这大陆上，有一群更为罕见的上古修士，修炼《Assembly》，他们研究古老的创世秘术，比《C》更为古老神秘，他们修炼一种叫\"栈\"的能量，据说修炼到深了可以创造世界成就主宰...\n修真者叹：\n纸带上的孔眼，古老的终焉。\n对象的出现，融化了时间。\n凡人红眼！\n正则秘术，身轻如燕。\n虫豕妙法，碧叶连天。\n平衡树，红黑变，空留传说后人羡。\n临行别辞，一语可诛仙。\n字里行间，信念比金坚。\n寸草堂前，百善孝为先。\n白蛇丹道，誓与天地齐寿元。\n镜山观橘阳，黑刀舞峰巅。\n洞中方一日，世上已千年。\n彷徨、深情、思念，归雁情怯故乡前。\n栈道、创世、针仙，万界诸天尽汇编。\n救美却将情债欠，话语千言。\n无底洞、以身填，苦守井边。\n南柯梦、弹指间，悠长神话至终点。\n\n来源：知乎 www.zhihu.com\n季節\n点击下载\n40 个回答，查看全部。\n修真小说中的“修真百艺”指的是什么？\n如果把修真小说中“修真”改成“学习”会是什么样的？",
+          "link": "http://www.zhihu.com/question/338779063/answer/2147374702?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-12T09:41:27.000Z",
+          "wordCount": 13,
+          "title": "如果把修真小说中“修真”改成“编程”会是什么样的？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/465331750/answer/2162910054",
+          "author": "塔塔君Minkun",
+          "description": "散乱评论一下：\n1、越到最后越大跌眼镜。这给我感觉就是酷爱电影的平尾隆之强烈意识到拍一部关于拍电影的电影是一件很神圣的事情，于是耍了各种各样炫技小花招强调自己在用画面讲故事，以及自己是今敏小弟这件事，许多转场都明显学今敏，但很明显并没有像今敏那样成系统，小聪明多不如大智慧；\n2、更何况90分钟电影必胜法也是今敏的招数。说来今敏本身也是主要受到美国电影影响最多，《庞波小姐》也是讲美国爆米花电影，在这个观念上意外的有重合。片中对90分钟电影执着的价值观，我都替平尾想到今敏了；\n\n3、可以说是形式跟着内容一起塌，故事上对于迷影品味、电影工业认识程度的拙一点都不打算藏，而且还喜欢往难高难度去做，比如用动画去表现一个故事不咋样但能感动人的电影有多难，比如要突出庞波小姐的电影创作能力却写了一个无比平庸的剧中剧故事。其他各种小聪明也显得无效又喧闹；\n4、群友说平尾自从开始给自己导演的片子写剧本之后几乎都不太行，想了想《鱼》《魔法少女姐妹优优与宁宁》《噬神者》确实都是不太行，《魔法少女姐妹》《庞波小姐》这两部最近看过的都很能看出剧本问题了。求求您和细田守早日认知到自己的短板，把剧本交给别人写；\n5、之前一半暴言一半真话吐槽过平尾拍《空之境界 矛盾螺旋》并不是最好的他，平尾最好的作品是《校园乌托邦 学美向前冲》《双恋A》那种有点电波的萌系喜剧。因为《庞波小姐》的题材，我本来希望这种有点电波系的原作能激发一下平尾的怪点子，回归那个原始的平尾的，没想到竟然摔在了怪点子这个上，这个是最大跌眼镜的。\n\n来源：知乎 www.zhihu.com\n塔塔君Minkun\n点击下载\n3 个回答，查看全部。\n有没有一些类似 你的名字 这样比较虐，看完有点难受的动漫电影？\n有没有推荐的动漫电影?",
+          "link": "http://www.zhihu.com/question/465331750/answer/2162910054?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-12T07:08:24.000Z",
+          "wordCount": 23,
+          "title": "如何评价动画电影《酷爱电影的庞波小姐》？"
+        },
         {
           "id": "http://www.zhihu.com/question/412292673/answer/2151504974",
           "author": "TEACHK",
@@ -4403,15 +4480,6 @@
           "publishedOn": "2021-09-14T08:12:27.000Z",
           "wordCount": 61,
           "title": "一篇文章讲透分布式存储"
-        },
-        {
-          "id": "http://www.zhihu.com/question/484001869/answer/2098143630",
-          "author": "庄停郁",
-          "description": "【已完结，全文共2w6k字，请放心食用】\n我是嫦娥怀里常抱着的玉兔。\n近日鸿钧仙官总来宫里，很不对劲。\n因为他一来，主人就不抱着我了！\n有什么事情是我广寒宫玉兔不能听的？\n于是鸿钧仙官又一次来找主人时，我悄悄捅破窗户纸，两腿一蹬，扒拉在窗沿上。\n就让我来康康，你们到底有什么秘密！\n朦胧之间，我听见鸿钧仙官说了一个名字。\n瀛玉？\n当天晚上，我在主人怀里做了一个梦。\n梦里有一个男子，朝我伸出手。\n“楼迦蓝。”\n“我来找你了。”\n敌国废太子x质子九公主\n《诱兔深入》\n1.\n我是嫦娥怀里常抱着的玉兔。\n自上月开始，鸿钧仙官便隔三差五地来找主人，而且脸色一次比一次差。\n要不是知道我的主人早就有心上人，鸿钧仙官又长得实在太过磕碜……\n我都能怀疑他们俩之间有点什么。\n天界有奇闻异事很正常，主人每次与他人议事，都是将我抱在怀里一起听的。\n可鸿钧仙官跟主人说的事，她不让我听。\n怪就怪在这里。\n不对劲，很不对劲。\n有什么事情是我广寒宫玉兔不能听的？\n今天鸿钧仙官又来了，主人将我放置在阙月园，离开时脸上还带着忧色。\n好奇如我，今天就要听听，主人和鸿钧仙官究竟在瞒着我些什么！\n我放轻脚步，小跑到内殿。\n我两腿一蹬，蹦跳上窗台。\n我双耳并拢，战术性凑近。\n鸿钧仙官的声音，透过薄薄的窗户纸，断断续续传进我的耳朵里。\n“瀛玉就要飞升上神了，你记得到时候带玉兔避着点儿。”\n“我算过了，那人悟性很高，执念又太深，保不定会带着……那一世的记忆。”\n“天道轮回，他还是来了……”\n我听得朦朦胧胧，几个词连不成一句话。\n怪我这双耳朵，太久没用来听墙角了，改天得抽空去顺风耳那边练练听觉。\n不过有两个字，我听得格外清晰。\n瀛玉？\n这名字倒是好听。\n甚至……还有些熟悉。\n我之前在哪儿听过吗？\n嘶，怎么一想就头疼呢，罢了罢了。\n这时里边有了动静，似乎是两人要出来了。\n我连忙跳下窗台，跑回阙月园扑仙蝶。\n机智如我，时间算得刚…",
-          "link": "http://www.zhihu.com/question/484001869/answer/2098143630?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-13T10:08:41.000Z",
-          "wordCount": 22,
-          "title": "如何以「我是嫦娥怀里常抱着的玉兔」为开头写一个故事？"
         }
       ]
     },
@@ -4420,6 +4488,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9741217",
+          "author": null,
+          "description": "遠夏，热爱动物/微信平台：远夏的动物园\n阅读原文\n\n镇海棘螈 Echinotriton chinhaiensis 图 / 金星杰 2016\n镇海棘螈，全世界仅存在浙江宁波。在今年镇海棘螈被提升为国家一级保护动物，野生种群数量不足 600 尾。\n棘螈的名称来源于其背上的突起，是最古老和罕见的两栖动物之一，约 1500 万年前已经诞生。\n在国际非法异宠市场上，一只镇海棘螈的价格逾 2000 美元。而仅存于宁波的镇海棘螈，偶尔出现在海外国际市场上的镇海棘螈还在提醒着我们，国际野生动物非法偷猎盗猎行为的存在。\n所以在前不久，中国南部发现了既琉球棘螈，镇海棘螈后的第三种棘螈，也就是高山棘螈后，出于对这种极危物种的保护。发现者和研究人员保持了默契，不对外公布高山棘螈的发现地。\n高山棘螈 Echinotriton maxiquadratus 图 / 周佳俊 2015\n香港黑叉尾斗鱼，原以为是越南叉尾斗鱼\n中国斗鱼，英文名叫 paradise fish，1869 年法国科学家 Pierre Carbonnier 将其带到巴黎。从此中国斗鱼成为继金鱼后第二种传入西方的观赏鱼。目前的四种中国斗鱼（圆尾，叉尾，越黑，港黑）中，圆尾斗鱼和香港黑叉尾斗鱼都是中国特有物种。\n20 世纪 80 年代香港鱼类学研究者林钊在香港采集到黑色叉尾斗鱼，本以为是越南叉尾斗鱼。但后来人们发现香港黑叉生存在山涧溪流中，而普通叉尾斗鱼生活在水田溪流等和缓水域。而二者外貌上也有一定差异，故在 2002 年认定为新种。\n圆尾斗鱼广泛生活于我国北方，最远甚至能到黑龙江\n中国斗鱼灿烂如繁星的体色，具有侵略性的性格和独特的气泡巢繁殖形式令人印象深刻，如今野外的斗鱼由于栖息地受到种种原因的干扰，数量也在下降。\n川金丝猴\n蓝色的脸，和金色的毛发，是川金丝猴的特征。川金丝猴也是中国的明星物种，国家一级保护动物。\n得益于中国渊源流传的文化，从 11 世纪开始我们就已经从古书中得到关于川金丝猴的描述了，在长达一千年的记录中，我们得知以前它的分布地有多广，如今它们生活在湖北，四川，陕西，甘肃交接地带的森林中，也是全世界仅在中国有分布。\n事实上，从古书中我们可以了解到，过去的几千年中，中国无论是气候还是生态还是发生了很大的变化的。大象和犀牛漫步在神州大地，这是今天我们难以想象的事情。\n红腹锦鸡\n杜牧道：迥野翘霜鹤，澄潭舞锦鸡 。\n雉科中的华丽鸟类，其形象与民间凤凰相似。中国特有物种，分布在甘肃和陕西秦岭一带。鉴于其野外种群数量，为国家二级保护动物。\n2019 年 9 月下旬在江西被野放的一只中华穿山甲\n中华穿山甲。人人都知道穿山甲，在 2020 年我国还将穿山甲由二级提升为一级保护动物，可惜提升得有点晚了。\n夜行，独居，喜欢在山里挖掘出长长的通道。中国境内目前还有多少中华穿山甲？ 恐怕现在谁也不知道。根据《濒危野生动植物国际贸易公约》在 2018 年初发布的数据，中华穿山甲在过去 20 年里数量可能减少了 90%。但人们知道的只是，去调查村民，99%的人都说近些年再也没看到过穿山甲了。\n我记得以前看过一篇报道，连现在研究穿山甲的人，都没见过活的中华穿山甲。\n可喜的是，今年陆续有在不同地点拍摄到中华穿山甲的报道。只要行动得不算太晚，生命自己会找到出路。\n\n中国特有物种太多，如果仔细讲的话可能一天一夜都讲不完。\n除了这些广为人知的物种外，还有很多“长相普通”，“平平无奇”的动植物世世代代生活在中国。无论是昆虫，两栖类，爬行类这些容易被人忽视的，还是猫科，哺乳类这些易受瞩目的。\n在过去的日子里，我们的野外永远失去了很多中国特有的物种，比如华南虎，白鳍豚，白鲟等等。但是科普教育的普及，我们的下一代对自然和动物保护的认知，更清晰了。相关政策更加完善，做实事的团队也陆续涌现了，事情总是在往好的方面发展。\n我们生活在同一片天空，水源和土地上，是世代的邻居，那么在我们追求生活，奔向美好未来的时候，有时候是否能给它们营造多一点栖息地和生活环境呢？毕竟二者很多时候并不冲突。\n在上海崇明东滩野放的扬子鳄，已经繁殖出下一代\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741217",
+          "publishedOn": "2021-10-12T23:08:08.000Z",
+          "wordCount": null,
+          "title": "中国有哪些特有物种？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741224",
+          "author": null,
+          "description": "心理咨询师卢悦，沟通可➕：15611883005\n阅读原文\n\n要符合三大原则：\n第一要有“边界原则”：\n心理学认为一个成熟的人，往往是可以做到“课题分离”的。\n所谓“课题分离”用通俗的话讲就是“拎得清”。\n所谓“拎得清”就是说你知道这个问题谁是主角，谁是配角。\n我们经常会说一句话“皇帝不急太监急”就是说这种主次颠倒的情况。\n这种情况常见于“亲子关系”，比如孩子不好好学习，爸妈很着急，孩子却不着急。\n家长成了学习的主角，孩子成了自己人生的旁观者，这样的结果就是恶性循环，你越是试图“越俎代庖”，对方就越是对自己的利益漠不关心，因为他用这种“被动攻击”来抗议自己的“主权”遭到了侵害。\n所以亲友遇到任何问题，我们都一定要明白，我们不过是他人生的配角，他自己有权决定自己的人生，我们无法干涉。\n心理学也好，精神科也好，都只是解决人生问题的一个选项，我们还有很多其他选项，比如宗教、事业、爱好、友谊等等。\n有时候，我们就只能眼睁睁看着对方跳火坑，也无能为力，这很痛苦，但这就是他的人生，不是你的人生，你要负责的，应该是你自己的日子，别人的人生，人家愿意用你，你就可以起作用；不愿意用你，你就要接受。\n\n第二要有“底线原则”：\n那有人会说，难道看他寻死觅活也不管吗？\n当然我们作为配角的最基本的底线就是“保命原则”，如果你身边的人得了重度抑郁症，那么此时最重要的，就是尽快强制她去就医，因为此时她是在生病状态，已经没法很好的思考了，此时你不去采取强制措施，是一种失职。\n这就是底线。\n第三要有“需要原则”：\n我们帮助人，最重要的，不是我要帮你什么，而是要问“你需要我帮你什么。”我们经常遇到这样的冲突，比如妻子回到家，觉得郁闷，需要跟老公吐槽，但是老公却试图为妻子“指点迷津”，妻子怒了， 觉得在单位被老板骂，回家被老公批，很生气，而老公还委屈，觉得我在帮你啊。\n我们帮人一定是要对方授权的，对方没有授权你做教员，那么你就不能当，对方只是希望你给一双耳朵，你就不能给对方嘴。\n对方需要什么，你给什么，才是真正帮忙，否则只是你的自恋发作而已。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741224",
+          "publishedOn": "2021-10-12T23:08:03.000Z",
+          "wordCount": null,
+          "title": "如果发现身边亲友有心理问题，如何帮助他们就医？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741222",
+          "author": null,
+          "description": "司马懿，三国英雄士，四朝经济臣\n阅读原文\n\n当宣布今年的诺奖给予『没有预料到的实验结果』的时候，我就有预感了，莫非今年的诺奖要给 Angrist 和 Imbens？宣布之后，果然不出所料，只是多了 David Card。\n这一次的诺奖是真的实至名归，心悦诚服。因为它并非是像大多数诺奖那样，用于奖励某一个开宗立派的祖师。他们的贡献，尤其是 Angrist 和 Imbens，横跨经济学的各个领域，深刻而显著的影响了整个实证经济学的研究。无数的顶刊文章，很多国家的政策分析，都得益于他们在经济学方法论上的卓越贡献。\n可以说，现在经济学家，尤其是做数据、做实证的经济学家，几乎没有人没有读过 Angrist 和 Imbens 的著作，没有人没有用过他们的方法。\n在自然科学中，做实验的地位是非常重要的，尤其是在大众的印象里，做实验就等于科学研究。但是在社会科学里面，做实验往往非常的不现实——像一个国家、一个省的医疗保健政策，如何做实验呢？发生了就是发生了，我们也不可能回到没有发生的状态再观察一遍；再比如劳动力的供给，一个地区的劳动力供给就是有限的，而劳动力的自然增长往往和其他的因素密切相关，如何才能知道劳动力供给和工资之间的关系呢？总不能学朱棣从山西大槐树那边强行移民来做实验吧？\n这些宏观的、成千上万人参与其中的经济事件，都是没有办法做实验的。但是这些问题，恰恰又是和我们的生活、社会密切相关的问题，一个政策或者规制的效果、区域的劳动力供给……这些问题又需要能找到定量的方法，来进行评估、总结和测试。\n怎么办？这就是 Angrist 和 Imbens 的功劳了。\n他们开发了「拟自然实验」这个工具，很好的解决了这一问题。\n比如说，如果我们要研究政府投资对地区经济增长的作用，直接的比大小是不行的。因为地区的经济增长往往会带来投资，而投资又会促进经济增长，我们不知道他们谁先谁后，因果混杂在一起，直…",
+          "link": "https://daily.zhihu.com/story/9741222",
+          "publishedOn": "2021-10-12T23:07:58.000Z",
+          "wordCount": null,
+          "title": "2021 年诺贝尔经济学奖分别授予劳动经济学和因果关系分析，三位经济学家的贡献对现实社会有哪些意义？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741230",
+          "author": null,
+          "description": "孙悦礼，临床医生 | 生物医学工程师 | 科普作者\n阅读原文\n\n“一沾枕头就睡着”，对我们来说，越来越算得上奢望了……\n终于下决心抛弃用了多年的枕头，想买个好点的“颈椎枕”，可面对琳琅满目的品种，差异巨大的价格，让人完全找不到北。\n其实，我也想知道 69 元的枕头和 999 元的枕头，到底会有什么实际的差别。正好长假值班，医院也没有太多病人要处理。我就买了 7 种不同材料、不同形状的枕头，用上了一台 1500 万的医疗设备和 150 万的工程设备，请了一位颈椎有轻微问题的年轻志愿者。一整天时间，得到了这些数据。\n\n这些图表到底对应哪些枕头，答案就在最后～\n一、纳入横评的“代表”颈椎枕（按价格由低到高）1. 爷青回：荞麦枕（¥69）\n荞麦枕是爷爷奶奶辈的回忆，经济实惠。荞麦壳偏硬，可以很好地支撑住头部，而且透气性良好，有一定缓解疲劳的效果。\n\n我买来的是京东京造的荞麦枕\n\n2. 暖软轻：羽绒枕（¥199）\n羽绒枕是现在很多年轻人的首选枕头。 主要是因为它蓬松柔软又有良好的保暖性。羽绒枕主要是通过羽毛和绒毛来填充。保暖性主要看它的蓬松度。蓬松度越高，保暖性越好。\n\n我买来的是京东京造的全棉白鹅绒枕\n\n3. 邓禄普：化学发泡乳胶枕（¥199）\n乳胶也是最近很受欢迎的一种材质，它的透气性和弹性很好，枕起来比较舒适。乳胶枕除了要看乳胶含量百分比，还要看制作工艺到底是邓禄普还是特拉雷。\n邓禄普是化学发泡工艺，混合 - 发泡 - 注模 - 硫化 - 冲洗 - 烘干，流程少一些。会加一些固化剂、发泡剂、催化剂……所以化学物质会比较高。\n\n我买来的是京东京造的 94%乳胶含量的乳胶枕\n\n4. 中西合璧：软管 + 中草药（¥399）\n现代化学技术制备出了 PE 软管，传统中医药也有一些助眠的草药（艾草、决明子），作为枕头充填物，他们的优点都在于透气和可塑性，当积累足够可以起到一定的支撑作用。草…",
+          "link": "https://daily.zhihu.com/story/9741230",
+          "publishedOn": "2021-10-12T23:07:51.000Z",
+          "wordCount": null,
+          "title": "记忆枕、颈椎枕对颈椎病真的有效果吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741219",
+          "author": null,
+          "description": "伦西，科技爱好者|调香师|有事请私信\n阅读原文\n\n经过几天的评论收集和中肯建议，最终选择了包含最多评论支持率最高的玫瑰主题。本次截止日期前到货 7 款，我将做 7 款香水的横向测评。\n这 7 款玫瑰香水是：\n保罗史密斯 玫瑰之约 Paul Smith Rose 2007 \n百瑞德 无人区玫瑰 Byredo Rose Of No Man`s Land 2015\n芦丹氏 柏林少女 Serge Lutens La Fille de Berlin2013\n爱马仕 玫瑰花道 Hermes Hermessence Rose Ikebana 2004\n蒂普提克 玫瑰 Diptyque Eau Rose 2012\n缪缪 同名（红盖） Miu Miu Miu Miu 2015\n馥马尔 夜色玫瑰（一轮玫瑰 ） Frederic Malle Une Rose 2003\n香水到货后，我就迫不及待打开包装，齐齐整整拍个照片\n这些香水都是 21 世纪之后的作品，玫瑰香味的调制历史悠久，蒸馏器皿的发明远在公元前四百年，相信运用蒸馏技术的玫瑰芳香水和玫瑰精油也紧随其后。但是直到上世纪中叶，玫瑰的所谓调香才臻于完美，50 年代的玫瑰醚，60 年代的 Hedione，尤其是 1970 年代以后，乙位突厥酮和乙位突厥烯酮的问世，几乎补足了玫瑰调香的最后一块短板。\n作为一名技术人员，我一直想给大家带来更加“客观”和准确的香水测评，本曾想联合几位调香师朋友一起打分，但是调香师看待香水的角度和大家经常有所不同，最重要的一个特点，调香师往往不以自己的喜好来给香水打分，每个调香师关注的重点不同，打分就会千奇百怪。于是，我最终确定了用盲评的方法来进行测评，以消除品牌、包装、名字的心理暗示。\n首先，我们把香水让助手分到 7 个外观一样的小瓶中，有些香水带有颜色，喷到闻香纸上能明显看出来。为了实现真盲评，我想了两个办法。一，把…",
+          "link": "https://daily.zhihu.com/story/9741219",
+          "publishedOn": "2021-10-12T23:07:42.000Z",
+          "wordCount": null,
+          "title": "有哪些香水适合重度玫瑰控患者？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741235",
+          "author": null,
+          "description": "我男朋友脖子上被人种草莓，但是他说这是他去酒吧玩，和别人摇骰子别人扑上来亲的他立马就推开了。可信吗？\n\n白敬亭的圈外女友，得不到，就捏造\n阅读原文\n\n他立马就推开了\n说这是另外的价钱\n\n\n\n阅读原文\n\n庙里的师傅说我父亲明年犯太岁，需要花三万请佛供养，每年都在庙里花两万了，我想问一下是否有这个必要请？\n\n雨花\n阅读原文\n\n太岁就是木星对地心投影的对跖点。木星的轨道平面距离地球轨道平面非常近，倾角仅为 1.3 度，所以木星在地球表面的对跖点从来不会超出两回归线以外 1.3 度，即 24.8N 和 24.8S，搬到泉州、阿斯旺、迈阿密以北或布里斯班、圣保罗、比勒陀利亚以南就井水不犯河水了。\n阅读原文\n\n你高中遇到过什么糟糕的事?\n\n爱吃糖葫芦\n阅读原文\n\n因为洗头太频繁了，被妈妈怀疑早恋\n阅读原文\n\n成年人会介意和小孩一起玩剧本杀吗？\n\n尘市，微信搜索尘市CHANGE，开启剧本杀之旅\n阅读原文\n\n我组过一车硬核本 五个七八岁的小朋友 和一个二十三岁的我\n\n整场游戏，我被问的最多的就是\n「阿姨，这个字怎么读」\n阅读原文\n\n可以穿龙袍参加高考吗？\n\n匿名用户\n阅读原文\n\n大热天穿龙袍多难受啊，建议穿皇帝同款新衣。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741235",
+          "publishedOn": "2021-10-12T23:07:32.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9741200",
           "author": null,
@@ -6029,66 +6157,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740225",
-          "author": null,
-          "description": "中科院南古所，一起来聊聊古生物的事儿\n阅读原文\n\n人工智能，锁定一亿年前那只装成叶子的小虫\n说到动物的伪装术，你会想到什么？可能你只能想到变色龙和竹节虫，专业的生物学家则能列举出更多：恶魔叶尾壁虎、枯叶螳螂、卡利玛·伊纳库斯蝴蝶……而对于古生物学家来说，一亿年前形成的琥珀里，还埋藏着许多有趣的拟态行为。\n昆虫的伪装术秘籍\n昆虫隶属于节肢动物门昆虫纲，是动物界中多样性最高的群体。与其他动物相比较，它们往往个体较小，你或许以为它是动物世界里的弱势群体，但它其实是多样性最高的生物。为了躲避天敌或捕捉食物，它们演化出各种神奇的伪装术，修炼了十八般武艺。\n1.伪装术之拟态植物\n植物拟态，指的是模拟其生活环境中的植物以达到伪装的效果，例如竹节虫拟态树枝、螽斯拟态树叶等。翅膀退化的竹节虫身体往往会呈修长的树枝状，来模仿植物的树枝；粉色的兰花螳螂可以像一朵小花一样隐藏于兰花丛中。\n一眼看过去，你能找到竹节虫在哪吗 （图片来源：veer 图库） 兰花螳螂，可以说是螳螂界的“小公主”了 （图片来源：veer 图库）\n2.伪装术之覆物伪装\n覆物伪装则是指昆虫主动利用环境中的各种材料遮盖体躯，从而达到伪装效果的行为。覆物行为是昆虫伪装术中非常奇特复杂的一类，需要昆虫同时具有辨别、采集、携带材料的能力以及相关的形态学适应。\n例如草蛉的幼虫蚜狮，这类昆虫的身体背部往往长有特化的微小刚毛，这些刚毛可以分泌粘液，将生活环境中的各种碎屑（比如猎物的空壳、细小的植物碎屑或尘屑等）覆盖且粘黏在自己的身体上，用以更好地伪装自己。\n背负“战利品”的蚜狮 （图片来源：搜狐图片）\n3.伪装术之保护色\n保护色指的是动植物体表的颜色与周围环境一致或者相似，用以达到迷惑其他生物的目的。例如我们常见的螽斯往往会身披翠绿，隐藏于绿叶之间。\n隐藏在绿叶间的螽斯（图片来源：veer 图库）\n正是这些生存策略，让小小的昆虫可以与它们的…",
-          "link": "https://daily.zhihu.com/story/9740225",
-          "publishedOn": "2021-09-12T23:08:39.000Z",
-          "wordCount": null,
-          "title": "古动物有「拟态」行为吗？会和现代动物一样有趣吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740204",
-          "author": null,
-          "description": "三斤哥，新能源/变速箱/智能网联\n阅读原文\n\n作为一名共享汽车的深度用户，我个人认为共享汽车越来越少的原因主要有以下几点\n在当前的社会环境下，共享汽车的便捷性、成本、停车、补能之间存在矛盾\n这部分矛盾的根源其实就是停车位越来越不够用了。\n由于共享汽车大多数都是电动汽车，因此其在闲置时是有充电需求的，所以共享汽车来说，最好的模式应当类似于早期的 EVcard，即所有网点都有专属的带充电桩的停车位，用户需插枪后才能还车。\n早期的 EVcard 需要充电才可以还车\n这种模式的优势是显而易见的，用户取车地点一目了然、还车时不用苦苦寻找车位、车辆电量有保障……\n但是这种模式也有很大的局限性\n\n比如用户只能在网点才能取还车，当网点密度不够时，用户短途出行的便捷性大打折扣；\n网点无剩余车位后用户无法还车，只能寻找其他有车位的网点，打乱用户出行计划；\n运营方需要花巨量的成本租赁停车位，否则在车位越来越紧张的今天，各停车场运营方没有动力给共享汽车划专用停车位；\n即使租用了专用停车位，仍然需要与停车场运营方保持合作，确保车位的专用性；\n……\n\n而以目前的技术条件，如果需要对任何一个缺点进行改进，都会带来其他方面的问题\n同样一个平台，燃油车的计费标准比电动车高多了\n如果不需要用户充电才还车，虽然方便了还车的用户，但是运营方需要有专人负责车辆的补能，增加运营成本；\n或者索性直接用燃油车，这样虽然也没有充电的烦恼，但是会增加消费者的用车费用，使其在打车面前失去性价比；\n如果只划定取还车区域，不设置专用停车位，这样还车时的灵活性看似是增加了，但是车位没有保障了、补能不方便了、取车用户找车也不方便了；\n或者甚至连取还车区域都不划分了，只要是合法车位都可以还车，这样看起来是非常灵活，上面那一条中的问题会进一步放大，运营人员需要满城跑给车子充电、用户取车更是像开盲盒，无法培养用户习惯；\n……\n\n所以当现在停…",
-          "link": "https://daily.zhihu.com/story/9740204",
-          "publishedOn": "2021-09-12T23:08:34.000Z",
-          "wordCount": null,
-          "title": "为什么曾经很火的共享汽车越来越少了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740232",
-          "author": null,
-          "description": "豹隶，公众号—水水马爱天下，专发胡言乱语。\n阅读原文\n\n（全文约 6000 字，不算短，但如果你把这篇文章读透，我保证你会很清楚到底什么是观念艺术，比看文章前清楚 100 倍。就是这么有自信～）\n【观念艺术】是艺术中某一类具有相似特点的艺术的统称。这四个字不是艺术材料的分类，也不是艺术风格的分类（严格意义上）。观念艺术在当代艺术里占有一个相当大而重要的比例（全球范围来说约 1960 年至今，不同地区进入的时间不同，如中国在 80 年代进入）。所以说如果想要理解当代艺术都在做什么，观念艺术是无论如何也绕不开的一环。\n【观念艺术】是一个新词，在西方艺术核心圈子里出现至今也才 80 年，这个艺术门类放在整个西方艺术史这条进程线里，它是成立的，这是什么意思呢？是说观念艺术在欧美文明圈中的这条艺术史发展的轴线上，它有缘起 - 发展 - 壮大的整个完整的过程，所以这个点（观念艺术），如果我们把它放入西方艺术史中的这个时空之网（原点在 20 世纪初出现，到 60 年代发展。地点主要在美国），这个点在这张网上是完全可以立得住的（反之，在其它国家，比如中国，它不见得立得住）。\n立得住主要指以下三点：\n1:具备较成熟的文化环境（主要指以下 2 点）\n2:具备一定的群众基础\n3:具备较完善的研究方法和系统理论\n可以说，目前在中国内地，在观念艺术这块的发展还是起步阶段（如果要发展的话）。以上三点都是匮乏的。不过，从 90 年代至今，中国一批观念艺术家在国际上的参与和活跃度不低。可以说打了底子。\n简单说说观念艺术成长的土壤：\n1）观念艺术这个根是一个法国艺术家（杜尚）带着种子到美国播下的。\n2）存在主义的兴起，从尼采到海德格尔埋下伏笔，再由萨特、罗兰巴特、福科等人所引申出各个领域的扩展。存在主义是观念艺术的一个很重要的理论基础。因为这两者的源头都是“虚无主义”，虚无主义是尼采晚年的重点研究对象。\n3…",
-          "link": "https://daily.zhihu.com/story/9740232",
-          "publishedOn": "2021-09-12T23:08:24.000Z",
-          "wordCount": null,
-          "title": "如何能最快让人理解什么是观念艺术？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740226",
-          "author": null,
-          "description": "JY huang，除了非正义和虚假，没有什么是必须反对的\n阅读原文\n\n很懂跑步的人大概都在忙着跑步，就让我这个只懂一点点的来啰嗦两句吧。\n什么才是真正懂跑步，估计是个见仁见智的问题，在我看来，真正懂跑步的人，会放弃单一的慢跑训练，转而采用不同的速度距离组合，根据自己的个人情况做针对性的训练。\n\n作为一个把长期目标放在全马破 3（配速 4:15），近期目标全马 315（配速 4:37）的跑者，我的日常训练分成四大类\n日常累积跑：以配速 4:50 左右完成的 8-12 公里距离。训练目的是积累、巩固有氧基础。\n\nLSD 跑：以比目标完赛配速（4:37）慢 30-40 秒左右的配速，完成 25-35 公里左右的距离。LSD 跑可以视为日常跑的加强版本，目的是使身体适应长时间的运动状态，模拟长距离后的心率状态，最大限度地提升有氧能力。\n\n阈值跑：以接近 10 公里 PB（配速 4:00)的 4:10-4:20 速度完成中短距离训练（10 公里以下，根据当时状态调整），训练目的是提升乳酸阈，提升身体对运动疲劳的对抗能力，推迟体力“极点”的到来\n\n间歇跑：以冲刺的速度（配速 3:20）完成若干组的短距离 400m 或 800m 跑，每组之间休息 2-2 分半。该训练的目的是最大程度地提升无氧表现，提升乳酸阈。同时，间歇跑能通过最大限度地调用日常训练中相对少用到的肌肉，进而帮助提升步幅、步频。\n\n所以，在不同的训练中，跑步在速度、距离和整体强度上，有着非常大的差别，作为跑者自身，应该根据训练本身的特点，选择合适的鞋。\n\n上图的四对鞋，分别是 adizero adios pro 2.0/SL20/adizero adios 4/adizero RC2，是我日常训练里最经常使用到的鞋。首先，adizero 的鞋楦设计非常适合我，几乎无需试穿，特别适合我网购。其次，我偏瘦，跑步多年却幸运地几乎…",
-          "link": "https://daily.zhihu.com/story/9740226",
-          "publishedOn": "2021-09-12T23:08:16.000Z",
-          "wordCount": null,
-          "title": "真正懂跑步的人，都买了什么样的跑步鞋？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740236",
-          "author": null,
-          "description": "丁勾，这里没有言论自由，不接受任何批评。\n阅读原文\n\n总的来看，10 年代是“霓虹将亚洲音乐市场老大地位拱手让人”的过程。\n如果单看 O 榜，霓虹主流音乐透着股药丸的气息：受到流媒冲击，实体唱片业光速下滑。Solo 艺人专辑 / 单曲首周销量很难超过 5000 张，总销量过万就是胜利。曾经创造销量奇迹的宇多田光，《初恋》发售一年磨到 38 万，人民群众纷纷表示已经完成任务，其心甚慰。\n——欧美主流流行歌手，不管杏菜嘎嘎碧波儿还是泰勒斯，霓虹的实体专辑销量都在逐渐下滑。泰勒斯的 1989 发售一年磨了 26 万，reputation 就掉到 8 万。thank u,next 首周销量刚过五千。\n偶像团体方面，霓虹本土偶像团体（主要是 J 家和肥秋系）堪称日音毒瘤，靠广泛的粉丝基数或者奇奇怪怪的商法督促粉丝搬箱。韩国偶像团体——至少音乐没那么土——则大肆占据本土偶像团体市场，甚至连霓虹本土偶像团体也韩化了——NiziU 是全霓虹成员，震惊。偶像团体的销量能磨个十几甚至几十万。至于百万……那基本得靠商法。\n近年一些大红大紫的另类流行摇滚乐队，比如胡子男（Official 髭男 dism）、王牛（King Gnu），气势非常猛。胡子男热单多，不仅实体长卖，流媒数据也好看，已经有好几首歌流媒播放量过亿，堪称目前霓虹最红的乐队。哦，还有米津玄师，其实他出道很早，但到 2018 年因为 Lemon 才冲出日本走向...亚洲吧。虽说势头猛...…提醒一下，胡子男和王牛都是 2019 年成名，作为同样是旋律驱动的另类流行摇滚乐队，这意味着....三专正在前面等着哦嚯嚯嚯嚯～～～～\n——今年东京奥运会闭幕式，milet 登场 solo，微博上有人酸溜溜的说：“milet 凭什么 solo，有几个人知道她？米希亚比她更有资格！”立刻引来群起反驳：“你没听说过不代表大家没听说过，inside you 那么红。”“人家背后有索尼，后台硬。”“你不会想把平成歌姬找来吧？她们的嗓子都毁成啥样了。”“凭啥登台 solo 的歌手你就得听说过？12 年伦敦奥运会开幕式闭幕式都登场的 Emeli Sandé你听说过吗？”——好吧最后一条是我说的。\n以上，霓虹主流音乐市场就是这幅半死不活的惨样。但是，独立音乐市场有其他画面。\n霓虹是全球最重要的爵士音乐国家，霓虹爵士在全球独占一个板块——同样是舶来音乐，为毛摇滚甚至黑泡能够进入中国主流市场，偏偏爵士不行，这是个值得研究的话题。\n霓虹将 Jazzy Hip-Hop 风格发扬光大。每个知道 Jazzy Hip-Hop 的人都要把 Nujabes 挂嘴边。\n霓虹有一批地下黑泡歌手。2018 年三宅唱导演的电影《你的鸟儿会唱歌》，有一段三名主角参加黑泡歌手 Hi’Spec 小型演出的场景。三宅唱在 2015 年拍过霓虹黑泡歌手纪录片 The Cockpit，其中就有 Hi’Spec。Hi’Spec 还制作了电影原声。\n——KID FRESINO 这厮的 flow 是真强啊。年底必须提到专辑 20,Stop it.。考虑到今年好几张美国黑泡专辑扑街，20,Stop it.简直年度之光。\n——然鹅现在有霓虹黑泡歌手唱 trap 了，救命啊～～～\n霓虹有大量的 livehouse，为地下乐队的演出提供机会，因此霓虹存在后摇、前卫、金属、数字等等受众面相对小众的乐队。虽然注定无法走向主流市场，但创作环境稳定，能够源源不断通过独立厂牌出专辑。另一方面，签进主流厂牌的乐队往往连发行专辑的机会都没有，发行三张 EP 解散的例子比比皆是。\n——Babymetal 令很多人晕厥（现在依然能让很多人晕厥），但几名乐手的技术是实打实的强悍，其中不乏大师级金属乐手。虽然霓虹人的音乐理念经常令人吃不消（我至今受不了视觉系），但对技术的钻研是没得说。\n霓虹 Spotify 用户主要收听独立音乐。而在世界范围，Spotify 主要用来收听主流流行歌手，比如 Drake。\n综上，霓虹的音乐市场展现了两面性。也许霓虹存在理念、技术达到世界水平的音乐人，但无法通过主流市场获知。此外，霓虹很长时间没有贡献具有世界影响力的音乐人，比起 K-Pop 在世界市场攻城略地，这不是单纯的语言问题可以解释。\n——即使如此，霓虹歌手还是能对中国市场进行碾压。今年选秀火爆的 INTERSECTION，放世界范围是中规中矩的男团：长得好看（必须哒），唱歌合格，不擅跳舞。它的参照物不是 K-Pop 跳唱组合，而是世纪之交的欧美男团。由于在日本商业成绩不佳，和马都打算回哈佛上学去了。没想到来中国降维打击，焕发组合第二春。\n\n我心想：艾回干嘛让米卡出道，赶紧退出，然后趁着热度四人打包来中国商演，这钱赚着不香吗？！\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740236",
-          "publishedOn": "2021-09-12T23:08:07.000Z",
-          "wordCount": null,
-          "title": "日本音乐在世界上处于什么地位？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740195",
-          "author": null,
-          "description": "什么名字能拯救「曾」这个姓？\n\n知乎用户，争当知识分子的编剧\n阅读原文\n\n曾母暗沙\n曾用名\n这俩名挑一个\n阅读原文\n\n沈阳的“老雪花”为什么这么特别？喝起来会感觉度数比国内一般的啤酒高？\n\n如是道，中国金币总公司特许经销商 钱币学会理事\n阅读原文\n\n阅读原文\n\n你的老师在课上曾说过哪些与教学无直接关系而令你印象较深的话？\n\nRECAP PACER，D-D-D\n阅读原文\n\n物理老师：临时抱佛脚，佛踢你一脚。\n阅读原文\n\n整天看到有人在说赋能，赋能到底是个什么鬼？\n\nEidosper，天地一指也，万物一马也。\n阅读原文\n\n看了半天，我觉得解释为“开光”最为合适。\n阅读原文\n\n你有哪些尴尬到「脚趾抠鞋」的糗事？\n\n莫言夏至为祭年，写手/厌世/同性恋\n阅读原文\n\n我在二百多个人面前开了个人演唱会算吗\n高中上微机课，是那种好几个班一起上的大课。有一课要求带耳机，我在课上用耳机偷着听歌\n我记得很清楚，我听的是骚姆的 writings on the wall\n那悲伤的曲调，那沉重的旋律，听的我无法自拔，仿佛早已脱离课堂，成为 mv 中悲情故事的演员\n我想小声的跟唱，毕竟你懂的，只听不唱真的很憋屈，可是我忘了我在上课，我忘了我的耳机开的好大声，我忘了我五音不全跑调极其严重\n五分钟后，当我唱完一曲凝神在悲伤的氛围中\n我发现了二百多双注视我的眼睛\n我的同桌默默地跟我说\n「我们以为你在哀嚎……」\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740195",
-          "publishedOn": "2021-09-12T23:08:03.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -6097,6 +6165,24 @@
       "feedUrl": "https://wubaiqing.github.io/zaobao/rss.xml",
       "siteUrl": "https://wubaiqing.github.io/zaobao",
       "articles": [
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/10/12.html",
+          "author": null,
+          "description": "2021.10.12 今天是每日时报陪伴您的第 622 天\n[文章] 探索微前端场景极限：https://www.yuque.com/kuitos/gky7yw/uyp6wi\n[文章] vite 源码解析：https://github.com/zhangyuang/vite-design\n[工具] 基于 webview-based extensions 可以在 VSCode 中查看/使用组件库的解决方案 ：https://github.com/microsoft/vscode-webview-ui-toolkit\n[类库] VEUI 是一套基于 Vue.js 的企业级应用组件库：https://veui.dev/\n[类库] SWR 首先从缓存中返回数据（stale），然后发送获取请求（revalidate），最后随着 up - 再次更新数据：https://github.com/Kong/swrv",
+          "link": "https://wubaiqing.github.io/zaobao/2021/10/12.html",
+          "publishedOn": "2021-10-11T02:07:44.000Z",
+          "wordCount": 113,
+          "title": "2021.10.12 今天是每日时报陪伴您的第 622 天"
+        },
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/10/11.html",
+          "author": null,
+          "description": "2021.10.11 今天是每日时报陪伴您的第 621 天\n[规范] Sanitizer API 可以防止 XSS 安全漏斗共计，最早 AngularJS2 有 DOMSanitizer 现在已纳入标准：https://wicg.github.io/sanitizer-api/\n[类库] 使用 Cloc 可以统计你的代码量，识别多种语言可以忽略注释和空行，写软著/专利的时候特别有用：https://www.npmjs.com/package/cloc\n[文章] 什么是流以及在 Node 中如何使用可读流、可写流和转换流。看了这篇文章我才知道有一个 for-await-of 循环：https://css-tricks.com/web-streams-everywhere-and-fetch-for-node-js/\n配图 - Cloc\n\n配图 - 什么是流",
+          "link": "https://wubaiqing.github.io/zaobao/2021/10/11.html",
+          "publishedOn": "2021-10-11T02:07:44.000Z",
+          "wordCount": 110,
+          "title": "2021.10.11 今天是每日时报陪伴您的第 621 天"
+        },
         {
           "id": "https://wubaiqing.github.io/zaobao/2021/10/01.html",
           "author": null,
