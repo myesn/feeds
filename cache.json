@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=353719",
+          "author": "Chris Coyier",
+          "description": "Web-browser for research that helps programmers think clearly.\nWith Bonsai, rather than being like, I’m going to go use my web browser now, you hit Option + Space and it brings up a browser. It’s either full-screen or a …\nThe post Bonsai Browser appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bonsaibrowser.com/",
+          "publishedOn": "2021-10-13T22:50:47.000Z",
+          "wordCount": 32,
+          "title": "Bonsai Browser"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352459",
+          "author": "Chris Coyier",
+          "description": "As someone just sittin’ back watching CSS evolve, it feels like we’re at one of the hottest moments of innovation in CSS history. It was really something when we got flexbox across all browsers, and not terribly long after, grid. …\nThe post CSS is Going Gosh-Darned Hog Wild, I Tell Ya What appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-is-going-gosh-darned-hog-wild-i-tell-ya-what/",
+          "publishedOn": "2021-10-13T15:36:43.000Z",
+          "wordCount": 1510,
+          "title": "CSS is Going Gosh-Darned Hog Wild, I Tell Ya What"
+        },
+        {
+          "id": "https://css-tricks.com/?p=353700",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed blogs the sentiment that we might not need to lean on position: absolute as much as we might have in the past. For one thing: stacking elements. For example, if you have a stack of elements that should …\nThe post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/less-absolute-positioning-modern-css/",
+          "publishedOn": "2021-10-13T14:42:26.000Z",
+          "wordCount": 2122,
+          "title": "Less Absolute Positioning With Modern CSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=353415",
           "author": "Laurie Voss",
           "description": "Which new framework should I learn this year? Is it time to ditch my CMS? What tools should I pick up if I want to scale my site to an audience of millions? The 2021 Jamstack Community Survey is here …\nThe post Jamstack Developers’ Favorite Frameworks of 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -614,33 +641,6 @@
           "publishedOn": "2021-09-14T14:32:16.000Z",
           "wordCount": 707,
           "title": "Jamstack Conf 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350466",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nThere is a conversation that has been percolating for as long as I’ve been in the web design and development industry. It’s centered around the conflict between design tools and development tools. The final …\nThe post Developers and Designers Work on a Single Source of Truth With UXPin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/developers-designers-uxpin/",
-          "publishedOn": "2021-09-13T19:21:00.000Z",
-          "wordCount": 1325,
-          "title": "Developers and Designers Work on a Single Source of Truth With UXPin"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351302",
-          "author": "Jimmy Chion",
-          "description": "Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …\nThe post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/grainy-gradients/",
-          "publishedOn": "2021-09-13T19:04:51.000Z",
-          "wordCount": 1821,
-          "title": "Grainy Gradients"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351726",
-          "author": "Chris Coyier",
-          "description": "I feel like my quest to make sure this site had pretty sweet (and automatically-generated) social media images (e.g. Open Graph) came to a close once I found Social Image Generator. \nThe trajectory there was that I ended up …\nThe post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/social-image-generator-jetpack/",
-          "publishedOn": "2021-09-13T14:20:13.000Z",
-          "wordCount": 844,
-          "title": "Social Image Generator + Jetpack"
         }
       ]
     },
@@ -649,6 +649,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).",
+          "link": "https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/",
+          "publishedOn": "2021-10-13T11:00:00.000Z",
+          "wordCount": 1000,
+          "title": "Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
           "author": "hello@smashingmagazine.com (Gaurav Khanna)",
@@ -998,20 +1012,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "author": "hello@smashingmagazine.com (Tracy Osborn)",
-          "description": "When designing for digital spaces, it’s natural to default to digital mockup tools, but doing so cuts out a world of possibilities. Analog drawing can unleash your imagination and allow you to focus on what’s most important at the start: the ideas.",
-          "link": "https://smashingmagazine.com/2021/09/power-pen-paper-sketching/",
-          "publishedOn": "2021-09-14T09:30:00.000Z",
-          "wordCount": 2096,
-          "title": "The Power Of Pen And Paper Sketching",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e4a5bd0b-53db-40c2-90d9-9d0a19b8d377/power-pen-paper-sketching.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1072,6 +1072,105 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/gez059v",
+          "author": null,
+          "description": "无专精则不能成，无涉猎则不能通。",
+          "link": "https://toutiao.io/k/gez059v",
+          "publishedOn": "2021-10-14T01:11:33.029Z",
+          "wordCount": 295,
+          "title": "亿级流量架构演进实战：从零构建亿级流量 API 网关（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/o99r9en",
+          "author": null,
+          "description": "前言 Hi Coder，我是 CoderStar！今天给大家带来多线程系列的第二篇文章 -- GCD，其大概",
+          "link": "https://toutiao.io/k/o99r9en",
+          "publishedOn": "2021-10-14T01:11:31.984Z",
+          "wordCount": 642,
+          "title": "iOS 多线程：GCD"
+        },
+        {
+          "id": "https://toutiao.io/k/ew3jom8",
+          "author": null,
+          "description": "这篇文章将带着大家参透：到底什么是 Kafka 架构设计的任督二脉？",
+          "link": "https://toutiao.io/k/ew3jom8",
+          "publishedOn": "2021-10-14T01:11:31.895Z",
+          "wordCount": 259,
+          "title": "Kafka 架构设计的任督二脉"
+        },
+        {
+          "id": "https://toutiao.io/k/tryss1z",
+          "author": null,
+          "description": "如何从 Spark 做批处理到 Flink 做流批一体，在 LinkedIn 的一些探索实践经验。",
+          "link": "https://toutiao.io/k/tryss1z",
+          "publishedOn": "2021-10-14T01:11:31.779Z",
+          "wordCount": 1103,
+          "title": "从 Spark 做批处理到 Flink 做流批一体"
+        },
+        {
+          "id": "https://toutiao.io/k/m857vp1",
+          "author": null,
+          "description": "celery是一个基于分布式消息传输的异步任务队列，它专注于实时处理，同时也支持任务调度。它的执行单元为任务（task），利用多线程，如Eventlet，gevent等......",
+          "link": "https://toutiao.io/k/m857vp1",
+          "publishedOn": "2021-10-14T01:11:31.632Z",
+          "wordCount": 189,
+          "title": "Python-Celery 专注于实现分布式异步任务处理、任务调度的插件"
+        },
+        {
+          "id": "https://toutiao.io/k/vidk05k",
+          "author": null,
+          "description": "在WSL中跑Linux GUI应用，在加上Win11的支持简直可以做到Win+Linux无缝链接。可将其加入到开始菜单当中，单击就可以一键启动Linux下的程序；",
+          "link": "https://toutiao.io/k/vidk05k",
+          "publishedOn": "2021-10-14T01:11:31.538Z",
+          "wordCount": 111,
+          "title": "在 Win11 的 WSL 中体验 IDEA 等 GUI 程序"
+        },
+        {
+          "id": "https://toutiao.io/k/0qkonm0",
+          "author": null,
+          "description": "本文探究Redis最新特性--客户端缓存在SpringBoot上的应用实战。",
+          "link": "https://toutiao.io/k/0qkonm0",
+          "publishedOn": "2021-10-14T01:11:31.444Z",
+          "wordCount": 309,
+          "title": "实践篇：Redis 客户端缓存在 Spring Boot 应用的探究"
+        },
+        {
+          "id": "https://toutiao.io/k/38xpihl",
+          "author": null,
+          "description": "萦绕 在您脑海中的旋律，通常被称为“耳虫”，是一种众所周知且有时令人恼火的现象——一旦耳虫出现，就很难摆脱它",
+          "link": "https://toutiao.io/k/38xpihl",
+          "publishedOn": "2021-10-14T01:11:31.357Z",
+          "wordCount": 155,
+          "title": "Hum to Search 背后的机器学习"
+        },
+        {
+          "id": "https://toutiao.io/k/gbgyn1h",
+          "author": null,
+          "description": "划重点了",
+          "link": "https://toutiao.io/k/gbgyn1h",
+          "publishedOn": "2021-10-14T01:11:31.099Z",
+          "wordCount": 197,
+          "title": "卷！Java 学这么多才能找到第一份工作"
+        },
+        {
+          "id": "https://toutiao.io/k/6sw0iu6",
+          "author": null,
+          "description": "2021年卓越工程生产力大会将于10月15日至16日在北京举办。",
+          "link": "https://toutiao.io/k/6sw0iu6",
+          "publishedOn": "2021-10-14T01:11:29.270Z",
+          "wordCount": 160,
+          "title": "2021 卓越工程生产力大会 10 月 15-16 日登陆北京，多位研发效能领域大咖齐聚首！"
+        },
+        {
+          "id": "https://toutiao.io/k/oyw72wo",
+          "author": null,
+          "description": "最近学了一些 Java GC 的知识，按自己的理解整理了一些 GC 算法遇到的问题和解决的思路。",
+          "link": "https://toutiao.io/k/oyw72wo",
+          "publishedOn": "2021-10-14T01:11:27.007Z",
+          "wordCount": 937,
+          "title": "Java GC 入门"
+        },
         {
           "id": "https://toutiao.io/k/z9n7vn0",
           "author": null,
@@ -3384,114 +3483,6 @@
           "publishedOn": "2021-09-15T01:08:38.238Z",
           "wordCount": 487,
           "title": "[推荐] 一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具"
-        },
-        {
-          "id": "https://toutiao.io/k/6ex7029",
-          "author": null,
-          "description": "本文主要介绍一个搜索和推荐中常用的一个评估指标：NDCG。",
-          "link": "https://toutiao.io/k/6ex7029",
-          "publishedOn": "2021-09-14T01:11:52.337Z",
-          "wordCount": 197,
-          "title": "NDCG 介绍与实现和推荐系统中的应用"
-        },
-        {
-          "id": "https://toutiao.io/k/75h4wyl",
-          "author": null,
-          "description": "",
-          "link": "https://toutiao.io/k/75h4wyl",
-          "publishedOn": "2021-09-14T01:11:52.254Z",
-          "wordCount": 659,
-          "title": "后端程序员的 Vue 超简单入门笔记"
-        },
-        {
-          "id": "https://toutiao.io/k/q1x2xdv",
-          "author": null,
-          "description": "我是Visual Studio Code的铁杆粉丝",
-          "link": "https://toutiao.io/k/q1x2xdv",
-          "publishedOn": "2021-09-14T01:11:52.174Z",
-          "wordCount": 187,
-          "title": "[译] 厌倦了 VS Code？试试 Lite-XL 吧"
-        },
-        {
-          "id": "https://toutiao.io/k/0ea8y3x",
-          "author": null,
-          "description": "给你一段代码，你能简要扼要的说出当前代码的质量情况，并提出优化的方向吗?",
-          "link": "https://toutiao.io/k/0ea8y3x",
-          "publishedOn": "2021-09-14T01:11:52.104Z",
-          "wordCount": 106,
-          "title": "代码质量的 4 个阶段：3Rs 软件架构介绍"
-        },
-        {
-          "id": "https://toutiao.io/k/n8zlb2f",
-          "author": null,
-          "description": "留存的计算，应该是每个数仓从业者都会碰到的场景，本文针对超长时间周期的多日用户留存，进行相关的计算优化思路分析",
-          "link": "https://toutiao.io/k/n8zlb2f",
-          "publishedOn": "2021-09-14T01:11:52.033Z",
-          "wordCount": 106,
-          "title": "超长周期逐日用户留存率的计算优化"
-        },
-        {
-          "id": "https://toutiao.io/k/9cych4m",
-          "author": null,
-          "description": "神奇的细胞自动机，来看看是什么玩意",
-          "link": "https://toutiao.io/k/9cych4m",
-          "publishedOn": "2021-09-14T01:11:51.953Z",
-          "wordCount": 170,
-          "title": "细胞自动机，那是什么东西？"
-        },
-        {
-          "id": "https://toutiao.io/k/0rlsxms",
-          "author": null,
-          "description": "由于分布式事务方案，无法做到ACID的保证，没有一种完美的方案，能够解决掉所有业务问题。因此在实际应用中，会根据业务的不同特性，选择最适合的分布式事务方案。",
-          "link": "https://toutiao.io/k/0rlsxms",
-          "publishedOn": "2021-09-14T01:11:51.865Z",
-          "wordCount": 92,
-          "title": "如何选择最适合你的分布式事务方案"
-        },
-        {
-          "id": "https://toutiao.io/k/kd72la1",
-          "author": null,
-          "description": "一份好的设计文档需要提供清晰的问题描述、整体的概要设计、涵盖各个细节的详细设计等。这篇有趣的小短文通过一个简单的小例子介绍了谷歌工程师是怎么写设计文档的。",
-          "link": "https://toutiao.io/k/kd72la1",
-          "publishedOn": "2021-09-14T01:11:51.716Z",
-          "wordCount": 112,
-          "title": "谷歌工程师是怎么写工程设计文档的？"
-        },
-        {
-          "id": "https://toutiao.io/k/fdxwkwy",
-          "author": null,
-          "description": "C# .NET 中的缓存实现软件开发中最常用的模式之一是缓存。",
-          "link": "https://toutiao.io/k/fdxwkwy",
-          "publishedOn": "2021-09-14T01:11:51.651Z",
-          "wordCount": 438,
-          "title": "C# .NET 中的缓存实现"
-        },
-        {
-          "id": "https://toutiao.io/k/m5kpcap",
-          "author": null,
-          "description": "文中提到的流程方法无论公司和基础设施均适用",
-          "link": "https://toutiao.io/k/m5kpcap",
-          "publishedOn": "2021-09-14T01:11:51.529Z",
-          "wordCount": 66,
-          "title": "做了一个简单但是很有效的优化，怎样表达出它的价值？"
-        },
-        {
-          "id": "https://toutiao.io/k/5hk714k",
-          "author": null,
-          "description": "架构设计需要致力于解决人的问题",
-          "link": "https://toutiao.io/k/5hk714k",
-          "publishedOn": "2021-09-14T01:11:51.365Z",
-          "wordCount": 150,
-          "title": "我对 Node 作为中间层的一些想法"
-        },
-        {
-          "id": "https://toutiao.io/k/0ue0suz",
-          "author": null,
-          "description": "最早的时候页面是服务端渲染的，也就是 PHP、JSP 那些技术，服务端通过模版引擎填充数据，返回生成的 html，交给浏览器渲染。那时候表单会同步提交，服务端返回结果页面的 html。 后来浏览器有了 ajax 技术，可以…",
-          "link": "https://toutiao.io/k/0ue0suz",
-          "publishedOn": "2021-09-14T01:11:48.909Z",
-          "wordCount": 469,
-          "title": "谈谈我这些年对前端框架的理解"
         }
       ]
     },
@@ -3500,6 +3491,42 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://www.zhihu.com/question/302793583/answer/581444181",
+          "author": "超哥聊羽球",
+          "description": "2021年10月12日，两年后再来更新\n最近这段时间，测评羽毛球球拍，不聊天斧99pro那和耍流氓是没有区别的，如果不是还没有上市，我甚至还想聊聊雷霆80。\n那么这次更新呢，重点聊聊下面这些球拍。\n但我的风格大家知道的，聊到兴起，或者评论区要求突出，也会多嘴几句其他球拍！\n\n总体来说，我个人是喜欢进攻打法的，我相信大多数和我一样半路出家的业余球友心中都会有一个跳杀的梦。但不得不说，杀球厉不厉害，一看天赋，二看训练，看不看球拍呢？也看，但不是越暴力的球拍，杀球就能越猛，而是越趁手的球拍，就越能和你“人拍合一”，发挥出威力。所以，找到了合适的球拍，你往往是怎么打怎么有，球拍不合适，那你会觉得，老子要换一把，要么是太硬了打不动，要么是太重了两局就累了，要么是太软了杀球飘，要么是出球发虚控不住……\n\n天斧99pro\n99pro作为尤尼克斯的最新高端拍，也是2021年苏迪曼上李梓嘉（日耀红99Pro）对战桃田（白虎纹）的战拍，可以说从几个月前发布之初就吊足了广大球友的胃口。拍子分为白虎纹和日耀红两个配色，白色的球拍，历来都是市场的宠儿，红色，也是在中国代表着喜庆的配色。\n\n经过作者一个多月的试用，给大家分享一些个人体会，仅供参考。\n1 白虎纹和日耀红两个配色\n从参数手感上来说都没有任何区别。不同的只是配色。因为自身卖家的特殊身份的缘故，曾经在手里的99pro，红色，白色，4u，3u，排列组合出的四个规格各有5-10只不等，经测量，同配色同规格的参数（重量，平衡点）误差和不同配色同规格的参数误差，是一个量级的。这里也再次吐槽一下尤尼的品控，确实有待提高。\n\n2 99pro并不是一把传统意义的进攻拍\n众所周知，从天斧系列的第一只准高端拍AX77开始，一直到AX100zz，天斧系列一直以其进攻血统而闻名（AX88s和AX88spro不算，因为是双旗舰之一，与之对应的还有AX88d和AX88…",
+          "link": "http://www.zhihu.com/question/302793583/answer/581444181?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-13T09:55:15.000Z",
+          "wordCount": 198,
+          "title": "高价羽毛球拍真的值这个价吗？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492029519/answer/2168653145",
+          "author": "中国文艺网",
+          "description": "10月12日，以“文明互鉴：共筑人类命运共同体”为主题的太湖世界文化论坛第六届年会在安徽省蚌埠市开幕。当日下午，由太湖世界文化论坛、中国文联网络文艺传播中心主办，中共安徽省委网络安全和信息化委员会办公室、蚌埠市人民政府联合主办的“太湖世界文化论坛第六届年会·网络文艺论坛：精心编织人文交流新纽带，助力构建人类命运共同体”在中国蚌埠古民居博览园宁波大宅成功举办。这是太湖世界文化论坛首次将网络文艺纳入讨论话题范围。\n\n10月12日，太湖世界文化论坛第六届年会网络文艺论坛在安徽蚌埠举办。图为论坛现场。\n\n10月12日，太湖世界文化论坛第六届年会网络文艺论坛在安徽蚌埠举办。图为论坛现场。\n中国文联网络文艺传播中心主任郝向宏，中国文联网络文艺传播中心副主任彭宽，安徽省委网信办副主任文霞平，蚌埠市委常委、市委宣传部部长、副市长郭鹏参加此次网络文艺论坛。论坛特邀青年游戏研究学者、北京大学新闻与传播学院博雅博士后邓剑主持。\n\n10月12日，太湖世界文化论坛第六届年会网络文艺论坛在安徽蚌埠举办。图为中国文联网络文艺传播中心主任郝向宏致辞。\n中国文联网络文艺传播中心主任郝向宏致辞。他表示，这是太湖世界文化论坛首次设立网络文艺对话板块，对于在全球范围内依托网络、聚焦文艺、交流文化、鉴赏文明，对于发挥网络文艺的力量构建人类命运共同体，具有重要的推动作用。网络文艺少长咸集、俊采星驰、群星璀璨的时代已经来临，为新时代文艺巨星、文化巨作、文明巨擘的产生奠定了文艺量的基础，准备了文艺质的条件。新时代网络文艺要坚守追求真善美的文艺理想，让蓝色星球响彻人类命运共同体之歌。\n\n10月12日，太湖世界文化论坛第六届年会网络文艺论坛在安徽蚌埠举办。图为青年游戏研究学者、北京大学新闻与传播学院博雅博士后邓剑主持。\n论坛上，网络文艺领域知名创作者、专家学者、平台运营者、行业管理者围绕“网络文艺与全球文化生态重构”“网络文…",
+          "link": "http://www.zhihu.com/question/492029519/answer/2168653145?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-13T08:25:10.000Z",
+          "wordCount": 123,
+          "title": "以“文明互鉴：共筑人类命运共同体”为主题的「太湖世界文化论坛」第六届年会举办,有哪些亮点值得关注?"
+        },
+        {
+          "id": "http://www.zhihu.com/question/463405165/answer/2167526064",
+          "author": "地道风物",
+          "description": "中国人自己的国家公园，来了！\n2021年10月12日，在昆明召开的联合国《生物多样性公约》第十五次缔约方大会上，中国正式宣布设立三江源、大熊猫、东北虎豹、海南热带雨林、武夷山等第一批国家公园，保护面积达23万平方公里，涵盖近30%的陆域国家重点保护野生动植物种类。\n\n\n\n\n\n每一个国家公园，都是中国的符号、世界的珍宝。它们，是我国自然生态系统中最重要、自然景观最独特、自然遗产最精华、生物多样性最富集的部分。\n保护自然生态系统的原真性、完整性，是建立国家公园的根本目的。自东向西，从南到北，这些活生生的国家宝藏并不遥远，早已以各种形态进入我们的生活。\n\n\n三江源国家公园\n世界海拔最高，中国面积最大\n中国国家公园的第一代表，就是三江源国家公园。\n它是世界海拔最高，中国面积最大的国家公园，也是一座关乎14亿人乃至几十亿人生存与发展的“亚洲水塔”。\n\n\n\n三江源，可可西里。\n图/视觉中国\n多数中国人与三江源最直接的联系，刻在那些耳熟能详的诗词里。这来自“世界屋脊”的江河之水，正是李白笔下的天上水。一代代的探险者追寻“君住长江头”，从金沙江到当曲，终于找到了中华民族最珍贵的血脉宝地。\n\n\n\n三江源国家公园区位示意图。\n制图/孙璐，设计/may\n长江、黄河一路东去，孕育华夏民族；澜沧江经过三江并流的奇观，则成就东南亚第一巨川，为周边的五个国家注入生命之源。\n\n\n\n澜沧江大拐弯。\n图/视觉中国\n三江源的起源同样壮丽，这里有世界独一无二的地理奇观，始于一场地理大奇迹。\n亿万年间，印度板块与亚欧板块短兵相接，大地断裂抬升，塑造了如南北极一样遥远辽阔的“世界第三极”青藏高原。\n\n\n\n青藏高原，世界的屋脊。\n图/视觉中国\n每年夏天，一部分来自印度洋的暖湿气流会攀升到青藏高原，遇冷形成源源不断的降水，降水堆叠成雪山积雪，雪水被草甸吸纳入地下径流，再经由低处汇入约两个北京市大小的河湖和湿地，编织出大地…",
+          "link": "http://www.zhihu.com/question/463405165/answer/2167526064?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-13T06:03:05.000Z",
+          "wordCount": 240,
+          "title": "我国第一批国家公园名单公布，国家公园的成立有哪些意义？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/463405165/answer/1946686979",
+          "author": "杨凯光",
+          "description": "国家公园制度是一种系统化思维，是按完整生态系统来保护重要生态功能区。以后会形成归属于中央政府的超级国家公园+归属于地方政府的小型自然保护区这样的自然保护地体系。\n这个事情从2015年就开始整体规划了。2015年，发改委牵头，会同13个部门发布《建立国家公园体制试点方案》；2017年，中共中央办公厅、国务院办公厅印发了《建立国家公园体制总体方案》；2019年，中共中央办公厅、国务院办公厅又印发了《关于建立以国家公园为主体的自然保护地体系的指导意见》。\n一、自然保护区的问题\n在国家公园之前，我们都听说过自然保护区。\n自然保护区是自下而上，由县、市、省、国家批准设立并分级管理，是有行政区划界线的。比如一片原始森林，根据行政区划，一半是A省的自然保护区，一半是B省的自然保护区，明明是一个完整的生态系统，但被割裂成两个。虽然两个都是国家级自然保护区，但两个省仍然各管各的，而且一个省内的自然保护区，都有多个部门在管。很多事情往往都是，多人负责等于没人负责，多头管理、交叉重叠、权责不清。即使各自做好了，也往往出现局部最优不是全局最优的情况，况且有些地方除了没有保护好，还可能过度开发资源。比如2018年秦岭违建上千栋别墅的事。\n自然保护区一般集体土地比例相对较高，一般通过协议等形式纳入保护管理，分级行使所有权。如果自然保护区里有矿，那有些地方卖起矿来一点都不含糊。\n二、国家公园解决的问题\n国家公园是从系统的角度，解决这种问题。\n对于十分重要而且跨区域的大尺度生态系统，原来可能被分成了多个自然保护区，现在整合为一个国家公园，突破行政区划界线，形成完整、原真的生态系统，进行整体保护、系统修复。比如大熊猫国家公园，跨四川、陕西、甘肃三省，总面积2.7万多平方公里。\n为了厘清责任，分清自然资源的所有权，国家公园是由国家公园管理局（国家林草局，归属于自然资源部）直接管理，钱是中央财政出，自然资源资产…",
+          "link": "http://www.zhihu.com/question/463405165/answer/1946686979?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-13T05:17:27.000Z",
+          "wordCount": 133,
+          "title": "我国第一批国家公园名单公布，国家公园的成立有哪些意义？"
+        },
         {
           "id": "http://www.zhihu.com/question/338779063/answer/2147374702",
           "author": "季節",
@@ -4471,15 +4498,6 @@
           "publishedOn": "2021-09-15T02:20:13.000Z",
           "wordCount": 265,
           "title": "如何看待第34届金鸡奖海报设计大赛网络投票中，《雄鸡凝视》目前投票第一？"
-        },
-        {
-          "id": "http://zhuanlan.zhihu.com/p/55964292",
-          "author": "itworld123",
-          "description": "分布式存储是相对于集中式存储来说的，在介绍分布式存储之前，我们先看看什么是集中式存储。不久之前，企业级的存储设备都是集中式存储。所谓集中式存储，从概念上可以看出来是具有集中性的，也就是整个存储是集中在一个系统中的。但集中式存储并不是一个单独的设备，是集中在一套系统当中的多个设备。以EMX公司的存储为例，整个存储系统可能需要几个机柜来存放。\n图1 集中式存储物理示意图\n集中式存储基本架构\n在这个存储系统中包含很多组件，除了核心的机头（控制器）、磁盘阵列（JBOD）和交换机等设备外，还有管理设备等辅助设备。如图2是一个集中式存储的基本逻辑示意图。\n图2 集中式存储逻辑示意图\n在集中式存储中通常包含一个机头，这个是存储系统中最为核心的部件。通常在机头中有包含两个控制器，这两个控制器实现互备的作用，避免硬件故障导致整个存储系统的不可用。在该机头中通常包含前端端口和后端端口，前端端口用户为服务器提供存储服务，而后端端口用于扩充存储系统的容量。通过后端端口机头可以连接更多的存储设备，从而形成一个非常大的存储资源池。\n机头中是整个存储系统的核心部件，整个存储系统的高级功能都在其中实现。控制器中的软件实现对磁盘的管理，将磁盘抽象化为存储资源池，然后划分为LUN提供给服务器使用。这里的LUN其实就是在服务器上看到的磁盘。当然，一些集中式存储本身也是文件服务器，可以为服务器提供共享文件服务。无论如何，从上面我们可以看出集中式存储最大的特点是有一个统一的入口，所有数据都要经过这个入口，这个入口就是存储系统的机头。\n分布式存储是一个大的概念，其包含的种类繁多，除了传统意义上的分布式文件系统、分布式块存储和分布式对象存储外，还包括分布式数据库和分布式缓存等。本文局限在分布式文件系统等传统意义上的存储架构，对于数据库等不做介绍。\n中间控制节点架构（HDFS）\n分布式存储最早是由谷歌提出的，其目的是通过…",
-          "link": "http://zhuanlan.zhihu.com/p/55964292?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-14T08:12:27.000Z",
-          "wordCount": 61,
-          "title": "一篇文章讲透分布式存储"
         }
       ]
     },
@@ -4488,6 +4506,66 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9741278",
+          "author": null,
+          "description": "喵鱼酱，海洋生物科研学徒\n阅读原文\n\n既然我是研究鲸类动物的，那我就来讲讲我国有哪些特有的鲸类动物吧。\n其实包括已功能性灭绝的白鱀豚在内，我国就只有两种特有的鲸类动物：白鱀豚（Lipotes vexillifer）和长江江豚（Neophocaena asiaeorientalis asiaeorientalis）。\n白鱀豚和长江江豚被并称为“长江双子”，但是它们的生存都遭受到了人类在长江活动的巨大打击。\n人工圈养环境下唯一长期存活的白鱀豚“淇淇” | 图源：武汉白鱀豚保护基金会\n淇淇的故事\n1980 年 1 月 11 日，一位渔民在洞庭湖口的浅水区捕获了一头背侧青灰、腹侧灰白的大动物，并向当地水产部门报告。这是一头年轻的雄性白鱀豚，名字叫“淇淇”。\n淇淇被捕获的第二天，它被送到了位于武汉的中国科学院水生生物研究所。以陈佩薰研究员为首的研究团队，正在焦急地等待“淇淇”的到来。尽管陈佩薰研究员已参与了将近 30 年的长江鱼类考察活动，然而当时的她和其他团队成员并不了解白鱀豚。\n1978 年，为了了解白鱀豚的生活史、食性、分布范围、种群数量等信息，白鱀豚研究团队成立了。除了在野外考察，陈佩薰研究员更希望获取一头活体白鱀豚进行人工饲养，来获得第一手的研究资料。可是当时白鱀豚的数量已经不多了，活体的获取可遇不可求。直到大约两年后，淇淇来到了水生所。\n第一眼看到淇淇时，研究人员真是既惊喜，又心疼。惊喜的是他们终于有机会近距离地接触白鱀豚、了解白鱀豚了，心疼的是淇淇背上受了伤。在历经 4 个多月的治疗之后，淇淇转危为安，伤口逐渐愈合，能够畅快地活动了。\n白鱀豚的陨落\n在工作人员的精心照料下，淇淇在豚馆里生活了 22 年 185 天，最后自然死亡。人们也曾经为淇淇找了伴侣“珍珍”，但珍珍在陪伴了淇淇两年后，就患上肺炎去世了。淇淇是唯一一头成功被人类长期饲养的白鱀豚，也是为人类提供白鱀豚生理学、行为学、声学、人工饲养等方面资料的重要角色。\n淇淇在豚馆的 20 多年里，长江里的白鱀豚遭受了前所未有的灾难。栖息地破坏、水质污染、噪声干扰、食物匮乏、直接捕杀和误捕等等都是导致白鱀豚数量锐减的原因。淇淇被捕获时，全球的白鱀豚数量仅剩约 400 头；1990 年，白鱀豚数量仅剩约 200 头；短短七年后，1997 年，白鱀豚数量仅剩 17 头。2006 年 12 月，中外研究人员在长江开展了细致的考察，却没见到一头白暨豚的影子，没听到一头白鱀豚的声音。自此，白鱀豚被宣布为功能性灭绝。\n当物种的种群数量减少到某个阈值时，这个物种将会进入“灭绝旋涡”：一点点外界干扰都可能给这个物种带来巨大伤害；同时，物种本身因数量稀少而产生的近亲繁殖现象又进一步影响了物种健康。外因和内因共同作用，最终将导致物种陷入旋涡，走向灭绝。白鱀豚就经历了这样一个过程。\n淇淇和它的同类在树立人类保护动物意识的道路上留下了不可磨灭的印记。长江的环境是复杂的，她不仅是咱们中国人的母亲河，也是动物们赖以生存的家园。这里是唯一能找到白鱀豚的地方，可惜我们没有早点认识它们、保护好它们。当白鱀豚站在命运的岔路口时，我们没能挽救它们。\n第一代人工饲养环境下出生的长江江豚“淘淘”和他的妈妈 | 图源：武汉白鱀豚保护基金会\n“幸运”的长江江豚\n长江江豚比白鱀豚幸运一些，因为它们的个头比白鱀豚小得多，吃的鱼小，也不像白鱀豚那样生活在主航道里，所以死神还没那么早来敲门。然而随着人类活动在长江的扩散和加剧，它们的数量也急剧锐减。\n所幸有了白鱀豚的前车之鉴，鲸类研究人员联合政府、群众力挽狂澜，开展了长江江豚就地保护、迁地保护等保护行动。2017 年长江江豚生态科学考察显示，现存长江江豚数量为 1012 头，虽然数字上相较于 5 年前有所减少，但是从统计学上看，江豚的种群没有明显下降，这说明江豚快速下降的趋势得到了缓解，但我们还有很多需要做的保护工作。\n插播：关注我国淡水豚类的保护，关注 @武汉白鱀豚保护基金会 ~\n\n无论是名字带着“中华”的中华白海豚（Sousa chinensis），还是东亚江豚（N. a. sunameri）、印太江豚（N. phocaenoides），它们都不是我国特有物种。中华白海豚又名“印太驼海豚”，从东印度洋到西太平洋都有分布，东亚江豚的分布一直向东延伸到日本沿海，而印太江豚则如它的名字一样，分布在印度洋 - 太平洋沿海。只有白鱀豚和长江江豚是我国特有的鲸类物种，同时它们也都是淡水江豚，长江是它们无可替代的母亲河。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741278",
+          "publishedOn": "2021-10-13T23:07:43.000Z",
+          "wordCount": null,
+          "title": "中国有哪些特有物种？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741269",
+          "author": null,
+          "description": "林叶星辰，云翔天边 林叶星辰\n阅读原文\n\n昆虫的坑位还是空着的（蛩蠊目已经来了），我就来占一个吧。也算对于它们的感谢，让我在那段颓丧和不如意的时间里，仍能去感受我之所以选择保护的意义。\n\n先说它们的名字——鸣螽（鸣螽亚科Prophalangopsinae），不过这是一个容易被误认的名字。鸣螽这个名字在日常之中往往被螽斯科Tettigoniidae里面的常见饲养鸣虫优雅蝈螽Gampsocleis gratiosa、鼓翅鸣螽Uvarovitesinflatus这些所占用。不过分类学上鸣螽这个名称还是属于直翅目 Orthoptera，原螽总科Hagloidea的鸣螽科Prophalangopsidae（其实整个原螽总科的可以称为鸣螽，不过现在只剩鸣螽科一个了）。\n原螽总科一般被认为是直翅目里面最古老的种群，从化石记录来看应该是中生代直翅目昆虫最为繁盛的类群，被认为是现生螽斯总科(Tettigonioidea)和沙螽总科(Stenopelmatoidea)的祖先。鸣螽科是原螽总科唯一的孑遗类群，这个家族最后的幸存者。\n\n把声音印在石头上，这是久远的情歌\n如果所有的声音都能对应成文字，那么陆地上关于爱情（求偶）诗歌的第一篇应该是由鸣螽和那些大家伙们一起书写的。不过鸣螽比那些大家伙们幸运，它们把声音印在了石头上。它们小小的脑子永远也料不到在亿年之后的一天，另一个物种会模仿出当年它们所唱的情歌。一首比“蒹葭苍苍，白露为霜”更久远的情诗。\n在内蒙古赤峰市道虎沟发现过一块并不精美但弥足珍贵的化石标本，尽管躯体消失只留下前翅的印迹。但这块化石上面幸运地保存了鸣螽最重要的发音器官——音锉及音齿结构。\n\n基于这些保存下来的发音结构结合大量现生螽斯昆虫的声学特征数据及生物力学原理和方法，研究人员通过软件分析推测该物种已经可以发出纯音的鸣叫声，频率为 6.4kHz，脉冲组持续时间 16 毫秒。并将失落…",
+          "link": "https://daily.zhihu.com/story/9741269",
+          "publishedOn": "2021-10-13T23:07:38.000Z",
+          "wordCount": null,
+          "title": "中国有哪些特有物种？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741252",
+          "author": null,
+          "description": "药明康德，医学&amp;生物学话题优秀答主；药明康德内容团队打造\n阅读原文\n\n腰酸背痛的时候，按摩让人感觉得到了“治愈”。很多运动员还会在训练后让理疗师按摩或使用筋膜枪等工具来放松肌肉。\n尽管按摩是种传统而常用的康复手段，但按摩为什么有效，最近刚刚获得了科学的解释。\n哈佛大学的科学家们发现，按摩和免疫之间有着过去不为人知的关系，通过清除肌肉组织中引起炎症的免疫细胞和炎症因子，按摩可以帮助受损的肌肉恢复得更快、更强壮。\n▲这项研究最近发表在《科学》旗下子刊 Science Translational Medicine\n在这项研究中，为了系统地分析按摩提供的机械刺激究竟让肌肉发生了什么变化，以及哪些参数可以最大限度地修复肌肉，生物学家和制造机器人的专家合作，设计了一台自动按摩仪，给肌肉受损的实验小鼠进行腿部按摩。\n用这台按摩仪，研究人员可以精确地控制按摩力度和频率，连续多日反复按摩受损的肌肉组织。与此同时，这台按摩仪兼容超声波扫描，可以同时检查肌肉组织在不同力度下发生的应变。\n▲研究人员自制的按摩仪正在给睡着的小鼠按摩腿部肌肉（图片来源：参考资料[1]）\n按摩了 14 天，研究人员发现，相比没有按摩的受损肌肉，按摩后的肌肉修复速度加快了一倍，还大大减少了组织中留下瘢痕的可能性。比较肌肉纤维的横截面积来看，按摩后肌肉纤维的强度也恢复得更好。\n实验数据还表明，治疗期间施加的力越大，受损肌肉恢复得越强壮。\n看来，按摩提供的机械刺激确实有助于修复受损的肌肉。不过，研究人员还想要弄清楚背后的原因。\n▲免疫荧光图像显示，受损肌肉接受机械治疗（右）后，肌纤维类型组成与健康肌肉的组成更相似，不同于未经治疗的肌肉（左）（图片来源：参考资料[2]；Credit：哈佛大学 Wyss 研究所）\n于是，研究人员紧接着对切除下来的小鼠肌肉从分子水平进行了详细评估。分析了各种与炎症相关的因素后，研究人员发现…",
+          "link": "https://daily.zhihu.com/story/9741252",
+          "publishedOn": "2021-10-13T23:07:34.000Z",
+          "wordCount": null,
+          "title": "从生物科学角度，按摩为什么特别舒服？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741264",
+          "author": null,
+          "description": "Scotty，我总能找到些被忽视的珍珠\n阅读原文\n\n我觉得这道题巨难答，\n难就难在“重新认识”这四个字，\n空间是无时不刻伴随着我们的东西，\n是概念中的寻常之物，\n在寻常之中挖掘不寻常是个非常有挑战性的命题，\n所以这道题目我观望了几天，\n看没人作答，不忍心这么好的题目就这么凉了，\n我便前来强答一发，答得不好，权当抛砖引玉，\n在本回答中，列举的作品无论其创作者出发点本意如何，\n我都会聚焦于我个人视角的“空间启发性”来讨论作品的意义；\n一、启发：视觉上的丰富——被“滥用”的镜面\n无论是镜子还是透镜，使用频率在公共艺术领域算是相当泛滥，\n一开始作为某些人的灵感出现，到现在已经发展成一种常用的手法了，\n这种手法乍一看寻常，其实对于空间能起到画龙点睛的增色效果，\n尤其是镜子，把公共空间的一切事物纳入方寸之间，构成对空间和行人的一种交互感，\n窃以为，人的大脑所理解的空间其落地处仍是感官核验，\n镜面运用地好真的可以在视觉上丰富我们对于空间的理解和体验；\n之所以称之为“滥用”，实在是因为这个角度的作品太多了，\n我们先走马观花地看一些吧：\n1.两面镜子对照：\n这种神奇的体验我小学时在一家狭窄的兰州牛肉面馆就感受过，\n两面镜子互相对照的时候会反射叠加出无限的空间，\n我常常一边吃拉面一边望着镜子里的无限个我，\n明明只在方寸之间，却感觉自己所处的空间无限大，\nGregory Orekhov 在莫斯科的马列维奇公园的作品是这类系列里我最喜欢的一件，\n艺术家 Gregory Orekhov 的黑色广场\n明明就是两面镜子的对照，却做得这么有体量感，\n让人有一种这一切都是“魔术盒”内的魔法的错觉，\n\n有意思的是镜面的反射并没有一直清晰地延伸下去，而是反射到数十层后变成了黑色：\n\n我个人认为这应该是艺术家选择镜面时的刻意为之，\n这有种时空感，象征着远去的过往和未知的将来；\n无独有偶，Anna & Eugeni…",
+          "link": "https://daily.zhihu.com/story/9741264",
+          "publishedOn": "2021-10-13T23:07:29.000Z",
+          "wordCount": null,
+          "title": "有哪些艺术作品可以重新认识空间？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741257",
+          "author": null,
+          "description": "何冀兵\n阅读原文\n\n首先，告诉大家两个事情，第一，本文 1977 个字，阅读可能要花点时间。第二，在本文最后，我弄了个综艺评分表。你要是认真看完本文，然后遵照执行，说不定跟朋友们在一起吹牛逼的时候可以冒充一下行家里手，然后被~~~暴打一顿~~~\n好了，说正经的。\n从平台角度看，一个成功的原创综艺节目，一定是收视好、招商好、口碑好的“三好学生”。但从观众角度看，维度不一样，至少，招商好不好跟他没关系，他巴不得广告没有才好（是不是？）。今天，我既不代表平台，也不代表观众，就从一个资深从业者角度来说吧。\n一个成功的原创综艺节目，我认为应该有六个特点。\n第一、新模式：模式鲜明且张力十足；\n第二、新领域：开辟全新赛道；\n第三、新故事：成就新人物；\n第四、新情绪：强大的共情力；\n第五、新视听：全新的视听享受；\n第六、新商业：IP 商业开放度和延展性强。\n首先，说说第一个部分：模式研发。\n其实，这个部分是最难的。可以说，一个综艺成功与否，至少 60%取决于此。\n一个好的综艺，一定有一个好的模式，什么是好的模式？我觉得有三个标准。第一，一句话就能说清楚。Less is more。简单最有力量。当然，这里说的简单，是指节目核心创意点简单，而不是指节目简单。第二，戏剧张力大。说明白一点，脑洞大、有意思、创意好、有杀伤力、设定好，都指的是这意思。第三，名字很好。不能节目名字一说，客户都不投了，这肯定没戏。\n举几个例子吧。《中国好声音》是个好模式，也有可能是有史以来最成功的电视节目模式。模式简单、有张力，名字还很好。\n\n《歌手》也是个好模式。成名歌手之间相互 PK，互相淘汰。刺激！但名字没那么好。\n《中国有嘻哈》，好。《这就是街舞》好。《乘风破浪的姐姐》好。《披荆斩棘的哥哥》好。\n《向往的生活》也是个好模式。一听创意就觉得有意思，简单。名字特别好。\n一个好名字，赞助的客户都会多一些。中国好 XX，…",
+          "link": "https://daily.zhihu.com/story/9741257",
+          "publishedOn": "2021-10-13T23:07:24.000Z",
+          "wordCount": null,
+          "title": "一个成功的原创综艺节目具备哪些特点？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741281",
+          "author": null,
+          "description": "你吃火锅时每次必点的食物是什么？\n\n王郝，重症医师（ICU医生）\n阅读原文\n\n必点锅底和小料\n阅读原文\n\n谁能告诉我头大怎么办！ ？\n\n咩咩\n阅读原文\n\n那就努力把身子也养大\n阅读原文\n\n如果在梦里梦到一个人，就说明对方在想你，这是真的吗？\n\n独倚寒窗听风雨，要求别人有自己的想法这件事本身就很矛盾\n阅读原文\n\n扯淡，我经常梦到班主任\n阅读原文\n\n如果让你在 iPad 后面激光镌刻一行文字，你会写些什么？\n\n知乎用户\n阅读原文\n\n\n\n\n阅读原文\n\n你吃过最绝望的食物是什么？\n\n甲鱼，你是来找甲鱼玩的吗？快和甲鱼一起去炸鱼吧！\n阅读原文\n\n五一节去天津玩。毕竟北方城市，人都比较实在，经常 30 元点个荤菜两个人都吃饱了。\n晚上出来散步，消消午餐的食。走着走着看到了喜茶，于是想着来一个椰奶味雪糕。\n我刚下完单没多久，里面一个阿姨就出来问我，要不要换成锡兰口味的雪糕？椰奶雪糕做到一半没有了。\n说完拿了一个做到一半的椰奶雪糕给我，上面的尖尖没有正常的大，她不说我肯定注意不到。我说好吧好吧，锡兰的就锡兰的。语气中有一些失望。\n阿姨一把把椰奶雪糕塞我怀里，又塞了一个大锡兰雪糕。\n「我给你多打点，别生气啊！」\n我捧着两个雪糕，在 17 度的空气中吃的瑟瑟发抖。\n过了 5 分钟，就在我好不容易把椰奶的吃完时，阿姨啪嗒一声推开窗，不由分说的塞给我一个巨大化的椰奶雪糕。\n「看你没椰奶雪糕很失望，这是刚做好的，给你了！」\n我的手也冷，脚也冷，肚子也冷。颤颤巍巍的接过了雪糕，含着泪一口一口的吃掉了。\n我第一次吃雪糕，吃出了绝望的感觉。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741281",
+          "publishedOn": "2021-10-13T23:07:15.000Z",
+          "wordCount": null,
+          "title": "瞎扯 · 如何正确地吐槽",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9741217",
           "author": null,
@@ -6097,66 +6175,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740250",
-          "author": null,
-          "description": "康石石，艺术留学大拿\n阅读原文\n\n科学和艺术，看似两个领域的学科，两者其实渊源颇深，共同影响着我们当下社会的发展。\n科学技术是社会先进生产力的重要标志，相较于科学，可能大家会认为艺术在社会发展中并非必需品。首先这种认知是错误的。艺术是一种情感表达，科技是方便表达的工具；艺术改造精神世界，科技改造客观世界。随着科学技术的发展，艺术的表现形式、媒介也在改变，两者注定是在前进的道路上“相互扶持”的存在。就像近两年新兴的VR、AR 技术，其应用原理便离不开交互设计。\n科学与艺术这剪不断理还乱的关系，并不是科技发达的当下造成的，回溯历史可以发现早有“猫腻”。下面康石石将历史时间划分为三个阶段，看看艺术与科技的过去和未来。\n一、中世纪的古典艺术\n我们观察历史可以发现，重大的科学革命通常与重大的艺术活动有着紧密的联系。\n在文艺复兴时期，科学革命像宗教改革一样，可被看做、也应该被看做文艺复兴的结果。文艺复兴不仅仅是一场有关艺术的运动，它其实是一个社会性的运动，这场起源于意大利并蔓延至整个欧洲的运动在哲学、诗歌、文学、建筑、自然科学、甚至经济领域都全面开花，是世界性的，泛学科的。\n\n作为文艺复兴三杰之一的达芬奇，是个全才的艺术家。他不仅绘画好，还搞建筑、搞科学、搞解剖、搞发明等等等等。他认为自然中最美的研究对象是人体，比如下图精准的人体作品：\n\n我们既然在讨论艺术与科学的关系，就不得不提达芬奇在科学领域的成就，他绘制了西方文明世界的第一款人形机器人，以及点燃现代机动车发明灵感之火的“达·芬奇机械车”，在他的科学世界中，早就有了机动车的影子，他所有的奇思妙想，已经造成或是正在改变我们的生活。\n\n西方种植与之后工业革命的开始，让西方人意识到专业学科的建立和发展的重要性，分裂专业性学科能够更加有效地组织社会分工。所以无论是新的科学技术引发新的艺术思考，还是艺术精神的解放对科学的启发，两者总是互相影…",
-          "link": "https://daily.zhihu.com/story/9740250",
-          "publishedOn": "2021-09-13T23:08:48.000Z",
-          "wordCount": null,
-          "title": "科学与艺术的关系是什么？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740246",
-          "author": null,
-          "description": "急救医生贾大成，急救医生\n阅读原文\n\n平时出去讲急救课时，经常有朋友问我：「贾老师，您天天抢救急性心梗的患者，经验多，您给我预测一下，我会不会猝死？什么时候猝死？」\n这个问题，我还真预测不了。\n不过呢，我能预测的，是可以根据您日常的生活和工作状况，来判断您到底是不是容易发生猝死的「高危人群」，并告诉你一些猝死的「潜在征兆」。\n关于猝死的高危性。\n猝死在全球范围内，都是令人感到畏惧的医学难题，因为它发作突然。\n我们先来说下猝死的相关定义。\n猝死，指发病后 6 小时内，突然、意外、自然地死亡。其中，心源性猝死（SCD）占 80% 以上，于发病后 1 小时内死亡。\n心脏骤停，指由于各种原因引起的心脏搏动突然停止，心脏停止了有效的收缩与舒张，瞬间泵血功能丧失，导致以脑为首的所有的组织器官供血、供氧完全中断。表现为意识丧失、心跳呼吸停止、脉搏消失……\n但心脏骤停并不意味着死亡，如果能在数分钟内进行正确的抢救，部分患者有望救活。否则，进入生物学死亡，即脑死亡，而无可挽救。\n如果心脏骤停没有得到及时的心肺复苏，或心肺复苏失败的心脏骤停称为猝死。猝死是心脏骤停的最终结果，而无可挽救。\n可怕的是，据统计，超过 80% 的猝死发生在医院以外的地方，比如公共场所、家中，地铁、影院、学校等。\n我们知道的很多名人，都是因为猝死而离我们而去的。\n2006 年 12 月 20 日上午 9 点，著名相声演员马季先生因高血压引起的突发心肌梗死去世。曾经给亿万观众带来无尽欢笑的一代艺术大师突然辞世，令人感到无比震惊和痛惜。据参与抢救的北京 999 急救中心专家介绍，马季先生坐在马桶上发生的意外，死因是排便用力导致高血压引起心脏猝死。\n2007 年 6 月 23 日傍晚 18 时 30 分左右，著名相声演员侯耀文在位于昌平沙河的家中突发心脏病。经 999 急救人员抢救 40 分钟，仍未能挽回侯先生的生命。\n20…",
-          "link": "https://daily.zhihu.com/story/9740246",
-          "publishedOn": "2021-09-13T23:08:44.000Z",
-          "wordCount": null,
-          "title": "人在猝死前有哪些先兆吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740255",
-          "author": null,
-          "description": "Chris Lex，设计/腕表/科技/测评/设计学博士\n阅读原文\n\n作为工业设计毕业的学生来说，想了半天想到的一个概念和创意后来发现别人已经想到并实现是经常遇到的悲剧。不过当自己看到相同的创意，别人做的更好的时候，心里还是会对那个设计师赞叹一番。\n记得当时本科毕业第一份工作是在某设计公司，当时我们头脑风暴第一轮，大部分的概念设计总监都要弃掉，他说因为第一轮想出的东西，别人也想的出，所以要弃掉。\n自己本科的时候做的设计比较多，下面放一些自己本科做的几个创意，大概都是七八年前做的，当时检索的时候没发现，但是后来发现市面上或者别的设计师已经实现了。\n第一个：便便形状的花瓶\n想法很简单，“一朵鲜花插在牛粪上”，我做的，大概七八年前做的吧：\n\n前段时间淘宝的时候无意发现：\n\n第二个：口袋袜子\n想法也很简单，很多人有往袜子里塞钱的习惯，那就在袜子里做个口袋好了，我的方案是：\n\n后来发现：\n\n其实多少还是有点差别的。233333\n第三个：安全插头\n插头位置安装一个弹性防水材质的东西，平时处于伸长状态，可以避免手和金属插头接触，插到插座可以防水，我的想法：\n\n后来发现：\n\n第四个：摇篮椅\n摇篮和摇椅的结合，我的想法：\n\n后来发现：\n\n第五个：带有履带的吸尘器\n我简单在现有吸尘器上加了个履带，方便爬楼，我的想法：\n\n后来发现：\n\n\n\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740255",
-          "publishedOn": "2021-09-13T23:08:36.000Z",
-          "wordCount": null,
-          "title": "有哪些你想发明却已经被人发明了的东西？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740243",
-          "author": null,
-          "description": "鑫波和他的小鱼干，你觉得我是鑫波？ 不，我是他的小鱼干！\n阅读原文\n\n葫芦简介\n葫芦科 (cucurbits) 有许多重要的经济物种，很多都具有食用、药用或观赏价值，如黄瓜 (Cucumis sativus)、甜瓜 (Cucumis melo)、西瓜 (Citrullus lanatus)、葫芦 (Lagenaria siceraria)、冬瓜 ( Benincasa hispida）和南瓜（Cucurbita spp.）等……\n我们前边提到的几种作物全基因组测序都已经完成[1]，研究人员还开发了葫芦相关的数据库，Home-CBGD，整理了不同葫芦品种的基因组、转录组、表型差异及分子标记[2]，方便我们对它进行研究。\n12 种植物的系统发生树及基因的进化。 节点旁边的蓝色数值表示每个节点的估计发散时间（MYA，百万年前）。 基因家族：每个物种的基因家族数量； 家族中的基因：可以聚集到基因家族中的基因数量； 总基因：每个物种的总基因数。已经完成全基因组测序的物种。在进化上，葫芦与西瓜的亲缘关系更近一些，其次是冬瓜，与黄瓜、甜瓜的关系稍远。葫芦数据库 GourdBase 中展示的葫芦果实形状差异。\n葫芦果实基本可以分为球形、矮柱形、长柱形、梨形等主要类型。瓢葫芦基本可以看作是梨形果实，亚腰葫芦又是在梨形果实的基础上增加了亚腰。\n葫芦果实有没有亚腰，可以看作一对相对性状。果实形状也是重要的农艺性状，是育种计划中需要考虑的一个重要因素。\n对我们做遗传的人来说，差异性状的背后就是不同的基因。瓢葫芦和亚腰葫芦在果实形状上存在差异，就是因为不同品种控制果实发育的相关基因不同造成的。\n粗腰和亚腰可以看作葫芦果实的一对相对性状\n果实发育受基因调控\n基因的作用很强大，单就果实性状而言，基因决定着果实的大小、长短、形状、切开以后的腔室数目、颜色、营养物质的成分及含量……\n不同生长轴上细胞数量的变…",
-          "link": "https://daily.zhihu.com/story/9740243",
-          "publishedOn": "2021-09-13T23:08:26.000Z",
-          "wordCount": null,
-          "title": "为什么葫芦中间有个细腰呢？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740257",
-          "author": null,
-          "description": "胖博士，懂你皮肤问题的清华胖师兄\n阅读原文\n\n当然可以，要不然满大街的维 C 精华都是智商税了！\n几十年来各种研究都证明了维 C 的透皮吸收效果，还把维 C 的吸收条件研究的仔仔细细。今天我就来详细科普一下关于维 C 吸收的话题。\n\n维 C 能被吸收多少\n皮肤能留住多少维 C\n皮肤每天用多少维 C 合适\n维 C 浓度越高越好吗\n怎样才能让维 C 快速吸收\n\n维 C 能被吸收多少\n受到伦理道德的制约，研究人员无法用人皮来做测试。于是只能用动物皮肤来了解维 C 的透皮吸收。目前比较详细的两个研究，一个用小鼠，一个用猪皮。两者的结果差异不大，因此可以作为很好的类比，来了解维 C 在人体皮肤上的透皮吸收数据。\n在小鼠皮肤上，使用 1.3%浓度的维 C 溶液。每平方厘米皮肤的维 C 吸收速度达到了每小时 3.43 微克[1]。如果一个人的脸比较大（400 平方厘米），那么整张脸每小时能吸收 1.37 毫克维 C。白天八个小时，吸收量就是 11 毫克。注意这里的维 C 浓度只有 1.3%。如果按照市面上普遍的 10%浓度维 C 计算，一张脸八个小时就能吸收 84 毫克维 C，这可真多啊。一般来说，大家使用维 C 精华，一次也就用 0.1-0.2ml。如果浓度 10%，那么就有 10-20 毫克维 C。这点维 C，被脸吸收完全没问题。\n维 C 透皮吸收[1]\n不过维 C 被吸收，有一部分透过皮肤，进入到体内了。而我们关心的只是停留在皮肤里的那些维 C，毕竟用维 C 是为了让它在皮肤里面抗氧化。否则直接吃维 C 片不香么？\n皮肤能留住多少维 C\n皮肤外面涂抹维 C，维 C 通过皮肤被身体吸收。因此使用之后，皮肤里面一定有维 C 存在。根据研究，猪皮里面维 C 的饱和浓度是 1000pmol/mg[2]。换算下来，每克皮肤里最多能容纳 0.176 毫克维 C。\n小鼠皮肤的研究结果也类似，皮肤中维 C 的饱和浓度是 0.056mg/g。差不多是猪皮的三分之一。人类皮肤的数据虽然未知，但是应该也在同样的数量级。我们以脸部皮肤厚度两毫米计算，那么一张脸一共能容纳 8 毫克维 C。好像并不多的样子。毕竟涂抹一次维 C 精华，就能提供 10-20 毫克维 C。\n皮肤每天用多少维 C 合适\n既然脸上的皮肤最多才能容纳 8 毫克维 C，而一次维 C 精华就能提供 10 毫克以上的维 C，那么有必要每天都用高浓度维 C 吗？答案是不需要。\n根据研究，在猪皮上连续涂抹 15%维 C，三天之后，皮肤中的维 C 就达到饱和[2]，接下来每天使用，皮肤中的维 C 含量并不会变化。多出来的维 C 要么透过皮肤进入身体里，要么直接停留在皮肤外面浪费掉了。\n维 C 在皮肤中饱和[2]\n当皮肤中的维 C 饱和之后，即使停用维 C，皮肤中的维 C 含量也能维持在一定水平，五天之内都不会代谢完全。\n停用之后维 C 缓慢下降[2]\n所以正确的做法是，连续使用高浓度的维 C 三天，让皮肤中的维 C 浓度达到饱和。随后每天可以减少用量，或者使用低浓度的维 C 即可。如果你手上维 C 精华的浓度是 15%，那么三天之后，把量减少到原来的三分之一，或者直接用 5%的维 C 精华，就可以维持维 C 浓度的饱和。当然，还可以三天打鱼两天晒网，用一天维 C 再停用两天，也不会有问题。\n维 C 浓度越高越好吗\n维 C 浓度并不是越高越好。浓度太高，一方面是浪费，维 C 在皮肤中很快达到饱和了。用的再多，皮肤就像吸饱了水的海绵。也不会带来额外的作用。没被吸收的维 C 反而可能氧化染色，让皮肤变黄。\n另一方面，根据研究，出于某些未知的原因，维 C 在 20%浓度下，透皮吸收的效果最好。浓度提升之后，皮肤中的维 C 含量反而下降[2]。\n维 C 浓度和吸收的关系[2]\n怎样才能让皮肤快速吸收\n根据维 C 的吸收，研究人员做了个物理模型。最后发现，阻碍维 C 吸收的最大因素是角质层。因为维 C 是亲水的，而角质层尤其是细胞间脂质是亲油的。一般来说，油溶性的东西更容易被吸收。而维 C 本身分子量 176，也不算非常小，所以角质层对维 C 的透皮吸收有一定的阻碍。\n维 C 吸收的物理模型[1]\n在动物实验中，如果把小鼠的角质层剥离，那么维 C 的吸收会有数量级的提升。从每平方厘米每小时吸收 3.43 微克，提升到 33.2 维克，提升了将近十倍[1]。\n所以如果你想维 C 快速吸收，那么可以用一些果酸类的产品，让角质层边薄一些，这样维 C 就可以更好的吸收。\n这个结果从另一方面也说明，皮肤屏障受损的敏感肌更容易受到维 C 的刺激。因为能被吸收的维 C 更多，更容易让敏感肌产生不适。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740257",
-          "publishedOn": "2021-09-13T23:08:17.000Z",
-          "wordCount": null,
-          "title": "维生素c可以被皮肤吸收吗？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740266",
-          "author": null,
-          "description": "为什么中国还有人看国足世界杯，是抱着一个什么心态？\n\n知乎用户，对你来说毫无兴趣的运动就别凑上来当跟风狗\n阅读原文\n\n你儿子考不上清华北大，你跟他断绝关系吗？\n阅读原文\n\n老板以为最不可能离职的员工为什么往往会提出离职？\n\n知乎用户，大龄菜鸟Java工程师，理想主义者。\n阅读原文\n\n同一件事情，老板想法跟员工想法是不一样的。\n老板：小张在供房，还刚有小孩，这次加薪就不给他加了，给他安排个出差吧，他不敢不去。这种人有负担不敢轻易离职的。\n小张：供房压力好大啊，加薪居然没有我。小孩刚出生，好想回家逗他玩，居然安排我出差。妈的，老子不干了。\n阅读原文\n\n怎样知道一个人是否抽烟？\n\n宝贤君，吃瓜群众\n阅读原文\n\n看他会不会顺走你的打火机\n阅读原文\n\n两个穿了舌钉的人接吻是什么样的体验？\n\n苍穹鬼少，动画爱好者\n阅读原文\n\n如果是不同金属可能会产生电\n阅读原文\n\n你为什么会退出学生会？\n\n明天能瘦吗，让所有人都认同的文字称不上表达\n阅读原文\n\n我怕恋情公开\n影响我的部长男友升职当市长\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740266",
-          "publishedOn": "2021-09-13T23:08:09.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -6165,6 +6183,15 @@
       "feedUrl": "https://wubaiqing.github.io/zaobao/rss.xml",
       "siteUrl": "https://wubaiqing.github.io/zaobao",
       "articles": [
+        {
+          "id": "https://wubaiqing.github.io/zaobao/2021/10/13.html",
+          "author": null,
+          "description": "2021.10.12 今天是每日时报陪伴您的第 622 天\n[新闻] TypeScript 于 10.1 日发布 4.5 Beta 版本，支持新的扩展名、新语法、新的工具类型：https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-beta/\n[新闻] jQuery Mobile 从 10.7 日起，停止维护：https://blog.jquery.com/2021/10/07/jquery-maintainers-continue-modernization-initiative-with-deprecation-of-jquery-mobile/\n[文章] WeakMap 的真实实践场景：https://macarthur.me/posts/when-a-weakmap-came-in-handy\n[文章] 作者用复选框做了大量动画，比较有意思：https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/\n[工具] 一个生成 Notion 风格头像的在线工具，支持以 <img> 和 Markdown 的方式嵌入任何代码或者文档：https://github.com/Mayandev/notion-avatar\n[工具] 给我一个 URL，我能截图发给企业微信机器人：https://github.com/eryajf/care-screenshot",
+          "link": "https://wubaiqing.github.io/zaobao/2021/10/13.html",
+          "publishedOn": "2021-10-13T06:53:43.000Z",
+          "wordCount": 122,
+          "title": "2021.10.12 今天是每日时报陪伴您的第 622 天"
+        },
         {
           "id": "https://wubaiqing.github.io/zaobao/2021/10/12.html",
           "author": null,
