@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "author": null,
+          "description": "Fixed: broken links in documentation\nChore: Dependency updates\nThank you: @hirdot",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3",
+          "publishedOn": "2021-10-16T00:01:47.000Z",
+          "wordCount": 299,
+          "title": "v1.11.3"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
           "author": null,
           "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
@@ -13,15 +22,6 @@
           "publishedOn": "2021-09-26T18:45:39.000Z",
           "wordCount": 354,
           "title": "v1.11.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "author": null,
-          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
-          "publishedOn": "2021-09-16T06:39:32.000Z",
-          "wordCount": 343,
-          "title": "v1.11.1"
         }
       ]
     },
@@ -30,6 +30,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=353473",
+          "author": "Kev Bonett",
+          "description": "I love CSS Grid. I love how, with just a few lines of code, we can achieve fully responsive grid layouts, often without any media queries at all. I’m quite comfortable wrangling CSS Grid to produce interesting layouts, while keeping …\nThe post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/expandable-sections-within-a-css-grid/",
+          "publishedOn": "2021-10-15T16:18:20.000Z",
+          "wordCount": 1649,
+          "title": "Expandable Sections Within a CSS Grid"
+        },
         {
           "id": "https://css-tricks.com/?p=353057",
           "author": "Chris Coyier",
@@ -605,33 +614,6 @@
           "publishedOn": "2021-09-16T14:31:08.000Z",
           "wordCount": 1239,
           "title": "Static Site Generators vs. CMS-powered Websites: How to Keep Marketers and Devs Happy"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351987",
-          "author": "Chris Coyier",
-          "description": "Here’s a common thought and question: how do browsers prioritize what they work on? We get little glimpses of it sometimes. We’re told to “star issues” in bug trackers to signal interest. We’re told to get involved in GitHub threads …\nThe post 2021 Scroll Survey Report appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/2021-scroll-survey-report/",
-          "publishedOn": "2021-09-15T22:39:08.000Z",
-          "wordCount": 1162,
-          "title": "2021 Scroll Survey Report"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351868",
-          "author": "Robin Rendle",
-          "description": "It’s not every day that a new pattern emerges across the web, but I think cmd + k is here to stay.  It’s a keyboard shortcut that usually pops open a search UI and it lets you toggle settings on …\nThe post kbar appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://kbar.vercel.app/",
-          "publishedOn": "2021-09-15T18:51:36.000Z",
-          "wordCount": 9,
-          "title": "kbar"
-        },
-        {
-          "id": "https://css-tricks.com/?p=351767",
-          "author": "Travis Almand",
-          "description": "Have you ever been in a situation where you wish you could have some control over the values in an object or array? Maybe you wanted to prevent certain types of data or even validate the data before storing it …\nThe post An Intro to JavaScript Proxy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/an-intro-to-javascript-proxy/",
-          "publishedOn": "2021-09-15T14:21:27.000Z",
-          "wordCount": 5127,
-          "title": "An Intro to JavaScript Proxy"
         }
       ]
     },
@@ -640,6 +622,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/",
+          "author": "hello@smashingmagazine.com (Nataliya Sambir)",
+          "description": "Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.",
+          "link": "https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/",
+          "publishedOn": "2021-10-15T13:00:00.000Z",
+          "wordCount": 4019,
+          "title": "Tips And Tricks For Evaluating UX/UI Designers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/727cbd89-cbf4-4a29-af64-ac51d777ffba/tips-tricks-evaluating-ux-ui-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -975,34 +971,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "author": "hello@smashingmagazine.com (Elie Sloïm)",
-          "description": "Twenty years ago, Elie Sloïm chose to dedicate his professional life to web quality assurance. He started asking, ”What does quality mean for a web user?” Well, this article explains everything he has learned along the way.",
-          "link": "https://smashingmagazine.com/2021/09/journey-into-web-quality-assurance/",
-          "publishedOn": "2021-09-16T12:00:00.000Z",
-          "wordCount": 4552,
-          "title": "Web Quality Assurance: From User Requirements To Web Risk Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/da816ee2-199c-49e8-8f63-f50d1fb5adb7/journey-into-web-quality-assurance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "Integrating a CRM with your business website has numerous benefits. In this article, Zara Cooper explains what these benefits are and why websites should be integrated with a CRM platform.",
-          "link": "https://smashingmagazine.com/2021/09/reasons-build-crm-powered-website-business/",
-          "publishedOn": "2021-09-16T11:00:00.000Z",
-          "wordCount": 2293,
-          "title": "Reasons To Build A CRM-Powered Website For Your Business",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bdb5e7f2-9050-4e5f-8b93-ca24f0483188/hubspot-preview-image.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -1072,6 +1040,96 @@
       "feedUrl": "https://codefine.site/rss_factory?url=toutiao.io",
       "siteUrl": "https://toutiao.io",
       "articles": [
+        {
+          "id": "https://toutiao.io/k/p5tphat",
+          "author": null,
+          "description": "聊聊springboot项目如何实现自定义actuator端点",
+          "link": "https://toutiao.io/k/p5tphat",
+          "publishedOn": "2021-10-16T01:18:01.378Z",
+          "wordCount": 329,
+          "title": "聊聊 Spring Boot 项目如何实现自定义 actuator 端点"
+        },
+        {
+          "id": "https://toutiao.io/k/nfrk6wt",
+          "author": null,
+          "description": "本文基于自动化营销的业务高扩展性实践，分析介绍工厂模式、模板方法模式、策略模式以及状态模式这四种设计模式在营销策略引擎项目开发中的应用场景，同时进一步介绍了状态机和工作流引擎涵盖多种设计模式的系统组件应用，并分享了实践过程中的思考和总结。",
+          "link": "https://toutiao.io/k/nfrk6wt",
+          "publishedOn": "2021-10-16T01:18:01.316Z",
+          "wordCount": 894,
+          "title": "设计模式如何提升 vivo 营销自动化业务扩展性之引擎篇（一）"
+        },
+        {
+          "id": "https://toutiao.io/k/i80wtuq",
+          "author": null,
+          "description": "ElasticSearch版本从0.7-\\x26gt;1.0-\\x26gt;2.0-\\x26gt;5.0-\\x26gt;6.0-\\x26gt;7.0迭代发布，8.0版本也已经进入alpha 2。",
+          "link": "https://toutiao.io/k/i80wtuq",
+          "publishedOn": "2021-10-16T01:18:01.045Z",
+          "wordCount": 217,
+          "title": "ElasticSearch 之各大版本演进，发布 8.0.0 Alpha 2 版本"
+        },
+        {
+          "id": "https://toutiao.io/k/yj1fvve",
+          "author": null,
+          "description": "本文属于用户行为数据领域入门级别文章，适合对用户行为数据略知一二但是对这个主题非常感兴趣的同学。",
+          "link": "https://toutiao.io/k/yj1fvve",
+          "publishedOn": "2021-10-16T01:18:00.976Z",
+          "wordCount": 169,
+          "title": "用户行为数据入门理论与实例"
+        },
+        {
+          "id": "https://toutiao.io/k/coshooq",
+          "author": null,
+          "description": "CDC 的全称是 Change Data Capture，在广义的概念上，只要是能捕获数据变更的技术，我们都可以称之为 CDC。",
+          "link": "https://toutiao.io/k/coshooq",
+          "publishedOn": "2021-10-16T01:18:00.827Z",
+          "wordCount": 169,
+          "title": "为什么选择基于日志的 CDC"
+        },
+        {
+          "id": "https://toutiao.io/k/qh7qxto",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/qh7qxto",
+          "publishedOn": "2021-10-16T01:18:00.723Z",
+          "wordCount": 336,
+          "title": "Python 3.10 正式发布了！我发现了一个可怕的功能"
+        },
+        {
+          "id": "https://toutiao.io/k/e627jy6",
+          "author": null,
+          "description": "作者 / Dave Burke, VP of Engineering10 月 4 日，我们已经将源代码推送至 Android 开源项目 (AOSP)，并正式发布最新版本的 Android。Android 12 会在接下来的几周内推送至 Pixel 设备，并在今年晚些时候覆盖三星…",
+          "link": "https://toutiao.io/k/e627jy6",
+          "publishedOn": "2021-10-16T01:17:57.658Z",
+          "wordCount": 474,
+          "title": "Android 12 正式发布"
+        },
+        {
+          "id": "https://toutiao.io/k/9osl8qd",
+          "author": null,
+          "description": "GitHub 上一本开源的电子书籍：《Getting Things Done with Pytorch》。 开发者可从该书中学到有关 PyTorch、神经网络、图像分类、人脸检测、情感分析等基础知识。 从书中提供的具体示例，还能进一步了解项目从原型开发到模型部署，最后正式上线生产环境的整个流程。 阅读本书 可以使用以下链接阅读整本书。每个部分都包含一份笔记，您都可以在此仓库中找到它。 Getting Started with PyTorch Build Your First Neural Network Transfer Learning for Image Classification using Torchvision Face Detection on Custom Dataset with Detectron2 Time Series Forecasting with LSTMs for Daily Coronavirus Cases Time Series Anomaly Detection using LSTM Autoencoders Create Dataset for Sentiment Analysis... 查看更多 »",
+          "link": "https://toutiao.io/k/9osl8qd",
+          "publishedOn": "2021-10-16T01:17:57.500Z",
+          "wordCount": 302,
+          "title": "开源电子书《Getting Things Done with Pytorch》"
+        },
+        {
+          "id": "https://toutiao.io/k/e0u13x9",
+          "author": null,
+          "description": "A lexical analyzer based on DFA that is built using JS and supports multi-language extensions - lexer/README.zh-CN.md at main · WGrape/lexer",
+          "link": "https://toutiao.io/k/e0u13x9",
+          "publishedOn": "2021-10-16T01:17:56.788Z",
+          "wordCount": 541,
+          "title": "一个基于 DFA 的支持多语言扩展的 JS 版开源词法分析器"
+        },
+        {
+          "id": "https://toutiao.io/k/qnglkcl",
+          "author": null,
+          "description": "",
+          "link": "https://toutiao.io/k/qnglkcl",
+          "publishedOn": "2021-10-16T01:17:56.578Z",
+          "wordCount": 3867,
+          "title": "[译] 写给工程师：关于证书和公钥基础设施的一切 (SmallStep, 2018)"
+        },
         {
           "id": "https://toutiao.io/k/8pcizk2",
           "author": null,
@@ -3384,96 +3442,6 @@
           "publishedOn": "2021-09-17T01:16:45.350Z",
           "wordCount": 243,
           "title": "用 TS 实现一个类型完备的事件通讯器"
-        },
-        {
-          "id": "https://toutiao.io/k/lrmbo5p",
-          "author": null,
-          "description": "零基础开始学回溯，搞定组合、分割、子集、排列、棋盘四大类问题！",
-          "link": "https://toutiao.io/k/lrmbo5p",
-          "publishedOn": "2021-09-16T01:13:36.201Z",
-          "wordCount": 2530,
-          "title": "LeetCode 通关：连刷十四题，回溯算法完全攻略"
-        },
-        {
-          "id": "https://toutiao.io/k/dpr059r",
-          "author": null,
-          "description": "前夜不忙后夜忙，梦完黄金我梦黄粱",
-          "link": "https://toutiao.io/k/dpr059r",
-          "publishedOn": "2021-09-16T01:13:35.938Z",
-          "wordCount": 422,
-          "title": "实现 LFU 缓存机制"
-        },
-        {
-          "id": "https://toutiao.io/k/w6h6aln",
-          "author": null,
-          "description": "飘乙己！",
-          "link": "https://toutiao.io/k/w6h6aln",
-          "publishedOn": "2021-09-16T01:13:35.872Z",
-          "wordCount": 283,
-          "title": "飘乙己：List 转 Tree 有 4 种写法"
-        },
-        {
-          "id": "https://toutiao.io/k/irs8xav",
-          "author": null,
-          "description": "霸体模式启动",
-          "link": "https://toutiao.io/k/irs8xav",
-          "publishedOn": "2021-09-16T01:13:35.799Z",
-          "wordCount": 390,
-          "title": "[推荐] 一个 MySQL 锁和面试官大战三十回合，我霸中霸"
-        },
-        {
-          "id": "https://toutiao.io/k/l1el1gh",
-          "author": null,
-          "description": "简单工厂严格的说并不是GOF里面提到的标准的23个设计模式之一。但是日常开发中经常会用到，特别是比较小的系统。简单工厂模式就是通过一个工厂类的工厂方法创建相应的对象。",
-          "link": "https://toutiao.io/k/l1el1gh",
-          "publishedOn": "2021-09-16T01:13:35.732Z",
-          "wordCount": 157,
-          "title": "设计模式系列：简单工厂模式"
-        },
-        {
-          "id": "https://toutiao.io/k/xwhru3a",
-          "author": null,
-          "description": "消息中间件在互联网公司使用的越来越多，主要用于在分布式系统中存储转发消息，在易用性、扩展性、高可用性等方面表",
-          "link": "https://toutiao.io/k/xwhru3a",
-          "publishedOn": "2021-09-16T01:13:35.656Z",
-          "wordCount": 230,
-          "title": "3 分钟实现 Spring Boot 集成 RabbitMQ，实现消息队列服务"
-        },
-        {
-          "id": "https://toutiao.io/k/dwx82wq",
-          "author": null,
-          "description": "大白话解析一波",
-          "link": "https://toutiao.io/k/dwx82wq",
-          "publishedOn": "2021-09-16T01:13:35.309Z",
-          "wordCount": 196,
-          "title": "最近面试小心被问 Dubbo 3.0"
-        },
-        {
-          "id": "https://toutiao.io/k/6vqtaxt",
-          "author": null,
-          "description": "细节决定成败",
-          "link": "https://toutiao.io/k/6vqtaxt",
-          "publishedOn": "2021-09-16T01:13:35.238Z",
-          "wordCount": 55,
-          "title": "代码评审的三怕"
-        },
-        {
-          "id": "https://toutiao.io/k/ydudlhl",
-          "author": null,
-          "description": "作者： @马骏 | 旷视 MegEngine 架构师前言单精度矩阵乘法（SGEMM）几乎是每一位学习 CUDA 的同学绕不开的案例，这个经典的计算密集型案例可以很好地展示 GPU 编程中常用的优化技巧，而能否写出高效率的 SGEMM Ker…",
-          "link": "https://toutiao.io/k/ydudlhl",
-          "publishedOn": "2021-09-16T01:13:33.215Z",
-          "wordCount": 1172,
-          "title": "CUDA 矩阵乘法终极优化指南"
-        },
-        {
-          "id": "https://toutiao.io/k/re80is3",
-          "author": null,
-          "description": "要生成一副图片地图，可以使用ArcGIS、QGIS等工具，也可以使用代码实现。我这里介绍的当然是用代码实现，而且是利用开源软件。毕竟桌面版GIS工具的介绍太多了，大家的地图都做的很漂亮。用代码渲染地图就不得不提到GDAL和Mapnik。GDAL是处理GIS数据最常用的库，这里我们就要用到gdaldem处理DEM数据。Mapnik是渲染地图的最基本工具，我们要...",
-          "link": "https://toutiao.io/k/re80is3",
-          "publishedOn": "2021-09-16T01:13:32.740Z",
-          "wordCount": 297,
-          "title": "使用 DEM 和矢量数据绘制地图"
         }
       ]
     },
@@ -3482,6 +3450,105 @@
       "feedUrl": "https://www.zhihu.com/rss",
       "siteUrl": "http://www.zhihu.com",
       "articles": [
+        {
+          "id": "http://zhuanlan.zhihu.com/p/422064040",
+          "author": "中国航天科工",
+          "description": "10月16日0时23分，搭载神舟十三号载人飞船的长征二F号遥十三运载火箭，在酒泉卫星发射中心点火发射，随后飞船进入预定轨道，顺利将翟志刚、王亚平、叶光富3名航天员送入太空，飞行乘组状态良好，发射取得圆满成功。 \n10月16日6时56分，神舟十三号载人飞船采用自主快速交会对接模式成功对接于天和核心舱径向端口，与此前已对接的天舟二号、天舟三号货运飞船一起构成四舱（船）组合体。整个交会对接过程历时约6.5小时，3名航天员随后将进入天和核心舱。\n\n\n中国航天科工\n作为载人航天工程的\n副总指挥单位\n承担了多台单机产品\n大量工业基础件\n电子元器件产品等\n研制生产任务\n为神舟十三号航天员\n打造“准 稳 康”\n的太空之旅\n\n\n\n“准”——铸造精准对接的“太空之眼”\n中国航天科工二院25所研制的微波雷达作为关键测量敏感器在交会对接过程中输出高精度测距、测速及测角信息，为空间站建设中的交会对接任务提供有力支撑。\n此次交会对接任务中，是径向对接的“首秀”——神舟十三号飞船由后向绕飞至天和核心舱的下方，在垂直方向上与天和核心舱对接。相比与其它对接口，径向对接的复杂场景对微波雷达提出了更高要求，也进一步验证了微波雷达的成熟度和稳定性。\n中国航天科工研制的微波雷达在技术上已实现平台化、系列化发展，完全适应后续空间站建设交会对接常态化、快速化发展的趋势。自2011年首次参与空间交会对接任务的10余年间，已相继导引天舟二号、神舟十二号飞船与天和核心舱完成交会对接，微波雷达以全胜的优异表现，为空间站的建设及运营提供了强力技术支撑。\n\n\n“稳”——确保稳定飞行的“最佳搭档”\n中国航天科工三院33所的高精度加速度计组合（简称高加组合）依旧给人“稳稳的信服”。\n执行任务时，组合内的核心部件石英挠性加速度计和IF转换电路密切协作，精准测量微重力环境下的加速度，从而帮助飞船精准把握速度、位置等信息。既然两个核心部件分…",
+          "link": "http://zhuanlan.zhihu.com/p/422064040?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-16T00:56:26.000Z",
+          "wordCount": 10,
+          "title": "神舟十三号飞船成功径向对接！中国航天科工如何“准、稳、康”天地护航"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492539604/answer/2172873318",
+          "author": "中国军视网",
+          "description": "同神舟十二号载人飞船发射一样，这次神舟十三号载人飞船发射也是采取了“发射一发，备份一发，滚动备份”的模式，这样的模式基于怎样的考虑？准备过程中又会遇到哪些难题？来听总台记者对酒泉卫星发射中心总工程师郑永煌的专访。\n\n来源：知乎 www.zhihu.com\n中国军视网\n点击下载\n202 个回答，查看全部。\n神舟十二号航天员开展中国空间站首次出舱活动，主要完成哪些任务？长时间舱外作业有哪些难度和危险？\n中国新一代载人飞船试验船返回舱开舱，舱里都带了些啥？下次你还希望可能带些啥？",
+          "link": "http://www.zhihu.com/question/492539604/answer/2172873318?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T16:35:33.000Z",
+          "wordCount": 44,
+          "title": "神舟十三号发射成功，已成功对接空间站，3 名航天员将在太空驻留 6 个月，有哪些新挑战？你有哪些期待？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492539604/answer/2172717869",
+          "author": "中国航天科工",
+          "description": "6个月在轨驻留与3个月相比，时间长度就是他们最大的挑战。\n相比于神舟十二号航天员在轨驻留3个月，这次神舟十三号的在轨驻留时间直接增加了一倍。在空间微重力的影响下，宇航员骨量的减少、肌肉的萎缩以及神经系统的弱化，这三个影响会放大一倍。三名航天员要在太空停留6个月是为了考核、验证目前所采取的抵抗措施是否有效。\n未来从神舟十四号开始，要实现中国空间站不间断有航天员驻留。这样的话，空间站正常的乘组轮换将会是半年一轮换。目前，只有验证这些措施有效，才敢进入一个正常的运营阶段。\n此次航天飞行过程中，三名宇航员将进行两到三次出舱活动，这也是为了进一步夯实航天员出舱活动方面的能力和技术。出舱活动本身的技术较为复杂，要求较高。虽然我国载人航天已进行过多次出舱活动，但此次出舱活动将进行更为复杂的操作任务。\n此次飞行任务中航天员要安装能够将大小机械臂连接在一起的适配器以及悬挂系统，这是一个非常复杂的过程。对标国外，出舱已经成为一个完全常规的操作，所以在这方面还要进一步夯实技术基础。\n神舟十三号载人飞行任务是空间站关键技术验证阶段第六次飞行任务，也是该阶段最后一次飞行任务。飞行任务中将开展机械臂辅助舱段转位、手控遥操作等空间站组装建造关键技术试验，这项技术对于未来可靠建造空间站非常重要。这将会是航天员在太空中很有挑战的一项任务，要严密地在轨监视机械臂辅助进行转位的状态。\n径向对接，要求更严，中国是第一次这样做。\n不同于以往的神舟系列飞船采取的前、后两个方向停靠空间站，按计划，神舟十三号飞船入轨后，将采用自主快速交会对接模式，对接于天和核心舱径向端口，与天和核心舱及天舟二号、天舟三号货运飞船形成组合体。\n那么，径向停靠和前、后两种停靠方式有何不同？神舟飞船进入轨道以后要和空间站进行对接，对接的过程如果两者在同一轨道上，只是前后位置不一样，它是一个稳定的位置关系。由于轨道动力学的特点，如果飞船是从下方去接近空间站，就意味着飞船和空间站处在不同高度，处在不同轨道上。它的位置关系不是稳定的，相对于前后向对接，这种对接要求更严格，对时间的把握要更准确。中国第一次这样做，所以有一定难度。\n为什么要抛弃前后向对接而采用更加复杂的径向对接？因为空间站不可能所有的对接口都在前向和后向，尤其是未来基本上后向对接口会长期被天舟货运飞船占用。而且未来如果要实现中国航天员在太空不间断驻留，就意味着前一个乘组完成任务以后并不能直接返回地球，而是等后一个乘组来了以后，他们在轨进行任务交接，前一个乘组才能返回地球。这就意味着，短时间要有六个人两艘飞船对接到空间站上。前后向对接口可能已经被占用的情况下，只能选择径向对接口。这是未来空间站建设必须要掌握的技术。\n对比神舟十二号载人飞行任务，虽然说大的任务表面上和神舟十二号相似，但是神舟十三号的每一项任务其实更有技术含量，难度更高，更有挑战性。\n女航天员要首次进驻中国空间站。\n航天员王亚平将成为首次进驻中国空间站的中国女航天员，她也将成为中国首位实施出舱活动的女航天员。\n空间站的功能主要是进行各类科学研究，在科学研究层面，航天医学是这些研究中的重要项目。航天医学中既有对男性的研究也有对女性的研究。女航天员的存在，也是空间站运营的需求。由于长期处于封闭空间，男女搭配对于解决很多心理问题有好处。有女性航天员存在，也有助于研究未来更长时间的太空飞行中航天员的心理问题。\n\n来源：知乎 www.zhihu.com\n中国航天科工\n点击下载\n202 个回答，查看全部。\n神舟十二号航天员开展中国空间站首次出舱活动，主要完成哪些任务？长时间舱外作业有哪些难度和危险？\n中国新一代载人飞船试验船返回舱开舱，舱里都带了些啥？下次你还希望可能带些啥？",
+          "link": "http://www.zhihu.com/question/492539604/answer/2172717869?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T16:35:14.000Z",
+          "wordCount": 34,
+          "title": "神舟十三号发射成功，已成功对接空间站，3 名航天员将在太空驻留 6 个月，有哪些新挑战？你有哪些期待？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492539604/answer/2172424485",
+          "author": "全国妇联女性之声",
+          "description": "只有不断挑战\n才能触摸到宇宙中的星辰\n飞天英雄花\n即将再次起航\n铿锵玫瑰，再度起航。她王亚平！\n近日，在酒泉卫星发射中心\n神舟十三号载人飞船与长征二号F遥十三运载火箭组合体\n已转运至发射区计划近期择机实施发射\n\n此次任务将包括一名女航天员\n她就是曾执行“神舟十号”载人飞行任务的航天员——王亚平\n\n2003年，我国第一位航天员杨利伟乘神舟五号飞船进入太空\n23岁的王亚平第一次在电视上看见火箭发射那一刻，航天梦牢铸心中\n她想，我们有了男航天员我们也会有女航天员\n\n太空不会因为你是女性便温柔以待\n从17岁报考长春空军飞行学院开始\n两件事始终形影不离：一是紧张繁重的专业课学习\n二是不为常人所知的严酷训练\n 训练内容、强度、方法均和男航天员一样\n登上太空的前几年\n是数千小时的刻苦训练\n她当时的信念只有坚持\n\n航天员要在失重状态下进行空间出舱活动和装配维修等任务\n因此模拟失重水槽训练必不可少\n据介绍，航天员一次复杂的训练体重会下降1到2公斤\n在这里，王亚平的训练长达4个多小时\n\n\n\n\n离心机训练也考验着航天员强大的意志力\n2G的离心力相当于过山车从最高点急速俯冲到最低点时的压迫感\n普通人最多能承受4G的离心力\n而王亚平则要进行8G的过载训练\n\n30秒左右的时间脸部会发生变形\n胸部会感觉到呼吸困难\n还会泪流满面\n\n由于训练难度高、强度大\n训练舱内有一个用来终止训练的红色按钮\n但王亚平说\n这个按钮二十多年来无人触碰\n因为在航天员心中“它是不存在的”\n王亚平不仅出色的完成了肩负的太空任务\n“天宫一号”上精彩的“太空物理课”也令人印象深刻\n\n她知道\n中国的航天事业需要青少年对太空的向往、对科学的热情\n因此她和两名师兄前期做了大量准备\n上课时，8万多所学校6000多万名小学生同步收看了直播\n王亚平在失重状态下顺利完成了质量测量单摆运动、陀螺运动、水膜和水球５个基础物理实验\n\n她说，现在回想起来\n那种亲手为孩子们播种航天梦想、开启追梦旅程的感觉真是太棒了\n\n\n2021是我国的航天大年\n今后我们航天事业的脚步会迈得更大更远\n而在星辰宇宙的征途上\n是无数像王亚平一样的航天工作者们\n日日夜夜的坚守与奋斗才成就了如今的辉煌\n\n这个爽朗美丽的姑娘还将继续在自己热爱的领域上发光发热\n她是“英雄航天员”是“太空教师”也是中国航天事业的“铿锵玫瑰”\n向她致敬！\n\n\n来源：知乎 www.zhihu.com\n全国妇联女性之声\n点击下载\n202 个回答，查看全部。\n神舟十二号航天员开展中国空间站首次出舱活动，主要完成哪些任务？长时间舱外作业有哪些难度和危险？\n中国新一代载人飞船试验船返回舱开舱，舱里都带了些啥？下次你还希望可能带些啥？",
+          "link": "http://www.zhihu.com/question/492539604/answer/2172424485?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T10:27:09.000Z",
+          "wordCount": 160,
+          "title": "神舟十三号发射成功，已成功对接空间站，3 名航天员将在太空驻留 6 个月，有哪些新挑战？你有哪些期待？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492075761/answer/2172234198",
+          "author": "海水茶杯鱼",
+          "description": "广西桂林的龙脊梯田确实是非常推荐的景点之一，但是因为它面积极广，有些地方并不是专门修建的景区那么成熟和配套完善，没有去过的朋友可能会有些不太清楚。下面我根据自己亲自在龙脊梯田的游玩经验，给大家一些建议吧。\n\n选适合自己的地方\n龙脊梯田并不是一个地方或者说一个景区，随便去就行了。事实上龙脊梯田分为平安壮寨梯田、金坑红瑶梯田、古壮寨梯田和小寨红瑶梯田四大部分。\n这四大部分有较为明显的差异，从各方面考虑，我推荐去平安壮寨梯田或者金坑红瑶梯田（大寨）。\n\n平安壮寨是壮族村寨，开发较早，较为成熟，各项措施也比较齐备，桂林有班车可以直接到达，距离也比较近。\n金坑红瑶梯田则是瑶族村寨，最远也最深入山区，出行道路较为崎岖。但是胜在人少，梯田面积广、视野好，保留着原始的村寨和风貌，很适合感受田园风光和体验真实的瑶寨风貌。\n\n提醒：我之前选择的是金坑红瑶梯田，觉得非常满意，大家可以参考一下。以下的内容也以金坑红瑶梯田为准，其它梯田也可以做很好的参考。\n选定前往的时间\n在不同的季节，梯田的风景迥异，能感受到的气氛也很不相同，所以建议先了解下哪个季节适合自己。\n每年的四、五月份开始往稻田里面注水，在注水之前是割完水稻的稻茬，确实没有什么可看的。注水之后一片片的稻田反射着蓝天白云，看起来也是非常漂亮的。\n如果冬季下雪之后，那么被白雪覆盖的梯田别有一番景色，但那时候进山也是不容易的。\n\n灌水种植秧苗以后一直到八九月份，满山都是绿油油的秧苗，除了秧苗的高度和密度有些区别外，其他差异不大。但长大后的秧苗看起来更加挺拔茁壮，八月份左右也是很好的选择。\n\n九月底到十月底，这段时间是秧苗成熟的时候，时间越往后秧苗会越来越金黄，如果你喜欢感受金色的稻田，那么十月份是最好的季节，但要注意十月底前会收割，不要错过了。\n\n提醒：五一、十一、春节等旅游高峰期，住宿费用可能会几倍于平时淡季。现在据说为了吸引游客，可能在十一…",
+          "link": "http://www.zhihu.com/question/492075761/answer/2172234198?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T08:25:11.000Z",
+          "wordCount": 194,
+          "title": "龙脊梯田有哪些是亲测不踩坑的游玩体验？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/491864737/answer/2170287577",
+          "author": "中国文艺网",
+          "description": "近年来，一些艺人仗着粉丝和市场，屡屡顶风违纪，成为社会公序良俗的破坏者和疮疤毒瘤。事实证明，抵制这些劣迹艺人，光靠温馨提示般的行业自律和呼吁倡议，力度已经远远不够，必须各方联合发力，架好带电“高压线”，长出锋利的“牙齿”，方可奏效。\n首先，要划定和提升行业准入门槛，建立完善退出机制。文娱行业或视听行业是生产精神食粮的行业，行业的从业人员素质决定了产品的整体质量，从业人员的审美导向影响着消费者的价值取向。可以说，有什么样的人品就会有什么样的作品，有什么样的立场就会有什么样的市场，有什么样的素质就会有什么样的品质。但是，当下文娱行业或视听行业准入门槛很低，致使从业者泥沙俱下、良莠不齐。应该尽快建立文娱产业的准入门槛，更要建立完善退出机制，对于违法乱纪、越过底线者，及时、随时做出反应，拿出办法，有效清理。\n 其次，要从侧重结果管理转为侧重过程管理。抵制劣迹艺人的频繁出现，还需多方联合发力，变事后处置为事前和事中监管，从侧重结果管理转为侧重过程管理，从而在抓早和抓小中做好预防工作。一部作品创作前期对参与创作艺人的道德法纪把关和行为评估很有必要，在创作中期对多头轧戏、乱改剧本、态度傲慢等问题的监管同样不可或缺，在创作后期更应针对不合适的内容及宣发及时调整，对明星团队和粉丝互撕等恶性行为及时介入。这样可以有效避免创作投入和社会资源的浪费，更可以最大程度规避对文艺生态可能带来的伤害。\n再次，要从源头根本加强管控力度。劣迹艺人之所以能被粉丝们前呼后拥，离不开资本与平台的炒作，拉踩引战、攀比炫富、人肉搜索、刷榜控评等现象，归根结底都是资本追求增值的手段。斩断资本推手，管住无良平台，取消劣迹艺人表演的空间，划出平台生存的底线和红线，那么劣迹艺人的影响力和破坏力自然就会灰飞烟灭。\n最后，要强化艺人的职业教育。一些从业人员政治素养不高、法律意识淡薄、道德观念滑坡，违法失德言行之所以时有发生，与职业教育的长期忽略和不够全面也不无关系。不少艺人在职前教育阶段就存在只重专业训练、轻思想道德引领的问题，在职后教育阶段又缺乏正确的行业引领与规范，导致浮躁、拜金，只认流量和钱，心口不一和知行错位现象比较普遍。要从内心深处改变，职前和职后的培训教育必须加强，而且要划出底线和高线，打通培训和监管之间的壁障，让培训和监管“长牙”“带电”，不能流于形式，不能走过场，不能一味“温良恭俭让”。\n\n来源：知乎 www.zhihu.com\n中国文艺网\n点击下载\n3010 个回答，查看全部。\n如何评价宋冬野发布5月9日新版《郭源潮》？\n如何评价网易云下架宋冬野除《安和桥北》和新歌《郭源潮》外歌曲？",
+          "link": "http://www.zhihu.com/question/491864737/answer/2170287577?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T07:42:35.000Z",
+          "wordCount": 21,
+          "title": "如何评价宋冬野演出被取消后发布长文，要求演出机会？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492539604/answer/2171893006",
+          "author": "新华社",
+          "description": "神舟十三号载人飞船计划搭载三名航天员在中国空间站驻留6个月，将进一步验证空间站建设运行的关键技术，包括长期在轨生活技术和再生式的环控生保技术。\n此外，神舟十二号的乘组在返回之前，在离开空间站之前进行了一个模拟的从下方接近空间站的操作，对这样的操作进行了初步的技术验证，最后是需要神州十三号去实施的。\n最后，在关键技术验证阶段规划的大约四十多项的科学实验，神舟十二号乘组已经做了十几项，未来神舟十三号乘组有更多的时间来做剩下的这些科学实验。\n为完成任务，航天员们之前经历了艰苦的训练，让我们一起来看。\n\n来源：知乎 www.zhihu.com\n新华社\n点击下载\n202 个回答，查看全部。\n神舟十二号航天员开展中国空间站首次出舱活动，主要完成哪些任务？长时间舱外作业有哪些难度和危险？\n中国新一代载人飞船试验船返回舱开舱，舱里都带了些啥？下次你还希望可能带些啥？",
+          "link": "http://www.zhihu.com/question/492539604/answer/2171893006?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T05:19:39.000Z",
+          "wordCount": 40,
+          "title": "神舟十三号发射成功，已成功对接空间站，3 名航天员将在太空驻留 6 个月，有哪些新挑战？你有哪些期待？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/488270687/answer/2134220946",
+          "author": "毛利",
+          "description": "33 岁，我打算嫁人了。\n婚是我求的，戒指是我买的，甚至婚房都是我租的。\n可领证当天，我却在民政局门口，被他放了鸽子。\n1， 结婚真是个恐怖故事吗？\n程佩：\n我要结婚了。站在民政局门口，心情有点像当年准备去高考，手上出了点汗，明明三月初江南的春风还带着七八分寒气，但到底是慌了。\n都已经到民政局了，准备跟我结婚的另一半，不知道为何，在半小时之内如人间蒸发一般，不见踪影。手机信号在楼里不太好，拨不通电话，我特意跑到民政局门口，摁下未婚夫马宁的电话，一片忙音。\n果然，结婚并不是那么容易的事。有时你明明已经豁出了所有勇气，就算听说那么多恐怖故事，还是打算亲自尝一尝梨子的滋味，你相信自己能控制得住，因为女人的命运，怎么就是男人主宰的呢？\n我就不信了，我要自己主宰一回，我来决定故事的开场，走向，结局，就像以前男人决定一个女人的第二次投胎一样。\n可是在民政局，单单一个女人，无论如何是办不成结婚这件事的。\n这事还是我大意了。\n早知道就不该在拍结婚证件照前，因为看前面等待的准夫妻太多，特意提出：要不我去上个洗手间吧？\n马宁当即点头，回答说，他也要去照照镜子，争取拍出一张这辈子最得体的照片。\n我在女洗手间最多只待了五分钟，从这种事情上可以看出，我不是一般女人，从来不爱磨磨蹭蹭，以前交往的男朋友都很吃惊，你怎么这么快就出来了？他们早就习惯了在洗手间门口左顾右盼，甚至找个地方坐下来打一盘游戏。\n不，我做什么事情都快手快脚，除了结婚这件事，一直拖到三十三的春天，终于有个男人答应，好吧，既然你想结，那我们就去结吧。\n这个人就是马宁，你或许还瞧出了另外一点端倪，不仅结婚是我提的，其实求婚的也是我。我对天发誓，本人并非长相丑陋奇形怪状怪癖累累的奇葩女子，说到底，也不过是大上海混口饭吃的上班族一名，不仅如此，平常也紧跟时代，努力把自己打扮得不露痕迹，看起来满脸都是虚荣心的势力女性，看谁都是那么不屑一顾。\n但…",
+          "link": "http://www.zhihu.com/question/488270687/answer/2134220946?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T03:38:17.000Z",
+          "wordCount": 33,
+          "title": "如何以「33 岁，我打算嫁人了」为开头写一篇故事？"
+        },
+        {
+          "id": "http://zhuanlan.zhihu.com/p/419764689",
+          "author": "中国航天科工",
+          "description": "反映中国航天父辈们的故事题材广泛，浩如烟海，撷取航天哪一个大事件，最能代表那个年代父辈们的奋斗精神，难度很大。编导人员在认真研读中国航天史，广泛听取航天老专家讲那个年代的故事后，决定以成功发射中国第一颗人造地球卫星“东方红一号”为影片的大背景。\n1970年4月24日，我国第一颗人造地球卫星发射成功，举国欢腾，震惊世界，标志着我国从此开始进入航天时代。2016年，经国务院批复同意将每年的这一天设立为“中国航天日”，让航天人引以为荣。\n发射人造卫星是一个庞大复杂的系统工程，涉及卫星、火箭、发射场、测控等各大系统，将哪里作为反映父辈们为发射人造卫星不懈努力的切入点，是摆在编导人员面前非常困难的工作，需要进行调研、学习和听取专家建议。\n当年中央对发射第一颗人造卫星提出：要上得去、抓得住、看得见、听得着。首先要“上得去”，这就要看“长征一号”运载火箭能不能把卫星送上去，经过反复论证，运载火箭一、二级液体发动机飞行试验在导弹上已经成功，但火箭依靠一、二级液体发动机不能达到第一宇宙速度，因此需要靠第三级固体火箭发动机在旋转条件下把卫星送入预定轨道，这样发射卫星的技术难度就集中到自旋稳定的固体火箭发动机上。在当时，我国还没有研制成功的固体火箭发动机在300公里以上高空点火，以每分钟180转的条件下工作，风险和难度很大。这样就把反映发射中国第一颗人造卫星的复杂工程集中到“长征一号”第三级固体火箭发动机的研制上。困难越大才越有故事，情节才能感人，才能真实地彰显“两弹一星”精神。\n在影片《诗》的观摩会上，“东方红一号”技术负责人、神舟飞船总负责人戚发轫院士说：发射“东方红一号”卫星涉及卫星、火箭、发射测控等多个系统，要找一个切入点，难度很大。这个片子拍摄得不错，选择当时研制难度较大的第三级固体火箭发动机作为切入点，选的很好。内蒙古研制基地（现中国航天科工六院）我去过，条件非常艰苦，风沙遮天蔽日，…",
+          "link": "http://zhuanlan.zhihu.com/p/419764689?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T03:15:07.000Z",
+          "wordCount": 39,
+          "title": "航天人如何看待章子怡导演处女座《我和我的父辈》之《诗》中的航天情怀"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492340549/answer/2171582741",
+          "author": "姚仙",
+          "description": "国产游戏《仙剑奇侠传 7》已发售，你的体验如何？ \n知乎的各位朋友大家好，感谢知乎的邀请，分享我对《仙剑奇侠传七》想法。\n\n\n《仙剑奇侠传七》的目标\n在立项之初说过仙七的创作目标之一，是想给玩家类似当年仙三的感觉，意思是“游历六界“。七代故事舞台跨人魔神三界，和明庶门、天师门、仙霞派等新老仙门，主角群都是年轻有为的新人物，也根据剧情需要有几位前作人物以大佬身份登场提携后辈。九泉中尚未登场的炎波、照胆、春滋、毒瘴等将一次呈现。可以说这是一部继往开来、新老融合，进一步延伸且整合世界观的作品。\n\n\n\n\n\n仙剑七之后，我们除了继续做下一代之外，还会推出多部长篇漫画来扩充和补全仙剑系列的人和事，从更多不同的视角和时间线向大家介绍仙剑世界。\n\n\n格物致知\n情与义是仙剑的情感核心，不同于欧美的个人英雄主义，我们中国人主张的是团队合作的力量，所以仙剑的故事向来是群像，过去回合制适合团队作战，改成ARPG之后，如何也能做出多主角并肩作战的感觉就成了我们要攻克的难题，虽然这在国外游戏并非新鲜事，但目前国内单机比较少见，而且多做一个可操作战斗的主角意味要多一倍这部分的投入，有可能是个吃力但不一定讨好的道路，而且我们过去没做过。但是我们认为这样能更好的体现伙伴的感觉，和避免玩家从头到尾只能操作一名主角的单调，所以还是咬牙朝这个坑跳下去。\n\n\n\n\n\n不同主角的打法设计，如何流畅的切换角色，男女主角合击等，要从一张白纸开始积累经验，总要跨出第一步。法乎其上，得乎其中，现在我们也建立起了一套多角色ARPG系统，也许还不完美，但是我们会根据玩家的反馈继续提高。\n\n\n跳既是坑\n跳，又是另一个坑。为了提供探索乐趣，这代地图刻意做的较大，地形起伏也复杂。加入自由跳跃之后场景测试修改的负担大增，而且是跳这么高，跑这么快的。开发途中我们一度遇到困难而纠结，但是这样能让玩家玩跑地图时更自由、更爽快，更像一名身手不凡的大侠，那我们就还是咬牙朝这个坑跳下去吧，花更多倍精力去解决。顺便透露一下~完成各地图中隐藏的跳跃任务也是玩家获得隐藏御灵\"小柒”的条件之一。\n\n\n\n\n\n技术探索\n如何用UE4做出适合仙剑的风格、如何呈现魔界、如何表现织物上的刺绣、整体色调如何迎合东方的审美……等等。在非光追显卡下如何运用光照烘培让场景更好看，以及在光追显卡下如何发挥光追的优势让光影更美。在这些方面我们做了很多尝试，早期也走了很多弯路，但也收获许多宝贵经验。\n\n\n\n\n\n目睹显卡荒，以及为了坚持让GTX 960显卡的玩家也能玩，我们为效能优化做了大量工作，也感谢各技术合作方的大力支持。我们也看到玩家对云游戏的需求，为手机端云游戏定制手机专用UI的版本，让PC显卡达不到最低配的玩家也能使在手机或智能电视上体验到画面精美且流畅的仙剑七。\n\n\n开放共创\n仙剑不是一个人的仙剑，是大家多年不弃的支持才能不断发展。我们始终相信广大玩家的力量，也欢迎大家共同创作。因为游戏是UE4制作，会使用UE4工具的同人大神们应不难制作仙剑7的MOD。我们对仙七的同人创作与之前的同人版权规范保持一致，未来并将推出资源编辑器，和仙剑共创UGC社区，届时欢迎大家捧场参与创作。\n\n\n来源：知乎 www.zhihu.com\n姚仙\n点击下载\n370 个回答，查看全部。\n怎么评价 iOS 平台的仙剑奇侠传 5 ？\n如何看待古剑奇谭登陆steam？",
+          "link": "http://www.zhihu.com/question/492340549/answer/2171582741?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T02:35:36.000Z",
+          "wordCount": 62,
+          "title": "国产游戏《仙剑奇侠传 7》已发售，你的体验如何？"
+        },
+        {
+          "id": "http://www.zhihu.com/question/492340549/answer/2171632744",
+          "author": "仙剑奇侠传",
+          "description": "各位知友早上好，关于同人创作请看这里，太长不看一句话版【开放共创，遵纪守法，您可随意使用】\n仙剑奇侠传：《仙剑奇侠传同人作品及版权规范声明》\n\n相守之约 《仙剑奇侠传七》今日正式上市\n\n\nPC单机游戏《仙剑奇侠传》系列第九部作品《仙剑奇侠传七》今日正式上市！\n《仙剑七》是一款动作角色扮演类游戏，由软星科技（北京）有限公司研发，其数字版定价为128元人民币，该作由方块游戏平台首发，2021年10月15日正式解锁上线。\n\n\n\n\n\n\n\n《仙剑七》官网：https://pal7.cubejoy.com/\n\n《仙剑奇侠传七》10月15日正式上市 预售开启\n\n\n\n《仙剑奇侠传七》是基于仙剑世界观所创作的新故事、和新主角。虽然和前代人物有关联，但是剧情完整，新玩家不会有理解问题。\n故事围绕人、神、魔三族展开，在保证剧情精彩演绎的同时，战斗系统较系列前作也做出重大变革，采用第三人称即时战斗模式，游戏流程无缝衔接，为玩家带来爽快的游戏体验。\n\n\n\n\n\n新作《仙剑奇侠传七》与NVIDIA深度合作，在游戏中支持NVIDIA DLSS深度学习超级采样技术以及光线追踪技术，希望能给玩家带来更好的游戏体验。\n\n\n本作战斗一改以往回合制模式，采用即时制模式并可随时进入战斗，可切换四名不同风格的主控角色进行作战。每个角色可习得多种特性技能，更可召唤强大神明作战，巧妙使用这些技能将让玩家在战斗中势如破竹。\n\n\n\n\n\n\n\n\n\n\n同时在游戏中可获得多种御灵进行养成，不仅外表可爱，还可提升队伍属性及探索收益，使玩家的冒险旅程更加顺利。\n\n\n\n\n\n\n\n逸仙疏影人月圆，静夜长思久长时。与君相守，如七而至。今日仙剑奇侠传七正式上市#，《仙剑奇侠传七原声音乐集》同步上线酷狗音乐，QQ音乐及酷我音乐平台~让我们一同在渺渺仙音中感受那些风格各异的精美场景，紧张刺激的爽快战斗，以及跌宕起伏的剧情故事。\n\n\n\n\n关于《仙剑奇侠传七》\n　　《仙剑奇侠传》系列是知名国产单机RPG游戏。首部《仙剑奇侠传》于1995年问世，此后陆续发布了八部作品，《仙剑奇侠传七》是该系列最新第九部作品，也是由软星科技（北京）有限公司以虚幻4引擎制作，“仙剑之父”姚壮宪担任制作人。\n\n来源：知乎 www.zhihu.com\n仙剑奇侠传\n点击下载\n370 个回答，查看全部。\n怎么评价 iOS 平台的仙剑奇侠传 5 ？\n如何看待古剑奇谭登陆steam？",
+          "link": "http://www.zhihu.com/question/492340549/answer/2171632744?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
+          "publishedOn": "2021-10-15T02:35:22.000Z",
+          "wordCount": 129,
+          "title": "国产游戏《仙剑奇侠传 7》已发售，你的体验如何？"
+        },
         {
           "id": "http://www.zhihu.com/question/485070138/answer/2168808670",
           "author": "奥古斯都",
@@ -4390,87 +4457,6 @@
           "publishedOn": "2021-09-17T02:15:53.000Z",
           "wordCount": 391,
           "title": "动画《平家物语》中的动植物（第一话）"
-        },
-        {
-          "id": "http://zhuanlan.zhihu.com/p/410999703",
-          "author": "新华社",
-          "description": "新华社成都9月16日电\n记者16日从四川省泸州市泸县新闻办获悉，截至9月16日11点，发生在四川泸县的6.0级地震已造成3人死亡，3人重伤，85人轻伤。全县居民房屋倒塌1221处，严重损坏3285间，一般受损20004间。\n9月16日，救援人员在泸县福集镇大田社区抢修道路（手机图片）。据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社发\n地震发生后，新华社记者从成都出发奔赴灾区。9点5分，记者在大雨中进入震中嘉明镇，沿途见到有民房围墙倒塌。受地震影响，镇上民房大部分停电，沿街可见小商店货架倒地，群众正在清理商品。\n9点24分，记者抵达福集镇。大雨中，救援人员正挨家挨户排查危房中的居民，并将他们带至临时安置点。在大田社区党群服务中心安置点，工作人员为居民分发月饼、蛋糕等食物。\n\n9月16日，这是当地搭建的应急帐篷。 据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社\n福集镇居民赖建容告诉记者，凌晨4点左右她感觉到轻微震感。4点33分感到摇晃异常剧烈，她穿着睡衣、光着脚就跑了出来。“家里房子的墙体有砖脱落，不敢再进去。”天亮后，她被救援人员带到位于大田社区党群服务中心的广场安置点。\n记者在该安置点看到，工作人员正抓紧冒雨搭建帐篷，一些工作人员负责接收登记救援物资，还有志愿者服务安置群众，送去牛奶、面包、方便面等食品。考虑到降雨导致气温较低，工作人员在安置点帐篷全部搭建好之前，尽可能将老人和孩子安顿在党群服务中心室内。\n\n9月16日，救援人员在泸县福集镇大田社区转移受灾群众（手机图片）。据中国地震台网正式测定，9月16日4时33分，四川省泸州市泸县发生6.0级地震，震源深度10千米，震中位于北纬29.20度，东经105.34度。四川省抗震救灾指挥部启动二级地震应急响应。新华社发\n截至9月16日11点，泸县全县共设安置点79个，紧急转移安置3212人，受灾群众人数仍在进一步统计中。\n目前，国家电网泸州供电公司正全力开展电网抢修。此外，记者从四川省公安厅获悉，为保证救援道路畅通，G4215成自泸高速泸县西收费站，G76厦蓉高速泸县收费站、隆昌收费站对地方车辆进行交通管控。\n新华社记者高健钧、袁波、吴光于\n\n来源：知乎 www.zhihu.com\n新华社\n点击下载",
-          "link": "http://zhuanlan.zhihu.com/p/410999703?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T07:34:48.000Z",
-          "wordCount": 35,
-          "title": "3人死亡88人受伤 紧急转移安置3212人——四川泸县地震救援现场直击"
-        },
-        {
-          "id": "http://www.zhihu.com/question/487123600/answer/2123867110",
-          "author": "中国军网",
-          "description": "武警四川总队官兵紧急驰援地震灾区一线\n解放军报讯 记者吴敏、特约通讯员洪福乐、姜永安报道：上午9时许，武警四川总队抗震救灾前指和360名官兵抵达泸州灾区。今日4时33分，泸州市泸县发生6.0级地震，震源深度10千米。为了人民群众生命财产安全，武警四川总队立即启动应急响应机制，司令员曹善贵第一时间组织召开作战会议，总队副参谋长金泽林率前指赶赴一线救援，泸州支队泸县中队官兵凌晨5时50分赶赴震中排查灾情、展开救援。 暴雨中，避险群众看到武警官兵纷纷求助，官兵们分组有序展开工作，配合当地应急部门和村委会走村入户核查灾情、转移群众、发放口罩等防疫物资。\n\n\n\n\n来源：知乎 www.zhihu.com\n中国军网\n点击下载\n7 个回答，查看全部。\n地震发生后如何自救？\n地震提前 60 秒预警可以挽回多少损失？普通人在这期间如何最大限度自救或减少损失？",
-          "link": "http://www.zhihu.com/question/487123600/answer/2123867110?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T07:00:02.000Z",
-          "wordCount": 36,
-          "title": "四川泸县发生6.0级地震，子弟兵迅疾行动！当地情况如何？有什么自救知识分享一下？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/484001869/answer/2098788046",
-          "author": "风神大人",
-          "description": "〔全文1.7W字，已完结〕\n我是嫦娥怀里常抱着的玉兔，嫦娥在这广寒宫伴了我五百年，我也被天庭囚禁了五百年。\n《月宫》\n壹\n「嫦娥妹妹——」\n我和嫦娥正待在广寒宫里眯着觉，隔着老远就听见天蓬元帅那粗狂的声音。\n自从上次在王母的蟠桃盛会上见过一面，天蓬便独自一人坠入了爱河，此后，广寒宫更是日日都充斥着他的身影。\n要是哪一天他没来，反倒是不习惯了。\n「今日怎么来早了些?」\n我在嫦娥怀里伸了个懒腰，毛茸茸的爪子扒拉着衣裙的月白色飘带，小脑壳在上面蹭了蹭，满脸惬意。\n嫦娥没有回答我的嘟囔，「醒了?要不要再睡会儿?」\n「不了，睡不着。」\n「那乖乖待着，我出去瞧瞧就回来。」\n她将我放到软榻上，我挪动着略显肥胖的身体寻了一个舒服的姿势躺好。\n感觉动作比以往慢了不少，这都要怪天蓬每次带来的伙食实在太好吃，天天被这么喂养，是只兔子都要胖。\n外头的谈话隐约入耳——\n「嫦娥妹妹，正巧俺今儿下界，就弄了点你以前最喜欢吃的糕子，给你送来了，喏，还有玉兔的零嘴，热乎着呢。」\n「这是你买的?」\n「嘿嘿……买的买的，俺给人家钱了，那以前都是误会。」\n「这么多东西，广寒宫除了我和玉兔也没别人，怎么吃得完？下次，还是不要送来了。」\n「没事，玉兔正长个儿呢，能吃！」\n「哎，天蓬！天蓬！」\n……\n我自觉地将爪伸进篮子，坐起身抱着一根胡萝卜开啃，还抽空点评了一下：「这萝卜比上次的新鲜。」\n「你不吃吗？」我把篮子推到她面前。\n「我没胃口。」\n嫦娥不复刚才的婉柔模样，嘴角扯得有些牵强，百无聊赖地坐着，双手绞动着腰间的带子。\n我又塞了一口糕点进嘴，口齿不清：「人间是怎么做出来这么多好吃的……」\n「我也想去看看你以前生活的地方。」\n突然，嫦娥一把扯开了我啃到一半的胡萝卜，差点儿把我两颗门牙磕着。\n不知道哪个字触碰到了她的敏感，她蓦地朝我大吼，「看什么看，一天到晚就知道吃的废物就该老实待着！」\n我听着这话也不恼，五百年的相处，…",
-          "link": "http://www.zhihu.com/question/484001869/answer/2098788046?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T06:46:59.000Z",
-          "wordCount": 19,
-          "title": "如何以「我是嫦娥怀里常抱着的玉兔」为开头写一个故事？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/484001869/answer/2119100364",
-          "author": "蘑菇君",
-          "description": "（小虐文已完结）\n-1-\n我是嫦娥怀里常抱着的玉兔。\n众仙皆知，天蓬元帅对嫦娥一往情深，可嫦娥连个眼神都懒得给他。然而今天，我怀疑我眼瞎了。\n嫦娥居然靠在了天蓬的怀里，还一脸宠溺。\n幸好我是只兔子，矮矮小小，他们压根注意不到我，我顺利潜伏到了他们的脚下。\n“元帅，求你带我一同去吧。”\n天蓬皱着眉头，可又舍不得推开怀中美人，整个脸热得发烫。\n嫦娥用手抚上他的脸，眼神迷离，“只要你帮我这一次，以后说什么我都听你的。”\n那一抹深情，连我都快要陶醉了，更何况是苦追嫦娥八百年的天蓬。\n但我立马回过神来，狠狠咬了嫦娥的衣角，用力扯她，怎么连这种话都说得出来，万一天蓬说要和她在一起怎么办？这不是把自己卖了吗。\n可出乎我意料的是，天蓬竟然推开了她。\n“他对你就这么重要吗？”\n“是。”\n“即使他完全不记得你了，也没关系吗？”\n“是。”\n“好，我帮你。”\n天啊，这天蓬也算是个痴情种了，男人能有这气度也值得我玉兔敬佩了。\n嫦娥一听天蓬答应了，喜极而泣，一向镇定自若的她，竟然也开始慌乱起来，很久很久，我都没有看到嫦娥笑得如此开怀了。\n“但我法力有限，你最多只能在人间待一年，否则我们都会受到玉帝的惩罚。”\n嫦娥点点头，见我在地上扑腾，把我抱了起来。\n“你把玉兔也带上吧，让它和你做个伴，你一个人在人间，我不放心。”天蓬用力拍了下我的脑袋，“机灵兔，你要好好保护嫦娥，别让她被人欺负了。”\n我似懂非懂地点点头，大概是嫦娥保护我才差不多吧。\n天蓬对着我们念咒语，周围突然亮起一道刺眼的白光，接着是感受到灵魂在飞速地坠落，快到让人失去意识。\n-2-\n“喂，小玉，别睡了，小姐都起来了，你还不快去服侍。”\n我整个人睡得迷迷糊糊，睁开眼的时候，一张蓬头厉齿的脸在我眼前无限放大。\n“啊，鬼啊。”我惊得弹起身子。\n“你个臭丫头，还敢说我是鬼，别以为仗着小姐的宠爱就敢得罪我张妈妈，我在相国府几十年，就连小姐也得给我几分脸面…",
-          "link": "http://www.zhihu.com/question/484001869/answer/2119100364?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T06:42:11.000Z",
-          "wordCount": 18,
-          "title": "如何以「我是嫦娥怀里常抱着的玉兔」为开头写一个故事？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/486903558/answer/2121459177",
-          "author": "我们的太空",
-          "description": "【20210916追更】神舟十二号载人飞船撤离空间站组合体\n北京时间2021年9月16日8时56分，神舟十二号载人飞船与空间站天和核心舱成功实施分离。截至目前，神舟十二号航天员乘组已在空间站组合体工作生活了90天，刷新了中国航天员单次飞行任务太空驻留时间的纪录。分离前，航天员乘组在地面科技人员的配合下，完成了空间站组合体状态设置、实验数据整理下传、留轨物资清理转运等撤离前各项工作。\n【20210914】过程如何？搞懂神舟十二号载人飞船返回着陆的7件事（原创工程版，有点长，慢慢看），就明白了。\n        自2021年6月17日发射升空以来，神舟十二号任务的3名航天员聂海胜、刘伯明、汤洪波，即将圆满完成在轨90天的驻留任务，过程中相继完成了进驻、货船及核心舱物资收纳管理、在轨设备开机调试状态设置试验、两次出舱活动安装了全景相机支架及安装了扩展泵组、大量的在轨科学实验仪器设备展开试验、身体健康及医学监测等任务，经评估，全部预定任务超额完成，即将进入任务的返回着陆段工作。载有“太空3人组”的太空老帅航天员的返回舱即将要返回地球·中国·酒泉！（飞船的主着陆场是酒泉东风着陆场。)\n载人飞船的返回着陆技术，是载人航天工程的3大关键技术之一。\n这其中，知道了以下七方面的内容，会有助于更好的理解整个极具挑战、惊心动魄的航天员及载人飞船返回着陆过程。\n\n第一件事：航天员和载人飞船返回着陆到底是个什么样的过程，何时开始？何时结束？ 阶段划分？\n\n将大象放到冰箱需要3步，航天员从天和核心舱返回着陆回到酒泉主着陆场，技术上需要五个步骤（阶段）。\n\n分离撤离；\n制动离轨；\n惯性滑行；\n再入大气层；\n着陆。\n\n\n1 分离撤离段\n\n确定归期后，航天员开始撤离前的各项准备工作：\n物品的转移和整理，\n天和舱设备状态设置，\n神舟十二号载人飞船设置，\n货船设备舱门设置，\n天和核心舱舱门设置，\n货运飞船与核心…",
-          "link": "http://www.zhihu.com/question/486903558/answer/2121459177?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T05:56:49.000Z",
-          "wordCount": 116,
-          "title": "神舟十二号 3 名航天员即将按计划返回着陆在东风着陆场，过程会是怎样？你有何期待？"
-        },
-        {
-          "id": "http://zhuanlan.zhihu.com/p/410907347",
-          "author": "中国航天科工",
-          "description": "hi，大家好。我是中国航天事业和国防科技工业的中坚力量，航天强国建设和国防武器装备建设的主力军～中国航天科工知乎官方账号，也有很多网友叫我“航小科”，一个有点高冷还有点可爱的航天防务科普小能手。因为你，我们来这问答，因为航天，我们入驻表达！希望在这里，我们一起探知中国航天，分享航天趣事。我们在乎每一个问答和每一次表达，求！友！善！\n\n\n\n中国航天科工\n点击下载",
-          "link": "http://zhuanlan.zhihu.com/p/410907347?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T05:38:22.000Z",
-          "wordCount": 17,
-          "title": "因为你，我们来这问答，因为航天，我们入驻表达！"
-        },
-        {
-          "id": "http://www.zhihu.com/question/483819782/answer/2122164746",
-          "author": "知乎用户（登录查看详情）",
-          "description": "很高兴能和武当博物馆联名推出《武当仙踪》扩展包，感谢武当的信任。\n按照原计划，正式版后我们会停止大型的内容更新，所以《竹林深处》大概率会是唯一也是最后一个《了不起的修仙模拟器》的DLC，同时我们也发布了公告说会将力量转移到修仙2的开发中。当时我信誓旦旦的跟主策阿鬼说再做就是狗。\n汪汪汪。\n去年一月的时候，我们接到了来自武当山的邀请，说希望能有所合作，而且他们内部有我们的玩家，当时二话不说丢了张五百多小时游戏时间的截图过来。于是我找到阿鬼说要不咱挤点时间加个班再做个DLC？\n阿鬼本来是拒绝的，但是当我告诉他是以天下第一仙山武当山为题材时，他就问我机票订几号的。于是拉上美术我们三人就踏上了武当山之旅。\n\n到达十堰后我们和武当山的同学开了个小会，主要就是表达了我们对道教圣地滔滔不绝的崇敬之情，也提出了些问题，比如他们对我们游戏是怎么看的，对于我们的玩家是怎么看的，对于我们玩家那些意料之外的骚操作怎么看？没想到他们都很支持，基本上一直在说“可以”“都可以”，这也让我们放下了心来。\n碰巧疫情刚过，而且武当山在前两天才结束免费开放，所以我们上山后发现游客非常少，这“包山”一样的体验让我们对这片清雅之地有了很多不一样的体会。加上在武当博物馆了解到了武当文化里那些更加深层次的知识，当下我们就决定：这DLC是一定要做的！\n\n\n\n\n\n回到重庆后我们对着一大堆照片和武当工作人员提供的大量资料陷入了沉思，由于武当山的文化元素极其的精彩和庞大，我们一时间不知道该从什么角度切入才最好，这也带来了不小的压力。\n\n\n最后我们选择了一个适合我们的方向：精神内核。\n我们国家的精神内核有很多，不论是女娲造人夸父逐日的神话，还是道家天人合一，儒家仁义礼智的学理思辨，都深切的影响着生长在这片土地上的我们。在这些精神内核中，有一个概念可谓重要之极，那就是“阴阳”。\n什么是阴阳？作为普通人其实很少会刻意地思考这个概念。…",
-          "link": "http://www.zhihu.com/question/483819782/answer/2122164746?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T02:56:07.000Z",
-          "wordCount": 173,
-          "title": "国产游戏《了不起的修仙模拟器》DLC「武当仙踪」已解锁，体验如何？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/480575874/answer/2118778003",
-          "author": "中国三农发布",
-          "description": "2021年8月17日，中央财经委员会第十次会议研究扎实促进共同富裕问题。那么，到底什么是共同富裕？我们要靠什么来实现共同富裕？有哪些好的经验可以借鉴呢？敬请关注本期#靠什么来实现共同富裕#。\n\n中国三农发布\n点击下载\n1580 个回答，查看全部。\n学者丁一凡说「中国加强政府对市场的监管，与当前所处的历史阶段有关」，如何看待共同富裕和资本的关系？\n浙江高质量发展建设共同富裕示范区第一程主要目标划定，有哪些信息值得关注？",
-          "link": "http://www.zhihu.com/question/480575874/answer/2118778003?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T02:27:09.000Z",
-          "wordCount": 18,
-          "title": "中央财经委员会第十次会议提出「在高质量发展中促进共同富裕」，还有哪些内容需要关注？"
-        },
-        {
-          "id": "http://www.zhihu.com/question/487123600/answer/2123302406",
-          "author": "鈺Yu",
-          "description": "地震自救方法：借助“生命三角”躲震难\n地震发生时我们应该怎么做：家庭避震\n　　冷静判断。地震发生时，至关重要的是要有清醒的头脑。只有镇静，才有可能运用平时学到的地震知识判断地震的大小和远近。记住，近震常以上下颠簸开始，之后才左右摇摆。远震却少上下颠簸感觉，而以左右摇摆为主。\n　　就近躲避。震时是跑还是躲?我国多数专家认为：震时就近躲避，震后迅速撤离到安全地方，是应急避震较好的办法。发生地震时，如没有条件迅速撤离到室外，则不要急着往外跑，而应抓紧求生时间寻找合适的避震场所。\n　　选择合适避震空间。高层居民遇地震时，应立即躲避到结实的桌子或床下，家具旁或墙根、墙角等处可在房屋倒塌后形成三角空间，是相对安全的地点。还可以迅速逃进卫生间、储存室等面积较小的场所，这些小开间的地方是比较安全的地点。不要躲避在阳台、窗边等不安全位置。如住平房，迅速跑到门外。\n　　做好自我保护。选择好躲避处后应蹲下或坐下，脸朝下，额头枕在两臂上;或抓住桌腿等身边牢固的物体，以免震时摔倒或因身体失控移位而受伤;保护头颈部，低头，用手护住头部或后颈;保护眼睛，闭眼以防异物伤害;保护口鼻，有可能时，可用湿毛巾捂住口鼻，以防灰土、毒气。\n　　摇晃时立即关火，失火时立即灭火。更不能随便点明火，因为空气中可能有易燃易爆气体。地震的时候，关火的两次机会：第一次机会在大的晃动来临之前的小的晃动之时。在感知小的晃动的瞬间，即刻互相招呼：“地震!快关火!”关闭正在使用的取暖炉、煤气炉等。第二次机会在大的晃动停息的时候。大的晃动停息后，再一次呼喊：“关火!关火!”并去关火。如在发生大的晃动时去关火，放在煤气炉、取暖炉上面的水壶等会滑落下来，是很危险的。\n地震发生时我们应该怎么做：室外避震\n　　在户外遇到地震时，应该就地选择开阔地，趴下或蹲下避震;不要乱跑，避开人多的地方;不要随便返回室内。要远离山崖、陡坡、河岸及高压线等。避开高大建筑物或构筑物：楼房，特别是有玻璃幕墙的建筑;过街桥、立交桥;高烟囱、水塔下。避开危险物、高耸或悬挂物：变压器、电线杆、路灯、广告牌、吊车等。要保护好头部，避开危险之处。避开其他危险场所：狭窄的街道、危旧房屋、危墙、女儿墙、砖瓦及木料等物的堆放处。\n地震发生时我们应该怎么做：公共场所避震\n　　可朝着没有障碍的通道躲避，听从现场工作人员的指挥，不要慌乱，不要一起拥向楼梯、出口，要避免拥挤，避免被挤到墙壁或栅栏处。在影剧院、体育馆等处：注意避开吊灯、电扇等悬挂物。在商场、书店等处：应躲在近处的大柱子、内墙角，或朝着没有障碍的通道躲避，然后屈身蹲下，用手或其他东西护头;处于楼上位置的，原则上向底层转移为好。但楼梯往往是建筑物抗震的薄弱部位，因此，要看准脱险的合适时机。\n地震发生时我们应该怎么做：学校避震\n　　日本的《地震手册》避震知识中，第一条就明确地写着“要躲在坚固的家具下”。所以，日本教师坚信，最好的办法是“藏在桌下”。但是，这个想法是以日本地震多在数十秒后结束，天花板不会落下为前提的。建筑物、天花板因强震倒塌时，会将课桌等压毁，孩子如果躲在桌子下，后果不堪设想。在教室里，应迅速躲到教室的四个角落，或迅速就地蹲下，用书包、书本等保护头部。在操场或教室外时，可原地不动蹲下，双手保护头部，注意避开高大建筑物或危险物。震后不要回到教室去。千万不要跳楼!不要到阳台上去!不可躲在窗户下!\n地震发生时我们应该怎么做：写字楼内避震\n　　震时保持冷静，震后走到户外。这是避震的国际通用守则，国内外许多起地震实例表明，在地震发生的短暂瞬间，人们在进入或离开建筑物时，被砸死砸伤的概率最大。千万不可在慌乱中跳楼，这一点极为重要。\n　　寻找安全空间躲避。蹲在暖气旁较安全，暖气的承载力较大，金属管道的网络性结构和弹性不易被撕裂，即使在地震大幅度晃动时也不易被甩出去;暖气管道通气性好，不容易造成人员窒息;管道内的存水还可延长存活期。更重要的一点是，被困人员可采用击打暖气管道的方式向外界传递信息，而暖气靠外墙的位置有利于最快获得救助。\n　　需要特别注意的是，当躲在茶水间、卫生间这样的小开间时，尽量离炉具、煤气管道远些。若茶水间、卫生间处在建筑物的犄角旮旯里，且隔断墙为薄板墙时，就不要把它选择为最佳避震场所。此外，不要钻进柜子里，因为人一旦钻进去后便立刻丧失机动性，视野受阻，四肢被缚，不仅会错过逃生机会还不利于被救;躺卧的姿势也不好，人体的平面面积加大，被击中的概率要比站立大5倍，而且很难机动变位。近水不近火。这是确保在都市震灾中获得他人及时救助的重要原则。一旦被困，要设法与外界联系，除用手机联系外，可敲击管道和暖气片。\n\n\n\n\n\n来源：知乎 www.zhihu.com\n鈺Yu\n点击下载\n7 个回答，查看全部。\n地震发生后如何自救？\n地震提前 60 秒预警可以挽回多少损失？普通人在这期间如何最大限度自救或减少损失？",
-          "link": "http://www.zhihu.com/question/487123600/answer/2123302406?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title",
-          "publishedOn": "2021-09-16T01:34:45.000Z",
-          "wordCount": 35,
-          "title": "四川泸县发生6.0级地震，子弟兵迅疾行动！当地情况如何？有什么自救知识分享一下？"
         }
       ]
     },
@@ -4479,6 +4465,56 @@
       "feedUrl": "http://feeds.feedburner.com/zhihu-daily",
       "siteUrl": "https://news-at.zhihu.com/api/4/stories/latest?client=0",
       "articles": [
+        {
+          "id": "https://daily.zhihu.com/story/9741309",
+          "author": null,
+          "description": "老悟，曾经是个程序员\n阅读原文\n\n先说结论 1：这事儿真的有。\n再说结论 2：这是一个颠倒黑白的故事。\n这个所谓“溥仪逛故宫怒怼专家”的故事流传甚广，那些津津乐道的内容综合起来，虽然细节上各有发挥，但大体是这样的：\n末代皇帝溥仪特赦以后，和一起特赦的狱友回故宫，先因为要买票和人吵了一架，后又在光绪帝的房间发现所谓光绪照片其实是自己的父亲，于是向讲解员指出。讲解员不服，找来专家。专家称自己研究几十年不可能错，而溥仪只是一句话就堵住了专家的口——“你挂的这照片是我爹”。\n段子的反差效果极佳，专家蛮横装逼，当场遭打脸，极为符合喜剧观众乐于看权威闹笑话的心理。\n本来，我看完这种东西一笑就过了。直到我逛知乎的时候看到的这么一个答案：有没有人装逼正好撞到你擅长的领域上的？ - 老王小朋友的回答 - 知乎\n有没有人装逼正好撞到你擅长的领域上的？\n这个我就不能认同了，当笑话讲讲没什么，要当真事说，就有些反智主义的味道在里头了。\n于是我向答主发了问，真心求教出处。既然他能讲出这件事当作正经答案，应该知道来龙去脉吧，可这位在评论区跟其他人高谈历史观的答主并没有搭理我。\n我这个人有一点怪癖：看见有人讲历史，就老想找到这个故事的出处。上网直接搜索“溥仪 故宫 照片”，得到的全是各家自媒体所写同一个故事的不同版本，可就是没人告诉我们到底是谁最先讲出来的。\n继续琢磨，如果这个故事出自众所周知的溥仪自传《我的前半生》，那么一定早就有人引用出来了，所以应该不是。回过头去再细看，发现流传的版本里一多半会提到三个人：沈醉、宋希濂和杜聿明，据说溥仪就是跟他们仨一起逛的故宫。\n我开始搜索这三个人名加上溥仪加上故宫，这下有了发现。\n沈醉回忆录《我这三十年》以及沈醉女儿沈美娟写的《我的父亲沈醉》都提到沈醉、杜聿明等和溥仪逛故宫的事情。沈美娟可能还把自己书里的故事单独拿出来写成《溥仪解放后买票游故宫》，登载在《百姓生活…",
+          "link": "https://daily.zhihu.com/story/9741309",
+          "publishedOn": "2021-10-15T23:07:49.000Z",
+          "wordCount": null,
+          "title": "溥仪在故宫参观时 指出光绪帝的照片挂错了 确有其事吗？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741315",
+          "author": null,
+          "description": "浩浩耗，我有屠龙之术，欲翻流云起舞；我有苍茫之志，欲煎七海成田；\n阅读原文\n\n熊猫这货为什么没被自然选择淘汰，我其实也一直好奇。\n但其实这种问法本身就有问题，我之前也先入为主被带偏了。\n谁给你说，熊猫本应该被自然选择淘汰，人家存在几百万年了，要淘汰早没了。那为什么熊猫一直给我们一种弱爆了，应该被淘汰的错觉呢？\n答案就是：因为你看到的都是被圈养的熊猫大兄弟~\n用一位科研人员的原话：熊猫可不是在动物园里进化的...\nPandas did not evolve… in zoos. They evolved to find their own food and seek out their mates in dense bamboo forests after being raised by their real mothers, not by zookeepers. The panda's weaknesses in today's world—from its failure to reproduce in captivity to its yawn-inspiring lifestyle—is a product of its natural history, not a malicious joke of an intelligent designer.\n\n那可能有朋友就要问了，熊猫这货又不是肉食动物，对交配也没什么兴趣，习性也懒，这几百年它怎么就存活下来了呢，这不是开玩笑么？\n嘿，要比懒，大家可别忘了隔壁还有个更懒的家伙，人家不也没灭绝么？\n\n而且啊，你可能还没想到，我们普遍觉得熊猫弱鸡的这些特点，恰好是它们能延续数百万年的杀招！\n熊猫其实以前也吃肉，只不过在大约在 200 万年前，它们转而完全吃素[1]，这就是绝对的杀招！大家有想过，为什么反正都转而吃素了，但它们却专门去啃竹子么？就是因为竹子无人问津啊，像肉类、水果和坚果这样美味又有营养的食物在自然界中，是很难得到，会有相当激烈的竞争。而竹子却是一个开放的生态位！\n\n甚至为了更方便的吃竹子，熊猫还经过了 2 次进化，整出了专业的握竹子的熊猫手。你们就说说，这还不叫进化？在其它动物都选择进化出更具攻击性的武器参与竞争时，人家熊猫直接开辟了一条新路径，这不就是躺赢？\n\n这一招再加上原本有的庞大体型，就基本让熊猫没有了天敌，你想，即便是人家没有攻击性，你要猎食这种大胖子，可得费点劲吧，从能量角度来讲，捕食熊猫就是脑子抽了。这个观点，从进化层面上也有一些证据。那就是，熊猫进化出了吃素的能力，但它们却没有进化出食草动物常见的消化器官。这就让熊猫，同样是吃素，但它们吃一样的草，却不能获得足够的能量，这就是为什么熊猫一天基本上要吃自己体重 1/3 的竹子，要拉 40 次便便的原因，说白了，就是个粮食黑洞[2]。\n那你们想，问什么熊猫就进化不出来食草动物常见的消化器官，把能量利用率提上去呢？答案就在于，没有压力！因为从进化的角度，所谓适者生存嘛，而熊猫就在这种一天就是吃的生活习性下，生存依然没有压力，这就导致没有选择性压力迫使熊猫要进化出那种能力。\n所以吧，熊猫之所以现在濒危了，还是因为人类社会发展的太快了，在短时间内就极大的破坏了它们的生态系统，而这个时间还不足以让其进化出适应的能力。所以，问题中，人类为什么要建立大熊猫精子库人工受精熊猫？答案不是显而易见么，自己做的孽，只能自己还啊！\n\n\n\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741315",
+          "publishedOn": "2021-10-15T23:07:42.000Z",
+          "wordCount": null,
+          "title": "大熊猫繁殖欲望低下，精子成活率低，他们本应该被自然选择淘汰，人类为什么要建立大熊猫精子库人工受精熊猫?",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741321",
+          "author": null,
+          "description": "郝景芳\n阅读原文\n\n科幻小说为什么难写，因为科幻小说需要把“科幻设定弧线”和“人物情感弧线”合二为一。\n传统小说，唯一的弧线就是“人物情感弧线”。一个主人公，遇到爱恨情仇的问题，克服艰难险阻，解决自己的问题，获得人格成长和情感升华。驱动力是人物情感的悲欢离合。最典型的类似于杨过等小龙女，十六年后等不到，却在跳崖后意外了解了真相。\n但是科幻小说，往往打动人的是“科幻设定弧线”，也就是“提出一个难题，千方百计破解难题，最终有一个意想不到震撼人心的科技的答案”。最典型的是类似于《三体 II》里面地球人和三体人的斗智斗勇，地球人不断想出对抗的办法，每个办法都被破解，地球人造出巨大的舰队，被三体人一个“水滴”团灭，最后地球人通过意想不到的“黑暗森林”法则，扼住了三体人的咽喉。\n也就是说，科幻小说令读者感兴趣的地方，是智力上的精妙快感和想象上的震撼快感，而这样的设计，常常和其中个别人物的成长与爱恨情仇没关系。这是为什么科幻小说一般比较小众，因为具有这样智力快感的读者就是占比很小的一个群体，大多数普通读者看故事，都只是为其中的人物情感而感兴趣。文学性主要是人性的探索。\n如果用精妙的科幻设定，解决一个人的情感问题，怎么样？\n这听起来很好，但实际操作起来可能是两边不讨好。例如用了一个科幻仪器解决主人公的失恋问题，传统爱情小说的爱好者会觉得：这是什么画蛇添足的傻设计；科幻小说的爱好者会觉得：这不就是一个爱情故事吗，把科幻仪器去掉又有什么区别。\n我曾经看过一个影视策划，是一个“公主”坐飞船落在一个外星球上，被外星“王子”所救，然后开始了“公主”“王子”和第三者的三角恋故事。从始至终换成清宫舞台背景也不违和。\n这就是“人物线”和“科幻线”硬凹的尴尬。\n真正能把“人物线”和“科幻线”两条线合一的作品并不多，每一个都是经典。\n《盗梦空间》的科幻线，是一层一层梦的探索，人物线是主人公和自己妻子的爱情危机。两条线一直交缠进行，在科幻线推进到极点的时候，发现了最深一层梦境中，小房子里面植入的“idea”，也就是主人公和妻子最深层次的情感危机。科幻设计和精神分析探索合二为一了，于是所有观众都获得了极大震撼。\n《安德的游戏》的科幻线，是“用游戏指挥真实军队作战”，人物线是主人公少年的自我成长。从最初神秘任务开始一步步揭露真相，少年安德逐渐发现自己玩的游戏竟然是真实的战争，一方面被历史真相震撼了，另一方面开始质疑自己的所作所为，对自己产生思考，最终达到少年人格内心的成长。\n《星际穿越》科幻线是解决地球危机，人物线是父亲跟女儿的沟通，最终通过高维传递信号，两条线同时达到高潮。《黑客帝国》科幻线是整个地球世界的虚假，人物线是主人公质疑自己生活的真实，最终通过主人公挑战超级 AI，两条线同时达到高潮。\n像这样的经典并不多。\n我自己很喜欢的科幻设计是莱姆的《索拉里斯星》。\n《索拉里斯星》的科幻设定是：整个索拉里斯星上是一片胶状海洋，人类有很多探索者和研究者都说不出这片海洋的性质，然而这片海洋有一个特点，能复活人类思想意识里的回忆中的人。原来，这片胶状海洋就是索拉里斯星上的生命，它与我们地球生命完全不同，但是可以有深层的意识沟通。主人公在索拉里斯星上看到了自己死去的妻子复活，在惊骇与思考中，有了哲学上的提升。\n这就是科幻线和人物线的完美结合。科幻线是揭示了一种令人震惊的新的生命形式，让人对宇宙和生命存在有大量哲学思考。人物线是主人公如何面对记忆中埋藏的历史被复活，重新认知自己的情感。\n这样的故事，给读者带来的思考启发是全方位的。\n最后，推荐一下我自己今年的科幻长篇小说《宇宙跃迁者》吧。………………知乎独家连载，敬请期待。\n阅读原文",
+          "link": "https://daily.zhihu.com/story/9741321",
+          "publishedOn": "2021-10-15T23:07:32.000Z",
+          "wordCount": null,
+          "title": "你在科幻小说和科幻电影中看见过最精妙的设计是什么？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741330",
+          "author": null,
+          "description": "杨溢，爱好发明创造的宝石猎人。\n阅读原文\n\n1，晶习、应力、荧光、磁性、导电性、谱学特征、微量元素组成不同。\n天然钻石与合成钻石的物理、化学性质，例如晶习、内应力、异常消光、紫外荧光、晶格掺杂、微量元素、磁性特征具有明显差异，绝大多数合成钻石用放大镜、紫外荧光、偏光片等加起来超不过一百块的东西就可以看出来，在未琢磨时肉眼可辨。具体内容在中国地质大学用的宝石学手册有详细介绍。\n所以，网传“合成钻石与天然钻石完全没有区别”是谣言。\n感谢 @朗烟 供图。\n中国地质大学用的宝石学手册有详细介绍。感谢@朗烟 供图。\n而网购平台上相对较贵的鉴定仪器约 2.6 万元，一般由质检站配备。\n网传 De Beers 鉴定钻石的仪器售价四千万美元，也是谣言。\n因此，天然钻石与人造钻石很容易分辨：\n天然钻石主要呈现八面体、立方体、菱形十二面体的单形，或者尖晶石律双晶。感谢 @悠奕 老郑 供图。\n\n合成 CVD 钻石因为片状生长，而不是八面体、菱形十二面体、立方体结晶，因此会出现内部应力不均，导致异常消光。异常消光是指钻石、石榴石、尖晶石等光均质体本来理论上应该在正交偏光下旋转一周全暗，而实际上在正交偏光下旋转一周却出现不均匀、非 90°一周期的明暗变化。\n合成 CVD 钻石层状异常消光（FGA 教材图片）。\n合成 HPHT 钻石主要形成八面体与立方体聚形，会出现沙漏状内部定向，紫外或 X 荧光下可见十字形荧光，一般称为“马耳他十字”。这种现象在天然钻石中只发现过一个样品存在。\n合成 HPHT 钻石晶形。世界最大合成 HPHT 钻石因为含氮，呈现明显的黄色。世界最大 CVD 合成钻石，是个含无定形碳包裹体的薄片，不适用于珠宝。\n另外，因为铁、钴、镍可以作为合成钻石的触媒（催化剂），所以早期生产的 HPHT 合成钻石可以被磁铁吸引。\n天然钻石的颜色与合成钻石具有相似的致色机理，黄色可能因为含氮，蓝色因…",
+          "link": "https://daily.zhihu.com/story/9741330",
+          "publishedOn": "2021-10-15T23:07:23.000Z",
+          "wordCount": null,
+          "title": "天然钻石和人工钻石的区别在哪里？",
+          "itunes": {}
+        },
+        {
+          "id": "https://daily.zhihu.com/story/9741323",
+          "author": null,
+          "description": "折原临也，没有感情的时尚穿搭干货输出机，收藏比赞数多肯定是我人设有问题\n阅读原文\n\n声明：无性别穿搭可能会造成部分人不适，以下内容请谨慎观看！！！\n先澄清一下“无性别穿搭”并不是穿的很男人或者很娘\n而是在于：单品、元素、剪裁，\n在男装里面放入女装的元素，或者是在女装里面加入男装的元素从而模糊两性界限，让服装变得男女皆可穿，\n从而模糊两性界限，让服装变得男女皆可穿，\n提倡一种不被性别限制的穿搭方式。\n比如山本耀司就运用了男装的理念去设计女性服装，用包裹、褶皱、层叠、不对称、夸张的比例经典剪裁设计来掩盖身体曲线，这种就是典型的无性别穿搭。▼\n图来源：网络\n所以今天折原哥想和大家聊一聊什么是无性别穿搭，怎么样穿才能不会社会性死亡，以及有哪些无性别穿搭的单品可以适合平时穿着的，\n让大家可以了解这种风格的同时也可以在装逼的时候显摆一下，至少当人家评价 GD 身着香奈儿奇奇怪怪的时候，你可以摸一下下巴沉稳的告诉他“不奇怪，这是无性别穿搭，以前也流行过”。\n\n一、不完全统计：一些「无性别穿搭」的野史\n•17-19 世纪\n早期的野生无性别穿搭：▼\n图来源：网络\n放错了，再来一次，17-18 世纪的时候法国国王路易十四就是一个典型的无性别穿搭代表，当年的丝袜都是手工纺织的，在 16 世纪末的时候英国发明了机械织丝机，一改往常的丝袜形象，变得又薄又软不再难穿，并且可以遮盖腿毛以及凸显腿部的肌肉线条，而且还具有多种颜色；\n于是当时爱美的路易十四率先穿上了这种丝袜，当时的贵族们见状也纷纷效仿，争相穿上丝袜秀出自己的美腿。自此，丝袜在法国备受欢迎，上流社会人士及王室成员们均以穿着丝袜为荣。▼\n路易十四和穿丝袜的贵族们\n但这位哥还不满意，由于他身高并不高（据记载仅有 154 厘米），于是为了让自己的形象变得符合威武的君王形象，路易十四发明出了近代历史真正意义上的第一双高跟鞋，据说那双高跟鞋的鞋跟有 1…",
+          "link": "https://daily.zhihu.com/story/9741323",
+          "publishedOn": "2021-10-15T23:07:16.000Z",
+          "wordCount": null,
+          "title": "什么是「无性别穿搭」？",
+          "itunes": {}
+        },
         {
           "id": "https://daily.zhihu.com/story/9741301",
           "author": null,
@@ -6078,66 +6114,6 @@
           "wordCount": null,
           "title": "瞎扯 · 如何正确地吐槽",
           "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740314",
-          "author": null,
-          "description": "申晨煜，心理治疗DoctorShenChenYu／关注同名微信视频号\n阅读原文\n\n人生有三大支柱——身体、工作和亲密关系。高质量的人生就是尽力把这三个支柱都立起来，倒也不必样样优秀，但至少要确保每一项没有明显短板。\n\n身体：虽然 WHO（世卫组织）对健康的定义早已不仅仅是躯体健康，还包括精神健康以及良好的社会适应能力。但这里我还是想要强调身体的重要性，谁都知道——身体是革命的本钱，它也是其他两大支柱的根本。保证一日三餐规律饮食，良好的作息，烟酒等不良嗜好尽量少碰，每周至少 3 次以上的有氧运动（每次半小时以上）。每半年或一年进行一次全身体检。\n工作：这里不仅仅指上班后的工作，如果是学生阶段也指学习。人们需要把自己的时间和精力投入到工作和学习中，用来对抗人生的无意义感。比如有不少人会出现退休综合征，退休前工作的目标、他人的期待都令我们的“存在感”得以存续。当不再有这些可以让自己去努力和付出的事情时，人们就可能陷入到对于自我有限性的过度思考之中，并且把注意力转向自己。我们可能会强烈地感受到生而为人的平凡与渺小，怀疑生命存在的意义与价值，继而陷入一种巨大的、难以承受的绝望和焦虑。[1]我并非想要鼓吹延迟退休，而是你即便退休了，也需要把生活丰富起来，找事做，不做闲人。\n亲密关系（爱与被爱的能力）：我们毕竟是生活在这样一个群居的环境中，很少有人能够长时间过那种与世隔绝的生活，因此与人建立关系就显得格外重要。虽说各种人际关系都是重要的，但朋友、同事关系其实不算是根本性的支柱，这里的亲密关系主要是说家庭成员之间——配偶或恋人、父母与子女，成熟的爱会让人感到富足，“成熟的爱并不是没有回报，人会改变，变得更丰富，感到自我被实现，存在孤独也得以减轻。通过爱人，自己也得到了关爱。但是这些回报只源自真正的爱，它们也不是爱的原因。借用弗兰克尔的说法，这些回报是自然产生，而无法求得的”。[2]\n\n高质量的人生是在这三个方面尽可能做好，如果任何一个支柱出现问题，你至少要保证另外两个支柱是稳固的，如果两个都垮了，没有谁能真的支撑下去。\n我不想陷入相对主义，说什么人们只要自洽就好了，自洽也是要建立在一定的基础之上的。\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740314",
-          "publishedOn": "2021-09-15T23:08:30.000Z",
-          "wordCount": null,
-          "title": "什么样的人生算是「高质量的人生」？如何实现高质量的人生？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740299",
-          "author": null,
-          "description": "LycheeLi荔枝荔，新加坡国立大学 商学院 在读\n阅读原文\n\n百图超详解 9 月 15 日 Apple Event，你需要知道的都在这里\n\n2021 年 9 月 14 日（美国当地时间），苹果举办了特别活动，这也是本年度苹果最为重磅的硬件发布会。\n本次发布会上，苹果给我们带来了新一代的 iPhone 13 系列，全新的入门级 iPad、iPad mini，全新的拥有更大表盘的 Apple Watch Series 7。\n下面就让字节君用百图对 Apple Event 进行超详细解析，如果想要收藏起来慢慢看，不妨先 mark！应大家要求把总结性发言提到最前，一眼看完这次的发布会！\n想看更多干货别忘了点个关注，今年晚些时候，苹果应该还会带来搭载全新一代 Apple Silicon 的 MacBook 系列，到时候字节君也会第一时间提供超详细的信息！别走丢了！\n总结iPad 10.2\" 入门版\n\n外形没有变化，保持 10.2\" 的屏幕，升级 True Tone，兼容 Apple Pencil 一代和原有的配件\n前置摄像头升级为 1200 万像素超广角，支持中央舞台功能（Center Stage）\nA13 Bionic 仿生 CPU，速度提升 20%\n保持同样的起售价\n有 WiFi 和 4G LTE 版本\n\n速评：防守型的更新策略，依然保持了 iPad 在入门级产品的极高性价比，尽管硬件上并非最为亮眼，但没有明显短板，并且 iOS 的 iPad 生态已经非常成熟\niPad mini 8.3\"\n\n全新设计，类似 iPad Air，iPad Air 同款 TouchID\niPad mini 里最大的 8.3\" 屏幕\n前置摄像头升级为 1200 万像素超广角，支持中央舞台功能（Center Stage）\n后置摄像头升级为 1200 万像素 f/1.8 高密度 PDAF 带 TrueT…",
-          "link": "https://daily.zhihu.com/story/9740299",
-          "publishedOn": "2021-09-15T23:08:22.000Z",
-          "wordCount": null,
-          "title": "如何评价 9 月 15 日苹果 2021 秋季特别活动，有哪些值得关注的信息？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740303",
-          "author": null,
-          "description": "KnowYourself，关照自我与内心，引领身心健康的生活方式\n阅读原文\n\n生命中最有勇气和力量的瞬间，就是终于克服惯性、勇敢打破旧生活，做出新的选择与改变的每一个瞬间。\n常有朋友和我说，自己有时候知道这么做不对，但总是“无法控制自己反反复复做出不好的行为”：\n比如在恋爱时，一遇到让自己不快的事就忍不住对对方“阴阳怪气”，即便知道沟通才是最好的解决办法；在工作中，一旦同事说了不尊重自己的话，立马上头，和同事大吵一架，即便明白当做没听到、完成好合作的工作才更高效。\n我们总是明知故犯、难以改变自己的处事方式，其实是因为我们生活在“惯性”中，被“惯性”所劫持。\n今天来和大家聊聊，为什么打破惯性，是生命中一件非常需要勇气和力量的事。\n01.人是有惯性的，很多时候我们都处于“自动化”的状态中\n大部分人对于自我和生活是无觉察的。成年以后，我们解读世界和他人的角度已经有了很多固定的模式。因为这些固定的思维模式存在，我们会对事件和他人做出固定的情绪和行为反应。\n所以，我们过生活的时候，我们的行为模式、思维方式和情绪反应，都像是被设定好的、自动发生的。一旦当某种条件出现的时候，我们就会出现难以自控的条件反射。即使明知道自己的反应不是最好的，却仿佛被惯性操纵，无法控制自己不做出明知道不够理性的反应。\n比如，容易被愤怒“冲昏头脑”，对身边人发脾气、砸坏东西；再比如文首提问的那位粉丝，一旦对方不秒回，就出现被抛弃的感受，然后立刻冲动反应；在关系中每次吵架都进入冷战模式，即使知道冷战不太好，但就是停不下来这样做；还有工作中，同事的一些表现戳中了自己的敏感点，于是自己不顾后果地情绪上头，影响了自己的职场表现。\n此时，我们就像是一台被自动控制的机器，无法控制自己，做出伤害自己也伤害他人的举动。这时，我们其实是自己惯性思维的奴隶，受它的掌控。\n在这种状态下，我们是被自己的情绪裹挟的。情绪发生的时候，我们…",
-          "link": "https://daily.zhihu.com/story/9740303",
-          "publishedOn": "2021-09-15T23:08:16.000Z",
-          "wordCount": null,
-          "title": "你生命中最有勇气和力量的瞬间是什么？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740310",
-          "author": null,
-          "description": "腾讯医典，靠谱、实用、有趣的医学健康科普，就在腾讯医典。\n阅读原文\n\n7 月 25 日的一场奥运比赛，看哭了不少人。\n第 8 次征战奥运会的乌兹别克斯坦选手丘索维金娜，在跳马资格赛中，挑战了高难度动作，最终得分 14.166 分，暂列第 11 位无缘单项决赛。\n完成了最后一跳后，46 岁的丘索维金娜，和自己孩子一般大的选手们碰拳握手相互鼓励。走到赛场边后，再也抑制不住情绪，哭成了泪人。\n\n（来源：视觉中国）\n这位被国内网友亲切称为“丘妈”的体操名将，早在前几届的世界体坛上，就被称为 21 世纪最好哭的女运动员。\n从 1992 年的巴塞罗那奥运会开始征途，如今她又又又站在了 2021 年东京奥运会的赛场上！\n\n（来源：人民日报）\n她是一个母亲。\n曾走投无路，以 27 岁高龄重返体操赛场，只为给身患白血病的儿子赚得高昂手术费。\n她亦是一名伟大的体操冠军。\n曾一个人撑起一个国家的体操门面，四十多岁仍是所向披靡的世界冠军。\n\n（来源：环球人物杂志）\n丘索维金娜出生于乌兹别克斯坦一个普通家庭。\n7 岁就开始参加体操训练的她，是体坛上的天选之子。\n16 岁就在世锦赛上获得了第一个世界冠军，17 岁代表独联体出征，获得了第一枚奥运会金牌。\n\n（来源：网络）\n年轻的少女天赋异禀，英姿勃发，光 1993 年到 2006 年，丘索维金娜就为训练条件极为落后的国家赢得了七十多枚奖牌。\n在国际体操联合会中，甚至有三个动作以她的名字命名。\n可以说，丘索维金娜就是真正的体操界之光。\n\n（来源：人民日报）\n然而命运的刽子手，却总在人生的最高处揭开残酷面纱。\n2002 年，功成名就又婚姻美满的丘索维金娜，在儿子阿里什出生 3 年后，被骤然打入深渊，因为儿子被确诊患上急性淋巴细胞白血病。\n知识延伸\n急性淋巴细胞白血病（ALL）是最常见的一种儿童白血病。如果早期规范治疗，5 年生存率约为 80%~90%[1]…",
-          "link": "https://daily.zhihu.com/story/9740310",
-          "publishedOn": "2021-09-15T23:08:11.000Z",
-          "wordCount": null,
-          "title": "如何在逆境翻盘，有什么逆境翻盘的好例子？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740323",
-          "author": null,
-          "description": "聆雨子，影视文化学博士，撰稿人，高校教师\n阅读原文\n\n今年的国剧表现不坏，尤其“现实主义题材”强势走高：这个夏天，《扫黑风暴》、《理想之城》、《我在他乡挺好的》以及《乔家的儿女》，都颇受好评。\n只是，一个被提出许久的疑问，好像仍萦绕不去、未获解答——国产热门影视里，多久没出现真正的穷人了？\n这话当然容易反驳：谁说没穷人，你瞎啊，多少电视剧都以男女主角背井离乡、赤手空拳、孤身一人来到大城市打拼作为基本设定，多少电视剧的男女主角都是惨兮兮的小职员、 苦哈哈的打工人。\n也许该换一种更确切的表达：国产热门影视里的“穷人”们，有多久没活得像个穷人了？\n有时，是“他们明明应该很穷，可你想不通，为啥剧情总在替他们炫富”。有时，是“剧情明明也在表现他们穷，可为啥他们看起来还是显得那么富”。\n“穷人不见了”\n《一起来看流星雨》里的贫寒少女楚雨荨，开着 200 平的奶茶店，住着两层小楼。\n《极光之恋》里的韩星子，家里欠下巨债、母亲重病急需手术，她一边卖唱洗盘子赚钱，一边读着贵族学校认识名门少爷。\n《恋爱先生》里的罗玥，还在入职见习期，却出入北三环精装公寓，开 30 万的车，一身当季大牌。\n《谈判官》里的谢晓飞，企业破产饭都吃不上了，还能在每一个镜头里换一件全新的长款风衣。\n《小欢喜》从头到尾在释放和共情焦虑，可仅仅是“坐拥百平米北京核心地带学区房”，已经让这世间百分之九十以上的人望尘而叹。\n他们可以是“惨兮兮的小职员”，他们也许还没买房，但他们永远能住着一尘不染的精装公寓，哪怕是合租与群租（比如《欢乐颂》，或者《爱情公寓》），那环境那陈设那家装，都显得如此色彩明丽、井然有序、充盈着“时尚而简约的潮流生活元素”，对了，卧室里还总有巨大的落地玻璃，哪怕失恋，都可以抱着腿坐在飘窗上，端着一罐进口啤酒对着满城的灯火久久出神。\n他们可以是“苦哈哈的打工人”，他们也许还没买车，但他们只坐地铁不挤公交——毫…",
-          "link": "https://daily.zhihu.com/story/9740323",
-          "publishedOn": "2021-09-15T23:08:01.000Z",
-          "wordCount": null,
-          "title": "为什么现在国产电视剧里似乎穷人越来越少了？",
-          "itunes": {}
-        },
-        {
-          "id": "https://daily.zhihu.com/story/9740333",
-          "author": null,
-          "description": "如果你被贞子或者伽椰子缠上了，你想怎样活下来？\n\n星星球新晋超人\n阅读原文\n\n晚上和舍友一起看贞子，贞子快从屏幕爬出来的时候，我俩不约而同的把两个手机屏幕合在了一起。\n以为这样贞子来回穿，就爬不出来了。\n阅读原文\n\n自己的爸妈在外有私生子女是个什么样的体验？\n\n炮炮\n阅读原文\n\n一次跟我关系特好的表姐了聊天\n我姐：你爸爸在外面好像有个私生子\n我：害！问题不大！我们家又没什么家产让他跟我抢\n我姐：我的意思是，万一人家有，可以给你分点\n阅读原文\n\n父母吵架，女儿该怎么办？\n\n兴了一只羊\n阅读原文\n\n试图去缓和气氛，却因为参与进去更加热闹\n阅读原文\n\n真正的富人家的名媛是怎样的教育与日常？\n\n杨谷，小会计\n阅读原文\n\n见过不少有钱人，他们都有同一个习惯，可能真的是富人家的教育了\n他们都喜欢匿名回答\n阅读原文\n\n有哪些让人不慎暴露身份的行为？\n\n匿名用户\n阅读原文\n\n室友去商场试了一双鞋，拍下了条码，回家在淘宝找了代购。鞋子寄回家之后，她喜滋滋地让我帮忙看看是不是正品。\n其实我一点都不懂这个牌子的女鞋，只是觉得这鞋子的味道闻起来不像真皮。于是拿起鞋子仔细端详了一番，对比了一下她在商场拍的鞋标：「假的，无疑。你看商场的鞋标英文和数字都用的等线体，代购这双英文是等线体、数字是非等线体。还有这条线，商场的鞋标上是 hyphen，就是英文的连字线；代购这双假的用的是 N-dash，是减号……」\n室友照我说的一字不漏转诉给了淘宝卖家，要求他退货，blablabla……\n卖家很无语：「你室友也是做假鞋的吧……」\n不，其实我是图书编辑……\n阅读原文",
-          "link": "https://daily.zhihu.com/story/9740333",
-          "publishedOn": "2021-09-15T23:07:54.000Z",
-          "wordCount": null,
-          "title": "瞎扯 · 如何正确地吐槽",
-          "itunes": {}
         }
       ]
     },
@@ -6199,51 +6175,6 @@
           "publishedOn": "2021-09-22T01:48:56.000Z",
           "wordCount": 93,
           "title": "2021.09.22 今天是每日时报陪伴您的第 620 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/09/16.html",
-          "author": null,
-          "description": "2021.09.16 今天是每日时报陪伴您的第 619 天\n[类库] vite-plugin-inspect：非常强大的 vite 插件，可以可视化检查 Vite 插件的中间状态：https://github.com/antfu/vite-plugin-inspect ，相关 twitter 介绍 https://twitter.com/antfu7/status/1436476518113316866\n[文章] 如何做一个有质量的技术分享：https://coolshell.cn/articles/21589.html\n[文章] 设计稿一键导出 Vue/微信小程序 代码：https://mp.weixin.qq.com/s/LWTdiFs0dnuXMxP2OFm99Q\n[文章] 设计稿（UI视图）自动生成代码方案的探索：https://mp.weixin.qq.com/s/BKPSR4pU8tDKcKWJnTXJiQ\n[文章] 在你写代码前后需要做的事：https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/\n前：\n知道你要做什么\n知道未来你做的可能会变成什么\n知道你为什么要做\n知道你为什么现在要做\n有一个计划\n考虑是否有副作用\n思考一下利益相关人员\n后：\n记录一些数据指标\n自己做质量保证\n获得反馈",
-          "link": "https://wubaiqing.github.io/zaobao/2021/09/16.html",
-          "publishedOn": "2021-09-16T03:38:23.000Z",
-          "wordCount": 123,
-          "title": "2021.09.16 今天是每日时报陪伴您的第 619 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/09/08.html",
-          "author": null,
-          "description": "2021.09.08 今天是每日时报陪伴您的第 615 天\n[文章] ESModule 系列 ：构建下一代基础设施 PDN：https://mp.weixin.qq.com/s/KmlyjxTphGBMu69cVGbKlg\n[文章] 边缘计算：让 CDN 成为高性能 GraphQL 网关：https://mp.weixin.qq.com/s/ZO1Vpslk3-17YxUVt9Vhrw",
-          "link": "https://wubaiqing.github.io/zaobao/2021/09/08.html",
-          "publishedOn": "2021-09-16T02:19:07.000Z",
-          "wordCount": 89,
-          "title": "2021.09.08 今天是每日时报陪伴您的第 615 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/09/10.html",
-          "author": null,
-          "description": "2021.09.10 今天是每日时报陪伴您的第 617 天\n[类库] 适用于 Node.js 和浏览器的优雅控制台记录工具 consola：https://github.com/unjs/consola",
-          "link": "https://wubaiqing.github.io/zaobao/2021/09/10.html",
-          "publishedOn": "2021-09-16T02:19:07.000Z",
-          "wordCount": 80,
-          "title": "2021.09.10 今天是每日时报陪伴您的第 617 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/09/09.html",
-          "author": null,
-          "description": "2021.09.09 今天是每日时报陪伴您的第 616 天\n[文章] 微软低代码方案，Microsoft Power Fx 一种强类型、声明性、一般用途的函数式编程语言：https://docs.microsoft.com/zh-cn/power-platform/power-fx/overview\n[文章] 高手是如何写出让别人看不懂的选择器：https://juejin.cn/post/7005378226612600863\n#\\~\\!\\@\\$\\%\\^\\&\\*\\(\\)\\_\\+-\\=\\,\\.\\/\\'\\;\\:\\?\\>\\<\\\\\\[\\]\\{\\}\\|\\`\\# {\n    color: red;\n}",
-          "link": "https://wubaiqing.github.io/zaobao/2021/09/09.html",
-          "publishedOn": "2021-09-16T02:19:07.000Z",
-          "wordCount": 90,
-          "title": "2021.09.09 今天是每日时报陪伴您的第 616 天"
-        },
-        {
-          "id": "https://wubaiqing.github.io/zaobao/2021/09/14.html",
-          "author": null,
-          "description": "2021.09.14 今天是每日时报陪伴您的第 618 天\n[文章] 用 js 资源的最新思路：https://web.dev/bundling-non-js-resources/\nawait import.meta.resolve('...')\n\n[文章] 你知道 Github 中国区谁最有影响力吗？用 github actions 每天自动爬数据给你看 ！：https://juejin.cn/post/7007098437673943076\n一个很有创意的 idea，已经做成了小程序\n[文章] 探索 CSS 绘画 API: Blob 动画：https://css-tricks.com/exploring-the-css-paint-api-blob-animation/",
-          "link": "https://wubaiqing.github.io/zaobao/2021/09/14.html",
-          "publishedOn": "2021-09-16T02:19:07.000Z",
-          "wordCount": 104,
-          "title": "2021.09.14 今天是每日时报陪伴您的第 618 天"
         }
       ]
     },
@@ -6273,5 +6204,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.2"
+  "cliVersion": "1.11.3"
 }
